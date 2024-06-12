@@ -1,0 +1,122 @@
+{
+  "agreements": [
+    {
+      "cop": "MAREM",
+      "level": 340,
+      "adep": [
+        "EDDB"
+      ],
+      "ades": null,
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/SPE1",
+      "toSector": "lk/WM",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "HDO",
+      "level": 330,
+      "adep": [
+        "EDDB"
+      ],
+      "ades": null,
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/SPE1",
+      "toSector": "lk/N1M",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "MAREM",
+      "level": 340,
+      "adep": null,
+      "ades": [
+        "EDDM",
+        "LOWL",
+        "LOWS"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/SPE1",
+      "toSector": "lk/WM",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": null,
+      "level": 350,
+      "adep": null,
+      "ades": [
+        "LOWW",
+        "EPWR"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/DON1",
+      "toSector": "lk/WH",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": null,
+      "level": 350,
+      "adep": null,
+      "ades": [
+        "LOWW",
+        "EPWR"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/ERL1",
+      "toSector": "lk/WH",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": null,
+      "level": 360,
+      "adep": null,
+      "ades": [
+        "EDDB"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/DON2",
+      "toSector": "lk/WH",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    }
+  ]
+}

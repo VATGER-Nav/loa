@@ -1,0 +1,65 @@
+{
+  "agreements": [
+    {
+      "cop": "EEL",
+      "level": 260,
+      "adep": null,
+      "ades": [
+        "EHAM",
+        "EHRD",
+        "EHEH",
+        "EHAA FIR"
+      ],
+      "transferType": "D",
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/JEV",
+      "toSector": "eh/EHAE",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "RKN",
+      "level": 260,
+      "adep": null,
+      "ades": [
+        "EHAA",
+        "EH*"
+      ],
+      "transferType": "D",
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/MNS",
+      "toSector": "eh/EHAAE",
+      "remarks": "from upper airspace\nFlights are released for speed control, turns and descent, subject to known traffic, after passing 2.5\nNM west of the lateral limits of the TEBRO area",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "NORKU",
+      "level": 260,
+      "adep": null,
+      "ades": [
+        "EHAM"
+      ],
+      "transferType": "D",
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/MNS",
+      "toSector": "eh/EHAAE",
+      "remarks": "from upper airspace\nFlights are released for speed control, turns and descent, subject to known traffic, after passing 2.5NM west of the lateral limits of the TEBRO area",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    }
+  ]
+}

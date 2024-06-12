@@ -1,0 +1,398 @@
+{
+  "agreements": [
+    {
+      "cop": "XAROL",
+      "level": 190,
+      "adep": null,
+      "ades": [
+        "EDDR",
+        "EDFH",
+        "EDFM",
+        "EDGS",
+        "EDRY",
+        "ETAR",
+        "ETAD",
+        "EDFZ",
+        "EDRV"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/DST",
+      "toSector": "ed/GIN",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "ROBAR",
+      "level": 190,
+      "adep": null,
+      "ades": [
+        "EDDF"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/DST",
+      "toSector": "ed/HEF",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "ESADU",
+      "level": 160,
+      "adep": null,
+      "ades": [
+        "EDLW"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/DST",
+      "toSector": "ed/PADH",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "ESADU",
+      "level": 200,
+      "adep": null,
+      "ades": [
+        "EDDK"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/DST",
+      "toSector": "ed/PADH",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "OSN",
+      "level": 70,
+      "adep": null,
+      "ades": [
+        "EDDG",
+        "EDLI"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/EMS",
+      "toSector": "ed/HMM",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "OSN",
+      "level": 200,
+      "adep": null,
+      "ades": [
+        "EHTW",
+        "EHLE"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/EMS",
+      "toSector": "ed/HMM",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "OSN",
+      "level": 160,
+      "adep": null,
+      "ades": [
+        "EDLW"
+      ],
+      "transferType": "D",
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/EMS",
+      "toSector": "ed/HMM",
+      "remarks": "Handoff @ FL200",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "MOBSA",
+      "level": 200,
+      "adep": null,
+      "ades": [
+        "EDDL",
+        "EDDK",
+        "EDL*",
+        "EDK*"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/EMS",
+      "toSector": "ed/HMM",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "RORUS",
+      "level": 200,
+      "adep": null,
+      "ades": [
+        "EDDL",
+        "EDLE"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/EMS",
+      "toSector": "ed/HMM",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "XAROL",
+      "level": 90,
+      "adep": null,
+      "ades": [
+        "EDFQ"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/HRZ",
+      "toSector": "ed/GIN",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "FTZ",
+      "level": 70,
+      "adep": null,
+      "ades": [
+        "ETFH"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/HRZ",
+      "toSector": "ed/HEF",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "WRB",
+      "level": 80,
+      "adep": null,
+      "ades": [
+        "EDLP"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/HRZ",
+      "toSector": "ed/PADL",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "XAROL",
+      "level": 90,
+      "adep": [
+        "EDVK"
+      ],
+      "ades": null,
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/HRZ",
+      "toSector": "ed/GIN",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "ELNAT",
+      "level": 90,
+      "adep": [
+        "EDVK"
+      ],
+      "ades": null,
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/HRZ",
+      "toSector": "ed/HEF",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "EMBAD",
+      "level": 90,
+      "adep": [
+        "EDVK"
+      ],
+      "ades": null,
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/HRZ",
+      "toSector": "ed/HEF",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "WRB",
+      "level": 70,
+      "adep": [
+        "EDVK"
+      ],
+      "ades": null,
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/HRZ",
+      "toSector": "ed/PADL",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "ESADU",
+      "level": 90,
+      "adep": [
+        "EDVK"
+      ],
+      "ades": null,
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/HRZ",
+      "toSector": "ed/PADL",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "XAROL",
+      "level": 150,
+      "adep": [
+        "EDLP"
+      ],
+      "ades": null,
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/HRZ",
+      "toSector": "ed/GIN",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "EMBAD",
+      "level": 150,
+      "adep": [
+        "EDLP"
+      ],
+      "ades": null,
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/HRZ",
+      "toSector": "ed/HEF",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "ELNAT",
+      "level": 150,
+      "adep": [
+        "EDLP"
+      ],
+      "ades": null,
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/HRZ",
+      "toSector": "ed/HEF",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "agreements": [
+    {
+      "cop": "EEL",
+      "level": 180,
+      "adep": null,
+      "ades": [
+        "EHLE"
+      ],
+      "transferType": "D",
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/EIDW",
+      "toSector": "eh/EHAE",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "EEL",
+      "level": 180,
+      "adep": null,
+      "ades": [
+        "EHLE"
+      ],
+      "transferType": "D",
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/FRI",
+      "toSector": "eh/EHAE",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "TEMLU",
+      "level": 70,
+      "adep": null,
+      "ades": [
+        "EHGG"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/EIDW",
+      "toSector": "eh/EHGG APP",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "OLWOF",
+      "level": 70,
+      "adep": null,
+      "ades": [
+        "EHGG"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/EIDW",
+      "toSector": "eh/EHGG APP",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "KUBAT",
+      "level": 70,
+      "adep": null,
+      "ades": [
+        "EHGG"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/EIDW",
+      "toSector": "eh/EHGG APP",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "DOBAK",
+      "level": 70,
+      "adep": null,
+      "ades": [
+        "EHGG"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/FRI",
+      "toSector": "eh/EHGG APP",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    }
+  ]
+}

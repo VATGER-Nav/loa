@@ -1,0 +1,149 @@
+{
+  "agreements": [
+    {
+      "cop": "NIKDA",
+      "level": 200,
+      "adep": null,
+      "ades": [
+        "EKCH",
+        "EKRK"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/MRZ",
+      "toSector": "ek/EKDB",
+      "remarks": "TFC may be cleared DCT MONAK",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "KOSEB",
+      "level": 200,
+      "adep": null,
+      "ades": [
+        "EKCH",
+        "EKRK"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/MRZ",
+      "toSector": "ek/EKDB",
+      "remarks": "TFC may be cleared DCT MONAK",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "ATTUS",
+      "level": 170,
+      "adep": null,
+      "ades": [
+        "EKBI",
+        "EKEB",
+        "EKSP"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/EIDE",
+      "toSector": "ek/EKDD",
+      "remarks": "EKBI Inbounds are released direct LOKSA RWY 27 or GELBA RWY 09",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "ALS",
+      "level": 170,
+      "adep": null,
+      "ades": [
+        "EKBI",
+        "EKEB",
+        "EKSP"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/EIDE",
+      "toSector": "ek/EKDD",
+      "remarks": "EKBI Inbounds are released direct LOKSA RWY 27 or GELBA RWY 09",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "TUSKA",
+      "level": 170,
+      "adep": null,
+      "ades": [
+        "EKBI",
+        "EKEB",
+        "EKSP"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/EIDW",
+      "toSector": "ek/EKDS",
+      "remarks": "EKBI Inbounds are released direct LOKSA RWY 27 or GELBA RWY 09",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "ALS",
+      "level": 70,
+      "adep": null,
+      "ades": [
+        "EKSB"
+      ],
+      "transferType": "D",
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/EIDE",
+      "toSector": "ek/EKDD",
+      "remarks": "Released for descend 3000ft in EDWW FIR",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "ATTUS, DOSUR, ALS",
+      "level": 60,
+      "adep": [
+        "EDXW",
+        "EDXF",
+        "EDHK",
+        "ETNS",
+        "ETNH"
+      ],
+      "ades": null,
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/EIDE",
+      "toSector": "ek/EKDD/E",
+      "remarks": "Coordinate a higher FL with EKDK. MAX FL240",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "agreements": [
+    {
+      "cop": "LASIS",
+      "level": 290,
+      "adep": null,
+      "ades": [
+        "EPWR"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/MEI",
+      "toSector": "ep/EPWWT",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "POZUM",
+      "level": 290,
+      "adep": null,
+      "ades": [
+        "EPPO"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/MEI",
+      "toSector": "ep/EPWWD",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "LASIS",
+      "level": 310,
+      "adep": [
+        "EDDP"
+      ],
+      "ades": null,
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/MEI",
+      "toSector": "ep/EPWWT",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    }
+  ]
+}

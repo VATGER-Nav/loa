@@ -1,0 +1,143 @@
+{
+  "agreements": [
+    {
+      "cop": "ERKIR",
+      "level": 340,
+      "adep": null,
+      "ades": [
+        "EDDS",
+        "LSMD",
+        "LSZS"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "lo/W2",
+      "toSector": "ed/CHI1",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "SIMBA",
+      "level": 360,
+      "adep": null,
+      "ades": [
+        "EDDF"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "lo/B3",
+      "toSector": "ed/DON2",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "SUBEN",
+      "level": 360,
+      "adep": null,
+      "ades": [
+        "EDDF"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "lo/N3",
+      "toSector": "ed/DON2",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "TITIG",
+      "level": 340,
+      "adep": null,
+      "ades": [
+        "EDDR",
+        "EDFM",
+        "EDSB"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "lo/B2",
+      "toSector": "ed/CHI1",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "KIRDI",
+      "level": 340,
+      "adep": null,
+      "ades": [
+        "EDDR",
+        "EDFM",
+        "EDSB"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "lo/B2",
+      "toSector": "ed/CHI1",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "ERKIR",
+      "level": 360,
+      "adep": null,
+      "ades": [
+        "LSZH"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "lo/W3",
+      "toSector": "ed/CHI2",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "SIMBA",
+      "level": 320,
+      "adep": null,
+      "ades": [
+        "LKPR"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "lo/B2",
+      "toSector": "ed/DON1",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    }
+  ]
+}

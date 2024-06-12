@@ -1,0 +1,84 @@
+{
+  "agreements": [
+    {
+      "cop": "KORUP",
+      "level": 240,
+      "adep": null,
+      "ades": [
+        "EDDE",
+        "EDBM",
+        "EDVE",
+        "EDAC"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ep/EPWWT",
+      "toSector": "ed/MEI",
+      "remarks": "Flights from EPWW to EDMM via KORUP and GOVEN are released for turns 15 NM\nprior reaching sector boundary",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "KORUP",
+      "level": 220,
+      "adep": null,
+      "ades": [
+        "EDDP"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ep/EPWWT",
+      "toSector": "ed/MEI",
+      "remarks": "Flights from EPWW to EDMM via KORUP and GOVEN are released for turns 15 NM\nprior reaching sector boundary",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "KORUP",
+      "level": 160,
+      "adep": null,
+      "ades": [
+        "EDDC",
+        "EDAB"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ep/CTA05",
+      "toSector": "ed/SAS",
+      "remarks": "Flights from EPWW to EDMM via KORUP and GOVEN are released for turns 15 NM\nprior reaching sector boundary",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "NAROX",
+      "level": 280,
+      "adep": [
+        "EPWR"
+      ],
+      "ades": null,
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ep/EPWWT",
+      "toSector": "ed/MEI",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    }
+  ]
+}

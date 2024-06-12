@@ -1,0 +1,624 @@
+{
+  "agreements": [
+    {
+      "cop": "ABGUS",
+      "level": 190,
+      "adep": null,
+      "ades": [
+        "EDDE"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/HRZ",
+      "toSector": "ed/TRN",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "BERDI",
+      "level": 150,
+      "adep": null,
+      "ades": [
+        "EDDE"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/HRZ",
+      "toSector": "ed/TRN",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "BERDI",
+      "level": 190,
+      "adep": null,
+      "ades": [
+        "EDAZ"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/HRZ",
+      "toSector": "ed/TRN",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "BERDI",
+      "level": 170,
+      "adep": null,
+      "ades": [
+        "EDDP"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/HRZ",
+      "toSector": "ed/TRN",
+      "remarks": "EDDP RWYs 08 | TFC may be cleared DCT KOJEC",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "BERDI",
+      "level": 190,
+      "adep": null,
+      "ades": [
+        "EDDP"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/HRZ",
+      "toSector": "ed/TRN",
+      "remarks": "EDDP RWYs 26 | TFC may be cleared DCT KOJEC",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "ADMOS",
+      "level": 150,
+      "adep": null,
+      "ades": [
+        "EDDP"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/HRZ",
+      "toSector": "ed/TRN",
+      "remarks": "EDDP RWYs 08 | TFC may be cleared DCT KOJEC",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "ADMOS",
+      "level": 170,
+      "adep": null,
+      "ades": [
+        "EDDP"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/HRZ",
+      "toSector": "ed/TRN",
+      "remarks": "EDDP RWYs 26 | TFC may be cleared DCT KOJEC",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "ADMOS",
+      "level": 170,
+      "adep": null,
+      "ades": [
+        "EDDE"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/HRZ",
+      "toSector": "ed/TRN",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "DIBDO",
+      "level": 130,
+      "adep": null,
+      "ades": [
+        "EDDP"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/BOR",
+      "toSector": "ed/TRN",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "BARAP",
+      "level": 260,
+      "adep": null,
+      "ades": [
+        "EDDN",
+        "ETIC"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/BOR",
+      "toSector": "ed/HAL",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "BARAP",
+      "level": 180,
+      "adep": null,
+      "ades": [
+        "EDDE",
+        "EDAC"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/BOR",
+      "toSector": "ed/TRN",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "OSKAN",
+      "level": 150,
+      "adep": null,
+      "ades": [
+        "EDDC"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/FLG",
+      "toSector": "ed/SAS",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "OSKAN",
+      "level": 150,
+      "adep": null,
+      "ades": [
+        "EDAB",
+        "EDAC"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/FLG",
+      "toSector": "ed/SAS",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "SISGO",
+      "level": 160,
+      "adep": null,
+      "ades": [
+        "EDDP",
+        "EDAC"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/FLG",
+      "toSector": "ed/SAS",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "EBASA",
+      "level": 150,
+      "adep": null,
+      "ades": [
+        "EDDC",
+        "EDAB"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/FLG",
+      "toSector": "ed/SAS",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "BUKIG",
+      "level": 160,
+      "adep": null,
+      "ades": [
+        "EDDC",
+        "EDAB"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/FLG",
+      "toSector": "ed/SAS",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "ABGUS",
+      "level": 230,
+      "adep": [
+        "EDDV",
+        "ETNW"
+      ],
+      "ades": null,
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/HRZ",
+      "toSector": "ed/HAL",
+      "remarks": "TFC may be cleared DCT GALMA",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "ABGUS",
+      "level": 170,
+      "adep": [
+        "EDVE"
+      ],
+      "ades": null,
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/HRZ",
+      "toSector": "ed/TRN",
+      "remarks": "TFC may be cleared DCT GALMA",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "BERDI",
+      "level": 170,
+      "adep": [
+        "EDVK"
+      ],
+      "ades": null,
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/HRZ",
+      "toSector": "ed/TRN",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "DIBDO",
+      "level": 80,
+      "adep": [
+        "EDBM"
+      ],
+      "ades": null,
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/BOR",
+      "toSector": "ed/TRN",
+      "remarks": "TFC may be cleared DCT ESEGU",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "DIBDO",
+      "level": 240,
+      "adep": [
+        "EDDB",
+        "EDAZ"
+      ],
+      "ades": null,
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/BOR",
+      "toSector": "ed/HAL",
+      "remarks": "TFC may be cleared DCT ESEGU",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "MAXAN",
+      "level": 280,
+      "adep": [
+        "EDDB",
+        "EDAZ"
+      ],
+      "ades": null,
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/BOR",
+      "toSector": "ed/HAL",
+      "remarks": "TFC may be cleared DCT ESEGU",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "ODLUN",
+      "level": 260,
+      "adep": [
+        "EDDB",
+        "EDAZ"
+      ],
+      "ades": null,
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/BOR",
+      "toSector": "ed/HAL",
+      "remarks": "TFC may be cleared DCT ESEGU",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "ELTED",
+      "level": 230,
+      "adep": [
+        "EDVE"
+      ],
+      "ades": null,
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/BOR",
+      "toSector": "ed/HAL",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "ELTED",
+      "level": 280,
+      "adep": [
+        "EDDV",
+        "ETNW"
+      ],
+      "ades": null,
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/BOR",
+      "toSector": "ed/HAL",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "BARAP",
+      "level": 240,
+      "adep": [
+        "EDDB",
+        "EDAZ"
+      ],
+      "ades": null,
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/BOR",
+      "toSector": "ed/HAL",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "BARAP",
+      "level": 70,
+      "adep": [
+        "EDBM"
+      ],
+      "ades": null,
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/BOR",
+      "toSector": "ed/TRN",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "SISGO",
+      "level": 240,
+      "adep": [
+        "EDAY"
+      ],
+      "ades": null,
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/FLG",
+      "toSector": "ed/MEI",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "BEBKU",
+      "level": 240,
+      "adep": [
+        "EDDB"
+      ],
+      "ades": null,
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/FLG",
+      "toSector": "ed/MEI",
+      "remarks": "TFC may be cleared DCT BEBKU",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "EBASA",
+      "level": 250,
+      "adep": [
+        "EDDB"
+      ],
+      "ades": null,
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/FLG",
+      "toSector": "ed/MEI",
+      "remarks": "TFC may be cleared DCT HDO",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "EBASA",
+      "level": 240,
+      "adep": [
+        "EDAY"
+      ],
+      "ades": null,
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/FLG",
+      "toSector": "ed/MEI",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "OLBIK",
+      "level": 140,
+      "adep": [
+        "EDAZ"
+      ],
+      "ades": null,
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/FLG",
+      "toSector": "ed/SAS",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    }
+  ]
+}

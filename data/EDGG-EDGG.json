@@ -1,0 +1,2760 @@
+{
+  "agreements": [
+    {
+      "cop": "GEBNO",
+      "level": 120,
+      "adep": null,
+      "ades": [
+        "EDDS"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/DKB",
+      "toSector": "ed/STG",
+      "remarks": "released",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "MARUN",
+      "level": 130,
+      "adep": [
+        "EDDF"
+      ],
+      "ades": null,
+      "transferType": "C",
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/DFN",
+      "toSector": "ed/GIN",
+      "remarks": "MARUN SIDs. Released for turns and climb",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "PISAP",
+      "level": 130,
+      "adep": null,
+      "ades": [
+        "EDDL"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/BOT",
+      "toSector": "ed/DLA",
+      "remarks": "released",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "DOMEG",
+      "level": 190,
+      "adep": null,
+      "ades": [
+        "EDDG"
+      ],
+      "transferType": "D",
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/BOT",
+      "toSector": "ed/HMM",
+      "remarks": "released, expect HMM at FL90",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "BAMSU",
+      "level": 190,
+      "adep": null,
+      "ades": [
+        "EDDG"
+      ],
+      "transferType": "D",
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/BOT",
+      "toSector": "ed/HMM",
+      "remarks": "released, expect HMM at FL90, BAMSU#J STAR has to be cleared by BOT if not otherwise coordinated verbally",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "PADBA",
+      "level": 70,
+      "adep": null,
+      "ades": [
+        "EDLW"
+      ],
+      "transferType": "D",
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/DLA",
+      "toSector": "ed/PADL",
+      "remarks": "released",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "PADBA",
+      "level": 130,
+      "adep": null,
+      "ades": [
+        "EDLP"
+      ],
+      "transferType": "D",
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/DLD",
+      "toSector": "ed/PADL",
+      "remarks": "released, PADBA#H STAR has to be cleared by DLD if not otherwise coordinated verbally",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "NEREL",
+      "level": 220,
+      "adep": null,
+      "ades": [
+        "ELLX",
+        "EBLG",
+        "EBBU FIR"
+      ],
+      "transferType": "D",
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/BOT",
+      "toSector": "ed/NOR",
+      "remarks": "out of FL240, released",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "ELBAL VIA DODEN",
+      "level": 200,
+      "adep": [
+        "EDDL",
+        "EDLN"
+      ],
+      "ades": null,
+      "transferType": "C",
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/DLD",
+      "toSector": "ed/SIG",
+      "remarks": "released for climb and turns to the south",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "DEGOM VIA KUMIK",
+      "level": 200,
+      "adep": [
+        "EDDL",
+        "EDLN"
+      ],
+      "ades": null,
+      "transferType": "C",
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/DLD",
+      "toSector": "ed/SIG",
+      "remarks": "released for climb and turns to the south",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "LIPMI VIA COL",
+      "level": 190,
+      "adep": [
+        "EDDL",
+        "EDLN"
+      ],
+      "ades": null,
+      "transferType": "C",
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/DLD",
+      "toSector": "ed/TAU",
+      "remarks": "released for climb and turns to the south",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "ELBAL",
+      "level": 240,
+      "adep": [
+        "ETNG"
+      ],
+      "ades": null,
+      "transferType": "C",
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/DLD",
+      "toSector": "ed/SIG",
+      "remarks": "released for turns to the south",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "NVO (23)",
+      "level": 50,
+      "adep": [
+        "EDDL"
+      ],
+      "ades": null,
+      "transferType": null,
+      "qnh": "EDDL",
+      "vertical": false,
+      "fromSector": "ed/DLD",
+      "toSector": "ed/DKA",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "NVO (05)",
+      "level": 80,
+      "adep": [
+        "EDDL"
+      ],
+      "ades": null,
+      "transferType": "C",
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/DLD",
+      "toSector": "ed/DKA",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "MAMIB VIA NUDGO",
+      "level": 170,
+      "adep": [
+        "EDDL"
+      ],
+      "ades": null,
+      "transferType": "C",
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/DLD",
+      "toSector": "ed/PADH",
+      "remarks": "Out of FL 140. In case aircraft is not able to reach FL140 at border, prior crossing\napproval by PADL has to be coordinated",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "NVO",
+      "level": 50,
+      "adep": [
+        "EDLN"
+      ],
+      "ades": null,
+      "transferType": "C",
+      "qnh": "EDLN",
+      "vertical": false,
+      "fromSector": "ed/DLA",
+      "toSector": "ed/DKA",
+      "remarks": "released",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "MEVEL",
+      "level": 190,
+      "adep": [
+        "EDDL"
+      ],
+      "ades": null,
+      "transferType": "C",
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/BOT",
+      "toSector": "ed/HMM",
+      "remarks": "released",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "BAMSU",
+      "level": 150,
+      "adep": [
+        "EDLW"
+      ],
+      "ades": null,
+      "transferType": "C",
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/DLD",
+      "toSector": "ed/NOR",
+      "remarks": "released",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "NOKDI",
+      "level": 160,
+      "adep": null,
+      "ades": [
+        "EDFH"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/MAN",
+      "toSector": "ed/KIR",
+      "remarks": "Released passing abeam NOKDI",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "INKAM",
+      "level": 130,
+      "adep": null,
+      "ades": [
+        "EDDS"
+      ],
+      "transferType": "D",
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/NKRH",
+      "toSector": "ed/STG",
+      "remarks": "Leveled abeam INKAM, released",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "-",
+      "level": 150,
+      "adep": null,
+      "ades": [
+        "EDDS",
+        "EDTY",
+        "EDSB",
+        "EDJA",
+        "EDRY",
+        "EDTD",
+        "EDTM"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/LBU/BAD",
+      "toSector": "ed/STG/REU",
+      "remarks": "Flights to EDSB may be cleared DCT KRH, lower level can be coordinated with\nSTG/REU",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "ETASA",
+      "level": 240,
+      "adep": null,
+      "ades": [
+        "EDFH"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/LBU",
+      "toSector": "ed/NKRH",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "ETASA, LBU",
+      "level": 150,
+      "adep": null,
+      "ades": [
+        "ETAR",
+        "EDDR"
+      ],
+      "transferType": "D",
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/LBU",
+      "toSector": "ed/NKRH",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "XINLA VIA EMPAX",
+      "level": 150,
+      "adep": null,
+      "ades": [
+        "EDDF"
+      ],
+      "transferType": "D",
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/LBU",
+      "toSector": "ed/KNG",
+      "remarks": "Descending via STAR",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "LAMPU",
+      "level": 220,
+      "adep": null,
+      "ades": [
+        "EDDE"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/LBU",
+      "toSector": "ed/DKB",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "DKB",
+      "level": 190,
+      "adep": null,
+      "ades": [
+        "EDDN"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/LBU",
+      "toSector": "ed/DKB",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "DENEL",
+      "level": 140,
+      "adep": null,
+      "ades": [
+        "LFSB"
+      ],
+      "transferType": "D",
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/BAD",
+      "toSector": "ed/REU",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "BADLI",
+      "level": 200,
+      "adep": [
+        "EDDF"
+      ],
+      "ades": null,
+      "transferType": "C",
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/NKRH",
+      "toSector": "ed/BAD",
+      "remarks": "Flights may be directly transferred to EDUU SLN, approved to cross BAD FL200+",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "ABGAN",
+      "level": 240,
+      "adep": [
+        "EDDS"
+      ],
+      "ades": null,
+      "transferType": "C",
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/LBU",
+      "toSector": "ed/NKRH",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "DKB",
+      "level": 200,
+      "adep": [
+        "EDDS"
+      ],
+      "ades": null,
+      "transferType": "C",
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/LBU",
+      "toSector": "ed/DKB",
+      "remarks": "released, out of FL180",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "GEBNO",
+      "level": 200,
+      "adep": [
+        "EDDS"
+      ],
+      "ades": null,
+      "transferType": "C",
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/LBU",
+      "toSector": "ed/DKB",
+      "remarks": "released, out of FL180",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "UMDAS, ROLSO",
+      "level": 110,
+      "adep": [
+        "EDFM"
+      ],
+      "ades": null,
+      "transferType": "C",
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/NKRL",
+      "toSector": "ed/KNG",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "DF601",
+      "level": 90,
+      "adep": null,
+      "ades": [
+        "EDDF"
+      ],
+      "transferType": "D",
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/DFAN",
+      "toSector": "ed/DFAS",
+      "remarks": "released, transfer before DF601",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "FFM",
+      "level": 130,
+      "adep": null,
+      "ades": [
+        "EDDF"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/DFAN",
+      "toSector": "ed/DFAS",
+      "remarks": "UNOKO C-STAR, released, transfer before FFM",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "FFM",
+      "level": 120,
+      "adep": null,
+      "ades": [
+        "EDDF"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/DFAN",
+      "toSector": "ed/DFAS",
+      "remarks": "ROLIS C-STAR, released, transfer before FFM",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "KUSOM",
+      "level": 110,
+      "adep": [
+        "EDDF"
+      ],
+      "ades": null,
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/DFDN",
+      "toSector": "ed/TAU",
+      "remarks": "COP at level",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "OBOKA",
+      "level": 130,
+      "adep": [
+        "EDDF"
+      ],
+      "ades": null,
+      "transferType": "C",
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/DFDN",
+      "toSector": "ed/TAU",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "MARUN",
+      "level": 130,
+      "adep": [
+        "EDDF"
+      ],
+      "ades": null,
+      "transferType": "C",
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/DFDN",
+      "toSector": "ed/GIN",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "TOBAK",
+      "level": 130,
+      "adep": [
+        "EDDF"
+      ],
+      "ades": null,
+      "transferType": "C",
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/DFDN",
+      "toSector": "ed/GIN",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "ANEKI",
+      "level": 130,
+      "adep": [
+        "EDDF"
+      ],
+      "ades": null,
+      "transferType": "C",
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/DFDS",
+      "toSector": "ed/NKRH",
+      "remarks": "Speed restriction 220kts until RID may be canceled by DFDS and NKRH individually\nwithout prior coordination",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "SULUS",
+      "level": 130,
+      "adep": [
+        "EDDF"
+      ],
+      "ades": null,
+      "transferType": "C",
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/DFDS",
+      "toSector": "ed/HAB",
+      "remarks": "07 Departure",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "KOMIB",
+      "level": 130,
+      "adep": [
+        "EDDF"
+      ],
+      "ades": null,
+      "transferType": "C",
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/DFDS",
+      "toSector": "ed/HAB",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "SOBRA",
+      "level": 130,
+      "adep": [
+        "EDDF"
+      ],
+      "ades": null,
+      "transferType": "C",
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/DFDS",
+      "toSector": "ed/KIR",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "ULKIG",
+      "level": 130,
+      "adep": [
+        "EDDF"
+      ],
+      "ades": null,
+      "transferType": "C",
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/DFDS",
+      "toSector": "ed/KIR",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "AMTIX",
+      "level": 110,
+      "adep": [
+        "EDDF"
+      ],
+      "ades": null,
+      "transferType": "C",
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/DFDS",
+      "toSector": "ed/KNG",
+      "remarks": "COP at level",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "AMTIX",
+      "level": 80,
+      "adep": [
+        "EDFE"
+      ],
+      "ades": null,
+      "transferType": "C",
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/DFDS",
+      "toSector": "ed/KNG",
+      "remarks": "Released SYD arrivals",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "OKIBA",
+      "level": 140,
+      "adep": [
+        "EDDS"
+      ],
+      "ades": null,
+      "transferType": "C",
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/STG",
+      "toSector": "ed/LBU",
+      "remarks": "Released, flights may be cleared direct ROLSO when RWY 07 is in use",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "VESID",
+      "level": 140,
+      "adep": [
+        "EDDS"
+      ],
+      "ades": null,
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/STG",
+      "toSector": "ed/LBU",
+      "remarks": "Released, climbing if 07",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "TAGIK",
+      "level": 140,
+      "adep": [
+        "EDDS"
+      ],
+      "ades": null,
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/STG",
+      "toSector": "ed/LBU",
+      "remarks": "Released, climbing if 07",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "KRH",
+      "level": 140,
+      "adep": [
+        "EDDS"
+      ],
+      "ades": null,
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/STG",
+      "toSector": "ed/PFA",
+      "remarks": "Released, climbing if 07",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "ETASA",
+      "level": 140,
+      "adep": [
+        "EDDS"
+      ],
+      "ades": null,
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/STG",
+      "toSector": "ed/KNG",
+      "remarks": "Released, flights may be cleared direct SPESA, climbing if 07",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "DKB",
+      "level": 140,
+      "adep": [
+        "EDDS"
+      ],
+      "ades": null,
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/STG",
+      "toSector": "ed/LBU",
+      "remarks": "RWY25, released",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "DKB",
+      "level": 140,
+      "adep": [
+        "EDDS"
+      ],
+      "ades": null,
+      "transferType": "C",
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/STG",
+      "toSector": "ed/DKB",
+      "remarks": "RWY07, released",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "GEBNO",
+      "level": 140,
+      "adep": [
+        "EDDS"
+      ],
+      "ades": null,
+      "transferType": "C",
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/STG",
+      "toSector": "ed/DKB",
+      "remarks": "RWY07, released",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "GEBNO",
+      "level": 140,
+      "adep": [
+        "EDDS"
+      ],
+      "ades": null,
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/STG",
+      "toSector": "ed/LBU",
+      "remarks": "RWY25, released",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "ETARU",
+      "level": 100,
+      "adep": null,
+      "ades": [
+        "EDDF"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/TAU",
+      "toSector": "ed/DFAN",
+      "remarks": "COP at level",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "KERAX (B)",
+      "level": 100,
+      "adep": null,
+      "ades": [
+        "EDDF"
+      ],
+      "transferType": "D",
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/GED",
+      "toSector": "ed/DFAS",
+      "remarks": "COP at level (EBIPA)",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "OSPUL",
+      "level": 120,
+      "adep": null,
+      "ades": [
+        "EDDF"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/TAU",
+      "toSector": "ed/DFAN",
+      "remarks": "COP at level",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "KERAX (A)",
+      "level": 110,
+      "adep": null,
+      "ades": [
+        "EDDF"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/GED",
+      "toSector": "ed/DFAN",
+      "remarks": "COP at level (KERAX)",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "KERAX(C)",
+      "level": 120,
+      "adep": null,
+      "ades": [
+        "EDDF"
+      ],
+      "transferType": "D",
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/GED",
+      "toSector": "ed/DFAS",
+      "remarks": "COP at level (EBIPA)",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "KERAX(D)",
+      "level": 130,
+      "adep": null,
+      "ades": [
+        "EDDF"
+      ],
+      "transferType": "D",
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/GED",
+      "toSector": "ed/DFAN",
+      "remarks": "COP at level (GED)",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "DITAN",
+      "level": 200,
+      "adep": [
+        "EDDF"
+      ],
+      "ades": null,
+      "transferType": "C",
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/TAU",
+      "toSector": "ed/NOR",
+      "remarks": "released, on OBOKA#E/#D departure flights may be cleared direct DITAM or OBOKA",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "ARPEG",
+      "level": 240,
+      "adep": [
+        "EDDF"
+      ],
+      "ades": null,
+      "transferType": "C",
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/GIN",
+      "toSector": "ed/PADH",
+      "remarks": "cross ARPEG FL190 or above",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "ROLIS",
+      "level": 100,
+      "adep": null,
+      "ades": [
+        "EDFH",
+        "ETAD"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/TAU",
+      "toSector": "ed/EIF",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "GULKO",
+      "level": 110,
+      "adep": null,
+      "ades": [
+        "EDDK",
+        "EDKB"
+      ],
+      "transferType": "D",
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/TAU",
+      "toSector": "ed/DKA",
+      "remarks": "COP at level,DKA On request by DKA, flights may be generally cleared direct DK416 or WYP, descending FL110 out of FL150 abeam GULKO.",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "OBOKA",
+      "level": 100,
+      "adep": null,
+      "ades": [
+        "EDDK; EDKB"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/TAU",
+      "toSector": "ed/DKA",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "BATEB",
+      "level": 130,
+      "adep": null,
+      "ades": [
+        "EDDK"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/GIN",
+      "toSector": "ed/PADL",
+      "remarks": "released",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "ARPEG",
+      "level": 110,
+      "adep": null,
+      "ades": [
+        "EDLW",
+        "EDLP"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/GIN",
+      "toSector": "ed/PADL",
+      "remarks": "released",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "SODNA",
+      "level": 110,
+      "adep": null,
+      "ades": [
+        "EDLW",
+        "EDLP"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/GIN",
+      "toSector": "ed/PADL",
+      "remarks": "released",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "DITAM",
+      "level": 200,
+      "adep": null,
+      "ades": [
+        "EDDF"
+      ],
+      "transferType": "C",
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/TAU",
+      "toSector": "ed/NOR",
+      "remarks": "released, on OBOKA#E/#D departure flights may be cleared direct DITAM or OBOKA",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "ADNIS,SUPIX",
+      "level": 100,
+      "adep": null,
+      "ades": [
+        "EDDF"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/KNG",
+      "toSector": "ed/DFAS",
+      "remarks": "released",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "SPESA",
+      "level": 110,
+      "adep": null,
+      "ades": [
+        "EDDF"
+      ],
+      "transferType": "D",
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/KTG",
+      "toSector": "ed/DFAS",
+      "remarks": "released SYD ADNIS/SUPIX flow; RWY25: SPESA@, RWY07: CHA@",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "RAMOB",
+      "level": 110,
+      "adep": null,
+      "ades": [
+        "EDDF"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/RUD",
+      "toSector": "ed/DFAN",
+      "remarks": "northern STAR",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "RAMOB",
+      "level": 130,
+      "adep": null,
+      "ades": [
+        "EDDF"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/RUD",
+      "toSector": "ed/DFAN",
+      "remarks": "southern STAR",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "GMH",
+      "level": 110,
+      "adep": [
+        "EDDL"
+      ],
+      "ades": null,
+      "transferType": "C",
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/DLD",
+      "toSector": "ed/PADL",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "RINEX",
+      "level": 0,
+      "adep": null,
+      "ades": [
+        "ETAR"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/NKRL",
+      "toSector": "ed/PFA",
+      "remarks": "Level subject to coordination, flight may be cleared DCT XIDOD (26/27) or DCT RMS (08/09)",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "RINEX",
+      "level": 0,
+      "adep": null,
+      "ades": [
+        "ETAR"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/NKRH",
+      "toSector": "ed/PFA",
+      "remarks": "Level subject to coordination, flight may be cleared DCT XIDOD (26/27) or DCT RMS (08/09)",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "-",
+      "level": 0,
+      "adep": null,
+      "ades": [
+        "EDDR"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/NKRH",
+      "toSector": "ed/STG",
+      "remarks": "Level subject to coordination, flight may be cleared DCT ZWN",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "-",
+      "level": 0,
+      "adep": null,
+      "ades": [
+        "EDRZ"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/NKRH",
+      "toSector": "ed/STG",
+      "remarks": "Level subject to coordination, flight may be cleared DCT ZWN",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "OKIBA",
+      "level": 200,
+      "adep": [
+        "EDDS"
+      ],
+      "ades": null,
+      "transferType": "C",
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/LBU",
+      "toSector": "ed/KNG",
+      "remarks": "released, out of FL180",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "-",
+      "level": 110,
+      "adep": null,
+      "ades": [
+        "EDTY"
+      ],
+      "transferType": "D",
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/DKB",
+      "toSector": "ed/STG",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "DKB",
+      "level": 230,
+      "adep": [
+        "EDDN"
+      ],
+      "ades": null,
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/DKB",
+      "toSector": "ed/LBU",
+      "remarks": "with RFL260+ traffic may skip LBU with prior approval request and go directly to EDUU",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "NIKUT",
+      "level": 200,
+      "adep": null,
+      "ades": [
+        "EDDS",
+        "EDTY",
+        "EDJA",
+        "EDMA",
+        "EDMO",
+        "ETSI",
+        "ETSL",
+        "ETSN"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/HAB",
+      "toSector": "ed/DKB",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "BAMTO",
+      "level": 160,
+      "adep": null,
+      "ades": [
+        "EDDR"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/HAB",
+      "toSector": "ed/MAN",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "Z93 KOSEK",
+      "level": 200,
+      "adep": null,
+      "ades": [
+        "EDFH",
+        "EDSB",
+        "EDTL"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/HAB",
+      "toSector": "ed/MAN",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "KETEG",
+      "level": 80,
+      "adep": null,
+      "ades": [
+        "EDFM",
+        "EDRY"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/KNG",
+      "toSector": "ed/NKRL",
+      "remarks": "released for descent",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "KETEG",
+      "level": 200,
+      "adep": null,
+      "ades": [
+        "EDSB"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/KNG",
+      "toSector": "ed/NKRH",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "KETEG",
+      "level": 120,
+      "adep": null,
+      "ades": [
+        "EDDR",
+        "EDRZ",
+        "ETAR"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/KNG",
+      "toSector": "ed/NKRH",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "GIBSA",
+      "level": 170,
+      "adep": [
+        "EDDF"
+      ],
+      "ades": null,
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/KNG",
+      "toSector": "ed/KTG",
+      "remarks": "SULUS-Dep, released for turns and climbs up FL190",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "TOSTU",
+      "level": 90,
+      "adep": null,
+      "ades": [
+        "EDFM",
+        "EDRY"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/KTG",
+      "toSector": "ed/KNG",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "RASVO",
+      "level": 200,
+      "adep": null,
+      "ades": [
+        "EDLN"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/RUD",
+      "toSector": "ed/NOR",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "NIIVNU",
+      "level": 180,
+      "adep": null,
+      "ades": [
+        "EDDK"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/RUD",
+      "toSector": "ed/DKA",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "-",
+      "level": 200,
+      "adep": [
+        "ETAR"
+      ],
+      "ades": null,
+      "transferType": "C",
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/RUD",
+      "toSector": "ed/NOR",
+      "remarks": "released, may be cleared DCT NVO",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "RASVO",
+      "level": 140,
+      "adep": null,
+      "ades": [
+        "EDDK"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/EIF",
+      "toSector": "ed/DKA",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "-",
+      "level": 100,
+      "adep": null,
+      "ades": [
+        "ETNN"
+      ],
+      "transferType": "D",
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/EIF",
+      "toSector": "ed/DKA",
+      "remarks": "released",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "NVO",
+      "level": 100,
+      "adep": [
+        "EDFH"
+      ],
+      "ades": null,
+      "transferType": "C",
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/EIF",
+      "toSector": "ed/DKA",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "-",
+      "level": 140,
+      "adep": [
+        "ETAR"
+      ],
+      "ades": null,
+      "transferType": "C",
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/EIF",
+      "toSector": "ed/RUD",
+      "remarks": "released for climb",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "ODVUX",
+      "level": 160,
+      "adep": null,
+      "ades": [
+        "ELLX"
+      ],
+      "transferType": "D",
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/KIR",
+      "toSector": "ed/EIF",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "-",
+      "level": 230,
+      "adep": null,
+      "ades": [
+        "EDDS",
+        "EDTL"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/KIR",
+      "toSector": "ed/MAN",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "BADLI,GEBDA",
+      "level": 110,
+      "adep": null,
+      "ades": [
+        "EDDS",
+        "EDTL"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/PFA",
+      "toSector": "ed/STG",
+      "remarks": "released",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "-",
+      "level": 70,
+      "adep": null,
+      "ades": [
+        "EDFM",
+        "EDRY"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/PFA",
+      "toSector": "ed/NKRL",
+      "remarks": "released",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "OLIVI",
+      "level": 100,
+      "adep": null,
+      "ades": [
+        "EDFH"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/PFA",
+      "toSector": "ed/EIF",
+      "remarks": "released",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "BADGO",
+      "level": 140,
+      "adep": null,
+      "ades": [
+        "EDLW"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/PADH",
+      "toSector": "ed/PADL",
+      "remarks": "COP at level",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "TINSA",
+      "level": 140,
+      "adep": null,
+      "ades": [
+        "EDLW"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/PADH",
+      "toSector": "ed/PADL",
+      "remarks": "10Nm prior COP at level",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "EXOBA",
+      "level": 70,
+      "adep": null,
+      "ades": [
+        "EDLP"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/HMM",
+      "toSector": "ed/PADL",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "ESADU,PELUN",
+      "level": 140,
+      "adep": null,
+      "ades": [
+        "EDVK"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/PADH",
+      "toSector": "ed/PADL",
+      "remarks": "10 NM prior COP at level",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "HMM",
+      "level": 140,
+      "adep": null,
+      "ades": [
+        "EDDG"
+      ],
+      "transferType": "D",
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/PADH",
+      "toSector": "ed/HMM",
+      "remarks": "expect FL090 HMM at level",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "KOPAG",
+      "level": 120,
+      "adep": null,
+      "ades": [
+        "EDDK"
+      ],
+      "transferType": "D",
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/PADH",
+      "toSector": "ed/DKA",
+      "remarks": "DKA may request KOPAG-arrival runway 24 with FL090 KOPAG at level",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "DOMUX",
+      "level": 140,
+      "adep": null,
+      "ades": [
+        "EDDL"
+      ],
+      "transferType": "D",
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/PADH",
+      "toSector": "ed/DLA",
+      "remarks": "Released by PADH for turn and descend to FL100",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "HALME",
+      "level": 140,
+      "adep": null,
+      "ades": [
+        "EDDL"
+      ],
+      "transferType": "D",
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/HMM",
+      "toSector": "ed/DLA",
+      "remarks": "released",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "TUVTI",
+      "level": 160,
+      "adep": null,
+      "ades": [
+        "EDDK"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/HMM",
+      "toSector": "ed/PADH",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "ERNEP",
+      "level": 100,
+      "adep": null,
+      "ades": [
+        "EDDK"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/PADL",
+      "toSector": "ed/DKA",
+      "remarks": "COP at level",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "BAMSU",
+      "level": 80,
+      "adep": [
+        "EDLW"
+      ],
+      "ades": null,
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/PADL",
+      "toSector": "ed/DLD",
+      "remarks": "EDDL RWY 05",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "BAMSU",
+      "level": 50,
+      "adep": [
+        "EDLW"
+      ],
+      "ades": null,
+      "transferType": null,
+      "qnh": "EDLW",
+      "vertical": false,
+      "fromSector": "ed/PADL",
+      "toSector": "ed/DLA",
+      "remarks": "EDDL RWY 23",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "GMH",
+      "level": 110,
+      "adep": [
+        "EDLW"
+      ],
+      "ades": null,
+      "transferType": "C",
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/PADL",
+      "toSector": "ed/PADH",
+      "remarks": "released for climb",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "NUDGO",
+      "level": 130,
+      "adep": [
+        "EDLW"
+      ],
+      "ades": null,
+      "transferType": "C",
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/PADL",
+      "toSector": "ed/PADH",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "OSN",
+      "level": 70,
+      "adep": [
+        "EDLW"
+      ],
+      "ades": null,
+      "transferType": "C",
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/PADL",
+      "toSector": "ed/HMM",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "DOMEG",
+      "level": 70,
+      "adep": [
+        "EDLW",
+        "EDLP"
+      ],
+      "ades": null,
+      "transferType": "C",
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/PADL",
+      "toSector": "ed/HMM",
+      "remarks": "If ED-R inactive, PADL may coordinate higher level with HMM",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "HMM",
+      "level": 70,
+      "adep": [
+        "EDLW",
+        "EDLP"
+      ],
+      "ades": null,
+      "transferType": "C",
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/PADL",
+      "toSector": "ed/HMM",
+      "remarks": "If ED-R inactive, PADL may coordinate higher level with HMM",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "TINSA",
+      "level": 120,
+      "adep": [
+        "EDLP"
+      ],
+      "ades": null,
+      "transferType": "C",
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/PADL",
+      "toSector": "ed/PADH",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "TINSA,RUNER",
+      "level": 130,
+      "adep": [
+        "EDVK"
+      ],
+      "ades": null,
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/PADL",
+      "toSector": "ed/PADH",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "GISDI",
+      "level": 130,
+      "adep": [
+        "EDLP"
+      ],
+      "ades": null,
+      "transferType": "C",
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/PADL",
+      "toSector": "ed/GIN",
+      "remarks": "out of FL100",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "GMH",
+      "level": 110,
+      "adep": [
+        "EDDL",
+        "EDLN"
+      ],
+      "ades": null,
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/PADL",
+      "toSector": "ed/SIG",
+      "remarks": "RFL 140 or less",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "GMH",
+      "level": 190,
+      "adep": [
+        "EDLW"
+      ],
+      "ades": null,
+      "transferType": "C",
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/PADH",
+      "toSector": "ed/SIG",
+      "remarks": "out of FL 180",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "HMM, DOMEG",
+      "level": 0,
+      "adep": [
+        "EDDG"
+      ],
+      "ades": null,
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/HMM",
+      "toSector": "ed/PADH",
+      "remarks": "flights via HMM and DOMEG into PADH are subject to coordination",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "DOMEG",
+      "level": 180,
+      "adep": [
+        "EDDG",
+        "EDLP"
+      ],
+      "ades": null,
+      "transferType": "C",
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/HMM",
+      "toSector": "ed/DLA/BOT",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "DOMEG",
+      "level": 80,
+      "adep": null,
+      "ades": [
+        "EDLW"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/HMM",
+      "toSector": "ed/PADL",
+      "remarks": "DOMEG#A star has to be cleared if not otherwise coordinated verbally",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "NVO",
+      "level": 140,
+      "adep": null,
+      "ades": [
+        "EDFH"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/DKA",
+      "toSector": "ed/EIF",
+      "remarks": "released",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "NVO",
+      "level": 70,
+      "adep": null,
+      "ades": [
+        "EDLN"
+      ],
+      "transferType": "D",
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/DKA",
+      "toSector": "ed/DLA",
+      "remarks": "released",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "NVO(06/14)",
+      "level": 140,
+      "adep": [
+        "EDDK"
+      ],
+      "ades": null,
+      "transferType": "C",
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/DKA",
+      "toSector": "ed/NOR",
+      "remarks": "released",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "NVO(23/32)",
+      "level": 100,
+      "adep": [
+        "EDDK"
+      ],
+      "ades": null,
+      "transferType": "C",
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/DKA",
+      "toSector": "ed/NOR",
+      "remarks": "released",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "COL",
+      "level": 130,
+      "adep": [
+        "EDDK"
+      ],
+      "ades": null,
+      "transferType": "C",
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/DKA",
+      "toSector": "ed/TAU",
+      "remarks": "released for climb",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "KUMIK",
+      "level": 140,
+      "adep": [
+        "EDDK"
+      ],
+      "ades": null,
+      "transferType": "C",
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/DKA",
+      "toSector": "ed/SIG",
+      "remarks": "released for climb and turns to the south",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "PODIP",
+      "level": 140,
+      "adep": [
+        "EDDK"
+      ],
+      "ades": null,
+      "transferType": "C",
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/DKA",
+      "toSector": "ed/PADH",
+      "remarks": "released",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "WYP",
+      "level": 90,
+      "adep": [
+        "EDDK"
+      ],
+      "ades": null,
+      "transferType": "C",
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/DKA",
+      "toSector": "ed/DLD",
+      "remarks": "released",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "BIKMU",
+      "level": 130,
+      "adep": null,
+      "ades": [
+        "EDDL"
+      ],
+      "transferType": "D",
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/NOR",
+      "toSector": "ed/DLA",
+      "remarks": "released for turns not further east then BAM, released for descent to FL070",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "ELDAR",
+      "level": 80,
+      "adep": null,
+      "ades": [
+        "EDDL"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/NOR",
+      "toSector": "ed/DLA",
+      "remarks": "COP at level, released for turns and descent to FL070",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "DOMEG",
+      "level": 200,
+      "adep": null,
+      "ades": [
+        "EHEH"
+      ],
+      "transferType": "D",
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/HMM",
+      "toSector": "ed/BOT",
+      "remarks": "released",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "SUVOX",
+      "level": 200,
+      "adep": null,
+      "ades": [
+        "EHEH"
+      ],
+      "transferType": "D",
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/HMM",
+      "toSector": "ed/BOT",
+      "remarks": "released",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "BAMSU",
+      "level": 160,
+      "adep": null,
+      "ades": [
+        "EDLP",
+        "EDLW"
+      ],
+      "transferType": "D",
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/NOR",
+      "toSector": "ed/DLD",
+      "remarks": "released",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "NAZAF",
+      "level": 120,
+      "adep": null,
+      "ades": [
+        "EDLV"
+      ],
+      "transferType": "D",
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/NOR",
+      "toSector": "ed/BOT",
+      "remarks": "out of FL180, released",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "QATJA",
+      "level": 230,
+      "adep": null,
+      "ades": [
+        "EDDG"
+      ],
+      "transferType": "D",
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/NOR",
+      "toSector": "ed/BOT",
+      "remarks": "released",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "RASVO",
+      "level": 210,
+      "adep": null,
+      "ades": [
+        "EDDR",
+        "EDRZ",
+        "ETAR"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/NOR",
+      "toSector": "ed/RUD",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    }
+  ]
+}

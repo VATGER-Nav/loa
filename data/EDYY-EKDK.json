@@ -1,0 +1,164 @@
+{
+  "agreements": [
+    {
+      "cop": "GESKA",
+      "level": 280,
+      "adep": null,
+      "ades": [
+        "EKCH",
+        "EKRK"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/HOL",
+      "toSector": "ek/EKDB",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "DOSUR",
+      "level": 330,
+      "adep": null,
+      "ades": [
+        "EKCH",
+        "EKRK"
+      ],
+      "transferType": "D",
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/JEV",
+      "toSector": "ek/EKDC",
+      "remarks": "only on pilot request",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "DCT",
+      "level": 245,
+      "adep": null,
+      "ades": [
+        "MUAC GENERAL RELEASE"
+      ],
+      "transferType": "C",
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/JEV,HOL,CEL,SOL,MUN,RHR",
+      "toSector": "ek/EKDK",
+      "remarks": "DCT: GELBA, LOKSA. (For EKBI inbounds)",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "DCT",
+      "level": 245,
+      "adep": null,
+      "ades": [
+        "MUAC GENERAL RELEASE"
+      ],
+      "transferType": "C",
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/JEV,HOL,CEL,SOL,MUN,RHR",
+      "toSector": "ek/EKDK",
+      "remarks": "DCT: KARLI, MITSI, DANKO, RADIS, GESKA, BAVTA, DEKIK, GOTEX, AMTOT, CDA, AAL, ODN",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "DCT",
+      "level": 245,
+      "adep": null,
+      "ades": [
+        "MUAC GENERAL RELEASE"
+      ],
+      "transferType": "C",
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/JEV,HOL,CEL,SOL,MUN,RHR",
+      "toSector": "ek/EKDK",
+      "remarks": "DCT: GESKA, TUDLO. (For EKCH inbounds)",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "MEGAR",
+      "level": 270,
+      "adep": [
+        "EDDH",
+        "EDHI",
+        "EDHL"
+      ],
+      "ades": null,
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/HOL",
+      "toSector": "ek/EKDA",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "ALS",
+      "level": 270,
+      "adep": [
+        "EDDH",
+        "EDHI",
+        "EDHL"
+      ],
+      "ades": null,
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/HOL",
+      "toSector": "ek/EKDS",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "ATTUS",
+      "level": 270,
+      "adep": [
+        "EDDH",
+        "EDHI",
+        "EDHL"
+      ],
+      "ades": null,
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/HOL",
+      "toSector": "ek/EKDS",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    }
+  ]
+}

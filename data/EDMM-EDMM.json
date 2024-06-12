@@ -1,0 +1,5039 @@
+{
+  "agreements": [
+    {
+      "cop": "UPALA",
+      "level": 250,
+      "adep": [
+        "EDDM"
+      ],
+      "ades": null,
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/ALB",
+      "toSector": "ed/BBG",
+      "remarks": "released passing T159",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "DOSIS",
+      "level": 250,
+      "adep": [
+        "EDDM"
+      ],
+      "ades": null,
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/ALB",
+      "toSector": "ed/BBG",
+      "remarks": "released passing T159",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "GOLMO",
+      "level": 240,
+      "adep": [
+        "EDDM"
+      ],
+      "ades": null,
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/ALB",
+      "toSector": "ed/WLD",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "UPALA",
+      "level": 200,
+      "adep": [
+        "ETSI"
+      ],
+      "ades": null,
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/ALB",
+      "toSector": "ed/BBG",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "UPALA",
+      "level": 140,
+      "adep": null,
+      "ades": [
+        "EDDN"
+      ],
+      "transferType": "D",
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/ALB",
+      "toSector": "ed/FRK",
+      "remarks": "released",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "UPALA",
+      "level": 250,
+      "adep": null,
+      "ades": [
+        "EDDE"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/ALB",
+      "toSector": "ed/BBG",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "UPALA",
+      "level": 290,
+      "adep": null,
+      "ades": [
+        "EDDP"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/ALB",
+      "toSector": "ed/BBG",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "MIQ",
+      "level": 80,
+      "adep": null,
+      "ades": [
+        "EDMA"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/ALB",
+      "toSector": "ed/DMNL",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "RUDNO",
+      "level": 230,
+      "adep": [
+        "EDDN"
+      ],
+      "ades": null,
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/RDG",
+      "toSector": "ed/EGG",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "AKINI",
+      "level": 300,
+      "adep": [
+        "LOWL"
+      ],
+      "ades": null,
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/RDG",
+      "toSector": "ed/ALB",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "AKINI",
+      "level": 300,
+      "adep": [
+        "LOWS"
+      ],
+      "ades": null,
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/RDG",
+      "toSector": "ed/ALB",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "VESIX",
+      "level": 170,
+      "adep": null,
+      "ades": [
+        "EDDM"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/RDG",
+      "toSector": "ed/DMNH",
+      "remarks": "RWY 08",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "KUFAZ",
+      "level": 170,
+      "adep": null,
+      "ades": [
+        "EDDM"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/RDG",
+      "toSector": "ed/DMNH",
+      "remarks": "RWY 08",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "OSTES",
+      "level": 170,
+      "adep": null,
+      "ades": [
+        "EDDM"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/RDG",
+      "toSector": "ed/DMNH",
+      "remarks": "RWY 08",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "VESIX",
+      "level": 110,
+      "adep": null,
+      "ades": [
+        "EDDM"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/RDG",
+      "toSector": "ed/DMNH",
+      "remarks": "RWY 26",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "OSTES",
+      "level": 110,
+      "adep": null,
+      "ades": [
+        "EDDM"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/RDG",
+      "toSector": "ed/DMNH",
+      "remarks": "RWY 26",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "VESIX",
+      "level": 90,
+      "adep": null,
+      "ades": [
+        "EDMA"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/RDG",
+      "toSector": "ed/DMNL",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "KUFAZ",
+      "level": 90,
+      "adep": null,
+      "ades": [
+        "EDMA"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/RDG",
+      "toSector": "ed/DMNL",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "OSTES",
+      "level": 90,
+      "adep": null,
+      "ades": [
+        "EDMA"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/RDG",
+      "toSector": "ed/DMNL",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "VESIX",
+      "level": 90,
+      "adep": null,
+      "ades": [
+        "EDMO"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/RDG",
+      "toSector": "ed/DMNL",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "KUFAZ",
+      "level": 90,
+      "adep": null,
+      "ades": [
+        "EDMO"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/RDG",
+      "toSector": "ed/DMNL",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "OSTES",
+      "level": 90,
+      "adep": null,
+      "ades": [
+        "EDMO"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/RDG",
+      "toSector": "ed/DMNL",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "RUDNO",
+      "level": 90,
+      "adep": null,
+      "ades": [
+        "ETSI"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/RDG",
+      "toSector": "ed/SWA",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "STAUB",
+      "level": 100,
+      "adep": null,
+      "ades": [
+        "ETSI"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/RDG",
+      "toSector": "ed/SWA",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "AKINI",
+      "level": 210,
+      "adep": null,
+      "ades": [
+        "EDDN"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/RDG",
+      "toSector": "ed/ALB",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "RODIS",
+      "level": 140,
+      "adep": null,
+      "ades": [
+        "EDDN"
+      ],
+      "transferType": "D",
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/RDG",
+      "toSector": "ed/FRK",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "RODIS",
+      "level": 140,
+      "adep": null,
+      "ades": [
+        "EDQ*"
+      ],
+      "transferType": "D",
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/RDG",
+      "toSector": "ed/FRK",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "RODIS",
+      "level": 140,
+      "adep": null,
+      "ades": [
+        "ETIC"
+      ],
+      "transferType": "D",
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/RDG",
+      "toSector": "ed/FRK",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "KUFAZ",
+      "level": 110,
+      "adep": null,
+      "ades": [
+        "EDDM"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/RDG",
+      "toSector": "ed/DMNH",
+      "remarks": "RWY 26",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "RODIS",
+      "level": 300,
+      "adep": null,
+      "ades": [
+        "EDDP"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/RDG",
+      "toSector": "ed/BBG",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "RODIS",
+      "level": 260,
+      "adep": null,
+      "ades": [
+        "EDDE"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/RDG",
+      "toSector": "ed/BBG",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "RDG",
+      "level": 250,
+      "adep": null,
+      "ades": [
+        "LOWI"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/RDG",
+      "toSector": "ed/EGG",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "ARBAX",
+      "level": 260,
+      "adep": null,
+      "ades": [
+        "LOWL"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/RDG",
+      "toSector": "ed/EGG",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "OSTES",
+      "level": 200,
+      "adep": null,
+      "ades": [
+        "LOWS"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/RDG",
+      "toSector": "ed/EGG",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": null,
+      "level": 260,
+      "adep": [
+        "LOWL"
+      ],
+      "ades": null,
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/EGG",
+      "toSector": "ed/RDG",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "NENUM",
+      "level": 240,
+      "adep": [
+        "LOWS"
+      ],
+      "ades": null,
+      "transferType": "C",
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/EGG",
+      "toSector": "ed/RDG",
+      "remarks": "out of FL210",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "GONBA",
+      "level": 100,
+      "adep": null,
+      "ades": [
+        "ETSI"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/EGG",
+      "toSector": "ed/RDG",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "NENUM",
+      "level": 280,
+      "adep": null,
+      "ades": [
+        "EDDN"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/EGG",
+      "toSector": "ed/RDG",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "GONBA",
+      "level": 240,
+      "adep": null,
+      "ades": [
+        "EDQ*"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/EGG",
+      "toSector": "ed/RDG",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "GONBA",
+      "level": 240,
+      "adep": null,
+      "ades": [
+        "ETIC"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/EGG",
+      "toSector": "ed/RDG",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "DOSEL",
+      "level": 230,
+      "adep": null,
+      "ades": [
+        "LOWI"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/EGG",
+      "toSector": "ed/TRU",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "BESNI",
+      "level": 200,
+      "adep": [
+        "EDMO"
+      ],
+      "ades": null,
+      "transferType": "C",
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/NDG",
+      "toSector": "ed/EGG",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "LASMI",
+      "level": 200,
+      "adep": [
+        "EDMO"
+      ],
+      "ades": null,
+      "transferType": "C",
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/NDG",
+      "toSector": "ed/EGG",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "BESNI",
+      "level": 200,
+      "adep": [
+        "EDMO"
+      ],
+      "ades": null,
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/NDG",
+      "toSector": "ed/ALB",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "LASMI",
+      "level": 200,
+      "adep": [
+        "EDMO"
+      ],
+      "ades": null,
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/NDG",
+      "toSector": "ed/RDG",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "BESNI",
+      "level": 310,
+      "adep": [
+        "EDDN"
+      ],
+      "ades": null,
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/NDG",
+      "toSector": "ed/TEG",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "LURER",
+      "level": 160,
+      "adep": null,
+      "ades": [
+        "EDDM"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/NDG",
+      "toSector": "ed/DMNH",
+      "remarks": "RWY 08",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "LURER",
+      "level": 140,
+      "adep": null,
+      "ades": [
+        "EDDM"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/NDG",
+      "toSector": "ed/DMNH",
+      "remarks": "RWY 26",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "RIDAR",
+      "level": 130,
+      "adep": null,
+      "ades": [
+        "EDDM"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/NDG",
+      "toSector": "ed/DMNH",
+      "remarks": "RWY 08",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "RIDAR",
+      "level": 150,
+      "adep": null,
+      "ades": [
+        "EDDM"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/NDG",
+      "toSector": "ed/DMNH",
+      "remarks": "RWY 26",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "BURAM",
+      "level": 130,
+      "adep": null,
+      "ades": [
+        "EDDM"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/WLD",
+      "toSector": "ed/DMNH",
+      "remarks": "RWY 08",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "BURAM",
+      "level": 150,
+      "adep": null,
+      "ades": [
+        "EDDM"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/WLD",
+      "toSector": "ed/DMNH",
+      "remarks": "RWY 26",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "RENLO",
+      "level": 130,
+      "adep": null,
+      "ades": [
+        "EDDM"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/WLD",
+      "toSector": "ed/DMNH",
+      "remarks": "RWY 08",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "RENLO",
+      "level": 150,
+      "adep": null,
+      "ades": [
+        "EDDM"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/WLD",
+      "toSector": "ed/DMNH",
+      "remarks": "RWY 26",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": null,
+      "level": 110,
+      "adep": null,
+      "ades": [
+        "EDMA"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/NDG",
+      "toSector": "ed/SWA",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": null,
+      "level": 110,
+      "adep": null,
+      "ades": [
+        "EDMO"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/NDG",
+      "toSector": "ed/SWA",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "RIXED",
+      "level": 110,
+      "adep": null,
+      "ades": [
+        "ETSL"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/NDG",
+      "toSector": "ed/SWA",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "ELVAG",
+      "level": 110,
+      "adep": null,
+      "ades": [
+        "EDJA"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/NDG",
+      "toSector": "ed/SWA",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "MAH",
+      "level": 200,
+      "adep": null,
+      "ades": [
+        "EDDN"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/NDG",
+      "toSector": "ed/ALB",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": null,
+      "level": 270,
+      "adep": null,
+      "ades": [
+        "LOWI"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/WLD",
+      "toSector": "ed/NDG",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "BESNI",
+      "level": 200,
+      "adep": null,
+      "ades": [
+        "LOWI"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/NDG",
+      "toSector": "ed/TEG",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "WLD",
+      "level": 200,
+      "adep": null,
+      "ades": [
+        "LOWI"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/NDG",
+      "toSector": "ed/TEG",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "BESNI",
+      "level": 200,
+      "adep": null,
+      "ades": [
+        "LOWS"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/NDG",
+      "toSector": "ed/DMSH",
+      "remarks": "OLETU @FL200",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "WLD",
+      "level": 200,
+      "adep": null,
+      "ades": [
+        "LOWS"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/NDG",
+      "toSector": "ed/DMSH",
+      "remarks": "OLETU @FL200",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "GAPTO",
+      "level": 230,
+      "adep": [
+        "EDJA"
+      ],
+      "ades": null,
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/ZUG",
+      "toSector": "ed/STA",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "XEBIX",
+      "level": 230,
+      "adep": [
+        "EDJA"
+      ],
+      "ades": null,
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/ZUG",
+      "toSector": "ed/STA",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "GAPTO",
+      "level": 270,
+      "adep": [
+        "LSZH"
+      ],
+      "ades": null,
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/ZUG",
+      "toSector": "ed/STA",
+      "remarks": "if RFL FL310 or below",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "GAPTO",
+      "level": 310,
+      "adep": [
+        "LSZH"
+      ],
+      "ades": null,
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/ZUG",
+      "toSector": "ed/STA",
+      "remarks": "if RFL FL320 or above",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "KUSAM",
+      "level": 310,
+      "adep": [
+        "LSZS"
+      ],
+      "ades": null,
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/ZUG",
+      "toSector": "ed/STA",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "GAPTO",
+      "level": 230,
+      "adep": [
+        "EDNY"
+      ],
+      "ades": null,
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/ZUG",
+      "toSector": "ed/STA",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "XEBIX",
+      "level": 230,
+      "adep": [
+        "EDNY"
+      ],
+      "ades": null,
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/ZUG",
+      "toSector": "ed/STA",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "GAPTO",
+      "level": 230,
+      "adep": [
+        "LSZR"
+      ],
+      "ades": null,
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/ZUG",
+      "toSector": "ed/STA",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "XEBIX",
+      "level": 230,
+      "adep": [
+        "LSZR"
+      ],
+      "ades": null,
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/ZUG",
+      "toSector": "ed/STA",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "DISUN",
+      "level": 120,
+      "adep": null,
+      "ades": [
+        "EDDM"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/FUE",
+      "toSector": "ed/DMSH",
+      "remarks": "RWY 08",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "DISUN",
+      "level": 160,
+      "adep": null,
+      "ades": [
+        "EDDM"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/FUE",
+      "toSector": "ed/DMSH",
+      "remarks": "RWY 26",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "MERSI",
+      "level": 120,
+      "adep": null,
+      "ades": [
+        "EDDM"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/FUE",
+      "toSector": "ed/DMSH",
+      "remarks": "RWY 08",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "MERSI",
+      "level": 160,
+      "adep": null,
+      "ades": [
+        "EDDM"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/FUE",
+      "toSector": "ed/DMSH",
+      "remarks": "RWY 26",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "DISUN",
+      "level": 80,
+      "adep": null,
+      "ades": [
+        "EDMA"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/FUE",
+      "toSector": "ed/DMSL",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "KPT",
+      "level": 80,
+      "adep": null,
+      "ades": [
+        "EDMA"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/FUE",
+      "toSector": "ed/DMSL",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "DISUN",
+      "level": 80,
+      "adep": null,
+      "ades": [
+        "EDMO"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/FUE",
+      "toSector": "ed/DMSL",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "KPT",
+      "level": 80,
+      "adep": null,
+      "ades": [
+        "EDMO"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/FUE",
+      "toSector": "ed/DMSL",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "DISUN",
+      "level": 120,
+      "adep": null,
+      "ades": [
+        "ETSI"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/FUE",
+      "toSector": "ed/DMSH",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "KPT",
+      "level": 90,
+      "adep": null,
+      "ades": [
+        "ETSL"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/FUE",
+      "toSector": "ed/ILR",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "KPT",
+      "level": 100,
+      "adep": null,
+      "ades": [
+        "EDJA"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/FUE",
+      "toSector": "ed/ILR",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": null,
+      "level": 280,
+      "adep": null,
+      "ades": [
+        "EDDF"
+      ],
+      "transferType": "D",
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/FUE",
+      "toSector": "ed/NDG",
+      "remarks": "via Q163, out of FL300",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "BEMKI",
+      "level": 270,
+      "adep": null,
+      "ades": [
+        "LOWS"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/ZUG",
+      "toSector": "ed/STA",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "MADEB",
+      "level": 270,
+      "adep": null,
+      "ades": [
+        "LOWS"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/ZUG",
+      "toSector": "ed/STA",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "KONIN",
+      "level": 260,
+      "adep": [
+        "LOWI"
+      ],
+      "ades": null,
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/STA",
+      "toSector": "ed/NDG",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "KONIN",
+      "level": 310,
+      "adep": [
+        "LOWS"
+      ],
+      "ades": null,
+      "transferType": "C",
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/STA",
+      "toSector": "ed/FUE",
+      "remarks": "out of FL270",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "ANDEC",
+      "level": 130,
+      "adep": null,
+      "ades": [
+        "EDDM"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/STA",
+      "toSector": "ed/DMSH",
+      "remarks": "RWY 08",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "ANDEC",
+      "level": 150,
+      "adep": null,
+      "ades": [
+        "EDDM"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/STA",
+      "toSector": "ed/DMSH",
+      "remarks": "RWY 26",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "KONIN",
+      "level": 130,
+      "adep": null,
+      "ades": [
+        "EDDM"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/STA",
+      "toSector": "ed/DMSH",
+      "remarks": "RWY 08",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "KONIN",
+      "level": 150,
+      "adep": null,
+      "ades": [
+        "EDDM"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/STA",
+      "toSector": "ed/DMSH",
+      "remarks": "RWY 26",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "ANDEC",
+      "level": 90,
+      "adep": null,
+      "ades": [
+        "EDMA"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/STA",
+      "toSector": "ed/DMSL",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "KONIN",
+      "level": 90,
+      "adep": null,
+      "ades": [
+        "EDMA"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/STA",
+      "toSector": "ed/DMSL",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "ANDEC",
+      "level": 90,
+      "adep": null,
+      "ades": [
+        "EDMO"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/STA",
+      "toSector": "ed/DMSL",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "KONIN",
+      "level": 90,
+      "adep": null,
+      "ades": [
+        "EDMO"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/STA",
+      "toSector": "ed/DMSL",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "KONIN",
+      "level": 130,
+      "adep": null,
+      "ades": [
+        "ETSI"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/STA",
+      "toSector": "ed/DMSH",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "KONIN",
+      "level": 70,
+      "adep": null,
+      "ades": [
+        "ETSL"
+      ],
+      "transferType": "D",
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/STA",
+      "toSector": "ed/DMSL",
+      "remarks": "out of FL90",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "KONIN",
+      "level": 180,
+      "adep": null,
+      "ades": [
+        "EDJA"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/STA",
+      "toSector": "ed/FUE",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "KOGOL",
+      "level": 200,
+      "adep": null,
+      "ades": [
+        "EDJA"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/STA",
+      "toSector": "ed/FUE",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "KONIN",
+      "level": 260,
+      "adep": null,
+      "ades": [
+        "EDDN"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/STA",
+      "toSector": "ed/NDG",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "KONIN",
+      "level": 260,
+      "adep": null,
+      "ades": [
+        "ETIC"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/STA",
+      "toSector": "ed/NDG",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "KONIN",
+      "level": 300,
+      "adep": null,
+      "ades": [
+        "EDQ*"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/STA",
+      "toSector": "ed/NDG",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "KONIN",
+      "level": 280,
+      "adep": null,
+      "ades": [
+        "EDDS"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/STA",
+      "toSector": "ed/NDG",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "KONIN",
+      "level": 280,
+      "adep": null,
+      "ades": [
+        "EDTY"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/STA",
+      "toSector": "ed/NDG",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "KONIN",
+      "level": 280,
+      "adep": null,
+      "ades": [
+        "EDFM"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/STA",
+      "toSector": "ed/NDG",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "KONIN",
+      "level": 280,
+      "adep": null,
+      "ades": [
+        "EDSB"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/STA",
+      "toSector": "ed/NDG",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "KONIN",
+      "level": 280,
+      "adep": null,
+      "ades": [
+        "EDRY"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/STA",
+      "toSector": "ed/NDG",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "BADVI",
+      "level": 160,
+      "adep": null,
+      "ades": [
+        "LOWS"
+      ],
+      "transferType": "D",
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/TEG",
+      "toSector": "ed/TRU",
+      "remarks": "out of FL 180",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": null,
+      "level": 190,
+      "adep": null,
+      "ades": [
+        "LSZS"
+      ],
+      "transferType": "D",
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/STA",
+      "toSector": "ed/ZUG",
+      "remarks": "out of FL220",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": null,
+      "level": 190,
+      "adep": [
+        "LOWS"
+      ],
+      "ades": null,
+      "transferType": "C",
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/TRU",
+      "toSector": "ed/TEG",
+      "remarks": "out of FL160",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "VAVOR",
+      "level": 220,
+      "adep": null,
+      "ades": [
+        "EDJA"
+      ],
+      "transferType": "D",
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/TRU",
+      "toSector": "ed/TEG",
+      "remarks": "out of FL240",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "EBEDA",
+      "level": 300,
+      "adep": null,
+      "ades": [
+        "EDDS"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/TRU",
+      "toSector": "ed/NDG",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "VAVOR",
+      "level": 260,
+      "adep": null,
+      "ades": [
+        "EDNY"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/TRU",
+      "toSector": "ed/TEG",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "VAVOR",
+      "level": 260,
+      "adep": null,
+      "ades": [
+        "LSZR"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/TRU",
+      "toSector": "ed/TEG",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "VAVOR",
+      "level": 260,
+      "adep": null,
+      "ades": [
+        "LSZS"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/TRU",
+      "toSector": "ed/TEG",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": null,
+      "level": 210,
+      "adep": null,
+      "ades": [
+        "LOWI"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/TRU",
+      "toSector": "ed/TEG",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": null,
+      "level": 290,
+      "adep": null,
+      "ades": [
+        "LSZS"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/TRU",
+      "toSector": "ed/TEG",
+      "remarks": "via M736 OLPIX",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "RIDAR",
+      "level": 80,
+      "adep": [
+        "EDMA"
+      ],
+      "ades": null,
+      "transferType": "C",
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/DMNL",
+      "toSector": "ed/SWA",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "KPT",
+      "level": 90,
+      "adep": [
+        "EDJA"
+      ],
+      "ades": null,
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/ILR",
+      "toSector": "ed/FUE",
+      "remarks": "hold, advise \"ready for departure\"",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "UMTEX",
+      "level": 90,
+      "adep": [
+        "EDJA"
+      ],
+      "ades": null,
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/ILR",
+      "toSector": "ed/FUE",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "PELOG",
+      "level": 90,
+      "adep": [
+        "EDJA"
+      ],
+      "ades": null,
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/ILR",
+      "toSector": "ed/FUE",
+      "remarks": "if TRA Allgäu inactive",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "SUDEN",
+      "level": 90,
+      "adep": [
+        "EDJA"
+      ],
+      "ades": null,
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/ILR",
+      "toSector": "ed/FUE",
+      "remarks": "if TRA Allgäu inactive",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": null,
+      "level": 90,
+      "adep": [
+        "ETSL"
+      ],
+      "ades": null,
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/SWA",
+      "toSector": "ed/NDG",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": null,
+      "level": 80,
+      "adep": [
+        "ETSL"
+      ],
+      "ades": null,
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/SWA",
+      "toSector": "ed/FUE",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "BURAM",
+      "level": 80,
+      "adep": null,
+      "ades": [
+        "EDMA"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/SWA",
+      "toSector": "ed/DMNL",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "RIDAR",
+      "level": 80,
+      "adep": null,
+      "ades": [
+        "EDMA"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/SWA",
+      "toSector": "ed/DMNL",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "RIDAR",
+      "level": 90,
+      "adep": null,
+      "ades": [
+        "EDMO"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/SWA",
+      "toSector": "ed/DMNL",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "AKANU",
+      "level": 130,
+      "adep": [
+        "EDDN"
+      ],
+      "ades": null,
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/FRK",
+      "toSector": "ed/WLD",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "RODIS",
+      "level": 160,
+      "adep": [
+        "EDDN"
+      ],
+      "ades": null,
+      "transferType": "C",
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/FRK",
+      "toSector": "ed/RDG",
+      "remarks": "SID",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "SID",
+      "level": 190,
+      "adep": [
+        "EDDN"
+      ],
+      "ades": null,
+      "transferType": "C",
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/FRK",
+      "toSector": "ed/BBG",
+      "remarks": "SIDs",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "LASGA",
+      "level": 280,
+      "adep": [
+        "EDDN"
+      ],
+      "ades": null,
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/BBG",
+      "toSector": "ed/GER",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "TABAT",
+      "level": 270,
+      "adep": [
+        "EDDN"
+      ],
+      "ades": null,
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/HOF",
+      "toSector": "ed/GER",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "PEROX",
+      "level": 270,
+      "adep": [
+        "EDDN"
+      ],
+      "ades": null,
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/HOF",
+      "toSector": "ed/MEI",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "PEROX",
+      "level": 120,
+      "adep": [
+        "EDQ*"
+      ],
+      "ades": null,
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/FRK",
+      "toSector": "ed/SAS",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "LASGA",
+      "level": 120,
+      "adep": [
+        "EDQ*"
+      ],
+      "ades": null,
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/FRK",
+      "toSector": "ed/TRS",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "TABAT",
+      "level": 120,
+      "adep": [
+        "EDQ*"
+      ],
+      "ades": null,
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/FRK",
+      "toSector": "ed/TRS",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "NIKUS",
+      "level": 170,
+      "adep": [
+        "EDQ*"
+      ],
+      "ades": null,
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/FRK",
+      "toSector": "ed/RDG",
+      "remarks": "AKOSI/ARMUT @FL170",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "PEROX",
+      "level": 120,
+      "adep": [
+        "ETIC"
+      ],
+      "ades": null,
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/FRK",
+      "toSector": "ed/SAS",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "LASGA",
+      "level": 120,
+      "adep": [
+        "ETIC"
+      ],
+      "ades": null,
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/FRK",
+      "toSector": "ed/TRS",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "TABAT",
+      "level": 120,
+      "adep": [
+        "ETIC"
+      ],
+      "ades": null,
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/FRK",
+      "toSector": "ed/TRS",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "NIKUS",
+      "level": 170,
+      "adep": [
+        "ETIC"
+      ],
+      "ades": null,
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/FRK",
+      "toSector": "ed/RDG",
+      "remarks": "AKOSI/ARMUT @FL170",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "AKOSI",
+      "level": 310,
+      "adep": [
+        "EDDE"
+      ],
+      "ades": null,
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/HOF",
+      "toSector": "ed/RDG",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "ARMUT",
+      "level": 310,
+      "adep": [
+        "EDDE"
+      ],
+      "ades": null,
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/HOF",
+      "toSector": "ed/RDG",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "TABAT",
+      "level": 270,
+      "adep": [
+        "EDDS"
+      ],
+      "ades": null,
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/HOF",
+      "toSector": "ed/GER",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "AKOSI",
+      "level": 170,
+      "adep": null,
+      "ades": [
+        "ETSI"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/FRK",
+      "toSector": "ed/RDG",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "AKOSI",
+      "level": 170,
+      "adep": null,
+      "ades": [
+        "EDMS"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/FRK",
+      "toSector": "ed/RDG",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "VOCIM",
+      "level": 190,
+      "adep": null,
+      "ades": [
+        "EDDP"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/FRK",
+      "toSector": "ed/TRS",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "TABAT",
+      "level": 110,
+      "adep": null,
+      "ades": [
+        "EDAC"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/FRK",
+      "toSector": "ed/TRS",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "PILAM",
+      "level": 110,
+      "adep": null,
+      "ades": [
+        "EDDE"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/FRK",
+      "toSector": "ed/TRS",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "LASGA",
+      "level": 110,
+      "adep": null,
+      "ades": [
+        "EDDE"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/FRK",
+      "toSector": "ed/TRS",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "SODRO",
+      "level": 110,
+      "adep": null,
+      "ades": [
+        "EDDE"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/FRK",
+      "toSector": "ed/TRS",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "LASGA",
+      "level": 280,
+      "adep": null,
+      "ades": [
+        "EDBM"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/BBG",
+      "toSector": "ed/GER",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "PIBAD",
+      "level": 280,
+      "adep": null,
+      "ades": [
+        "EDBM"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/BBG",
+      "toSector": "ed/GER",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "LASGA",
+      "level": 280,
+      "adep": null,
+      "ades": [
+        "EDVE"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/BBG",
+      "toSector": "ed/GER",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "PIBAD",
+      "level": 280,
+      "adep": null,
+      "ades": [
+        "EDVE"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/BBG",
+      "toSector": "ed/GER",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "LASGA",
+      "level": 280,
+      "adep": null,
+      "ades": [
+        "EDBC"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/BBG",
+      "toSector": "ed/GER",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "PIBAD",
+      "level": 280,
+      "adep": null,
+      "ades": [
+        "EDBC"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/BBG",
+      "toSector": "ed/GER",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "PEROX",
+      "level": 250,
+      "adep": null,
+      "ades": [
+        "EDDC"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/HOF",
+      "toSector": "ed/MEI",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "PEROX",
+      "level": 250,
+      "adep": null,
+      "ades": [
+        "EDAB"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/HOF",
+      "toSector": "ed/MEI",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "ARMUT",
+      "level": 270,
+      "adep": null,
+      "ades": [
+        "EDDM"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/HOF",
+      "toSector": "ed/RDG",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "ARMUT",
+      "level": 270,
+      "adep": null,
+      "ades": [
+        "EDMA"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/HOF",
+      "toSector": "ed/RDG",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "ARMUT",
+      "level": 270,
+      "adep": null,
+      "ades": [
+        "EDMO"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/HOF",
+      "toSector": "ed/RDG",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "ALOSO",
+      "level": 210,
+      "adep": [
+        "EDDP"
+      ],
+      "ades": null,
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/GER",
+      "toSector": "ed/HOF",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "BAMKI",
+      "level": 240,
+      "adep": [
+        "EDDP"
+      ],
+      "ades": null,
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/GER",
+      "toSector": "ed/BBG",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "TADUV",
+      "level": 250,
+      "adep": [
+        "EDDE"
+      ],
+      "ades": null,
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/GER",
+      "toSector": "ed/MEI",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "SULED",
+      "level": 250,
+      "adep": [
+        "EDDE"
+      ],
+      "ades": null,
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/GER",
+      "toSector": "ed/MEI",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "ALOSO",
+      "level": 290,
+      "adep": [
+        "EDBC"
+      ],
+      "ades": null,
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/GER",
+      "toSector": "ed/HOF",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "ALOSO",
+      "level": 290,
+      "adep": [
+        "EDBM"
+      ],
+      "ades": null,
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/GER",
+      "toSector": "ed/HOF",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "BAMKI",
+      "level": 290,
+      "adep": [
+        "EDBC"
+      ],
+      "ades": null,
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/GER",
+      "toSector": "ed/BBG",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "BAMKI",
+      "level": 290,
+      "adep": [
+        "EDBM"
+      ],
+      "ades": null,
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/GER",
+      "toSector": "ed/BBG",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "TADUV",
+      "level": 230,
+      "adep": [
+        "EDBC"
+      ],
+      "ades": null,
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/GER",
+      "toSector": "ed/MEI",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "TADUV",
+      "level": 230,
+      "adep": [
+        "EDBM"
+      ],
+      "ades": null,
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/GER",
+      "toSector": "ed/MEI",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "ALOSO",
+      "level": 290,
+      "adep": null,
+      "ades": [
+        "EDMA"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/GER",
+      "toSector": "ed/HOF",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "ALOSO",
+      "level": 290,
+      "adep": null,
+      "ades": [
+        "EDMO"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/GER",
+      "toSector": "ed/HOF",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "ALOSO",
+      "level": 250,
+      "adep": null,
+      "ades": [
+        "ETSI"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/GER",
+      "toSector": "ed/HOF",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "RELKO",
+      "level": 250,
+      "adep": null,
+      "ades": [
+        "ETSI"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/GER",
+      "toSector": "ed/HOF",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "ALOSO",
+      "level": 270,
+      "adep": null,
+      "ades": [
+        "EDMS"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/GER",
+      "toSector": "ed/HOF",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "BAMKI",
+      "level": 210,
+      "adep": null,
+      "ades": [
+        "EDDN"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/GER",
+      "toSector": "ed/BBG",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "ALOSO",
+      "level": 210,
+      "adep": null,
+      "ades": [
+        "EDDN"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/GER",
+      "toSector": "ed/HOF",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "RELKO",
+      "level": 210,
+      "adep": null,
+      "ades": [
+        "EDDN"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/GER",
+      "toSector": "ed/HOF",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "BAMKI",
+      "level": 260,
+      "adep": null,
+      "ades": [
+        "EDDS"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/GER",
+      "toSector": "ed/BBG",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "BAMKI",
+      "level": 260,
+      "adep": null,
+      "ades": [
+        "EDJA"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/GER",
+      "toSector": "ed/BBG",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "BAMKI",
+      "level": 260,
+      "adep": null,
+      "ades": [
+        "EDDR"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/GER",
+      "toSector": "ed/BBG",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "BAMKI",
+      "level": 260,
+      "adep": null,
+      "ades": [
+        "EDFM"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/GER",
+      "toSector": "ed/BBG",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "BAMKI",
+      "level": 260,
+      "adep": null,
+      "ades": [
+        "EDTY"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/GER",
+      "toSector": "ed/BBG",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "BAMKI",
+      "level": 260,
+      "adep": null,
+      "ades": [
+        "EDSN"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/GER",
+      "toSector": "ed/BBG",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "BAMKI",
+      "level": 260,
+      "adep": null,
+      "ades": [
+        "ETAR"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/GER",
+      "toSector": "ed/BBG",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "TALEG",
+      "level": 290,
+      "adep": null,
+      "ades": [
+        "LKPR"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/GER",
+      "toSector": "ed/MEI",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "TALEG",
+      "level": 290,
+      "adep": null,
+      "ades": [
+        "LKKB"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/GER",
+      "toSector": "ed/MEI",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "TALEG",
+      "level": 290,
+      "adep": null,
+      "ades": [
+        "LKVO"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/GER",
+      "toSector": "ed/MEI",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "TALEG",
+      "level": 290,
+      "adep": null,
+      "ades": [
+        "LKPD"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/GER",
+      "toSector": "ed/MEI",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "TALEG",
+      "level": 290,
+      "adep": null,
+      "ades": [
+        "LKCV"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/GER",
+      "toSector": "ed/MEI",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "TALEG",
+      "level": 290,
+      "adep": null,
+      "ades": [
+        "LKHK"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/GER",
+      "toSector": "ed/MEI",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "TALEG",
+      "level": 290,
+      "adep": null,
+      "ades": [
+        "LKMH"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/GER",
+      "toSector": "ed/MEI",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "OSTRA",
+      "level": 290,
+      "adep": null,
+      "ades": [
+        "LKPR"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/GER",
+      "toSector": "ed/MEI",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "OSTRA",
+      "level": 290,
+      "adep": null,
+      "ades": [
+        "LKKB"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/GER",
+      "toSector": "ed/MEI",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "OSTRA",
+      "level": 290,
+      "adep": null,
+      "ades": [
+        "LKVO"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/GER",
+      "toSector": "ed/MEI",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "OSTRA",
+      "level": 290,
+      "adep": null,
+      "ades": [
+        "LKPD"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/GER",
+      "toSector": "ed/MEI",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "OSTRA",
+      "level": 290,
+      "adep": null,
+      "ades": [
+        "LKCV"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/GER",
+      "toSector": "ed/MEI",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "OSTRA",
+      "level": 290,
+      "adep": null,
+      "ades": [
+        "LKHK"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/GER",
+      "toSector": "ed/MEI",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "OSTRA",
+      "level": 290,
+      "adep": null,
+      "ades": [
+        "LKMH"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/GER",
+      "toSector": "ed/MEI",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "BAMKI",
+      "level": 280,
+      "adep": null,
+      "ades": [
+        "LSZH"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/GER",
+      "toSector": "ed/BBG",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "BAMKI",
+      "level": 280,
+      "adep": null,
+      "ades": [
+        "LFSB"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/GER",
+      "toSector": "ed/BBG",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "BAMKI",
+      "level": 280,
+      "adep": null,
+      "ades": [
+        "EDDM"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/GER",
+      "toSector": "ed/BBG",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "ABKIS",
+      "level": 240,
+      "adep": [
+        "EDDC"
+      ],
+      "ades": null,
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/MEI",
+      "toSector": "ed/HOF",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "ABKIS",
+      "level": 240,
+      "adep": [
+        "EDAB"
+      ],
+      "ades": null,
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/MEI",
+      "toSector": "ed/HOF",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "NOKSI",
+      "level": 300,
+      "adep": null,
+      "ades": [
+        "EDJA"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/MEI",
+      "toSector": "ed/HOF",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "ABKIS",
+      "level": 220,
+      "adep": null,
+      "ades": [
+        "EDDN"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/MEI",
+      "toSector": "ed/HOF",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "BEBEX",
+      "level": 180,
+      "adep": null,
+      "ades": [
+        "EDDE"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/MEI",
+      "toSector": "ed/TRS",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "BEBEX",
+      "level": 280,
+      "adep": null,
+      "ades": [
+        "EDDV"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/MEI",
+      "toSector": "ed/GER",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "BEBEX",
+      "level": 280,
+      "adep": null,
+      "ades": [
+        "EDDW"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/MEI",
+      "toSector": "ed/GER",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "BEBEX",
+      "level": 280,
+      "adep": null,
+      "ades": [
+        "ETNW"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/MEI",
+      "toSector": "ed/GER",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "NOKSI",
+      "level": 300,
+      "adep": null,
+      "ades": [
+        "EDDS"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/MEI",
+      "toSector": "ed/HOF",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "DRN",
+      "level": 150,
+      "adep": [
+        "EDDP"
+      ],
+      "ades": null,
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/TRS",
+      "toSector": "ed/SAS",
+      "remarks": "SID",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": null,
+      "level": 100,
+      "adep": [
+        "EDAC"
+      ],
+      "ades": null,
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/TRS",
+      "toSector": "ed/SAS",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "ALOSO",
+      "level": 120,
+      "adep": [
+        "EDAC"
+      ],
+      "ades": null,
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/TRS",
+      "toSector": "ed/FRK",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "ERF",
+      "level": 160,
+      "adep": [
+        "EDDE"
+      ],
+      "ades": null,
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/TRS",
+      "toSector": "ed/FRK",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "NEVKO",
+      "level": 160,
+      "adep": [
+        "EDDE"
+      ],
+      "ades": null,
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/TRS",
+      "toSector": "ed/FRK",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "LASTO",
+      "level": 160,
+      "adep": [
+        "EDDE"
+      ],
+      "ades": null,
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/TRS",
+      "toSector": "ed/TRN",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "GALMA",
+      "level": 190,
+      "adep": [
+        "EDQ*"
+      ],
+      "ades": null,
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/TRN",
+      "toSector": "ed/TRS",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "GALMA",
+      "level": 190,
+      "adep": null,
+      "ades": [
+        "ETIC"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/TRN",
+      "toSector": "ed/TRS",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "BAMKI",
+      "level": 110,
+      "adep": null,
+      "ades": [
+        "EDQ*"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/TRS",
+      "toSector": "ed/FRK",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "ALOSO",
+      "level": 110,
+      "adep": null,
+      "ades": [
+        "EDQ*"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/TRS",
+      "toSector": "ed/FRK",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "RELKO",
+      "level": 110,
+      "adep": null,
+      "ades": [
+        "EDQ*"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/TRS",
+      "toSector": "ed/FRK",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "BAMKI",
+      "level": 110,
+      "adep": null,
+      "ades": [
+        "ETIC"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/TRS",
+      "toSector": "ed/FRK",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "ALOSO",
+      "level": 110,
+      "adep": null,
+      "ades": [
+        "ETIC"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/TRS",
+      "toSector": "ed/FRK",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "RELKO",
+      "level": 110,
+      "adep": null,
+      "ades": [
+        "ETIC"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/TRS",
+      "toSector": "ed/FRK",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "OSKAT",
+      "level": 170,
+      "adep": null,
+      "ades": [
+        "EDDC"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/TRN",
+      "toSector": "ed/TRS",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "OSKAT",
+      "level": 170,
+      "adep": null,
+      "ades": [
+        "EDAB"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/TRN",
+      "toSector": "ed/TRS",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "SULED",
+      "level": 150,
+      "adep": null,
+      "ades": [
+        "EDDC"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/TRS",
+      "toSector": "ed/SAS",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "TADUV",
+      "level": 150,
+      "adep": null,
+      "ades": [
+        "EDDC"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/TRS",
+      "toSector": "ed/SAS",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "SULED",
+      "level": 150,
+      "adep": null,
+      "ades": [
+        "EDAB"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/TRS",
+      "toSector": "ed/SAS",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "TADUV",
+      "level": 150,
+      "adep": null,
+      "ades": [
+        "EDAB"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/TRS",
+      "toSector": "ed/SAS",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "BEBEX",
+      "level": 160,
+      "adep": [
+        "EDDC"
+      ],
+      "ades": null,
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/SAS",
+      "toSector": "ed/TRS",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "BEBEX",
+      "level": 160,
+      "adep": [
+        "EDAB"
+      ],
+      "ades": null,
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/SAS",
+      "toSector": "ed/TRS",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "ABKIS",
+      "level": 110,
+      "adep": null,
+      "ades": [
+        "EDQ*"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/SAS",
+      "toSector": "ed/FRK",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "ABKIS",
+      "level": 110,
+      "adep": null,
+      "ades": [
+        "ETIC"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/SAS",
+      "toSector": "ed/FRK",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "UWBAZ",
+      "level": 120,
+      "adep": null,
+      "ades": [
+        "EDDP"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/SAS",
+      "toSector": "ed/TRN",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "IVQOQ",
+      "level": 120,
+      "adep": null,
+      "ades": [
+        "EDDP"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/SAS",
+      "toSector": "ed/TRS",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "BEBEX",
+      "level": 110,
+      "adep": null,
+      "ades": [
+        "EDAC"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/SAS",
+      "toSector": "ed/TRS",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "BESNI",
+      "level": 310,
+      "adep": [
+        "EDDN"
+      ],
+      "ades": null,
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/NDG",
+      "toSector": "ed/TRU",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "XEBIX",
+      "level": 270,
+      "adep": [
+        "LSZH"
+      ],
+      "ades": null,
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/ZUG",
+      "toSector": "ed/STA",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "LUPOL",
+      "level": 90,
+      "adep": [
+        "EDJA"
+      ],
+      "ades": null,
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/ILR",
+      "toSector": "ed/FUE",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "AKINI",
+      "level": 190,
+      "adep": [
+        "EDDM"
+      ],
+      "ades": null,
+      "transferType": "C",
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/DMNL",
+      "toSector": "ed/RDG",
+      "remarks": "released direct AKINI if RWY26 and active: ED-R 170,  inactive: ED-R 138;\nreleased direct RUDNO if RWY26 and inactive: ED-R 170,  ED-R 138",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "ANKER",
+      "level": 190,
+      "adep": [
+        "EDDM"
+      ],
+      "ades": null,
+      "transferType": "C",
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/DMNL",
+      "toSector": "ed/RDG",
+      "remarks": "released direct AKINI if RWY26 and active: ED-R 170,  inactive: ED-R 138;\nreleased direct RUDNO if RWY26 and inactive: ED-R 170,  ED-R 138",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "EVIVA",
+      "level": 190,
+      "adep": [
+        "EDDM"
+      ],
+      "ades": null,
+      "transferType": "C",
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/DMNL",
+      "toSector": "ed/ALB",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "GIVMI",
+      "level": 190,
+      "adep": [
+        "EDDM"
+      ],
+      "ades": null,
+      "transferType": "C",
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/DMNL",
+      "toSector": "ed/ALB",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "INPUD",
+      "level": 190,
+      "adep": [
+        "EDDM"
+      ],
+      "ades": null,
+      "transferType": "C",
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/DMNL",
+      "toSector": "ed/ALB",
+      "remarks": "released direct UPALA",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "RIDAR",
+      "level": 180,
+      "adep": [
+        "EDDM"
+      ],
+      "ades": null,
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/DMNH",
+      "toSector": "ed/NDG",
+      "remarks": "RWY 08",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "RIDAR",
+      "level": 140,
+      "adep": [
+        "EDDM"
+      ],
+      "ades": null,
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/DMNH",
+      "toSector": "ed/NDG",
+      "remarks": "RWY 26",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "VAVOR",
+      "level": 150,
+      "adep": [
+        "EDDM"
+      ],
+      "ades": null,
+      "transferType": "C",
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/DMSL",
+      "toSector": "ed/TRU",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "ROTAX",
+      "level": 150,
+      "adep": [
+        "EDDM"
+      ],
+      "ades": null,
+      "transferType": "C",
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/DMSH",
+      "toSector": "ed/TRU",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "TULSI",
+      "level": 150,
+      "adep": [
+        "EDMM"
+      ],
+      "ades": null,
+      "transferType": "C",
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/DMSH",
+      "toSector": "ed/TEG",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "TURBU",
+      "level": 150,
+      "adep": [
+        "EDDM"
+      ],
+      "ades": null,
+      "transferType": "C",
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/DMSL",
+      "toSector": "ed/TEG",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "OBAXA",
+      "level": 150,
+      "adep": [
+        "EDDM"
+      ],
+      "ades": null,
+      "transferType": "C",
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/DMSL",
+      "toSector": "ed/TEG",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "OLASO",
+      "level": 190,
+      "adep": [
+        "EDDM"
+      ],
+      "ades": null,
+      "transferType": "C",
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/DMSH",
+      "toSector": "ed/FUE",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "ALG",
+      "level": 190,
+      "adep": [
+        "EDDM"
+      ],
+      "ades": null,
+      "transferType": "C",
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/DMSH",
+      "toSector": "ed/FUE",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "MERSI",
+      "level": 190,
+      "adep": [
+        "EDDM"
+      ],
+      "ades": null,
+      "transferType": "C",
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/DMSH",
+      "toSector": "ed/FUE",
+      "remarks": "released direct UMTEX/RAVED if inactive: TRA Allgäu",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "MIQ",
+      "level": 190,
+      "adep": [
+        "EDDM"
+      ],
+      "ades": null,
+      "transferType": "C",
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/DMNL",
+      "toSector": "ed/ALB",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "BIBAG",
+      "level": 190,
+      "adep": [
+        "EDDM"
+      ],
+      "ades": null,
+      "transferType": "C",
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/DMSH",
+      "toSector": "ed/EGG",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "ROSAB",
+      "level": 170,
+      "adep": null,
+      "ades": [
+        "EDDM"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/EGG",
+      "toSector": "ed/DMNH",
+      "remarks": "RWY 08",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "ROSAB",
+      "level": 110,
+      "adep": null,
+      "ades": [
+        "EDDM"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/EGG",
+      "toSector": "ed/DMNH",
+      "remarks": "RWY 26",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "BESNI",
+      "level": 310,
+      "adep": null,
+      "ades": [
+        "LOWL"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/NDG",
+      "toSector": "ed/EGG",
+      "remarks": "released after/abeam MIQ",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    }
+  ]
+}

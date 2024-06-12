@@ -1,0 +1,48 @@
+{
+  "agreements": [
+    {
+      "cop": "ABGUS",
+      "level": 250,
+      "adep": null,
+      "ades": [
+        "EDDN",
+        "EDQ*"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/SOL",
+      "toSector": "ed/HAL",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "NOMKA",
+      "level": 250,
+      "adep": null,
+      "ades": [
+        "EDDC",
+        "EDDN",
+        "EDAB",
+        "EDAC",
+        "EDQ*",
+        "ETIC"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/SOL",
+      "toSector": "ed/HAL",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    }
+  ]
+}

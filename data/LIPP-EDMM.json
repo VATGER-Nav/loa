@@ -1,0 +1,326 @@
+{
+  "agreements": [
+    {
+      "cop": "BRENO",
+      "level": 300,
+      "adep": null,
+      "ades": [
+        "EDDN",
+        "EDQ*"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "li/LIPP-NE5",
+      "toSector": "ed/TEG",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "UNIMI",
+      "level": 300,
+      "adep": null,
+      "ades": [
+        "LSZH",
+        "EDTM"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "li/LIPP-NE5",
+      "toSector": "ed/TEG",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "SOTOV",
+      "level": 300,
+      "adep": null,
+      "ades": [
+        "LSZH",
+        "EDTM"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "li/LIPP-NE5",
+      "toSector": "ed/TEG",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": null,
+      "level": 300,
+      "adep": null,
+      "ades": [
+        "EDTL",
+        "LSMD",
+        "LOWS"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "li/LIPP-NE5",
+      "toSector": "ed/TEG",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": null,
+      "level": 300,
+      "adep": null,
+      "ades": [
+        "EDTL",
+        "LSMD",
+        "LOWS"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "li/LIPP-NE5",
+      "toSector": "ed/ZUG",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "IVKAL",
+      "level": 300,
+      "adep": null,
+      "ades": [
+        "EDDM"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "li/LIPP-NE5",
+      "toSector": "ed/TEG",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "SOTOV",
+      "level": 300,
+      "adep": null,
+      "ades": [
+        "EDDM"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "li/LIPP-NE5",
+      "toSector": "ed/TEG",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "BRENO",
+      "level": 300,
+      "adep": null,
+      "ades": [
+        "EDDM"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "li/LIPP-NE5",
+      "toSector": "ed/TEG",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "BRENO",
+      "level": 300,
+      "adep": null,
+      "ades": [
+        "ETSI",
+        "ETSN"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "li/LIPP-NE5",
+      "toSector": "ed/TEG",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "BRENO",
+      "level": 260,
+      "adep": null,
+      "ades": [
+        "EDMO"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "li/LIPP-NE5",
+      "toSector": "ed/TEG",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "IVKAL",
+      "level": 260,
+      "adep": null,
+      "ades": [
+        "EDMO"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "li/LIPP-NE5",
+      "toSector": "ed/TEG",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "SOTOV",
+      "level": 260,
+      "adep": null,
+      "ades": [
+        "EDMO"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "li/LIPP-NE5",
+      "toSector": "ed/TEG",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "BRENO",
+      "level": 240,
+      "adep": null,
+      "ades": [
+        "EDMY",
+        "EDME"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "li/LIPP-NE4",
+      "toSector": "ed/TEG",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "BRENO",
+      "level": 260,
+      "adep": null,
+      "ades": [
+        "EDMA",
+        "EDMS"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "li/LIPP-NE5",
+      "toSector": "ed/TEG",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "IVKAL",
+      "level": 260,
+      "adep": null,
+      "ades": [
+        "EDJA",
+        "EDNY",
+        "EDNL",
+        "ETHL",
+        "LSZR"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "li/LIPP-NE5",
+      "toSector": "ed/TEG",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "SOTOV",
+      "level": 260,
+      "adep": null,
+      "ades": [
+        "EDJA",
+        "EDNY",
+        "EDNL",
+        "ETHL",
+        "LSZR"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "li/LIPP-NE5",
+      "toSector": "ed/TEG",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    }
+  ]
+}

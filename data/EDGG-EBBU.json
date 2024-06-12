@@ -1,0 +1,407 @@
+{
+  "agreements": [
+    {
+      "cop": "TIPUT",
+      "level": 220,
+      "adep": null,
+      "ades": [
+        "EBBR",
+        "EBMB",
+        "EBAW",
+        "EBCV",
+        "EBCI",
+        "EBLG",
+        "EHBK",
+        "EHEH"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/KIR",
+      "toSector": "eb-el/LUS",
+      "remarks": "TIPUT at level, released for descend and right turns",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "LIRSU",
+      "level": 220,
+      "adep": null,
+      "ades": [
+        "EBBR",
+        "EBMB",
+        "EBAW",
+        "EBCV",
+        "EBCI",
+        "EBLG",
+        "EHBK",
+        "EHEH"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/RUD",
+      "toSector": "eb-el/ELS",
+      "remarks": "LIRSU at level",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "STAR",
+      "level": 90,
+      "adep": null,
+      "ades": [
+        "ELLX"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/EIF",
+      "toSector": "eb-el/XA",
+      "remarks": "See EDGG - EBBU 4.2 “Flexible use of airspace for ELLX arrivals",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "NETEX",
+      "level": 210,
+      "adep": [
+        "EDDL",
+        "EDLV"
+      ],
+      "ades": null,
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/BOT",
+      "toSector": "eb-el/ELS",
+      "remarks": "if able, else ↑FL180, released for climb and right turns",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "GEBSO",
+      "level": 220,
+      "adep": null,
+      "ades": [
+        "EBBR",
+        "EBMB",
+        "EBCI",
+        "EBAW",
+        "ELLX",
+        "EHEH",
+        "EHGR"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/NOR",
+      "toSector": "eb-el/ELS",
+      "remarks": "released for turns and descend to FL200",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "BITBU",
+      "level": 220,
+      "adep": null,
+      "ades": [
+        "EBBR",
+        "EBMB",
+        "EBAW",
+        "EBCV",
+        "EBCI",
+        "EBLG",
+        "EHBK",
+        "EHEH"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/KIR",
+      "toSector": "eb-el/LUS",
+      "remarks": "BITBU at level, released for descend and right turns",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "MODRU",
+      "level": 100,
+      "adep": [
+        "EDLN"
+      ],
+      "ades": null,
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/BOT",
+      "toSector": "eb-el/ELS",
+      "remarks": "released for climb and right turns",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "NETEX",
+      "level": 100,
+      "adep": [
+        "EDLN"
+      ],
+      "ades": null,
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/BOT",
+      "toSector": "eb-el/ELS",
+      "remarks": "released for climb and right turns",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "MODRU",
+      "level": 210,
+      "adep": [
+        "EDDL",
+        "EDLV"
+      ],
+      "ades": null,
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/BOT",
+      "toSector": "eb-el/ELS",
+      "remarks": "if able, else ↑FL180, released for climb and right turns",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "LIRSU",
+      "level": 220,
+      "adep": null,
+      "ades": [
+        "EBBR",
+        "EBMB",
+        "EBAW",
+        "EBCV",
+        "EBCI",
+        "EBLG",
+        "EHBK",
+        "EHEH"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/RUD",
+      "toSector": "eb-el/ELS",
+      "remarks": "LIRSU at level",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "KENUM",
+      "level": 200,
+      "adep": [
+        "EDDK"
+      ],
+      "ades": null,
+      "transferType": "C",
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/NOR",
+      "toSector": "eb-el/ELS",
+      "remarks": "released for turns",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "AGENI",
+      "level": 160,
+      "adep": null,
+      "ades": [
+        "EBBR",
+        "EBMB",
+        "EBCI",
+        "EBAW",
+        "ELLX",
+        "EHEH",
+        "EHGR"
+      ],
+      "transferType": "D",
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/NOR",
+      "toSector": "eb-el/ELS",
+      "remarks": "out of FL180, released for descend to FL110",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "AGENI",
+      "level": 120,
+      "adep": null,
+      "ades": [
+        "EBLG"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/NOR",
+      "toSector": "eb-el/ELS",
+      "remarks": "released for descend to FL110",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "NAVAK",
+      "level": 200,
+      "adep": [
+        "EDDK"
+      ],
+      "ades": null,
+      "transferType": "C",
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/NOR",
+      "toSector": "eb-el/ELS",
+      "remarks": "released for turns",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "NAVAK",
+      "level": 200,
+      "adep": [
+        "EDLW"
+      ],
+      "ades": null,
+      "transferType": "C",
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/NOR",
+      "toSector": "eb-el/ELS",
+      "remarks": "released for turns",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "ROMIN",
+      "level": 120,
+      "adep": null,
+      "ades": [
+        "EBAW"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/BOT",
+      "toSector": "eb-el/ELS",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "STAR",
+      "level": 90,
+      "adep": null,
+      "ades": [
+        "ELLX"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/PFA",
+      "toSector": "eb-el/XA",
+      "remarks": "See EDGG - EBBU 4.2 “Flexible use of airspace for ELLX arrivals",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "BITBU",
+      "level": 180,
+      "adep": [
+        "EDFH"
+      ],
+      "ades": null,
+      "transferType": "C",
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/KIR",
+      "toSector": "eb-el/LUS",
+      "remarks": "released for climb",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "KENUM",
+      "level": 200,
+      "adep": [
+        "EDLW"
+      ],
+      "ades": null,
+      "transferType": "C",
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/NOR",
+      "toSector": "eb-el/ELS",
+      "remarks": "released for turns",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    }
+  ]
+}

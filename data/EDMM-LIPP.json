@@ -1,0 +1,513 @@
+{
+  "agreements": [
+    {
+      "cop": "TOBSO",
+      "level": 310,
+      "adep": [
+        "EDDM"
+      ],
+      "ades": null,
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/TEG",
+      "toSector": "li/LIPP-NE6",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "LIKDA",
+      "level": 310,
+      "adep": [
+        "EDDM"
+      ],
+      "ades": null,
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/TEG",
+      "toSector": "li/LIPP-NE6",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "GOGEM",
+      "level": 310,
+      "adep": [
+        "EDDM"
+      ],
+      "ades": null,
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/TEG",
+      "toSector": "li/LIPP-NE6",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "NATAG",
+      "level": 310,
+      "adep": [
+        "EDDM"
+      ],
+      "ades": null,
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/ZUG",
+      "toSector": "li/LIPP-NE6",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "OLPIX",
+      "level": 310,
+      "adep": [
+        "LOWS",
+        "EDMA"
+      ],
+      "ades": null,
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/TEG",
+      "toSector": "li/LIPP-NE6",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "LIKDA",
+      "level": 310,
+      "adep": [
+        "LOWS",
+        "EDMA"
+      ],
+      "ades": null,
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/TEG",
+      "toSector": "li/LIPP-NE6",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "NATAG",
+      "level": 270,
+      "adep": [
+        "EDMO",
+        "EDJA",
+        "EDNY",
+        "LSZR"
+      ],
+      "ades": null,
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/ZUG",
+      "toSector": "li/LIPP-NE5",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "OLPIX",
+      "level": 270,
+      "adep": [
+        "EDMO",
+        "EDJA",
+        "EDNY",
+        "LSZR"
+      ],
+      "ades": null,
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/TEG",
+      "toSector": "li/LIPP-NE5",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "LIKDA",
+      "level": 270,
+      "adep": [
+        "EDMO",
+        "EDJA",
+        "EDNY",
+        "LSZR"
+      ],
+      "ades": null,
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/TEG",
+      "toSector": "li/LIPP-NE5",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "GIRIS",
+      "level": 270,
+      "adep": [
+        "EDMO",
+        "EDJA",
+        "EDNY",
+        "LSZR"
+      ],
+      "ades": null,
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/ZUG",
+      "toSector": "li/LIPP-NE5",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "NATAG",
+      "level": 290,
+      "adep": [
+        "LSZH",
+        "LSMD"
+      ],
+      "ades": null,
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/ZUG",
+      "toSector": "li/LIPP-NE5",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "DIRAB",
+      "level": 290,
+      "adep": [
+        "LSZH",
+        "LSMD"
+      ],
+      "ades": null,
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/ZUG",
+      "toSector": "li/LIPP-NE5",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "GIRIS",
+      "level": 290,
+      "adep": [
+        "LSZH",
+        "LSMD"
+      ],
+      "ades": null,
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/ZUG",
+      "toSector": "li/LIPP-NE5",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "NATAG",
+      "level": 290,
+      "adep": null,
+      "ades": [
+        "LIME"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/ZUG",
+      "toSector": "li/LIPP-NE5",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "OLPIX",
+      "level": 290,
+      "adep": null,
+      "ades": [
+        "LSZS"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/TEG",
+      "toSector": "li/LIPP-NE5",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "NATAG",
+      "level": 310,
+      "adep": null,
+      "ades": [
+        "LIML",
+        "LIMC"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/ZUG",
+      "toSector": "li/LIPP-NE6",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "NATAG",
+      "level": 290,
+      "adep": null,
+      "ades": [
+        "LIPA",
+        "LIPH",
+        "LIPZ",
+        "LIPO",
+        "LIPX"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/ZUG",
+      "toSector": "li/LIPP-NE5",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "OLPIX",
+      "level": 290,
+      "adep": null,
+      "ades": [
+        "LIPA",
+        "LIPH",
+        "LIPZ",
+        "LIPO",
+        "LIPX"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/TEG",
+      "toSector": "li/LIPP-NE5",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "LIKDA",
+      "level": 290,
+      "adep": null,
+      "ades": [
+        "LIPA",
+        "LIPH",
+        "LIPZ",
+        "LIPO",
+        "LIPX"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/TEG",
+      "toSector": "li/LIPP-NE5",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "TOBSO",
+      "level": 290,
+      "adep": null,
+      "ades": [
+        "LIPA",
+        "LIPH",
+        "LIPZ",
+        "LIPO",
+        "LIPX"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/TEG",
+      "toSector": "li/LIPP-NE5",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "NATAG",
+      "level": 230,
+      "adep": null,
+      "ades": [
+        "LIPB"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/ZUG",
+      "toSector": "li/LIPP-NE4",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "OLPIX",
+      "level": 230,
+      "adep": null,
+      "ades": [
+        "LIPB"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/TEG",
+      "toSector": "li/LIPP-NE4",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "LIKDA",
+      "level": 230,
+      "adep": null,
+      "ades": [
+        "LIPB"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/TEG",
+      "toSector": "li/LIPP-NE4",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "TOBSO",
+      "level": 230,
+      "adep": null,
+      "ades": [
+        "LIPB"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/TEG",
+      "toSector": "li/LIPP-NE4",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "GIRIS",
+      "level": 230,
+      "adep": null,
+      "ades": [
+        "LIPB"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/ZUG",
+      "toSector": "li/LIPP-NE4",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    }
+  ]
+}

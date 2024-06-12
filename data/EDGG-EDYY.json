@@ -1,0 +1,183 @@
+{
+  "agreements": [
+    {
+      "cop": "OBOKA",
+      "level": 260,
+      "adep": [
+        "EDDF",
+        "EDFE"
+      ],
+      "ades": null,
+      "transferType": "C",
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/NOR",
+      "toSector": "ed/RHR",
+      "remarks": "NOR sector responsible for separation between this flow and outbounds Brussels FIR",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "OSN",
+      "level": 240,
+      "adep": [
+        "EDLP"
+      ],
+      "ades": null,
+      "transferType": "C",
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/HMM",
+      "toSector": "ed/MNS",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "MEVEL",
+      "level": 240,
+      "adep": [
+        "EDDL",
+        "EDL*"
+      ],
+      "ades": null,
+      "transferType": "C",
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/HMM",
+      "toSector": "ed/MNS",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "ELDAR",
+      "level": 240,
+      "adep": [
+        "EBBR",
+        "EB*"
+      ],
+      "ades": null,
+      "transferType": "C",
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/NOR",
+      "toSector": "ed/RHR",
+      "remarks": "NOR sector responsible for separation between this flow and outbound EDDF, EDFE",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "LUSIX",
+      "level": 240,
+      "adep": [
+        "EHEH",
+        "EHBK"
+      ],
+      "ades": null,
+      "transferType": "C",
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/BOT",
+      "toSector": "ed/RHR",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "AMOSU",
+      "level": 240,
+      "adep": [
+        "EDLP",
+        "EDDG",
+        "ELDS"
+      ],
+      "ades": null,
+      "transferType": "C",
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/BOT",
+      "toSector": "ed/RHR",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "WRB",
+      "level": 240,
+      "adep": [
+        "EDDK"
+      ],
+      "ades": null,
+      "transferType": "C",
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/PADH",
+      "toSector": "ed/SOL",
+      "remarks": "If RFL above FL240 | RLSD by MUN for climb FL270",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "BAGDO",
+      "level": 240,
+      "adep": [
+        "EDDF",
+        "EDFE"
+      ],
+      "ades": null,
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/PADH",
+      "toSector": "ed/MNS",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "BADGO",
+      "level": 240,
+      "adep": [
+        "EDDF",
+        "EDFE"
+      ],
+      "ades": null,
+      "transferType": "C",
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/PADH",
+      "toSector": "ed/MNS",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    }
+  ]
+}

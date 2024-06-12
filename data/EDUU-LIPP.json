@@ -1,0 +1,104 @@
+{
+  "agreements": [
+    {
+      "cop": "OLPIX",
+      "level": 330,
+      "adep": null,
+      "ades": [
+        "LIME"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/ALP1",
+      "toSector": "li/LIPP-NE6",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "LIKDA",
+      "level": 330,
+      "adep": null,
+      "ades": [
+        "LIME"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/ALP1",
+      "toSector": "li/LIPP-NE6",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "NATAG",
+      "level": 330,
+      "adep": null,
+      "ades": [
+        "LIPE",
+        "LIPK",
+        "LIMP"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/ALP1",
+      "toSector": "li/LIPP-NE6",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "OLPIX",
+      "level": 330,
+      "adep": null,
+      "ades": [
+        "LIPE",
+        "LIPK. LIMP"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/ALP1",
+      "toSector": "li/LIPP-NE6",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    },
+    {
+      "cop": "LIKDA",
+      "level": 330,
+      "adep": null,
+      "ades": [
+        "LIPE",
+        "LIPK",
+        "LIMP"
+      ],
+      "transferType": null,
+      "qnh": null,
+      "vertical": false,
+      "fromSector": "ed/ALP1",
+      "toSector": "li/LIPP-NE6",
+      "remarks": "",
+      "rfl": null,
+      "runways": null,
+      "routeBefore": null,
+      "routeAfter": null,
+      "releases": null
+    }
+  ]
+}
