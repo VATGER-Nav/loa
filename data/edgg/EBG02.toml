@@ -1,0 +1,168 @@
+# EBG 02 - BAD, LBU, MAN, NKRH, NKRL
+
+# Arrivals:
+[[agreement]]
+ades = ["EDFH"]
+cop = "NOKDI"
+level = 16000
+remarks = "released passing abeam NOKDI"
+fromSector = "ed/MAN"
+toSector = "ed/KIR"
+
+[[agreement]]
+ades = ["EDDK"]
+cop = "ASKIK"
+level = 0             # FIXME: LoA says any even level, data model does not allow representation
+fromSector = "ed/MAN"
+toSector = "ed/TAU"
+
+[[agreement]]
+remarks = "flight may be cleared DCT XIDOD (RWY26/27) or DCT RMS (08/09)"
+ades = ["ETAR"]
+cop = "RINEX"
+# FIXME: LoA says level subject to coordination
+level = 0
+fromSector = "ed/NKRL"
+toSector = "ed/PFA"
+
+[[agreement]]
+ades = ["EDDR", "EDRZ"]
+# FIXME: LoA says level subject to coordination
+level = 0
+remarks = "flight may be cleared DCT ZWN"
+fromSector = "ed/NKRH"
+toSector = "ed/PFA"
+
+[[agreement]]
+ades = ["EDDS"]
+cop = "INKAM"
+level = 13000
+transferType = "D"
+releases = "F"
+remarks = "Leveled abeam INKAM"
+fromSector = "ed/NKRH"
+toSector = "ed/STG"
+
+[[agreement]]
+ades = ["EDDS", "EDTY", "EDSB", "EDJA", "EDRY", "EDTD", "EDTM"]
+level = 15000
+remarks = "Flights to EDSB may be cleared DCT KRH, lower level can be coordinated with STG/REU"
+fromSector = "ed/LBU"                                                                           # FIXME: missing BAD 
+toSector = "ed/STG"                                                                             # FIXME: missing REU
+
+[[agreement]]
+ades = ["EDFH"]
+cop = "ETASA"
+level = 24000
+remarks = "Leveled abeam INKAM"
+fromSector = "ed/LBU"
+toSector = "ed/NKRH"
+
+[[agreement]]
+ades = ["ETAR", "EDDR"]
+cop = "ETASA"
+level = 15000
+transferType = "D"
+fromSector = "ed/LBU"
+toSector = "ed/NKRH"
+
+[[agreement]]
+ades = ["ETAR", "EDDR"]
+cop = "LBU"
+level = 15000
+transferType = "D"
+fromSector = "ed/LBU"
+toSector = "ed/NKRH"
+
+[[agreement]]
+ades = ["EDDF"]
+cop = "XINLA"
+level = 15000
+transferType = "D"
+remarks = "descending via STAR"
+fromSector = "ed/LBU"
+toSector = "ed/KNG"
+
+[[agreement]]
+ades = ["EDDF"]
+cop = "LBU"
+level = 15000
+transferType = "D"
+remarks = "descending via STAR"
+fromSector = "ed/LBU"
+toSector = "ed/KNG"
+
+[[agreement]]
+ades = ["EDDE"]
+cop = "LAMPU"
+level = 22000
+fromSector = "ed/LBU"
+toSector = "ed/DKB"
+
+[[agreement]]
+ades = ["EDDN"]
+cop = "DKB"
+level = 19000
+fromSector = "ed/LBU"
+toSector = "ed/DKB"
+
+[[agreement]]
+ades = ["LFSB"]
+cop = "DENEL"
+level = 14000
+transferType = "D"
+fromSector = "ed/BAD"
+toSector = "ed/REU"
+
+# Departures:
+[[agreement]]
+adep = ["EDDF"]
+cop = "BADLI"
+level = 20000
+transferType = "C"
+remarks = "Flights may be directly transferred to EDUU SLN, approved to cross BAD FL200+"
+fromSector = "ed/NKRH"
+toSector = "ed/BAD"
+
+[[agreement]]
+adep = ["EDDS"]
+cop = "ABGAN"
+level = 24000
+transferType = "C"
+fromSector = "ed/LBU"
+toSector = "ed/NKRH"
+
+[[agreement]]
+adep = ["EDDS"]
+cop = "DKB"
+level = 20000
+transferType = "C"
+remarks = "released, out of FL180"
+fromSector = "ed/LBU"
+toSector = "ed/DKB"
+
+[[agreement]]
+adep = ["EDDS"]
+cop = "GEBNO"
+level = 20000
+transferType = "C"
+remarks = "released, out of FL180"
+fromSector = "ed/LBU"
+toSector = "ed/DKB"
+
+[[agreement]]
+adep = ["EDDS"]
+cop = "OKIBA"
+level = 20000
+transferType = "C"
+remarks = "released, out of FL180"
+fromSector = "ed/LBU"
+toSector = "ed/KNG"
+
+[[agreement]]
+adep = ["EDFM"]
+cop = "UMDAS"
+level = 11000
+transferType = "C"
+fromSector = "ed/NKRL"
+toSector = "ed/KNG"
