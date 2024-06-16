@@ -1,0 +1,170 @@
+# EBG 01 - DLA, DLD, BOT
+
+# Arrivals:
+[[agreement]]
+cop = "PISAP"
+ades = ["EDDL"]
+level = 13000
+releases = "F"
+fromSector = "ed/BOT"
+toSector = "ed/DLA"
+
+[[agreement]]
+cop = "DOMEG"
+ades = ["EDDG"]
+level = 19000
+transferType = "D"
+releases = "F"
+remarks = "expect HMM at FL90"
+fromSector = "ed/BOT"
+toSector = "ed/HMM"
+
+[[agreement]]
+cop = "BAMSU"
+ades = ["EDDG"]
+level = 19000
+transferType = "D"
+releases = "F"
+remarks = "expect HMM at FL90, BAMSU#J STAR has to be cleared by BOT if not otherwise coordinated verbally."
+fromSector = "ed/BOT"
+toSector = "ed/HMM"
+
+[[agreement]]
+cop = "PADBA"
+ades = ["EDLW"]
+level = 7000
+transferType = "D"
+releases = "F"
+remarks = "PADBA#H STAR has to be cleared by DLD if not otherwise coordinated verbally."
+fromSector = "ed/DLA"
+toSector = "ed/PADL"
+
+[[agreement]]
+cop = "PADBA"
+ades = ["EDLP"]
+level = 13000
+transferType = "D"
+releases = "F"
+remarks = "PADBA#H STAR has to be cleared by DLD if not otherwise coordinated verbally."
+fromSector = "ed/DLD"
+toSector = "ed/PADL"
+
+[[agreement]]
+cop = "NEREL"
+ades = ["EBBU FIR", "ELLX", "EBLG"] # TODO: are FIRs a valid ADES?
+level = 22000
+transferType = "D"
+releases = "F"
+remarks = "out of FL240"
+fromSector = "ed/BOT"
+toSector = "ed/NOR"
+
+# Departures:
+[[agreement]]
+cop = "ELBAL"
+routeAfter = "DODEN"
+adep = ["EDDL", "EDLN"]
+level = 20000
+transferType = "C"
+releases = "C"
+remarks = "released for turns south"
+fromSector = "ed/DLD"
+toSector = "ed/SIG"
+
+[[agreement]]
+cop = "DEGOM"
+routeAfter = "KUMIK"
+adep = ["EDDL", "EDLN"]
+level = 20000
+transferType = "C"
+releases = "C"
+remarks = "released for turns south"
+fromSector = "ed/DLD"
+toSector = "ed/SIG"
+
+[[agreement]]
+cop = "LIPMI"
+routeAfter = "COL"
+adep = ["EDDL", "EDLN"]
+level = 19000
+transferType = "C"
+releases = "C"
+remarks = "released for turns south"
+fromSector = "ed/DLD"
+toSector = "ed/TAU"
+
+[[agreement]]
+cop = "ELBAL"
+adep = ["ETNG"]
+level = 24000
+transferType = "C"
+releases = "C"
+remarks = "released for turns south"
+fromSector = "ed/DLD"
+toSector = "ed/SIG"
+
+[[agreement]]
+cop = "NVO"
+runway = ["23L", "23R"]
+adep = ["EDDL"]
+level = 5000
+qnh = "EDDL"
+transferType = "C"
+fromSector = "ed/DLD"
+toSector = "ed/DKA"
+
+[[agreement]]
+cop = "NVO"
+runway = ["05R", "05L"]
+adep = ["EDDL"]
+level = 8000
+transferType = "C"
+fromSector = "ed/DLD"
+toSector = "ed/DKA"
+
+[[agreement]]
+cop = "MAMIB"
+routeAfter = "NUDGO"
+adep = ["EDDL"]
+level = 17000
+transferType = "C"
+remarks = "out of FL140. In case aircraft is not able to reach FL140 at border, prior crossing approval by PADL has to be coordinated."
+fromSector = "ed/DLD"
+toSector = "ed/PADH"
+
+[[agreement]]
+cop = "MEVEL"
+adep = ["EDDL"]
+level = 19000
+transferType = "C"
+releases = "F"
+remarks = "BOT may clear traffic on MEVEL SID direct to MEVEL"
+fromSector = "ed/BOT"
+toSector = "ed/HMM"
+
+[[agreement]]
+cop = "GMH"
+adep = ["EDDL"]
+level = 11000
+transferType = "C"
+fromSector = "ed/DLD"
+toSector = "ed/PADL"
+
+[[agreement]]
+cop = "NVO"
+adep = ["EDLN"]
+level = 5000
+qnh = "EDLN"
+transferType = "C"
+releases = "F"
+fromSector = "ed/DLA"
+toSector = "ed/DKA"
+
+[[agreement]]
+cop = "BAMSU"
+adep = ["EDLW"]
+level = 15000
+transferType = "C"
+releases = "F"
+fromSector = "ed/DLD"
+toSector = "ed/DKA"
