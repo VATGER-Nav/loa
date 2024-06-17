@@ -1,0 +1,243 @@
+# EBG 06 - PADH, PADL, HMM
+
+# Arrivals:
+[[agreement]]
+ades = ["EDLW"]
+cop = "BADGO"
+level = 14000
+fromSector = "ed/PADH"
+toSector = "ed/PADL"
+
+[[agreement]]
+ades = ["EDLW"]
+cop = "TINSA"
+level = 14000
+remarks = "10NM prior COP at level"
+fromSector = "ed/PADH"
+toSector = "ed/PADL"
+
+[[agreement]]
+ades = ["EDVK"]
+cop = "ESADU"
+level = 14000
+remarks = "10NM prior COP at level"
+fromSector = "ed/PADH"
+toSector = "ed/PADL"
+
+[[agreement]]
+ades = ["EDVK"]
+cop = "PELUN"
+level = 14000
+remarks = "10NM prior COP at level"
+fromSector = "ed/PADH"
+toSector = "ed/PADL"
+
+[[agreement]]
+ades = ["EDDG"]
+cop = "HMM"
+level = 14000
+transferType = "D"
+remarks = "expect FL090 HMM at level"
+fromSector = "ed/PADH"
+toSector = "ed/HMM"
+
+
+[[agreement]]
+remarks = "PADH may clear traffic DCT KOPAG; DKA may request KOPAG-arrival for runway 24 with FL090 at KOPAG, after KOPAG DCT WYP for arrival runway 31, or after KOPAG DCT COL for arrival runway 13"
+ades = ["EDDK"]
+cop = "KOPAG"
+level = 12000
+transferType = "D"
+fromSector = "ed/PADH"
+toSector = "ed/DKA"
+
+[[agreement]]
+ades = ["EDDL"]
+cop = "DOMUX"
+level = 14000
+transferType = "D"
+remarks = "released by PADL for turn and descend to FL100; PADH may clear traffic DCT DOMUX as long as new track remains Northeast of PADBA"
+fromSector = "ed/PADH"
+toSector = "ed/DLA"
+
+[[agreement]]
+ades = ["EDDL"]
+cop = "HALME"
+level = 14000
+transferType = "D"
+releases = "F"
+fromSector = "ed/HMM"
+toSector = "ed/DLA"
+
+[[agreement]]
+ades = ["EDLP"]
+cop = "EXOBA"
+level = 7000
+fromSector = "ed/HMM"
+toSector = "ed/PADL"
+
+[[agreement]]
+ades = ["EDLW"]
+cop = "DOMEG"
+level = 8000
+remarks = "DOMEG#A star has to be cleared if not otherwise coordinated verbally"
+fromSector = "ed/HMM"
+toSector = "ed/PADL"
+
+[[agreement]]
+ades = ["EHEH"]
+cop = "DOMEG"
+level = 20000
+transferType = "D"
+releases = "F"
+fromSector = "ed/HMM"
+toSector = "ed/BOT"
+
+[[agreement]]
+ades = ["EHEH"]
+cop = "SUVOX"
+level = 20000
+transferType = "D"
+releases = "F"
+fromSector = "ed/HMM"
+toSector = "ed/BOT"
+
+[[agreement]]
+ades = ["EDDK"]
+cop = "TUVTI"
+level = 16000
+fromSector = "ed/HMM"
+toSector = "ed/PADH"
+
+[[agreement]]
+ades = ["EDDK"]
+cop = "ERNEP"
+level = 10000
+fromSector = "ed/PADL"
+toSector = "ed/DKA"
+
+# Departures:
+[[agreement]]
+adep = ["EDLW"]
+cop = "BAMSU"
+level = 8000
+runways = ["05L", "05R"]
+fromSector = "ed/PADL"
+toSector = "ed/DLD"
+
+[[agreement]]
+adep = ["EDLW"]
+cop = "BAMSU"
+level = 5000
+qnh = "EDLW"
+runways = ["23L", "23R"]
+fromSector = "ed/PADL"
+toSector = "ed/DLA"
+
+[[agreement]]
+adep = ["EDLW"]
+cop = "GMH"
+level = 11000
+transferType = "C"
+releases = "C"
+fromSector = "ed/PADL"
+toSector = "ed/PADH"
+
+[[agreement]]
+adep = ["EDLW"]
+cop = "NUDGO"
+level = 13000
+transferType = "C"
+fromSector = "ed/PADL"
+toSector = "ed/PADH"
+
+[[agreement]]
+adep = ["EDLW"]
+cop = "OSN"
+level = 7000
+transferType = "C"
+fromSector = "ed/PADL"
+toSector = "ed/HMM"
+
+[[agreement]]
+adep = ["EDLW", "EDLP"]
+cop = "DOMEG"
+level = 7000
+transferType = "C"
+remarks = "If ED-R inactive, PADL may coordinate higher level with HMM"
+fromSector = "ed/PADL"
+toSector = "ed/HMM"
+
+[[agreement]]
+adep = ["EDLW", "EDLP"]
+cop = "HMM"
+level = 7000
+transferType = "C"
+remarks = "If ED-R inactive, PADL may coordinate higher level with HMM"
+fromSector = "ed/PADL"
+toSector = "ed/HMM"
+
+[[agreement]]
+adep = ["EDLP"]
+cop = "TINSA"
+level = 12000
+transferType = "C"
+fromSector = "ed/PADL"
+toSector = "ed/PADH"
+
+[[agreement]]
+adep = ["EDVK"]
+cop = "TINSA"
+level = 13000
+fromSector = "ed/PADL"
+toSector = "ed/PADH"
+
+[[agreement]]
+adep = ["EDVK"]
+cop = "RUNER"
+level = 13000
+fromSector = "ed/PADL"
+toSector = "ed/PADH"
+
+[[agreement]]
+adep = ["EDLP"]
+cop = "GISDI"
+level = 13000
+transferType = "C"
+remarks = "out of FL100"
+fromSector = "ed/PADL"
+toSector = "ed/GIN"
+
+[[agreement]]
+adep = ["EDDL", "EDLN"]
+cop = "GMH"
+level = 11000
+# TODO: RFL 140 or less
+fromSector = "ed/PADL"
+toSector = "ed/SIG"
+
+[[agreement]]
+adep = ["EDLW"]
+cop = "GMH"
+level = 19000
+transferType = "C"
+remarks = "out of FL180"
+fromSector = "ed/PADH"
+toSector = "ed/SIG"
+
+[[agreement]]
+adep = ["EDDG"]
+cop = "HMM"
+# FIXME: subject to coordination
+level = 0
+remarks = "flights via HMM and DOMEG into PADH are subject to coordination"
+fromSector = "ed/HMM"
+toSector = "ed/PADH"
+
+[[agreement]]
+adep = ["EDDG", "EDLP"]
+cop = "DOMEG"
+level = 18000
+transferType = "C"
+fromSector = "ed/HMM"
+toSector = "ed/DLA"
