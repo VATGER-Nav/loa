@@ -1,0 +1,144 @@
+# EBG 04 - DKB, HAB, KNG, KTG, PSA
+
+# Arrivals:
+[[agreement]]
+ades = ["EDDF"]
+cop = "ADNIS"
+level = 10000
+releases = "F"
+fromSector = "ed/PSA"
+toSector = "ed/DFAS"
+
+[[agreement]]
+ades = ["EDDF"]
+cop = "EMPAX"
+level = 10000
+releases = "F"
+fromSector = "ed/PSA"
+toSector = "ed/DFAS"
+
+[[agreement]]
+ades = ["EDDF"]
+cop = "SUPIX"
+level = 10000
+releases = "F"
+fromSector = "ed/PSA"
+toSector = "ed/DFAS"
+
+[[agreement]]
+ades = ["EDDF"]
+cop = "SUPIX"
+level = 11000
+transferType = "D"
+remarks = "released SYD EMPAX; RWY25 in use: SPESA at level, RWY07 in use: CHA at level"
+fromSector = "ed/PSA"
+toSector = "ed/DFAS"
+
+[[agreement]]
+ades = ["EDDF"]
+cop = "DEBHI"
+level = 11000
+transferType = "D"
+remarks = "released SYD EMPAX; RWY25 in use: SPESA at level, RWY07 in use: CHA at level"
+fromSector = "ed/PSA"
+toSector = "ed/DFAS"
+
+[[agreement]]
+ades = ["EDFM", "EDRY"]
+cop = "TOSTU"
+level = 9000
+fromSector = "ed/KTG"
+toSector = "ed/KNG"
+
+[[agreement]]
+ades = ["EDFM", "EDRY"]
+cop = "KETEG"
+level = 8000
+releases = "D"
+fromSector = "ed/KNG"
+toSector = "ed/NKRL"
+
+[[agreement]]
+ades = ["EDSB"]
+cop = "KETEG"
+level = 20000
+fromSector = "ed/KNG"
+toSector = "ed/NKRH"
+
+[[agreement]]
+ades = ["EDDR", "EDRZ", "ETAR"]
+cop = "KETEG"
+level = 12000
+fromSector = "ed/KNG"
+toSector = "ed/NKRH"
+
+[[agreement]]
+ades = ["EDDS", "EDTY", "EDJA", "EDMA", "EDMO", "ETSI", "ETSL", "ETSN"]
+cop = "NIKUT"
+level = 20000
+fromSector = "ed/HAB"
+toSector = "ed/DKB"
+
+
+[[agreement]]
+ades = ["EDDR"]
+cop = "BAMTO"
+level = 16000
+fromSector = "ed/HAB"
+toSector = "ed/MAN"
+
+
+[[agreement]]
+ades = ["EDFH", "EDSB", "EDTL"]
+routeBefore = "Z93"
+cop = "KOSEK"
+level = 20000
+fromSector = "ed/HAB"
+toSector = "ed/MAN"
+
+
+[[agreement]]
+ades = ["EDDS"]
+cop = "GEBNO"
+level = 12000
+releases = "F"
+fromSector = "ed/DKB"
+toSector = "ed/STG"
+
+
+[[agreement]]
+ades = ["EDTY"]
+level = 11000
+transferType = "D"
+releases = "F"
+fromSector = "ed/DKB"
+toSector = "ed/STG"
+
+# Departures:
+[[agreement]]
+adep = ["EDDF"]
+cop = "GIBSA"
+level = 17000
+releases = "T"
+remarks = "released for climbs to FL190"
+fromSector = "ed/KNG"
+toSector = "ed/KTG"
+
+
+[[agreement]]
+adep = ["EDDF"]
+cop = "SULUS"
+level = 17000
+releases = "T"
+remarks = "released for climbs to FL190"
+fromSector = "ed/KNG"
+toSector = "ed/KTG"
+
+
+[[agreement]]
+adep = ["EDDN"]
+cop = "DKB"
+level = 23000
+remarks = "with RFL260+ traffic may skip LBU with prior approval request and go directly to EDUU"
+fromSector = "ed/DKB"
+toSector = "ed/LBU"
