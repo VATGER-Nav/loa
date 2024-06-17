@@ -1,0 +1,130 @@
+# EBG 05 - RUD, KIR, PFA, EIF
+
+# Arrivals:
+[[agreement]]
+ades = ["EDDF"]
+cop = "RAMOB"
+level = 11000
+remarks = "northern STAR"
+fromSector = "ed/RUD"
+toSector = "ed/DFAN"
+
+
+[[agreement]]
+ades = ["EDDF"]
+cop = "RAMOB"
+level = 13000
+remarks = "southern STAR"
+fromSector = "ed/RUD"
+toSector = "ed/DFAN"
+
+
+[[agreement]]
+ades = ["EDLN"]
+cop = "RASVO"
+level = 20000
+fromSector = "ed/RUD"
+toSector = "ed/NOR"
+
+
+[[agreement]]
+ades = ["EDDK"]
+cop = "NIVNU"
+level = 18000
+fromSector = "ed/RUD"
+toSector = "ed/DKA"
+
+
+[[agreement]]
+ades = ["EDDK"]
+cop = "RASVO"
+level = 14000
+fromSector = "ed/EIF"
+toSector = "ed/DKA"
+
+
+[[agreement]]
+ades = ["ETNN"]
+level = 10000
+transferType = "D"
+releases = "F"
+fromSector = "ed/EIF"
+toSector = "ed/DKA"
+
+
+[[agreement]]
+ades = ["ELLX"]
+cop = "ODVUX"
+level = 16000
+transferType = "D"
+fromSector = "ed/KIR"
+toSector = "ed/EIF"
+
+
+[[agreement]]
+ades = ["EDDS", "EDTL"]
+level = 23000
+fromSector = "ed/KIR"
+toSector = "ed/MAN"
+
+
+[[agreement]]
+ades = ["EDDS", "EDTL"]
+cop = "BADLI"
+level = 11000
+releases = "F"
+fromSector = "ed/PFA"
+toSector = "ed/STG"
+
+
+[[agreement]]
+ades = ["EDDS", "EDTL"]
+cop = "GEBDA"
+level = 11000
+releases = "F"
+fromSector = "ed/PFA"
+toSector = "ed/STG"
+
+
+[[agreement]]
+ades = ["EDFM", "EDRY"]
+level = 7000
+releases = "F"
+fromSector = "ed/PFA"
+toSector = "ed/NKRL"
+
+
+[[agreement]]
+ades = ["EDFH"]
+cop = "OLIVI"
+level = 10000
+releases = "F"
+fromSector = "ed/PFA"
+toSector = "ed/EIF"
+
+# Departures:
+[[agreement]]
+adep = ["EDFH"]
+cop = "NVO"
+level = 10000
+transferType = "C"
+fromSector = "ed/EIF"
+toSector = "ed/DKA"
+
+[[agreement]]
+adep = ["ETAR"]
+level = 14000
+transferType = "C"
+releases = "C"
+fromSector = "ed/EIF"
+toSector = "ed/RUD"
+
+
+[[agreement]]
+adep = ["ETAR"]
+level = 20000
+transferType = "C"
+releases = "F"
+remarks = "may be cleared DCT NVO"
+fromSector = "ed/RUD"
+toSector = "ed/NOR"
