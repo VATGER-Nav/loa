@@ -1,0 +1,120 @@
+# EBG 03 - GIN, GED, HEF, SIG, TAU
+
+# Arrivals:
+[[agreement]]
+ades = ["EDDF"]
+cop = "ETARU"
+level = 10000
+fromSector = "ed/TAU"
+toSector = "ed/DFAN"
+
+[[agreement]]
+ades = ["EDDF"]
+cop = "OSPUL"
+level = 12000
+fromSector = "ed/TAU"
+toSector = "ed/DFAN"
+
+[[agreement]]
+ades = ["EDDF"]
+cop = "KERAX"
+level = 11000
+remarks = "KERAX#A"
+fromSector = "ed/GED"
+toSector = "ed/DFAN"
+
+[[agreement]]
+ades = ["EDDF"]
+cop = "EBIPA"
+level = 10000
+transferType = "D"
+remarks = "KERAX#B"
+fromSector = "ed/GED"
+toSector = "ed/DFAS"
+
+[[agreement]]
+ades = ["EDDF"]
+cop = "EBIPA"
+level = 12000
+transferType = "D"
+remarks = "KERAX#C"
+fromSector = "ed/GED"
+toSector = "ed/DFAS"
+
+[[agreement]]
+ades = ["EDDF"]
+cop = "GED"
+level = 13000
+transferType = "D"
+remarks = "KERAX#D"
+fromSector = "ed/GED"
+toSector = "ed/DFAN"
+
+[[agreement]]
+ades = ["EDFH", "ETAD"]
+cop = "ROLIS"
+level = 10000
+fromSector = "ed/TAU"
+toSector = "ed/EIF"
+
+[[agreement]]
+ades = ["EDDK", "EDKB"]
+cop = "GULKO"
+level = 11000
+transferType = "D"
+remarks = "On request by DKA, flights may be generally cleared direct DK416 or WYP, descending FL110 out of FL150 abeam GULKO."
+fromSector = "ed/TAU"
+toSector = "ed/DKA"
+
+[[agreement]]
+ades = ["EDDK", "EDKB"]
+cop = "OBOKA"
+level = 10000
+fromSector = "ed/TAU"
+toSector = "ed/DKA"
+
+
+[[agreement]]
+ades = ["EDDK"]
+cop = "BATEB"
+level = 13000
+releases = "F"
+fromSector = "ed/GIN"
+toSector = "ed/PADL"
+
+[[agreement]]
+ades = ["EDLW", "EDLP"]
+cop = "ARPEG"
+level = 11000
+releases = "F"
+fromSector = "ed/GIN"
+toSector = "ed/PADL"
+
+[[agreement]]
+ades = ["EDLW", "EDLP"]
+cop = "SODNA"
+level = 11000
+releases = "F"
+fromSector = "ed/GIN"
+toSector = "ed/PADL"
+
+# Departures:
+[[agreement]]
+adep = ["EDDF"]
+cop = "DITAM"
+level = 20000
+transferType = "C"
+releases = "F"
+remarks = "flights on OBOKA#E/#D may be cleared direct DITAM or OBOKA"
+fromSector = "ed/TAU"
+toSector = "ed/NOR"
+
+[[agreement]]
+adep = ["EDDF"]
+cop = "ARPEG"
+level = 24000
+transferType = "C"
+releases = "F"
+remarks = "cross ARPEG FL190 or above"
+fromSector = "ed/GIN"
+toSector = "ed/PADH"
