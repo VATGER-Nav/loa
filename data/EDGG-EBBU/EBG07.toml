@@ -1,0 +1,48 @@
+# EBG 07 - DKA, NOR
+
+# Arrivals:
+[[agreement]]
+ades = ["EBBR", "EBMB", "EBCI", "EBAW", "ELLX", "EHEH", "EHGR"]
+cop = "AGENI"
+level = 16000
+remarks = "out of FL180. Released for descent to FL110"
+fromSector = "ed/NOR"
+toSector = "eb/ELS"
+
+[[agreement]]
+ades = ["EBBR", "EBMB", "EBCI", "EBAW", "ELLX", "EHEH", "EHGR"]
+cop = "GEBSO"
+level = 22000
+releases = "T"
+remarks = "Released for descent to FL200"
+fromSector = "ed/NOR"
+toSector = "eb/ELS"
+
+[[agreement]]
+ades = ["EBLG"]
+cop = "AGENI"
+level = 12000
+remarks = "Released for descent to FL110"
+fromSector = "ed/NOR"
+toSector = "eb/ELS"
+
+# Departures:
+[[agreement]]
+adep = ["EDDK", "EDLW"]
+cop = "KENUM"
+level = 20000
+transferType = "C"
+releases = "C"
+remarks = "Released for right turns"
+fromSector = "ed/NOR"
+toSector = "eb/ELS"
+
+[[agreement]]
+adep = ["EDDK", "EDLW"]
+cop = "NAVAK"
+level = 20000
+transferType = "C"
+releases = "C"
+remarks = "Released for right turns"
+fromSector = "ed/NOR"
+toSector = "eb/ELS"

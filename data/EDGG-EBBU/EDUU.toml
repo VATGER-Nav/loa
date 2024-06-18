@@ -1,0 +1,10 @@
+# EDUU - NTM
+
+# Departures:
+[[agreement]]
+adep = ["EDDF", "EDFE", "EDFM"]
+cop = "BITBU"
+level = 30000
+remarks = "any even FL at level and max FL300"
+fromSector = "ed/NTM"
+toSector = "eb/LUX"

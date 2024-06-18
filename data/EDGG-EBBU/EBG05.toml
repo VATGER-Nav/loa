@@ -1,0 +1,59 @@
+# EBG 05 - EIF, PFA, RUD, KIR
+
+# Arrivals:
+[[agreement]]
+ades = ["EBBR", "EBMB", "EBAW", "EBCV", "EBCI", "EBLG", "EHBK", "EHEH"]
+routeBefore = "Z104"
+cop = "TIPUT"
+routeAfter = "GESLO"
+level = 22000
+releases = "D"
+remarks = "released for right turns"
+fromSector = "ed/KIR"
+toSector = "eb/LUS"
+
+[[agreement]]
+ades = ["EBBR", "EBMB", "EBAW", "EBCV", "EBCI", "EBLG", "EHBK", "EHEH"]
+routeBefore = "Y181"
+cop = "BITBU"
+level = 22000
+releases = "D"
+remarks = "released for right turns"
+fromSector = "ed/KIR"
+toSector = "eb/LUS"
+
+[[agreement]]
+ades = ["EBBR", "EBMB", "EBAW", "EBCV", "EBCI", "EBLG", "EHBK", "EHEH"]
+routeBefore = "Y181"
+cop = "BITBU"
+level = 22000
+releases = "D"
+remarks = "released for right turns"
+fromSector = "ed/KIR"
+toSector = "eb/LUS"
+
+[[agreement]]
+ades = ["EBBR", "EBMB", "EBAW", "EBCV", "EBCI", "EBLG", "EHBK", "EHEH"]
+cop = "LIRSU"
+routeAfter = "L608 BATTY"
+level = 22000
+fromSector = "ed/RUD"
+toSector = "eb/ELS"
+
+[[agreement]]
+ades = ["ELLX"]
+routeAfter = "L608 BATTY"
+level = 9000
+remarks = "COP STAR"
+fromSector = "ed/EIF"
+toSector = "eb/ELLX_APP"
+
+# Departures:
+[[agreement]]
+adep = ["EDFH"]
+cop = "BITBU"
+level = 18000
+transferType = "C"
+releases = "C"
+fromSector = "ed/KIR"
+toSector = "eb/LUS"

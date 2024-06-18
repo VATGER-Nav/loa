@@ -1,0 +1,45 @@
+# EBG 01 - DUS, BOT
+
+# Arrivals:
+[[agreement]]
+ades = ["EBAW"]
+cop = "ROMIN"
+routeAfter = "L179"
+level = 12000
+fromSector = "ed/BOT"
+toSector = "eb/ELS"
+
+# Departures:
+[[agreement]]
+adep = ["EDLN"]
+cop = "MODRU"
+level = 10000
+remarks = "released for right turns"
+fromSector = "ed/BOT"
+toSector = "eb/ELS"
+
+[[agreement]]
+adep = ["EDLN"]
+cop = "NETEX"
+level = 10000
+remarks = "released for right turns"
+fromSector = "ed/BOT"
+toSector = "eb/ELS"
+
+[[agreement]]
+adep = ["EDDL", "EDLV"]
+cop = "MODRU"
+level = 21000
+releases = "C"
+remarks = "released for right turns. If able FL210, else climbing FL180"
+fromSector = "ed/BOT"
+toSector = "eb/ELS"
+
+[[agreement]]
+adep = ["EDDL", "EDLV"]
+cop = "NETEX"
+level = 21000
+releases = "C"
+remarks = "released for right turns. If able FL210, else climbing FL180"
+fromSector = "ed/BOT"
+toSector = "eb/ELS"
