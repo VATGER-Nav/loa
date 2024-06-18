@@ -1,0 +1,146 @@
+# EBG 07 - DKA, NOR
+
+# Arrivals:
+[[agreement]]
+ades = ["EDFH"]
+cop = "NVO"
+level = 14000
+releases = "F"
+fromSector = "ed/DKA"
+toSector = "ed/EIF"
+
+[[agreement]]
+ades = ["EDLN"]
+cop = "NVO"
+level = 7000
+transferType = "D"
+releases = "F"
+fromSector = "ed/DKA"
+toSector = "ed/DLA"
+
+[[agreement]]
+ades = ["EDDL"]
+cop = "BIKMU"
+level = 13000
+transferType = "D"
+remarks = "released for turns not further east then BAM, released for descent to FL70"
+fromSector = "ed/NOR"
+toSector = "ed/DLA"
+
+[[agreement]]
+ades = ["EDDL"]
+cop = "ELDDAR"
+level = 8000
+releases = "T"
+remarks = "released for descent to FL70"
+fromSector = "ed/NOR"
+toSector = "ed/DLA"
+
+[[agreement]]
+ades = ["EDLP", "EDLW"]
+cop = "BAMSU"
+level = 16000
+transferType = "D"
+releases = "F"
+fromSector = "ed/NOR"
+toSector = "ed/DLD"
+
+[[agreement]]
+ades = ["EDLV"]
+cop = "NAZAF"
+level = 12000
+transferType = "D"
+remarks = "out of FL180 released"
+fromSector = "ed/NOR"
+toSector = "ed/BOT"
+
+[[agreement]]
+ades = ["EDDG"]
+cop = "QATJA"
+level = 23000
+transferType = "D"
+releases = "F"
+fromSector = "ed/NOR"
+toSector = "ed/BOT"
+
+[[agreement]]
+ades = ["EDDR", "EDRZ", "ETAR"]
+cop = "RASVO"
+level = 21000
+fromSector = "ed/NOR"
+toSector = "ed/RUD"
+
+[[agreement]]
+ades = ["ETNN"]
+cop = "NVO"
+level = 5000
+qnh = "ETNN"
+releases = "F"
+fromSector = "ed/DKA"
+toSector = "ed/TNNA"
+
+[[agreement]]
+ades = ["ETNN"]
+cop = "IZWOK"
+level = 7000
+releases = "F"
+fromSector = "ed/DKA"
+toSector = "ed/TNNA"
+
+# Departures:
+[[agreement]]
+adep = ["EDDK"]
+cop = "NVO"
+runways = ["06", "13L", "13R"]
+level = 14000
+transferType = "C"
+releases = "F"
+fromSector = "ed/DKA"
+toSector = "ed/NOR"
+
+[[agreement]]
+adep = ["EDDK"]
+cop = "NVO"
+runways = ["24", "31L", "31R"]
+level = 10000
+transferType = "C"
+releases = "F"
+fromSector = "ed/DKA"
+toSector = "ed/NOR"
+
+[[agreement]]
+adep = ["EDDK"]
+cop = "COL"
+level = 13000
+transferType = "C"
+releases = "C"
+fromSector = "ed/DKA"
+toSector = "ed/TAU"
+
+[[agreement]]
+adep = ["EDDK"]
+cop = "KUMIK"
+level = 14000
+transferType = "C"
+releases = "C"
+remarks = "released for turns south"
+fromSector = "ed/DKA"
+toSector = "ed/SIG"
+
+[[agreement]]
+adep = ["EDDK"]
+cop = "PODIP"
+level = 14000
+transferType = "C"
+releases = "F"
+fromSector = "ed/DKA"
+toSector = "ed/PADH"
+
+[[agreement]]
+adep = ["EDDK"]
+cop = "WYP"
+level = 9000
+transferType = "C"
+releases = "F"
+fromSector = "ed/DKA"
+toSector = "ed/PADH"
