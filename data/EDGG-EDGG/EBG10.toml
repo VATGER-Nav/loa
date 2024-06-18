@@ -1,0 +1,149 @@
+# EBG 10 - DFAN, DFAS
+
+# Arrivals:
+[[agreement]]
+ades = ["EDDF"]
+cop = "DF601"
+level = 9000
+transferType = "D"
+releases = "F"
+remarks = "transfer before DF601"
+fromSector = "ed/DFAN"
+toSector = "ed/DFAS"
+
+[[agreement]]
+ades = ["EDDF"]
+cop = "FFM"
+level = 13000
+releases = "F"
+remarks = "transfer before FFM"
+fromSector = "ed/DFAN"
+toSector = "ed/DFAS"
+
+[[agreement]]
+ades = ["EDDF"]
+cop = "INCOM"
+level = 13000
+releases = "F"
+remarks = "C-STAR, transfer before FFM"
+fromSector = "ed/DFAN"
+toSector = "ed/DFAS"
+
+[[agreement]]
+ades = ["EDDF"]
+cop = "RASVO"
+level = 13000
+releases = "F"
+remarks = "C-STAR, transfer before FFM"
+fromSector = "ed/DFAN"
+toSector = "ed/DFAS"
+
+[[agreement]]
+ades = ["EDDF"]
+cop = "FFM"
+level = 12000
+releases = "F"
+remarks = "transfer before FFM"
+fromSector = "ed/DFAN"
+toSector = "ed/DFAS"
+
+[[agreement]]
+ades = ["EDDF"]
+cop = "ROLIS"
+level = 12000
+releases = "F"
+remarks = "C-STAR, transfer before FFM"
+fromSector = "ed/DFAN"
+toSector = "ed/DFAS"
+
+# Departures:
+[[agreement]]
+adep = ["EDDF"]
+cop = "KUSOM"
+level = 11000
+fromSector = "ed/DFDN"
+toSector = "ed/TAU"
+
+[[agreement]]
+adep = ["EDDF"]
+cop = "OBOKA"
+level = 13000
+transferType = "C"
+fromSector = "ed/DFDN"
+toSector = "ed/TAU"
+
+[[agreement]]
+adep = ["EDDF"]
+cop = "MARUN"
+level = 13000
+transferType = "C"
+fromSector = "ed/DFDN"
+toSector = "ed/GIN"
+
+[[agreement]]
+adep = ["EDDF"]
+cop = "TOBAK"
+level = 13000
+transferType = "C"
+fromSector = "ed/DFDN"
+toSector = "ed/GIN"
+
+[[agreement]]
+adep = ["EDDF"]
+cop = "ANEKI"
+level = 13000
+transferType = "C"
+remarks = "speed restriction 220kts until DF101 may be canceled by DFDS and NKRH individually without prior coordination."
+fromSector = "ed/DFDS"
+toSector = "ed/NKRH"
+
+[[agreement]]
+adep = ["EDDF"]
+cop = "SULUS"
+runways = ["07R", "07C", "07L"]
+level = 13000
+transferType = "C"
+fromSector = "ed/DFDS"
+toSector = "ed/HAB"
+
+[[agreement]]
+adep = ["EDDF"]
+cop = "KOMIB"
+runways = ["07R", "07C", "07L"]
+level = 13000
+transferType = "C"
+fromSector = "ed/DFDS"
+toSector = "ed/HAB"
+
+[[agreement]]
+adep = ["EDDF"]
+cop = "SOBRA"
+level = 13000
+transferType = "C"
+fromSector = "ed/DFDS"
+toSector = "ed/KIR"
+
+[[agreement]]
+adep = ["EDDF"]
+cop = "ULKIG"
+level = 13000
+transferType = "C"
+fromSector = "ed/DFDS"
+toSector = "ed/KIR"
+
+[[agreement]]
+adep = ["EDDF"]
+cop = "AMTIX"
+level = 11000
+transferType = "C"
+fromSector = "ed/DFDS"
+toSector = "ed/KNG"
+
+[[agreement]]
+adep = ["EDFE"]
+cop = "AMTIX"
+level = 8000
+transferType = "C"
+remarks = "released SYD arrivals"
+fromSector = "ed/DFDS"
+toSector = "ed/KNG"
