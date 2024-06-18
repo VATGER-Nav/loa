@@ -1,0 +1,88 @@
+# EBG 08 - STG, REU
+
+# Departures:
+[[agreement]]
+adep = ["EDDS"]
+cop = "ETASA"
+level = 14000
+releases = "F"
+remarks = "flights may be cleared direct SPESA"
+fromSector = "ed/STG"
+toSector = "ed/KNG"
+
+[[agreement]]
+adep = ["EDDS"]
+cop = "OKIBA"
+level = 14000
+transferType = "C"
+releases = "F"
+remarks = "flights may be cleared direct ROSLO when RWY 07 is in use"
+fromSector = "ed/STG"
+toSector = "ed/LBU"
+
+[[agreement]]
+adep = ["EDDS"]
+cop = "VESID"
+level = 14000
+releases = "F"
+fromSector = "ed/STG"
+toSector = "ed/LBU"
+
+[[agreement]]
+adep = ["EDDS"]
+cop = "TAGIK"
+level = 14000
+releases = "F"
+fromSector = "ed/STG"
+toSector = "ed/LBU"
+
+[[agreement]]
+adep = ["EDDS"]
+cop = "KRH"
+level = 14000
+releases = "F"
+fromSector = "ed/STG"
+toSector = "ed/PFA"
+
+[[agreement]]
+adep = ["EDDS"]
+cop = "DKB"
+runways = ["25"]
+level = 14000
+releases = "F"
+fromSector = "ed/STG"
+toSector = "ed/LBU"
+
+[[agreement]]
+adep = ["EDDS"]
+cop = "GEBNO"
+runways = ["25"]
+level = 14000
+releases = "F"
+fromSector = "ed/STG"
+toSector = "ed/LBU"
+
+[[agreement]]
+adep = ["EDDS"]
+cop = "DKB"
+runways = ["07"]
+level = 14000
+releases = "F"
+fromSector = "ed/STG"
+toSector = "ed/DKB"
+
+[[agreement]]
+adep = ["EDDS"]
+cop = "GEBNO"
+runways = ["07"]
+level = 14000
+releases = "F"
+fromSector = "ed/STG"
+toSector = "ed/DKB"
+
+[[agreement]]
+adep = ["EDTY"]
+level = 10000
+releases = "F"
+fromSector = "ed/STG"
+toSector = "ed/DKB"
