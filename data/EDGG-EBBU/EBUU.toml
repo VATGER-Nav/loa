@@ -1,0 +1,141 @@
+# EBUU -> EDGG
+
+# Arrivals:
+[[agreement]]
+ades = ["EDDK", "EDKB", "EDGS", "EDKL"]
+cop = "IBESA"
+level = 19000
+remarks = "Released for descent to FL130. Flights have to stay clear of EBR04 TSA/TRA. EBBU is responsible for informing Langen about the activation of the area. The area can be active up to FL175."
+fromSector = "eb/ELS"
+toSector = "ed/DKA"
+
+[[agreement]]
+ades = ["EDDK", "EDKB", "EDGS", "EDKL"]
+cop = "DENOV"
+level = 18000
+remarks = "Released for descent to FL130 and left turns. Flights have to stay clear of EBR04 TSA/TRA. EBBU is responsible for informing Langen about the activation of the area. The area can be active up to FL175."
+fromSector = "eb/ELS"
+toSector = "ed/DKA"
+
+[[agreement]]
+ades = ["EDDL", "EDLN", "EDLV"]
+cop = "IBESA"
+level = 23000
+remarks = "or odd levels below. Released for left turns"
+fromSector = "eb/ELS"
+toSector = "ed/NOR"
+
+[[agreement]]
+ades = ["EDDL", "EDLN", "EDLV"]
+cop = "PODEN"
+level = 23000
+remarks = "or odd levels below. Released for left turns"
+fromSector = "eb/ELS"
+toSector = "ed/NOR"
+
+[[agreement]]
+ades = ["EDDL", "EDLN", "EDLV"]
+cop = "ROMIN"
+level = 23000
+remarks = "or odd levels to FL130"
+fromSector = "eb/ELS"
+toSector = "ed/DUS"
+
+[[agreement]]
+ades = ["EDFH"]
+cop = "SUXIM"
+level = 15000
+remarks = "Released for descent to FL140"
+fromSector = "eb/ELS"
+toSector = "ed/EIF"
+
+[[agreement]]
+ades = ["ETAD"]
+cop = "SUXIM"
+level = 15000
+remarks = "BITBU at level"
+fromSector = "eb/ELLX_APP"
+toSector = "ed/EIF"
+
+[[agreement]]
+ades = ["EDDF", "EDFE", "EDFZ", "ETOU"]
+cop = "TOBOP"
+routeAfter = "T180 UNOKO"
+level = 23000
+remarks = "max FL230 for traffic ADEP EBBR. TOBOP at level"
+fromSector = "eb/LUS"
+toSector = "ed/RUD"
+
+[[agreement]]
+ades = ["EDDF", "EDFE", "EDFZ", "ETOU"]
+cop = "BETEX"
+routeAfter = "Z110 RASVO"
+level = 23000
+remarks = "BETEX at level"
+fromSector = "eb/LUS"
+toSector = "ed/KIR"
+
+
+[[agreement]]
+ades = ["EDFE", "EDFM"]
+cop = "PITES"
+level = 23000
+remarks = "PITES at level"
+fromSector = "eb/LUS"
+toSector = "ed/KIR"
+
+# Departures:
+
+[[agreement]]
+adep = ["EBBR", "EBMB", "EBAW", "EBCV", "ELLX"]
+cop = "KENUM"
+level = 21000
+releases = "C"
+remarks = "max. FL210"
+fromSector = "eb/ELS"
+toSector = "ed/NOR"
+
+[[agreement]]
+adep = ["EBBR", "EBMB", "EBAW", "EBCV", "ELLX"]
+cop = "DENOV"
+level = 21000
+releases = "C"
+remarks = "max. FL210"
+fromSector = "eb/ELS"
+toSector = "ed/NOR"
+
+[[agreement]]
+adep = ["EBLG"]
+cop = "KENUM"
+level = 15000
+transferType = "C"
+releases = "C"
+remarks = "Released for left turns"
+fromSector = "eb/ELS"
+toSector = "ed/NOR"
+
+[[agreement]]
+adep = ["EBLG"]
+cop = "DENOV"
+level = 15000
+transferType = "C"
+releases = "C"
+remarks = "Released for left turns"
+fromSector = "eb/ELS"
+toSector = "ed/NOR"
+
+[[agreement]]
+adep = ["EBLG", "EHBK"]
+cop = "SUXIM"
+routeAfter = "L607"
+level = 23000
+remarks = "or any odd level. EBBU is responsible for converging traffic with EDFH arrivals"
+fromSector = "eb/ELS"
+toSector = "ed/RUD"
+
+[[agreement]]
+adep = ["ELLX"]
+level = 14000
+releases = "C"
+fromSector = "eb/ELLX_APP"
+toSector = "ed/EIF"
