@@ -1,0 +1,62 @@
+[[agreements]]
+cop = "ERKIR"
+level = 340
+ades = ["EDDS", "LSMD", "LSZS"]
+vertical = false
+fromSector = "lo/W2"
+toSector = "ed/CHI1"
+remarks = ""
+
+[[agreements]]
+cop = "SIMBA"
+level = 360
+ades = ["EDDF"]
+vertical = false
+fromSector = "lo/B3"
+toSector = "ed/DON2"
+remarks = ""
+
+[[agreements]]
+cop = "SUBEN"
+level = 360
+ades = ["EDDF"]
+vertical = false
+fromSector = "lo/N3"
+toSector = "ed/DON2"
+remarks = ""
+
+[[agreements]]
+cop = "TITIG"
+level = 340
+ades = ["EDDR", "EDFM", "EDSB"]
+vertical = false
+fromSector = "lo/B2"
+toSector = "ed/CHI1"
+remarks = ""
+
+[[agreements]]
+cop = "KIRDI"
+level = 340
+ades = ["EDDR", "EDFM", "EDSB"]
+vertical = false
+fromSector = "lo/B2"
+toSector = "ed/CHI1"
+remarks = ""
+
+[[agreements]]
+cop = "ERKIR"
+level = 360
+ades = ["LSZH"]
+vertical = false
+fromSector = "lo/W3"
+toSector = "ed/CHI2"
+remarks = ""
+
+[[agreements]]
+cop = "SIMBA"
+level = 320
+ades = ["LKPR"]
+vertical = false
+fromSector = "lo/B2"
+toSector = "ed/DON1"
+remarks = ""

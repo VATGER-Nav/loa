@@ -1,0 +1,115 @@
+[[agreements]]
+cop = "NORKU"
+level = 240
+ades = ["EHAM"]
+transferType = "D"
+vertical = false
+fromSector = "ed/HMM"
+toSector = "eh/EHAAE"
+remarks = "from lower airspace\nFL200-240\n"
+
+[[agreements]]
+cop = "RKN"
+level = 180
+ades = ["EHAM"]
+transferType = "D"
+vertical = false
+fromSector = "ed/HMM"
+toSector = "eh/EHAAE"
+remarks = "FL080-180\nFlights are released for speed control, turns and descent, subject to known traffic, after passing 2.5NM west of the lateral limits of the TEBRO area\nnot available for flights RFL245+, these flights shall route via NORKU"
+
+[[agreements]]
+cop = "RKN"
+level = 180
+ades = ["EHLE"]
+transferType = "D"
+vertical = false
+fromSector = "ed/HMM"
+toSector = "eh/EHAAE"
+remarks = "Flights are released for speed control, turns and descent, subject to known traffic, after passing 2.5NM west of the lateral limits of the TEBRO area"
+
+[[agreements]]
+cop = "RKN"
+level = 60
+ades = ["EHTW"]
+vertical = false
+fromSector = "ed/HMM"
+toSector = "eh/EHMC"
+remarks = "Flights with RFL below FL060 subject to coordination"
+
+[[agreements]]
+cop = "ROTEK"
+level = 80
+ades = ["EHEH"]
+transferType = "D"
+vertical = false
+fromSector = "ed/BOT"
+toSector = "eh/EHMC"
+remarks = "Flights shall cross ROTEK at FL 100 or below and are released for descent to FL 070"
+
+[[agreements]]
+cop = "BOBMO"
+level = 80
+ades = ["EHBK"]
+vertical = false
+fromSector = "ed/BOT"
+toSector = "eh/EHBK"
+remarks = "NETEX arrivals\nFlights with routes excluding the mentioned COPs require manual coordination"
+
+[[agreements]]
+cop = "MAS"
+level = 80
+ades = ["EHBK"]
+vertical = false
+fromSector = "ed/BOT"
+toSector = "eh/EHBK"
+remarks = "NVO arrivals\nFlights with routes excluding the mentioned COPs require manual coordination"
+
+[[agreements]]
+cop = "RKN"
+level = 120
+adep = ["EDDG"]
+transferType = "C"
+vertical = false
+fromSector = "ed/HMM"
+toSector = "eh/EHAAE"
+remarks = "Higher FL needs to be coordinated with Amsterdam ACC"
+
+[[agreements]]
+cop = "RKN"
+level = 200
+adep = ["EDLP", "EDLW"]
+transferType = "C"
+vertical = false
+fromSector = "ed/HMM"
+toSector = "eh/EHAAE"
+remarks = "Higher FL needs to be coordinated with Amsterdam ACC"
+
+[[agreements]]
+cop = "SONEB"
+level = 220
+adep = ["EDDK"]
+transferType = "C"
+vertical = false
+fromSector = "ed/BOT"
+toSector = "eh/EHAAE"
+remarks = "Higher FL needs to be coordinated with Amsterdam ACC"
+
+[[agreements]]
+cop = "SONEB"
+level = 160
+adep = ["EDDL", "EDLN", "EDLV", "ETNG", "ETNN"]
+transferType = "C"
+vertical = false
+fromSector = "ed/BOT"
+toSector = "eh/EHAAE"
+remarks = "Higher FL needs to be coordinated with Amsterdam ACC"
+
+[[agreements]]
+cop = "MAS"
+level = 50
+adep = ["EDLN"]
+vertical = false
+fromSector = "ed/BOT"
+toSector = "eh/EHBK"
+remarks = ""

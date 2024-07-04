@@ -1,0 +1,789 @@
+[[agreements]]
+cop = "INBED"
+level = 320
+ades = ["EDDR", "EDFH", "EBLG", "EHBK", "ELLX"]
+vertical = false
+fromSector = "ed/DON1"
+toSector = "ed/WUR1"
+remarks = ""
+
+[[agreements]]
+cop = "SUVAL"
+level = 290
+ades = ["EDDP"]
+vertical = false
+fromSector = "ed/OSE1"
+toSector = "ed/HVL1"
+remarks = ""
+
+[[agreements]]
+level = 380
+ades = ["EDDF", "ETAR", "ETOU", "EDFZ", "EDFE", "EDGS", "EDRK", "LKKV"]
+vertical = false
+fromSector = "ed/ALP4"
+toSector = "ed/CHI4"
+remarks = ""
+
+[[agreements]]
+level = 320
+ades = ["EDDS", "EDSB", "EDRY", "EDTY", "EDFM", "EDQ*", "EDDN", "ETSI", "ETSN"]
+vertical = false
+fromSector = "ed/ALP1"
+toSector = "ed/CHI1"
+remarks = ""
+
+[[agreements]]
+level = 330
+ades = ["LOWL"]
+vertical = false
+fromSector = "ed/ALP1"
+toSector = "ed/CHI1"
+remarks = ""
+
+[[agreements]]
+level = 370
+ades = ["LOWW"]
+vertical = false
+fromSector = "ed/ALP3"
+toSector = "ed/CHI3"
+remarks = ""
+
+[[agreements]]
+level = 360
+ades = ["LKCS"]
+vertical = false
+fromSector = "ed/ALP2"
+toSector = "ed/CHI2"
+remarks = ""
+
+[[agreements]]
+level = 370
+ades = ["LOWW"]
+vertical = false
+fromSector = "ed/ALP3"
+toSector = "ed/ISA3"
+remarks = ""
+
+[[agreements]]
+level = 320
+ades = ["EDGS", "EDFQ"]
+vertical = false
+fromSector = "ed/ALP1"
+toSector = "ed/TGO1"
+remarks = ""
+
+[[agreements]]
+level = 340
+ades = ["EDDK", "EDKB", "EDFH", "EDDR", "ELLX"]
+vertical = false
+fromSector = "ed/ALP1"
+toSector = "ed/TGO1"
+remarks = ""
+
+[[agreements]]
+level = 320
+ades = ["LSMD", "EDDS", "EDSB", "EDFM", "ETAR", "EDTD", "EDTL", "EDTM", "EDTY", "EDRY"]
+vertical = false
+fromSector = "ed/CHI1"
+toSector = "ed/ALP1"
+remarks = "via KPT"
+
+[[agreements]]
+level = 320
+ades = ["LIPZ", "LIPH", "LIPX", "LIPO", "LIPA"]
+vertical = false
+fromSector = "ed/CHI1"
+toSector = "ed/ALP1"
+remarks = ""
+
+[[agreements]]
+level = 340
+ades = ["LSZH"]
+vertical = false
+fromSector = "ed/CHI1"
+toSector = "ed/ALP1"
+remarks = ""
+
+[[agreements]]
+level = 350
+ades = ["LIMP", "LIPE", "LIPK", "LIME"]
+vertical = false
+fromSector = "ed/CHI1"
+toSector = "ed/ALP1"
+remarks = ""
+
+[[agreements]]
+level = 360
+ades = ["LFST", "LSZB", "LSMA", "LSMB", "LSME", "LSMF", "LSML", "LSMM", "LMSO", "LSMP", "LSMS", "LSMU", "LFSB", "LFGA", "LFGB", "LFSM"]
+vertical = false
+fromSector = "ed/CHI2"
+toSector = "ed/ALP2"
+remarks = ""
+
+[[agreements]]
+level = 340
+ades = ["LKPR", "LKPD", "LKKB", "LKCV", "LKHK", "LKMH", "LKVO"]
+vertical = false
+fromSector = "ed/CHI1"
+toSector = "ed/DON1"
+remarks = ""
+
+[[agreements]]
+level = 360
+ades = ["EDDF", "ETOU", "EDFZ", "EDFE", "EDGS", "EDRK"]
+vertical = false
+fromSector = "ed/CHI2"
+toSector = "ed/ISA2"
+remarks = "via M726"
+
+[[agreements]]
+level = 340
+ades = ["ETAR", "LKKV"]
+vertical = false
+fromSector = "ed/CHI1"
+toSector = "ed/ISA1"
+remarks = ""
+
+[[agreements]]
+level = 360
+ades = ["EDDF"]
+vertical = false
+fromSector = "ed/CHI2"
+toSector = "ed/ISA2"
+remarks = "via Q863"
+
+[[agreements]]
+level = 360
+ades = ["EDDP", "EDAC", "EDDE", "EDCD", "EDFQ", "EDVK"]
+vertical = false
+fromSector = "ed/CHI2"
+toSector = "ed/ISA2"
+remarks = "via M726"
+
+[[agreements]]
+level = 360
+ades = ["LIPZ", "LIPH", "LIPX", "LIPO", "LIPA", "LIPB", "LSZS", "LSZA", "LDZA", "LDRI", "LJMB", "LDPL", "LDLO"]
+vertical = false
+fromSector = "ed/DON2"
+toSector = "ed/CHI2"
+remarks = ""
+
+[[agreements]]
+level = 360
+adep = ["LKPR", "LKPD"]
+vertical = false
+fromSector = "ed/DON2"
+toSector = "ed/CHI2"
+remarks = ""
+
+[[agreements]]
+level = 360
+adep = ["LOWL", "LOWS"]
+vertical = false
+fromSector = "ed/DON2"
+toSector = "ed/ERL1"
+remarks = ""
+
+[[agreements]]
+level = 320
+ades = ["EDFH", "ELLX", "ETAD"]
+vertical = false
+fromSector = "ed/DON1"
+toSector = "ed/WUR1"
+remarks = ""
+
+[[agreements]]
+level = 350
+ades = ["LIPZ", "LIPH", "LIPX", "LIPO", "LIPA", "LIPB", "LSZS", "LSZA", "LJLJ", "LOWG", "LOWK", "LOXZ", "LOWW", "LDZA", "LDRI", "LJMB", "LDPL", "LDLO"]
+vertical = false
+fromSector = "ed/ISA1"
+toSector = "ed/CHI1"
+remarks = ""
+
+[[agreements]]
+level = 320
+ades = ["EDDF", "ETOU", "EDFE", "EDFZ", "EDDP", "EDAC", "EDDE", "EDCD", "EDFQ", "EDVK", "LKPR", "LKPD", "LKKB", "LKCV", "LKHK", "LKMH", "LKVO"]
+vertical = false
+fromSector = "ed/ISA1"
+toSector = "ed/DON1"
+remarks = ""
+
+[[agreements]]
+level = 340
+ades = ["EDDK", "EDKB", "EDFH", "EDDR", "ELLX"]
+vertical = false
+fromSector = "ed/ISA1"
+toSector = "ed/TGO1"
+remarks = ""
+
+[[agreements]]
+level = 320
+ades = ["EDGS", "EDFQ"]
+vertical = false
+fromSector = "ed/ISA1"
+toSector = "ed/TGO1"
+remarks = ""
+
+[[agreements]]
+level = 320
+ades = ["LOWS", "LOWI", "LOWL"]
+vertical = false
+fromSector = "ed/ERL1"
+toSector = "ed/DON1"
+remarks = ""
+
+[[agreements]]
+level = 370
+ades = ["LOWW"]
+vertical = false
+fromSector = "ed/ERL2"
+toSector = "ed/DON3"
+remarks = ""
+
+[[agreements]]
+cop = "PILAM"
+level = 320
+ades = ["EDDK", "EDKB", "EDKZ", "EDLA", "EDLE", "EDLM", "EDLD", "EDLI", "EDLP", "EDLW"]
+vertical = false
+fromSector = "ed/ERL1"
+toSector = "ed/FUL1"
+remarks = ""
+
+[[agreements]]
+level = 360
+ades = ["EDDV", "EDVE", "ETNW"]
+vertical = false
+fromSector = "ed/ERL1"
+toSector = "ed/FUL2"
+remarks = ""
+
+[[agreements]]
+level = 320
+ades = ["EDDR", "EDFH", "ELLX", "EDSB", "EDRZ", "ETAD"]
+vertical = false
+fromSector = "ed/ERL1"
+toSector = "ed/WUR1"
+remarks = ""
+
+[[agreements]]
+level = 360
+ades = ["EBLG", "EBZW", "EHBK", "LFLJ", "LFSN"]
+vertical = false
+fromSector = "ed/ERL1"
+toSector = "ed/WUR3"
+remarks = ""
+
+[[agreements]]
+level = 340
+ades = ["EDTM", "EDTD"]
+vertical = false
+fromSector = "ed/ERL1"
+toSector = "ed/WUR2"
+remarks = ""
+
+[[agreements]]
+level = 360
+ades = ["EDDR", "EDDS", "EDFM", "EDFV", "EDJA", "EDMS", "EDRY", "EDTL", "EDTY", "ETAR", "ETIN", "ETHN", "ETOR", "LKKV"]
+vertical = false
+fromSector = "ed/HVL1"
+toSector = "ed/SAL1"
+remarks = ""
+
+[[agreements]]
+level = 340
+ades = ["EDDF", "EDFE", "EDFQ", "EDFZ", "ETOU"]
+vertical = false
+fromSector = "ed/HVL1"
+toSector = "ed/SAL1"
+remarks = "except via DIDGI and TOPDI"
+
+[[agreements]]
+level = 350
+ades = ["LKPR", "LKPD", "LKKB", "LKCV", "LKHK", "LKMH", "LKVO"]
+vertical = false
+fromSector = "ed/HVL1"
+toSector = "ed/SAL1"
+remarks = ""
+
+[[agreements]]
+level = 350
+ades = ["LKPR", "LKPD", "LKKB", "LKCV", "LKHK", "LKMH", "LKVO"]
+vertical = false
+fromSector = "ed/HVL1"
+toSector = "ed/SPE1"
+remarks = ""
+
+[[agreements]]
+level = 370
+ades = ["LKCS"]
+vertical = false
+fromSector = "ed/HVL2"
+toSector = "ed/SPE2"
+remarks = ""
+
+[[agreements]]
+level = 350
+ades = ["LOWS", "LOWL", "LOWI", "ETSN"]
+vertical = false
+fromSector = "ed/SAL1"
+toSector = "ed/ERL1"
+remarks = ""
+
+[[agreements]]
+level = 360
+ades = ["EDSB", "EDTM"]
+vertical = false
+fromSector = "ed/SAL1"
+toSector = "ed/ERL1"
+remarks = ""
+
+[[agreements]]
+level = 320
+ades = ["LKPR", "LKPD", "LKKB", "LKCV", "LKHK", "LKMH", "LKVO", "LKCS"]
+vertical = false
+fromSector = "ed/SAL1"
+toSector = "ed/SPE1"
+remarks = ""
+
+[[agreements]]
+level = 360
+ades = ["EDDV", "EDLP", "EDLI", "EDVK", "ETNW"]
+vertical = false
+fromSector = "ed/SPE1"
+toSector = "ed/HVL1"
+remarks = ""
+
+[[agreements]]
+level = 360
+ades = ["EDDW"]
+vertical = false
+fromSector = "ed/SPE1"
+toSector = "ed/HVL1"
+remarks = "via KOSIX L986 MAG"
+
+[[agreements]]
+cop = "TADUV"
+level = 360
+ades = ["EDDF", "EDFE", "EDFQ", "EDFZ", "ETOU"]
+vertical = false
+fromSector = "ed/SPE1"
+toSector = "ed/SAL1"
+remarks = ""
+
+[[agreements]]
+level = 360
+ades = ["EDDF", "EDFE", "EDFQ", "EDFZ", "ETOU"]
+vertical = false
+fromSector = "ed/SPE1"
+toSector = "ed/SAL1"
+remarks = "DCT SULED-ROBEL"
+
+[[agreements]]
+level = 340
+ades = ["EDDF"]
+vertical = false
+fromSector = "ed/SPE1"
+toSector = "ed/SAL1"
+remarks = "via SODRO SULUS"
+
+[[agreements]]
+level = 350
+ades = ["EDDM", "EDMA", "EDMO"]
+vertical = false
+fromSector = "ed/SPE1"
+toSector = "ed/SAL1"
+remarks = ""
+
+[[agreements]]
+level = 350
+ades = ["EDDP", "EDAC", "EDBC", "EDBM"]
+vertical = false
+fromSector = "ed/FFM2"
+toSector = "ed/FUL1"
+remarks = ""
+
+[[agreements]]
+level = 290
+ades = ["EDDV", "EDVE", "ETNW"]
+vertical = false
+fromSector = "ed/FFM1"
+toSector = "ed/FUL1"
+remarks = ""
+
+[[agreements]]
+level = 320
+ades = ["EBBR", "EBMB", "EBAW", "EBCV", "EBCI", "EHEH", "EHWO", "EHGR", "EHVK"]
+vertical = false
+fromSector = "ed/FFM1"
+toSector = "ed/NTM1"
+remarks = ""
+
+[[agreements]]
+level = 280
+ades = ["ETNG", "EBLG", "EBZW", "EHBK", "LFJL", "LFSN"]
+vertical = false
+fromSector = "ed/FFM1"
+toSector = "ed/NTM1"
+remarks = ""
+
+[[agreements]]
+level = 350
+ades = ["EDTF", "EDTD", "LSZH", "LFSB", "LSZR", "LSMD", "EDNY", "EDTM", "EDJA"]
+vertical = false
+fromSector = "ed/FFM2"
+toSector = "ed/SLN1"
+remarks = ""
+
+[[agreements]]
+level = 350
+adep = ["EDDL", "EDDG", "EDDK", "EDGS", "EDKB", "EDKL", "EDLA", "EDLE", "EDLM", "EDLN", "EDLP", "EDLW", "ETNG", "ETNN"]
+vertical = false
+fromSector = "ed/FFM2"
+toSector = "ed/SLN1"
+remarks = ""
+
+[[agreements]]
+level = 310
+ades = ["EDTL", "EDTO"]
+vertical = false
+fromSector = "ed/FFM1"
+toSector = "ed/SLN1"
+remarks = ""
+
+[[agreements]]
+level = 270
+ades = ["EDMA", "EDMO", "ETSI", "ETSL", "EDJA", "ETSN"]
+vertical = false
+fromSector = "ed/FFM1"
+toSector = "ed/WUR1"
+remarks = ""
+
+[[agreements]]
+level = 350
+ades = ["EDDM"]
+vertical = false
+fromSector = "ed/FFM2"
+toSector = "ed/WUR2"
+remarks = ""
+
+[[agreements]]
+level = 350
+adep = ["EDDL", "EDDG", "EDDK", "EDGS", "EDKB", "EDKL", "EDLA", "EDLE", "EDLM", "EDLN", "EDLP", "EDLW", "ETNG", "ETNN"]
+vertical = false
+fromSector = "ed/FFM2"
+toSector = "ed/WUR2"
+remarks = ""
+
+[[agreements]]
+level = 290
+ades = ["LKKV", "EDMS"]
+vertical = false
+fromSector = "ed/FFM1"
+toSector = "ed/WUR1"
+remarks = ""
+
+[[agreements]]
+level = 250
+ades = ["EDDM", "EDQC", "EDQD", "EDQK", "EDQM", "EDQT", "EDTY", "EDQA"]
+vertical = false
+fromSector = "ed/FFM1"
+toSector = "ed/WUR1"
+remarks = ""
+
+[[agreements]]
+cop = "MAPOX"
+level = 360
+ades = ["EHEH", "EHBD", "EHBK", "EHTE", "EHLE"]
+vertical = false
+fromSector = "ed/FUL2"
+toSector = "ed/FFM3"
+remarks = ""
+
+[[agreements]]
+cop = "EKSAK"
+level = 320
+ades = ["EDDL", "EDDG", "EDWO", "EDLN", "EDLS", "EDLV", "EHTW", "EHEH", "EHBD", "EHLE"]
+vertical = false
+fromSector = "ed/FUL1"
+toSector = "ed/FFM1"
+remarks = ""
+
+[[agreements]]
+level = 360
+ades = ["EDDB"]
+vertical = false
+fromSector = "ed/FUL2"
+toSector = "ed/SAL1"
+remarks = "Even and odd"
+
+[[agreements]]
+level = 250
+ades = ["EDDS", "EDSB", "EDTY", "EDTL", "EDTM", "EDMA", "EDMO", "ETSI", "ETSL", "ETSN", "EDJA"]
+vertical = false
+fromSector = "ed/FUL1"
+toSector = "ed/WUR1"
+remarks = ""
+
+[[agreements]]
+level = 370
+ades = ["LKPR", "LKKB", "LKVO", "LKCV", "LKHK", "LKMH", "LKPD", "LKCS", "EDDC"]
+vertical = false
+fromSector = "ed/WUR3"
+toSector = "ed/ERL2"
+remarks = ""
+
+[[agreements]]
+level = 340
+ades = ["ETNG"]
+vertical = false
+fromSector = "ed/WUR2"
+toSector = "ed/FFM2"
+remarks = ""
+
+[[agreements]]
+level = 320
+ades = ["EBLG", "EBZW", "EHBK", "LFJL"]
+vertical = false
+fromSector = "ed/WUR1"
+toSector = "ed/FFM1"
+remarks = ""
+
+[[agreements]]
+level = 380
+ades = ["EBBR", "EBMB", "EBAW", "EBCV", "EBCI", "EHEH", "EHWO", "EHGR", "EHVK"]
+vertical = false
+fromSector = "ed/WUR4"
+toSector = "ed/FFM4"
+remarks = ""
+
+[[agreements]]
+level = 280
+ades = ["EDLA", "EDLW", "EDLE", "EDLM", "EDLD", "EDKZ", "EDLP", "EDLI", "EDVK"]
+vertical = false
+fromSector = "ed/WUR1"
+toSector = "ed/FUL1"
+remarks = ""
+
+[[agreements]]
+level = 330
+ades = ["EDDP", "EDAC"]
+vertical = false
+fromSector = "ed/WUR2"
+toSector = "ed/FUL1"
+remarks = ""
+
+[[agreements]]
+level = 360
+ades = ["EDDV", "EDVE", "ETNW"]
+vertical = false
+fromSector = "ed/WUR3"
+toSector = "ed/FUL2"
+remarks = ""
+
+[[agreements]]
+level = 370
+ades = ["LDZA", "LDRI", "LJMB", "LIPQ", "LDPL", "LDLO"]
+vertical = false
+fromSector = "ed/WUR3"
+toSector = "ed/ISA3"
+remarks = ""
+
+[[agreements]]
+level = 320
+ades = ["LSZH", "LSZR", "LSMD", "EDNY", "EDTO", "EDTF", "EDTL", "LFJL", "LFSB", "LFST", "LFGA"]
+vertical = false
+fromSector = "ed/WUR1"
+toSector = "ed/TGO1"
+remarks = ""
+
+[[agreements]]
+level = 280
+ades = ["EDTM", "EDTD"]
+vertical = false
+fromSector = "ed/WUR1"
+toSector = "ed/TGO1"
+remarks = ""
+
+[[agreements]]
+level = 290
+ades = ["EDDN", "EDDE", "EDTY", "EDQT", "EDQC", "EDQD", "EDQM", "EDQA"]
+vertical = false
+fromSector = "ed/NTM1"
+toSector = "ed/FFM1"
+remarks = ""
+
+[[agreements]]
+level = 310
+ades = ["EDMA", "EDMO", "ETSI", "EDJA", "ETSN", "EDSL"]
+vertical = false
+fromSector = "ed/NTM1"
+toSector = "ed/FFM1"
+remarks = ""
+
+[[agreements]]
+level = 330
+ades = ["LKKV", "EDMS"]
+vertical = false
+fromSector = "ed/NTM2"
+toSector = "ed/FFM2"
+remarks = ""
+
+[[agreements]]
+level = 350
+ades = ["EDDV", "EDVE", "ETNW"]
+vertical = false
+fromSector = "ed/NTM2"
+toSector = "ed/FFM2"
+remarks = ""
+
+[[agreements]]
+level = 390
+ades = ["EDDM"]
+vertical = false
+fromSector = "ed/NTM4"
+toSector = "ed/FFM4"
+remarks = ""
+
+[[agreements]]
+level = 330
+ades = ["EDTF", "EDTD", "EDJA", "LSZH", "LFSB", "LSZR", "LSMD", "EDNY", "EDTM"]
+vertical = false
+fromSector = "ed/NTM2"
+toSector = "ed/SLN1"
+remarks = ""
+
+[[agreements]]
+level = 310
+ades = ["EDTL", "EDTO"]
+vertical = false
+fromSector = "ed/NTM1"
+toSector = "ed/SLN1"
+remarks = ""
+
+[[agreements]]
+level = 320
+ades = ["EBBR", "EBMB", "EBAW", "EBCV", "EBCI", "EBLG", "EBZW", "EHBK", "EHBD", "LFSN"]
+vertical = false
+fromSector = "ed/SLN1"
+toSector = "ed/NTM2"
+remarks = ""
+
+[[agreements]]
+level = 340
+ades = ["EHEH", "EHWO", "EHGR", "EHVK"]
+vertical = false
+fromSector = "ed/SLN1"
+toSector = "ed/NTM2"
+remarks = ""
+
+[[agreements]]
+level = 350
+ades = ["LOWI", "LSZS", "LSZA", "LSZL", "LIPB"]
+vertical = false
+fromSector = "ed/SLN1"
+toSector = "ed/TGO1"
+remarks = ""
+
+[[agreements]]
+level = 310
+ades = ["EDDM"]
+vertical = false
+fromSector = "ed/SLN1"
+toSector = "ed/TGO1"
+remarks = ""
+
+[[agreements]]
+level = 330
+ades = ["EDDM"]
+vertical = false
+fromSector = "ed/SLN1"
+toSector = "ed/WUR2"
+remarks = ""
+
+[[agreements]]
+level = 350
+ades = ["LOWS"]
+vertical = false
+fromSector = "ed/TGO1"
+toSector = "ed/ALP1"
+remarks = ""
+
+[[agreements]]
+level = 370
+ades = ["LIMC", "LIML", "LIME", "LIPZ", "LIPH", "LIPX", "LIPO", "LIPA"]
+vertical = false
+fromSector = "ed/TGO2"
+toSector = "ed/ALP3"
+remarks = ""
+
+[[agreements]]
+level = 370
+ades = ["LDZA", "LDRI", "LJMB", "LIPQ", "LDPL", "LDLO"]
+vertical = false
+fromSector = "ed/TGO2"
+toSector = "ed/ISA3"
+remarks = ""
+
+[[agreements]]
+level = 250
+ades = ["LSGC", "LSMA", "LSME", "LSMP", "LSZB", "LSZC", "LSZG", "LSZM"]
+vertical = false
+fromSector = "ed/TGO1"
+toSector = "ed/SLN1"
+remarks = ""
+
+[[agreements]]
+level = 270
+ades = ["LSAS FIR (EXCL LSG*", "LSM*", "LSZ*)"]
+vertical = false
+fromSector = "ed/TGO1"
+toSector = "ed/SLN1"
+remarks = ""
+
+[[agreements]]
+level = 280
+ades = ["EDDK", "EDKB"]
+vertical = false
+fromSector = "ed/TGO1"
+toSector = "ed/SLN1"
+remarks = ""
+
+[[agreements]]
+level = 300
+ades = ["ELLX"]
+vertical = false
+fromSector = "ed/TGO1"
+toSector = "ed/SLN1"
+remarks = ""
+
+[[agreements]]
+level = 310
+ades = ["LSGG", "LSGS", "LSZA", "LSZL", "LSZS", "LFLB", "LFLI", "LFLJ", "LFLP"]
+vertical = false
+fromSector = "ed/TGO1"
+toSector = "ed/SLN1"
+remarks = ""
+
+[[agreements]]
+level = 330
+ades = ["LIMC"]
+vertical = false
+fromSector = "ed/TGO1"
+toSector = "ed/SLN1"
+remarks = ""
+
+[[agreements]]
+level = 340
+ades = ["EDLA", "EDLW", "EDLE", "EDLM", "EDLD", "EDKZ", "EDLP", "EDLI", "EDVK"]
+vertical = false
+fromSector = "ed/TGO1"
+toSector = "ed/WUR2"
+remarks = ""
+
+[[agreements]]
+level = 340
+adep = ["LSZH"]
+vertical = false
+fromSector = "ed/TGO1"
+toSector = "ed/WUR2"
+remarks = ""

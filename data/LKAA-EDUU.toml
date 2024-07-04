@@ -1,0 +1,35 @@
+[[agreements]]
+cop = "RAPET"
+level = 340
+ades = ["EDDF"]
+vertical = false
+fromSector = "lk/WM"
+toSector = "ed/ERL1"
+remarks = ""
+
+[[agreements]]
+cop = "RAPET"
+level = 360
+ades = ["ETAR"]
+vertical = false
+fromSector = "lk/WH"
+toSector = "ed/ERL1"
+remarks = ""
+
+[[agreements]]
+cop = "KILNU"
+level = 340
+adep = ["EDDM"]
+vertical = false
+fromSector = "lk/WM"
+toSector = "ed/SPE1"
+remarks = ""
+
+[[agreements]]
+cop = "RUDAP"
+level = 340
+adep = ["EDDC", "EDAB"]
+vertical = false
+fromSector = "lk/WM"
+toSector = "ed/DON1"
+remarks = ""

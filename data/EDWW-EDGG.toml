@@ -1,0 +1,180 @@
+[[agreements]]
+cop = "XAROL"
+level = 190
+ades = ["EDDR", "EDFH", "EDFM", "EDGS", "EDRY", "ETAR", "ETAD", "EDFZ", "EDRV"]
+vertical = false
+fromSector = "ed/DST"
+toSector = "ed/GIN"
+remarks = ""
+
+[[agreements]]
+cop = "ROBAR"
+level = 190
+ades = ["EDDF"]
+vertical = false
+fromSector = "ed/DST"
+toSector = "ed/HEF"
+remarks = ""
+
+[[agreements]]
+cop = "ESADU"
+level = 160
+ades = ["EDLW"]
+vertical = false
+fromSector = "ed/DST"
+toSector = "ed/PADH"
+remarks = ""
+
+[[agreements]]
+cop = "ESADU"
+level = 200
+ades = ["EDDK"]
+vertical = false
+fromSector = "ed/DST"
+toSector = "ed/PADH"
+remarks = ""
+
+[[agreements]]
+cop = "OSN"
+level = 70
+ades = ["EDDG", "EDLI"]
+vertical = false
+fromSector = "ed/EMS"
+toSector = "ed/HMM"
+remarks = ""
+
+[[agreements]]
+cop = "OSN"
+level = 200
+ades = ["EHTW", "EHLE"]
+vertical = false
+fromSector = "ed/EMS"
+toSector = "ed/HMM"
+remarks = ""
+
+[[agreements]]
+cop = "OSN"
+level = 160
+ades = ["EDLW"]
+transferType = "D"
+vertical = false
+fromSector = "ed/EMS"
+toSector = "ed/HMM"
+remarks = "Handoff @ FL200"
+
+[[agreements]]
+cop = "MOBSA"
+level = 200
+ades = ["EDDL", "EDDK", "EDL*", "EDK*"]
+vertical = false
+fromSector = "ed/EMS"
+toSector = "ed/HMM"
+remarks = ""
+
+[[agreements]]
+cop = "RORUS"
+level = 200
+ades = ["EDDL", "EDLE"]
+vertical = false
+fromSector = "ed/EMS"
+toSector = "ed/HMM"
+remarks = ""
+
+[[agreements]]
+cop = "XAROL"
+level = 90
+ades = ["EDFQ"]
+vertical = false
+fromSector = "ed/HRZ"
+toSector = "ed/GIN"
+remarks = ""
+
+[[agreements]]
+cop = "FTZ"
+level = 70
+ades = ["ETFH"]
+vertical = false
+fromSector = "ed/HRZ"
+toSector = "ed/HEF"
+remarks = ""
+
+[[agreements]]
+cop = "WRB"
+level = 80
+ades = ["EDLP"]
+vertical = false
+fromSector = "ed/HRZ"
+toSector = "ed/PADL"
+remarks = ""
+
+[[agreements]]
+cop = "XAROL"
+level = 90
+adep = ["EDVK"]
+vertical = false
+fromSector = "ed/HRZ"
+toSector = "ed/GIN"
+remarks = ""
+
+[[agreements]]
+cop = "ELNAT"
+level = 90
+adep = ["EDVK"]
+vertical = false
+fromSector = "ed/HRZ"
+toSector = "ed/HEF"
+remarks = ""
+
+[[agreements]]
+cop = "EMBAD"
+level = 90
+adep = ["EDVK"]
+vertical = false
+fromSector = "ed/HRZ"
+toSector = "ed/HEF"
+remarks = ""
+
+[[agreements]]
+cop = "WRB"
+level = 70
+adep = ["EDVK"]
+vertical = false
+fromSector = "ed/HRZ"
+toSector = "ed/PADL"
+remarks = ""
+
+[[agreements]]
+cop = "ESADU"
+level = 90
+adep = ["EDVK"]
+vertical = false
+fromSector = "ed/HRZ"
+toSector = "ed/PADL"
+remarks = ""
+
+[[agreements]]
+cop = "XAROL"
+level = 150
+adep = ["EDLP"]
+vertical = false
+fromSector = "ed/HRZ"
+toSector = "ed/GIN"
+remarks = ""
+
+[[agreements]]
+cop = "EMBAD"
+level = 150
+adep = ["EDLP"]
+vertical = false
+fromSector = "ed/HRZ"
+toSector = "ed/HEF"
+remarks = ""
+
+[[agreements]]
+cop = "ELNAT"
+level = 150
+adep = ["EDLP"]
+vertical = false
+fromSector = "ed/HRZ"
+toSector = "ed/HEF"
+remarks = ""

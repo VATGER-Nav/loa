@@ -1,0 +1,44 @@
+[[agreements]]
+cop = "OLPIX"
+level = 330
+ades = ["LIME"]
+vertical = false
+fromSector = "ed/ALP1"
+toSector = "li/LIPP-NE6"
+remarks = ""
+
+[[agreements]]
+cop = "LIKDA"
+level = 330
+ades = ["LIME"]
+vertical = false
+fromSector = "ed/ALP1"
+toSector = "li/LIPP-NE6"
+remarks = ""
+
+[[agreements]]
+cop = "NATAG"
+level = 330
+ades = ["LIPE", "LIPK", "LIMP"]
+vertical = false
+fromSector = "ed/ALP1"
+toSector = "li/LIPP-NE6"
+remarks = ""
+
+[[agreements]]
+cop = "OLPIX"
+level = 330
+ades = ["LIPE", "LIPK. LIMP"]
+vertical = false
+fromSector = "ed/ALP1"
+toSector = "li/LIPP-NE6"
+remarks = ""
+
+[[agreements]]
+cop = "LIKDA"
+level = 330
+ades = ["LIPE", "LIPK", "LIMP"]
+vertical = false
+fromSector = "ed/ALP1"
+toSector = "li/LIPP-NE6"
+remarks = ""

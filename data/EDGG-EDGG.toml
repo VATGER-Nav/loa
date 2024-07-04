@@ -1,0 +1,1369 @@
+[[agreements]]
+cop = "GEBNO"
+level = 120
+ades = ["EDDS"]
+vertical = false
+fromSector = "ed/DKB"
+toSector = "ed/STG"
+remarks = "released"
+
+[[agreements]]
+cop = "MARUN"
+level = 130
+adep = ["EDDF"]
+transferType = "C"
+vertical = false
+fromSector = "ed/DFN"
+toSector = "ed/GIN"
+remarks = "MARUN SIDs. Released for turns and climb"
+
+[[agreements]]
+cop = "PISAP"
+level = 130
+ades = ["EDDL"]
+vertical = false
+fromSector = "ed/BOT"
+toSector = "ed/DLA"
+remarks = "released"
+
+[[agreements]]
+cop = "DOMEG"
+level = 190
+ades = ["EDDG"]
+transferType = "D"
+vertical = false
+fromSector = "ed/BOT"
+toSector = "ed/HMM"
+remarks = "released, expect HMM at FL90"
+
+[[agreements]]
+cop = "BAMSU"
+level = 190
+ades = ["EDDG"]
+transferType = "D"
+vertical = false
+fromSector = "ed/BOT"
+toSector = "ed/HMM"
+remarks = "released, expect HMM at FL90, BAMSU#J STAR has to be cleared by BOT if not otherwise coordinated verbally"
+
+[[agreements]]
+cop = "PADBA"
+level = 70
+ades = ["EDLW"]
+transferType = "D"
+vertical = false
+fromSector = "ed/DLA"
+toSector = "ed/PADL"
+remarks = "released"
+
+[[agreements]]
+cop = "PADBA"
+level = 130
+ades = ["EDLP"]
+transferType = "D"
+vertical = false
+fromSector = "ed/DLD"
+toSector = "ed/PADL"
+remarks = "released, PADBA#H STAR has to be cleared by DLD if not otherwise coordinated verbally"
+
+[[agreements]]
+cop = "NEREL"
+level = 220
+ades = ["ELLX", "EBLG", "EBBU FIR"]
+transferType = "D"
+vertical = false
+fromSector = "ed/BOT"
+toSector = "ed/NOR"
+remarks = "out of FL240, released"
+
+[[agreements]]
+cop = "ELBAL VIA DODEN"
+level = 200
+adep = ["EDDL", "EDLN"]
+transferType = "C"
+vertical = false
+fromSector = "ed/DLD"
+toSector = "ed/SIG"
+remarks = "released for climb and turns to the south"
+
+[[agreements]]
+cop = "DEGOM VIA KUMIK"
+level = 200
+adep = ["EDDL", "EDLN"]
+transferType = "C"
+vertical = false
+fromSector = "ed/DLD"
+toSector = "ed/SIG"
+remarks = "released for climb and turns to the south"
+
+[[agreements]]
+cop = "LIPMI VIA COL"
+level = 190
+adep = ["EDDL", "EDLN"]
+transferType = "C"
+vertical = false
+fromSector = "ed/DLD"
+toSector = "ed/TAU"
+remarks = "released for climb and turns to the south"
+
+[[agreements]]
+cop = "ELBAL"
+level = 240
+adep = ["ETNG"]
+transferType = "C"
+vertical = false
+fromSector = "ed/DLD"
+toSector = "ed/SIG"
+remarks = "released for turns to the south"
+
+[[agreements]]
+cop = "NVO (23)"
+level = 50
+adep = ["EDDL"]
+qnh = "EDDL"
+vertical = false
+fromSector = "ed/DLD"
+toSector = "ed/DKA"
+remarks = ""
+
+[[agreements]]
+cop = "NVO (05)"
+level = 80
+adep = ["EDDL"]
+transferType = "C"
+vertical = false
+fromSector = "ed/DLD"
+toSector = "ed/DKA"
+remarks = ""
+
+[[agreements]]
+cop = "MAMIB VIA NUDGO"
+level = 170
+adep = ["EDDL"]
+transferType = "C"
+vertical = false
+fromSector = "ed/DLD"
+toSector = "ed/PADH"
+remarks = "Out of FL 140. In case aircraft is not able to reach FL140 at border, prior crossing\napproval by PADL has to be coordinated"
+
+[[agreements]]
+cop = "NVO"
+level = 50
+adep = ["EDLN"]
+transferType = "C"
+qnh = "EDLN"
+vertical = false
+fromSector = "ed/DLA"
+toSector = "ed/DKA"
+remarks = "released"
+
+[[agreements]]
+cop = "MEVEL"
+level = 190
+adep = ["EDDL"]
+transferType = "C"
+vertical = false
+fromSector = "ed/BOT"
+toSector = "ed/HMM"
+remarks = "released"
+
+[[agreements]]
+cop = "BAMSU"
+level = 150
+adep = ["EDLW"]
+transferType = "C"
+vertical = false
+fromSector = "ed/DLD"
+toSector = "ed/NOR"
+remarks = "released"
+
+[[agreements]]
+cop = "NOKDI"
+level = 160
+ades = ["EDFH"]
+vertical = false
+fromSector = "ed/MAN"
+toSector = "ed/KIR"
+remarks = "Released passing abeam NOKDI"
+
+[[agreements]]
+cop = "INKAM"
+level = 130
+ades = ["EDDS"]
+transferType = "D"
+vertical = false
+fromSector = "ed/NKRH"
+toSector = "ed/STG"
+remarks = "Leveled abeam INKAM, released"
+
+[[agreements]]
+cop = "-"
+level = 150
+ades = ["EDDS", "EDTY", "EDSB", "EDJA", "EDRY", "EDTD", "EDTM"]
+vertical = false
+fromSector = "ed/LBU/BAD"
+toSector = "ed/STG/REU"
+remarks = "Flights to EDSB may be cleared DCT KRH, lower level can be coordinated with\nSTG/REU"
+
+[[agreements]]
+cop = "ETASA"
+level = 240
+ades = ["EDFH"]
+vertical = false
+fromSector = "ed/LBU"
+toSector = "ed/NKRH"
+remarks = ""
+
+[[agreements]]
+cop = "ETASA, LBU"
+level = 150
+ades = ["ETAR", "EDDR"]
+transferType = "D"
+vertical = false
+fromSector = "ed/LBU"
+toSector = "ed/NKRH"
+remarks = ""
+
+[[agreements]]
+cop = "XINLA VIA EMPAX"
+level = 150
+ades = ["EDDF"]
+transferType = "D"
+vertical = false
+fromSector = "ed/LBU"
+toSector = "ed/KNG"
+remarks = "Descending via STAR"
+
+[[agreements]]
+cop = "LAMPU"
+level = 220
+ades = ["EDDE"]
+vertical = false
+fromSector = "ed/LBU"
+toSector = "ed/DKB"
+remarks = ""
+
+[[agreements]]
+cop = "DKB"
+level = 190
+ades = ["EDDN"]
+vertical = false
+fromSector = "ed/LBU"
+toSector = "ed/DKB"
+remarks = ""
+
+[[agreements]]
+cop = "DENEL"
+level = 140
+ades = ["LFSB"]
+transferType = "D"
+vertical = false
+fromSector = "ed/BAD"
+toSector = "ed/REU"
+remarks = ""
+
+[[agreements]]
+cop = "BADLI"
+level = 200
+adep = ["EDDF"]
+transferType = "C"
+vertical = false
+fromSector = "ed/NKRH"
+toSector = "ed/BAD"
+remarks = "Flights may be directly transferred to EDUU SLN, approved to cross BAD FL200+"
+
+[[agreements]]
+cop = "ABGAN"
+level = 240
+adep = ["EDDS"]
+transferType = "C"
+vertical = false
+fromSector = "ed/LBU"
+toSector = "ed/NKRH"
+remarks = ""
+
+[[agreements]]
+cop = "DKB"
+level = 200
+adep = ["EDDS"]
+transferType = "C"
+vertical = false
+fromSector = "ed/LBU"
+toSector = "ed/DKB"
+remarks = "released, out of FL180"
+
+[[agreements]]
+cop = "GEBNO"
+level = 200
+adep = ["EDDS"]
+transferType = "C"
+vertical = false
+fromSector = "ed/LBU"
+toSector = "ed/DKB"
+remarks = "released, out of FL180"
+
+[[agreements]]
+cop = "UMDAS, ROLSO"
+level = 110
+adep = ["EDFM"]
+transferType = "C"
+vertical = false
+fromSector = "ed/NKRL"
+toSector = "ed/KNG"
+remarks = ""
+
+[[agreements]]
+cop = "DF601"
+level = 90
+ades = ["EDDF"]
+transferType = "D"
+vertical = false
+fromSector = "ed/DFAN"
+toSector = "ed/DFAS"
+remarks = "released, transfer before DF601"
+
+[[agreements]]
+cop = "FFM"
+level = 130
+ades = ["EDDF"]
+vertical = false
+fromSector = "ed/DFAN"
+toSector = "ed/DFAS"
+remarks = "UNOKO C-STAR, released, transfer before FFM"
+
+[[agreements]]
+cop = "FFM"
+level = 120
+ades = ["EDDF"]
+vertical = false
+fromSector = "ed/DFAN"
+toSector = "ed/DFAS"
+remarks = "ROLIS C-STAR, released, transfer before FFM"
+
+[[agreements]]
+cop = "KUSOM"
+level = 110
+adep = ["EDDF"]
+vertical = false
+fromSector = "ed/DFDN"
+toSector = "ed/TAU"
+remarks = "COP at level"
+
+[[agreements]]
+cop = "OBOKA"
+level = 130
+adep = ["EDDF"]
+transferType = "C"
+vertical = false
+fromSector = "ed/DFDN"
+toSector = "ed/TAU"
+remarks = ""
+
+[[agreements]]
+cop = "MARUN"
+level = 130
+adep = ["EDDF"]
+transferType = "C"
+vertical = false
+fromSector = "ed/DFDN"
+toSector = "ed/GIN"
+remarks = ""
+
+[[agreements]]
+cop = "TOBAK"
+level = 130
+adep = ["EDDF"]
+transferType = "C"
+vertical = false
+fromSector = "ed/DFDN"
+toSector = "ed/GIN"
+remarks = ""
+
+[[agreements]]
+cop = "ANEKI"
+level = 130
+adep = ["EDDF"]
+transferType = "C"
+vertical = false
+fromSector = "ed/DFDS"
+toSector = "ed/NKRH"
+remarks = "Speed restriction 220kts until RID may be canceled by DFDS and NKRH individually\nwithout prior coordination"
+
+[[agreements]]
+cop = "SULUS"
+level = 130
+adep = ["EDDF"]
+transferType = "C"
+vertical = false
+fromSector = "ed/DFDS"
+toSector = "ed/HAB"
+remarks = "07 Departure"
+
+[[agreements]]
+cop = "KOMIB"
+level = 130
+adep = ["EDDF"]
+transferType = "C"
+vertical = false
+fromSector = "ed/DFDS"
+toSector = "ed/HAB"
+remarks = ""
+
+[[agreements]]
+cop = "SOBRA"
+level = 130
+adep = ["EDDF"]
+transferType = "C"
+vertical = false
+fromSector = "ed/DFDS"
+toSector = "ed/KIR"
+remarks = ""
+
+[[agreements]]
+cop = "ULKIG"
+level = 130
+adep = ["EDDF"]
+transferType = "C"
+vertical = false
+fromSector = "ed/DFDS"
+toSector = "ed/KIR"
+remarks = ""
+
+[[agreements]]
+cop = "AMTIX"
+level = 110
+adep = ["EDDF"]
+transferType = "C"
+vertical = false
+fromSector = "ed/DFDS"
+toSector = "ed/KNG"
+remarks = "COP at level"
+
+[[agreements]]
+cop = "AMTIX"
+level = 80
+adep = ["EDFE"]
+transferType = "C"
+vertical = false
+fromSector = "ed/DFDS"
+toSector = "ed/KNG"
+remarks = "Released SYD arrivals"
+
+[[agreements]]
+cop = "OKIBA"
+level = 140
+adep = ["EDDS"]
+transferType = "C"
+vertical = false
+fromSector = "ed/STG"
+toSector = "ed/LBU"
+remarks = "Released, flights may be cleared direct ROLSO when RWY 07 is in use"
+
+[[agreements]]
+cop = "VESID"
+level = 140
+adep = ["EDDS"]
+vertical = false
+fromSector = "ed/STG"
+toSector = "ed/LBU"
+remarks = "Released, climbing if 07"
+
+[[agreements]]
+cop = "TAGIK"
+level = 140
+adep = ["EDDS"]
+vertical = false
+fromSector = "ed/STG"
+toSector = "ed/LBU"
+remarks = "Released, climbing if 07"
+
+[[agreements]]
+cop = "KRH"
+level = 140
+adep = ["EDDS"]
+vertical = false
+fromSector = "ed/STG"
+toSector = "ed/PFA"
+remarks = "Released, climbing if 07"
+
+[[agreements]]
+cop = "ETASA"
+level = 140
+adep = ["EDDS"]
+vertical = false
+fromSector = "ed/STG"
+toSector = "ed/KNG"
+remarks = "Released, flights may be cleared direct SPESA, climbing if 07"
+
+[[agreements]]
+cop = "DKB"
+level = 140
+adep = ["EDDS"]
+vertical = false
+fromSector = "ed/STG"
+toSector = "ed/LBU"
+remarks = "RWY25, released"
+
+[[agreements]]
+cop = "DKB"
+level = 140
+adep = ["EDDS"]
+transferType = "C"
+vertical = false
+fromSector = "ed/STG"
+toSector = "ed/DKB"
+remarks = "RWY07, released"
+
+[[agreements]]
+cop = "GEBNO"
+level = 140
+adep = ["EDDS"]
+transferType = "C"
+vertical = false
+fromSector = "ed/STG"
+toSector = "ed/DKB"
+remarks = "RWY07, released"
+
+[[agreements]]
+cop = "GEBNO"
+level = 140
+adep = ["EDDS"]
+vertical = false
+fromSector = "ed/STG"
+toSector = "ed/LBU"
+remarks = "RWY25, released"
+
+[[agreements]]
+cop = "ETARU"
+level = 100
+ades = ["EDDF"]
+vertical = false
+fromSector = "ed/TAU"
+toSector = "ed/DFAN"
+remarks = "COP at level"
+
+[[agreements]]
+cop = "KERAX (B)"
+level = 100
+ades = ["EDDF"]
+transferType = "D"
+vertical = false
+fromSector = "ed/GED"
+toSector = "ed/DFAS"
+remarks = "COP at level (EBIPA)"
+
+[[agreements]]
+cop = "OSPUL"
+level = 120
+ades = ["EDDF"]
+vertical = false
+fromSector = "ed/TAU"
+toSector = "ed/DFAN"
+remarks = "COP at level"
+
+[[agreements]]
+cop = "KERAX (A)"
+level = 110
+ades = ["EDDF"]
+vertical = false
+fromSector = "ed/GED"
+toSector = "ed/DFAN"
+remarks = "COP at level (KERAX)"
+
+[[agreements]]
+cop = "KERAX(C)"
+level = 120
+ades = ["EDDF"]
+transferType = "D"
+vertical = false
+fromSector = "ed/GED"
+toSector = "ed/DFAS"
+remarks = "COP at level (EBIPA)"
+
+[[agreements]]
+cop = "KERAX(D)"
+level = 130
+ades = ["EDDF"]
+transferType = "D"
+vertical = false
+fromSector = "ed/GED"
+toSector = "ed/DFAN"
+remarks = "COP at level (GED)"
+
+[[agreements]]
+cop = "DITAN"
+level = 200
+adep = ["EDDF"]
+transferType = "C"
+vertical = false
+fromSector = "ed/TAU"
+toSector = "ed/NOR"
+remarks = "released, on OBOKA#E/#D departure flights may be cleared direct DITAM or OBOKA"
+
+[[agreements]]
+cop = "ARPEG"
+level = 240
+adep = ["EDDF"]
+transferType = "C"
+vertical = false
+fromSector = "ed/GIN"
+toSector = "ed/PADH"
+remarks = "cross ARPEG FL190 or above"
+
+[[agreements]]
+cop = "ROLIS"
+level = 100
+ades = ["EDFH", "ETAD"]
+vertical = false
+fromSector = "ed/TAU"
+toSector = "ed/EIF"
+remarks = ""
+
+[[agreements]]
+cop = "GULKO"
+level = 110
+ades = ["EDDK", "EDKB"]
+transferType = "D"
+vertical = false
+fromSector = "ed/TAU"
+toSector = "ed/DKA"
+remarks = "COP at level,DKA On request by DKA, flights may be generally cleared direct DK416 or WYP, descending FL110 out of FL150 abeam GULKO."
+
+[[agreements]]
+cop = "OBOKA"
+level = 100
+ades = ["EDDK; EDKB"]
+vertical = false
+fromSector = "ed/TAU"
+toSector = "ed/DKA"
+remarks = ""
+
+[[agreements]]
+cop = "BATEB"
+level = 130
+ades = ["EDDK"]
+vertical = false
+fromSector = "ed/GIN"
+toSector = "ed/PADL"
+remarks = "released"
+
+[[agreements]]
+cop = "ARPEG"
+level = 110
+ades = ["EDLW", "EDLP"]
+vertical = false
+fromSector = "ed/GIN"
+toSector = "ed/PADL"
+remarks = "released"
+
+[[agreements]]
+cop = "SODNA"
+level = 110
+ades = ["EDLW", "EDLP"]
+vertical = false
+fromSector = "ed/GIN"
+toSector = "ed/PADL"
+remarks = "released"
+
+[[agreements]]
+cop = "DITAM"
+level = 200
+ades = ["EDDF"]
+transferType = "C"
+vertical = false
+fromSector = "ed/TAU"
+toSector = "ed/NOR"
+remarks = "released, on OBOKA#E/#D departure flights may be cleared direct DITAM or OBOKA"
+
+[[agreements]]
+cop = "ADNIS,SUPIX"
+level = 100
+ades = ["EDDF"]
+vertical = false
+fromSector = "ed/KNG"
+toSector = "ed/DFAS"
+remarks = "released"
+
+[[agreements]]
+cop = "SPESA"
+level = 110
+ades = ["EDDF"]
+transferType = "D"
+vertical = false
+fromSector = "ed/KTG"
+toSector = "ed/DFAS"
+remarks = "released SYD ADNIS/SUPIX flow; RWY25: SPESA@, RWY07: CHA@"
+
+[[agreements]]
+cop = "RAMOB"
+level = 110
+ades = ["EDDF"]
+vertical = false
+fromSector = "ed/RUD"
+toSector = "ed/DFAN"
+remarks = "northern STAR"
+
+[[agreements]]
+cop = "RAMOB"
+level = 130
+ades = ["EDDF"]
+vertical = false
+fromSector = "ed/RUD"
+toSector = "ed/DFAN"
+remarks = "southern STAR"
+
+[[agreements]]
+cop = "GMH"
+level = 110
+adep = ["EDDL"]
+transferType = "C"
+vertical = false
+fromSector = "ed/DLD"
+toSector = "ed/PADL"
+remarks = ""
+
+[[agreements]]
+cop = "RINEX"
+level = 0
+ades = ["ETAR"]
+vertical = false
+fromSector = "ed/NKRL"
+toSector = "ed/PFA"
+remarks = "Level subject to coordination, flight may be cleared DCT XIDOD (26/27) or DCT RMS (08/09)"
+
+[[agreements]]
+cop = "RINEX"
+level = 0
+ades = ["ETAR"]
+vertical = false
+fromSector = "ed/NKRH"
+toSector = "ed/PFA"
+remarks = "Level subject to coordination, flight may be cleared DCT XIDOD (26/27) or DCT RMS (08/09)"
+
+[[agreements]]
+cop = "-"
+level = 0
+ades = ["EDDR"]
+vertical = false
+fromSector = "ed/NKRH"
+toSector = "ed/STG"
+remarks = "Level subject to coordination, flight may be cleared DCT ZWN"
+
+[[agreements]]
+cop = "-"
+level = 0
+ades = ["EDRZ"]
+vertical = false
+fromSector = "ed/NKRH"
+toSector = "ed/STG"
+remarks = "Level subject to coordination, flight may be cleared DCT ZWN"
+
+[[agreements]]
+cop = "OKIBA"
+level = 200
+adep = ["EDDS"]
+transferType = "C"
+vertical = false
+fromSector = "ed/LBU"
+toSector = "ed/KNG"
+remarks = "released, out of FL180"
+
+[[agreements]]
+cop = "-"
+level = 110
+ades = ["EDTY"]
+transferType = "D"
+vertical = false
+fromSector = "ed/DKB"
+toSector = "ed/STG"
+remarks = ""
+
+[[agreements]]
+cop = "DKB"
+level = 230
+adep = ["EDDN"]
+vertical = false
+fromSector = "ed/DKB"
+toSector = "ed/LBU"
+remarks = "with RFL260+ traffic may skip LBU with prior approval request and go directly to EDUU"
+
+[[agreements]]
+cop = "NIKUT"
+level = 200
+ades = ["EDDS", "EDTY", "EDJA", "EDMA", "EDMO", "ETSI", "ETSL", "ETSN"]
+vertical = false
+fromSector = "ed/HAB"
+toSector = "ed/DKB"
+remarks = ""
+
+[[agreements]]
+cop = "BAMTO"
+level = 160
+ades = ["EDDR"]
+vertical = false
+fromSector = "ed/HAB"
+toSector = "ed/MAN"
+remarks = ""
+
+[[agreements]]
+cop = "Z93 KOSEK"
+level = 200
+ades = ["EDFH", "EDSB", "EDTL"]
+vertical = false
+fromSector = "ed/HAB"
+toSector = "ed/MAN"
+remarks = ""
+
+[[agreements]]
+cop = "KETEG"
+level = 80
+ades = ["EDFM", "EDRY"]
+vertical = false
+fromSector = "ed/KNG"
+toSector = "ed/NKRL"
+remarks = "released for descent"
+
+[[agreements]]
+cop = "KETEG"
+level = 200
+ades = ["EDSB"]
+vertical = false
+fromSector = "ed/KNG"
+toSector = "ed/NKRH"
+remarks = ""
+
+[[agreements]]
+cop = "KETEG"
+level = 120
+ades = ["EDDR", "EDRZ", "ETAR"]
+vertical = false
+fromSector = "ed/KNG"
+toSector = "ed/NKRH"
+remarks = ""
+
+[[agreements]]
+cop = "GIBSA"
+level = 170
+adep = ["EDDF"]
+vertical = false
+fromSector = "ed/KNG"
+toSector = "ed/KTG"
+remarks = "SULUS-Dep, released for turns and climbs up FL190"
+
+[[agreements]]
+cop = "TOSTU"
+level = 90
+ades = ["EDFM", "EDRY"]
+vertical = false
+fromSector = "ed/KTG"
+toSector = "ed/KNG"
+remarks = ""
+
+[[agreements]]
+cop = "RASVO"
+level = 200
+ades = ["EDLN"]
+vertical = false
+fromSector = "ed/RUD"
+toSector = "ed/NOR"
+remarks = ""
+
+[[agreements]]
+cop = "NIIVNU"
+level = 180
+ades = ["EDDK"]
+vertical = false
+fromSector = "ed/RUD"
+toSector = "ed/DKA"
+remarks = ""
+
+[[agreements]]
+cop = "-"
+level = 200
+adep = ["ETAR"]
+transferType = "C"
+vertical = false
+fromSector = "ed/RUD"
+toSector = "ed/NOR"
+remarks = "released, may be cleared DCT NVO"
+
+[[agreements]]
+cop = "RASVO"
+level = 140
+ades = ["EDDK"]
+vertical = false
+fromSector = "ed/EIF"
+toSector = "ed/DKA"
+remarks = ""
+
+[[agreements]]
+cop = "-"
+level = 100
+ades = ["ETNN"]
+transferType = "D"
+vertical = false
+fromSector = "ed/EIF"
+toSector = "ed/DKA"
+remarks = "released"
+
+[[agreements]]
+cop = "NVO"
+level = 100
+adep = ["EDFH"]
+transferType = "C"
+vertical = false
+fromSector = "ed/EIF"
+toSector = "ed/DKA"
+remarks = ""
+
+[[agreements]]
+cop = "-"
+level = 140
+adep = ["ETAR"]
+transferType = "C"
+vertical = false
+fromSector = "ed/EIF"
+toSector = "ed/RUD"
+remarks = "released for climb"
+
+[[agreements]]
+cop = "ODVUX"
+level = 160
+ades = ["ELLX"]
+transferType = "D"
+vertical = false
+fromSector = "ed/KIR"
+toSector = "ed/EIF"
+remarks = ""
+
+[[agreements]]
+cop = "-"
+level = 230
+ades = ["EDDS", "EDTL"]
+vertical = false
+fromSector = "ed/KIR"
+toSector = "ed/MAN"
+remarks = ""
+
+[[agreements]]
+cop = "BADLI,GEBDA"
+level = 110
+ades = ["EDDS", "EDTL"]
+vertical = false
+fromSector = "ed/PFA"
+toSector = "ed/STG"
+remarks = "released"
+
+[[agreements]]
+cop = "-"
+level = 70
+ades = ["EDFM", "EDRY"]
+vertical = false
+fromSector = "ed/PFA"
+toSector = "ed/NKRL"
+remarks = "released"
+
+[[agreements]]
+cop = "OLIVI"
+level = 100
+ades = ["EDFH"]
+vertical = false
+fromSector = "ed/PFA"
+toSector = "ed/EIF"
+remarks = "released"
+
+[[agreements]]
+cop = "BADGO"
+level = 140
+ades = ["EDLW"]
+vertical = false
+fromSector = "ed/PADH"
+toSector = "ed/PADL"
+remarks = "COP at level"
+
+[[agreements]]
+cop = "TINSA"
+level = 140
+ades = ["EDLW"]
+vertical = false
+fromSector = "ed/PADH"
+toSector = "ed/PADL"
+remarks = "10Nm prior COP at level"
+
+[[agreements]]
+cop = "EXOBA"
+level = 70
+ades = ["EDLP"]
+vertical = false
+fromSector = "ed/HMM"
+toSector = "ed/PADL"
+remarks = ""
+
+[[agreements]]
+cop = "ESADU,PELUN"
+level = 140
+ades = ["EDVK"]
+vertical = false
+fromSector = "ed/PADH"
+toSector = "ed/PADL"
+remarks = "10 NM prior COP at level"
+
+[[agreements]]
+cop = "HMM"
+level = 140
+ades = ["EDDG"]
+transferType = "D"
+vertical = false
+fromSector = "ed/PADH"
+toSector = "ed/HMM"
+remarks = "expect FL090 HMM at level"
+
+[[agreements]]
+cop = "KOPAG"
+level = 120
+ades = ["EDDK"]
+transferType = "D"
+vertical = false
+fromSector = "ed/PADH"
+toSector = "ed/DKA"
+remarks = "DKA may request KOPAG-arrival runway 24 with FL090 KOPAG at level"
+
+[[agreements]]
+cop = "DOMUX"
+level = 140
+ades = ["EDDL"]
+transferType = "D"
+vertical = false
+fromSector = "ed/PADH"
+toSector = "ed/DLA"
+remarks = "Released by PADH for turn and descend to FL100"
+
+[[agreements]]
+cop = "HALME"
+level = 140
+ades = ["EDDL"]
+transferType = "D"
+vertical = false
+fromSector = "ed/HMM"
+toSector = "ed/DLA"
+remarks = "released"
+
+[[agreements]]
+cop = "TUVTI"
+level = 160
+ades = ["EDDK"]
+vertical = false
+fromSector = "ed/HMM"
+toSector = "ed/PADH"
+remarks = ""
+
+[[agreements]]
+cop = "ERNEP"
+level = 100
+ades = ["EDDK"]
+vertical = false
+fromSector = "ed/PADL"
+toSector = "ed/DKA"
+remarks = "COP at level"
+
+[[agreements]]
+cop = "BAMSU"
+level = 80
+adep = ["EDLW"]
+vertical = false
+fromSector = "ed/PADL"
+toSector = "ed/DLD"
+remarks = "EDDL RWY 05"
+
+[[agreements]]
+cop = "BAMSU"
+level = 50
+adep = ["EDLW"]
+qnh = "EDLW"
+vertical = false
+fromSector = "ed/PADL"
+toSector = "ed/DLA"
+remarks = "EDDL RWY 23"
+
+[[agreements]]
+cop = "GMH"
+level = 110
+adep = ["EDLW"]
+transferType = "C"
+vertical = false
+fromSector = "ed/PADL"
+toSector = "ed/PADH"
+remarks = "released for climb"
+
+[[agreements]]
+cop = "NUDGO"
+level = 130
+adep = ["EDLW"]
+transferType = "C"
+vertical = false
+fromSector = "ed/PADL"
+toSector = "ed/PADH"
+remarks = ""
+
+[[agreements]]
+cop = "OSN"
+level = 70
+adep = ["EDLW"]
+transferType = "C"
+vertical = false
+fromSector = "ed/PADL"
+toSector = "ed/HMM"
+remarks = ""
+
+[[agreements]]
+cop = "DOMEG"
+level = 70
+adep = ["EDLW", "EDLP"]
+transferType = "C"
+vertical = false
+fromSector = "ed/PADL"
+toSector = "ed/HMM"
+remarks = "If ED-R inactive, PADL may coordinate higher level with HMM"
+
+[[agreements]]
+cop = "HMM"
+level = 70
+adep = ["EDLW", "EDLP"]
+transferType = "C"
+vertical = false
+fromSector = "ed/PADL"
+toSector = "ed/HMM"
+remarks = "If ED-R inactive, PADL may coordinate higher level with HMM"
+
+[[agreements]]
+cop = "TINSA"
+level = 120
+adep = ["EDLP"]
+transferType = "C"
+vertical = false
+fromSector = "ed/PADL"
+toSector = "ed/PADH"
+remarks = ""
+
+[[agreements]]
+cop = "TINSA,RUNER"
+level = 130
+adep = ["EDVK"]
+vertical = false
+fromSector = "ed/PADL"
+toSector = "ed/PADH"
+remarks = ""
+
+[[agreements]]
+cop = "GISDI"
+level = 130
+adep = ["EDLP"]
+transferType = "C"
+vertical = false
+fromSector = "ed/PADL"
+toSector = "ed/GIN"
+remarks = "out of FL100"
+
+[[agreements]]
+cop = "GMH"
+level = 110
+adep = ["EDDL", "EDLN"]
+vertical = false
+fromSector = "ed/PADL"
+toSector = "ed/SIG"
+remarks = "RFL 140 or less"
+
+[[agreements]]
+cop = "GMH"
+level = 190
+adep = ["EDLW"]
+transferType = "C"
+vertical = false
+fromSector = "ed/PADH"
+toSector = "ed/SIG"
+remarks = "out of FL 180"
+
+[[agreements]]
+cop = "HMM, DOMEG"
+level = 0
+adep = ["EDDG"]
+vertical = false
+fromSector = "ed/HMM"
+toSector = "ed/PADH"
+remarks = "flights via HMM and DOMEG into PADH are subject to coordination"
+
+[[agreements]]
+cop = "DOMEG"
+level = 180
+adep = ["EDDG", "EDLP"]
+transferType = "C"
+vertical = false
+fromSector = "ed/HMM"
+toSector = "ed/DLA/BOT"
+remarks = ""
+
+[[agreements]]
+cop = "DOMEG"
+level = 80
+ades = ["EDLW"]
+vertical = false
+fromSector = "ed/HMM"
+toSector = "ed/PADL"
+remarks = "DOMEG#A star has to be cleared if not otherwise coordinated verbally"
+
+[[agreements]]
+cop = "NVO"
+level = 140
+ades = ["EDFH"]
+vertical = false
+fromSector = "ed/DKA"
+toSector = "ed/EIF"
+remarks = "released"
+
+[[agreements]]
+cop = "NVO"
+level = 70
+ades = ["EDLN"]
+transferType = "D"
+vertical = false
+fromSector = "ed/DKA"
+toSector = "ed/DLA"
+remarks = "released"
+
+[[agreements]]
+cop = "NVO(06/14)"
+level = 140
+adep = ["EDDK"]
+transferType = "C"
+vertical = false
+fromSector = "ed/DKA"
+toSector = "ed/NOR"
+remarks = "released"
+
+[[agreements]]
+cop = "NVO(23/32)"
+level = 100
+adep = ["EDDK"]
+transferType = "C"
+vertical = false
+fromSector = "ed/DKA"
+toSector = "ed/NOR"
+remarks = "released"
+
+[[agreements]]
+cop = "COL"
+level = 130
+adep = ["EDDK"]
+transferType = "C"
+vertical = false
+fromSector = "ed/DKA"
+toSector = "ed/TAU"
+remarks = "released for climb"
+
+[[agreements]]
+cop = "KUMIK"
+level = 140
+adep = ["EDDK"]
+transferType = "C"
+vertical = false
+fromSector = "ed/DKA"
+toSector = "ed/SIG"
+remarks = "released for climb and turns to the south"
+
+[[agreements]]
+cop = "PODIP"
+level = 140
+adep = ["EDDK"]
+transferType = "C"
+vertical = false
+fromSector = "ed/DKA"
+toSector = "ed/PADH"
+remarks = "released"
+
+[[agreements]]
+cop = "WYP"
+level = 90
+adep = ["EDDK"]
+transferType = "C"
+vertical = false
+fromSector = "ed/DKA"
+toSector = "ed/DLD"
+remarks = "released"
+
+[[agreements]]
+cop = "BIKMU"
+level = 130
+ades = ["EDDL"]
+transferType = "D"
+vertical = false
+fromSector = "ed/NOR"
+toSector = "ed/DLA"
+remarks = "released for turns not further east then BAM, released for descent to FL070"
+
+[[agreements]]
+cop = "ELDAR"
+level = 80
+ades = ["EDDL"]
+vertical = false
+fromSector = "ed/NOR"
+toSector = "ed/DLA"
+remarks = "COP at level, released for turns and descent to FL070"
+
+[[agreements]]
+cop = "DOMEG"
+level = 200
+ades = ["EHEH"]
+transferType = "D"
+vertical = false
+fromSector = "ed/HMM"
+toSector = "ed/BOT"
+remarks = "released"
+
+[[agreements]]
+cop = "SUVOX"
+level = 200
+ades = ["EHEH"]
+transferType = "D"
+vertical = false
+fromSector = "ed/HMM"
+toSector = "ed/BOT"
+remarks = "released"
+
+[[agreements]]
+cop = "BAMSU"
+level = 160
+ades = ["EDLP", "EDLW"]
+transferType = "D"
+vertical = false
+fromSector = "ed/NOR"
+toSector = "ed/DLD"
+remarks = "released"
+
+[[agreements]]
+cop = "NAZAF"
+level = 120
+ades = ["EDLV"]
+transferType = "D"
+vertical = false
+fromSector = "ed/NOR"
+toSector = "ed/BOT"
+remarks = "out of FL180, released"
+
+[[agreements]]
+cop = "QATJA"
+level = 230
+ades = ["EDDG"]
+transferType = "D"
+vertical = false
+fromSector = "ed/NOR"
+toSector = "ed/BOT"
+remarks = "released"
+
+[[agreements]]
+cop = "RASVO"
+level = 210
+ades = ["EDDR", "EDRZ", "ETAR"]
+vertical = false
+fromSector = "ed/NOR"
+toSector = "ed/RUD"
+remarks = ""

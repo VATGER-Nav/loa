@@ -1,0 +1,58 @@
+[[agreements]]
+cop = "RIMET"
+level = 250
+ades = ["EDDF", "EDFE"]
+transferType = "D"
+vertical = false
+fromSector = "ed/SOL"
+toSector = "ed/GED"
+remarks = ""
+
+[[agreements]]
+cop = "LIPMI"
+level = 260
+ades = ["EDDF", "EDFE"]
+vertical = false
+fromSector = "ed/RHR"
+toSector = "ed/TAU"
+remarks = "Released for descent after passing abeam DIXAT."
+
+[[agreements]]
+cop = "DENOL"
+level = 250
+ades = ["EDDL", "EDL*", "EHEH", "EHBK"]
+transferType = "D"
+vertical = false
+fromSector = "ed/CEL"
+toSector = "ed/HMM"
+remarks = ""
+
+[[agreements]]
+cop = "HMM"
+level = 250
+ades = ["EDDL", "EDL*", "EHEH", "EHBK"]
+transferType = "D"
+vertical = false
+fromSector = "ed/MNS"
+toSector = "ed/HMM"
+remarks = "Traffic shall descend FL250 to be leveled 20 NM prior to HMM\n"
+
+[[agreements]]
+cop = "PODER"
+level = 250
+ades = ["EDDK"]
+transferType = "D"
+vertical = false
+fromSector = "ed/SOL"
+toSector = "ed/PADH"
+remarks = ""
+
+[[agreements]]
+cop = "ABAMI"
+level = 250
+ades = ["EBBR", "EBMB", "EBCI", "EBLG", "EBAW", "ELLX"]
+transferType = "D"
+vertical = false
+fromSector = "ed/RHR"
+toSector = "ed/BOT"
+remarks = ""

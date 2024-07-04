@@ -1,0 +1,104 @@
+[[agreements]]
+level = 350
+ades = ["LOWW"]
+vertical = false
+fromSector = "ed/ALP1"
+toSector = "lo/W3"
+remarks = ""
+
+[[agreements]]
+level = 350
+ades = ["LDZA", "LDRI", "LJMB", "LIP*"]
+vertical = false
+fromSector = "ed/ALP1"
+toSector = "lo/W3"
+remarks = "except LIPQ"
+
+[[agreements]]
+level = 330
+adep = ["LSZH", "LSZS", "LSMD"]
+transferType = "C"
+vertical = false
+fromSector = "ed/ALP1"
+toSector = "lo/W2"
+remarks = "FL310A"
+
+[[agreements]]
+level = 330
+ades = ["LOWG", "LOWK", "LOXZ", "LJLJ", "LIPQ"]
+vertical = false
+fromSector = "ed/ALP1"
+toSector = "lo/W2"
+remarks = ""
+
+[[agreements]]
+level = 330
+ades = ["LOWG", "LOWK", "LOXZ", "LJLJ", "LIPQ"]
+vertical = false
+fromSector = "ed/CHI1"
+toSector = "lo/W2"
+remarks = ""
+
+[[agreements]]
+level = 350
+ades = ["LDZA. LDRI", "LJMB", "LIP*"]
+vertical = false
+fromSector = "ed/CHI1"
+toSector = "lo/W3"
+remarks = "except LIPQ"
+
+[[agreements]]
+level = 330
+ades = ["LOWG", "LOWK", "LOXZ"]
+vertical = false
+fromSector = "ed/CHI1"
+toSector = "lo/B2"
+remarks = ""
+
+[[agreements]]
+level = 350
+ades = ["LDZA", "LJMB"]
+vertical = false
+fromSector = "ed/CHI1"
+toSector = "lo/B3"
+remarks = ""
+
+[[agreements]]
+level = 330
+ades = ["LOWW"]
+vertical = false
+fromSector = "ed/CHI1"
+toSector = "lo/B2"
+remarks = ""
+
+[[agreements]]
+level = 350
+ades = ["LOWW"]
+vertical = false
+fromSector = "ed/CHI1"
+toSector = "lo/W3"
+remarks = ""
+
+[[agreements]]
+level = 330
+ades = ["LOWG", "LOWK", "LOXZ"]
+vertical = false
+fromSector = "ed/DON1"
+toSector = "lo/N2"
+remarks = ""
+
+[[agreements]]
+level = 330
+ades = ["LOWW"]
+vertical = false
+fromSector = "ed/DON1"
+toSector = "lo/N2"
+remarks = ""
+
+[[agreements]]
+level = 350
+ades = ["LOWW"]
+vertical = false
+fromSector = "ed/ALP1"
+toSector = "lo/W3"
+remarks = ""

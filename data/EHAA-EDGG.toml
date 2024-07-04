@@ -1,0 +1,62 @@
+[[agreements]]
+cop = "SONEB"
+level = 210
+ades = ["EDDK", "EDLP", "EDLW"]
+vertical = false
+fromSector = "eh/EHAAE"
+toSector = "ed/HMM"
+remarks = "released to FL180"
+
+[[agreements]]
+cop = "SONEB"
+level = 110
+ades = ["EDDG"]
+vertical = false
+fromSector = "eh/EHAAE"
+toSector = "ed/BOT"
+remarks = "Released for descend and turns"
+
+[[agreements]]
+cop = "TEBRO"
+level = 170
+ades = ["EDDL", "EDLN", "EDLV", "ETNG", "ETNN"]
+vertical = false
+fromSector = "eh/EHAAE"
+toSector = "ed/BOT"
+remarks = "Released for descend and turns"
+
+[[agreements]]
+cop = "TEBRO"
+level = 210
+ades = ["ETAD", "ETOU"]
+vertical = false
+fromSector = "eh/EHAAE"
+toSector = "ed/BOT"
+remarks = "Released for turns"
+
+[[agreements]]
+cop = "NVO"
+level = 60
+ades = ["EDDK"]
+vertical = false
+fromSector = "eh/EHBK"
+toSector = "ed/DKA"
+remarks = "ADEP EHBK via ELBED released for climb"
+
+[[agreements]]
+cop = "VELNI"
+level = 160
+adep = ["EHEH"]
+vertical = false
+fromSector = "eh/EHMC"
+toSector = "ed/BOT"
+remarks = "Released for climb"
+
+[[agreements]]
+cop = "PIMIP"
+level = 60
+adep = ["EHBK"]
+vertical = false
+fromSector = "eh/EHBK"
+toSector = "ed/BOT"
+remarks = "Released for climb"

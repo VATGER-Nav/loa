@@ -1,0 +1,197 @@
+[[agreements]]
+cop = "OSBIT"
+level = 250
+ades = ["EDDS", "EDSB", "EDTY", "EDTL"]
+vertical = false
+fromSector = "ed/FUL1"
+toSector = "ed/HAB"
+remarks = "HAB responsible for separation to EDDN inbounds from FFM, approved by WUR"
+
+[[agreements]]
+cop = "ARPEG"
+level = 250
+ades = ["EDDG", "EDDL", "EDLN", "EDLS", "EDLV", "EDWO", "EHBD", "EHEH", "EHLE", "EHTW"]
+vertical = false
+fromSector = "ed/FFM1"
+toSector = "ed/PADH"
+remarks = "Transfer asap, not later than ARPEG \nPADH shall stay clear of MUAC"
+
+[[agreements]]
+cop = "EKSAK"
+level = 260
+ades = ["EDDG", "EDDL", "EDLN", "EDLS", "EDLV", "EDWO", "EHBD", "EHEH", "EHLE", "EHTW"]
+vertical = false
+fromSector = "ed/FFM1"
+toSector = "ed/PADH"
+remarks = "Transfer asap, not later than EKSAK\nReleased for FL250 after passing AMETU\nPADH shall stay clear of MUAC"
+
+[[agreements]]
+cop = "BOMBI"
+level = 250
+ades = ["EDDS", "EDSB", "EDTY", "EDTL"]
+vertical = false
+fromSector = "ed/FFM1"
+toSector = "ed/MAN"
+remarks = ""
+
+[[agreements]]
+cop = "KONAP"
+level = 250
+ades = ["EDDN"]
+vertical = false
+fromSector = "ed/FFM1"
+toSector = "ed/HAB"
+remarks = "HAB responsible for separation to EDDS inbounds from FUL, approved by WUR"
+
+[[agreements]]
+cop = "SOGMI"
+level = 250
+ades = ["EDDE"]
+vertical = false
+fromSector = "ed/FFM1"
+toSector = "ed/GIN"
+remarks = ""
+
+[[agreements]]
+cop = "UMUPU"
+level = 270
+ades = ["EBBR", "EBCI", "EBMB", "EBAW", "ELLX", "EHEH", "EHGR"]
+vertical = false
+fromSector = "ed/NTM1"
+toSector = "ed/NOR"
+remarks = "released"
+
+[[agreements]]
+cop = "LADAT"
+level = 250
+ades = ["EDDS", "EDSB"]
+vertical = false
+fromSector = "ed/NTM1"
+toSector = "ed/PFA"
+remarks = "20 NM prior LADAT at level"
+
+[[agreements]]
+cop = "IDOVI"
+level = 250
+ades = ["EBBR", "EBCI", "EBMB", "EBAW", "ELLX", "EHEH", "EHGR", "EBCV", "EBLG", "EHBK"]
+vertical = false
+fromSector = "ed/NTM1"
+toSector = "ed/KIR"
+remarks = ""
+
+[[agreements]]
+cop = "LAMGO"
+level = 250
+ades = ["LSZH", "LSZR", "LSMD", "EDNY"]
+vertical = false
+fromSector = "ed/SLN1"
+toSector = "ed/BAD"
+remarks = "20 NM prior SUL at level"
+
+[[agreements]]
+cop = "IBGES"
+level = 0
+ades = ["ELLX"]
+vertical = false
+fromSector = "ed/SLN1"
+toSector = "ed/NKRH"
+remarks = "level has to be coordinated"
+
+[[agreements]]
+cop = "VABEN"
+level = 0
+ades = ["ELLX"]
+vertical = false
+fromSector = "ed/SLN1"
+toSector = "ed/PFA"
+remarks = "level has to be coordinated"
+
+[[agreements]]
+cop = "UMDAS"
+level = 250
+ades = ["EDDK"]
+vertical = false
+fromSector = "ed/SLN1"
+toSector = "ed/NKRH"
+remarks = "Flights have to stay clear of FFM and have to descend asap to FL240 or below."
+
+[[agreements]]
+cop = "TEDGO"
+level = 240
+ades = ["LSZH", "LSZR", "LSMD", "EDNY"]
+vertical = false
+fromSector = "ed/TGO1"
+toSector = "ed/BAD"
+remarks = ""
+
+[[agreements]]
+cop = "KOVAN"
+level = 250
+ades = ["EDDF"]
+vertical = false
+fromSector = "ed/TGO1"
+toSector = "ed/LBU"
+remarks = "Flights have to be cleared via EMPAX#B (25) / EMPAX#C (07) Star, LBU may request DCT DF635/ SPESA."
+
+[[agreements]]
+cop = "ETAGO"
+level = 240
+ades = ["EDDN"]
+vertical = false
+fromSector = "ed/TGO1"
+toSector = "ed/LBU"
+remarks = "TEDGO at level"
+
+[[agreements]]
+cop = "KISEK"
+level = 250
+ades = ["EDFH"]
+vertical = false
+fromSector = "ed/TGO1"
+toSector = "ed/SLN"
+remarks = "TGO has to announce flights to SLN, Langen does not have to stay clear of SLN."
+
+[[agreements]]
+cop = "ELLUM"
+level = 250
+ades = ["EDDV"]
+vertical = false
+fromSector = "ed/FUL1"
+toSector = "ed/HEF"
+remarks = "Flights have to be handed over to Langen asap"
+
+[[agreements]]
+cop = "DEMAB"
+level = 250
+ades = ["EDDK", "EDLP", "EDLW "]
+vertical = false
+fromSector = "ed/FUL1"
+toSector = "ed/HEF"
+remarks = ""
+
+[[agreements]]
+cop = "ARNIX"
+level = 250
+ades = ["EDLP"]
+vertical = false
+fromSector = "ed/FUL1"
+toSector = "ed/HEF"
+remarks = "Flights have to be handed over to Langen asap"
+
+[[agreements]]
+cop = "COSJE"
+level = 250
+ades = ["EDFH", "ELLX", "EBLG"]
+vertical = false
+fromSector = "ed/WUR1"
+toSector = "ed/HAB"
+remarks = ""
+
+[[agreements]]
+cop = "HAREM"
+level = 250
+ades = ["EDMA", "EDMO", "EDJA", "ETSN", "ETSI", "ETSA", "ETSL"]
+vertical = false
+fromSector = "ed/WUR1"
+toSector = "ed/KNG"
+remarks = ""

@@ -1,0 +1,413 @@
+[[agreements]]
+cop = "BAKDO"
+level = 290
+ades = ["EKCH", "EKRK"]
+vertical = false
+fromSector = "ed/OSE1"
+toSector = "ed/MRZ"
+remarks = ""
+
+[[agreements]]
+cop = "TAGOB"
+level = 290
+ades = ["EKCH", "EKRK"]
+vertical = false
+fromSector = "ed/OSE1"
+toSector = "ed/MRZ"
+remarks = ""
+
+[[agreements]]
+cop = "GEVNI"
+level = 290
+ades = ["EKCH", "EKRK"]
+vertical = false
+fromSector = "ed/OSE1"
+toSector = "ed/MRZ"
+remarks = ""
+
+[[agreements]]
+cop = "PENET"
+level = 290
+ades = ["EKCH", "EKRK"]
+vertical = false
+fromSector = "ed/OSE1"
+toSector = "ed/MRZ"
+remarks = ""
+
+[[agreements]]
+cop = "LABES"
+level = 290
+ades = ["EKCH", "EKRK"]
+vertical = false
+fromSector = "ed/OSE1"
+toSector = "ed/MRZ"
+remarks = ""
+
+[[agreements]]
+cop = "USEDU"
+level = 290
+ades = ["ESMS"]
+vertical = false
+fromSector = "ed/OSE1"
+toSector = "ed/MRZ"
+remarks = ""
+
+[[agreements]]
+cop = "MASOR"
+level = 290
+ades = ["ESMS", "ESMK", "EKRN"]
+vertical = false
+fromSector = "ed/OSE1"
+toSector = "ed/MRZ"
+remarks = ""
+
+[[agreements]]
+cop = "ADUKI"
+level = 290
+ades = ["ESMS", "ESMK", "EKRN"]
+vertical = false
+fromSector = "ed/OSE1"
+toSector = "ed/MRZ"
+remarks = ""
+
+[[agreements]]
+cop = "KUBAB"
+level = 290
+ades = ["ESMS", "ESMK", "EKRN"]
+vertical = false
+fromSector = "ed/OSE1"
+toSector = "ed/MRZ"
+remarks = ""
+
+[[agreements]]
+cop = "GASBO"
+level = 290
+ades = ["EKRN"]
+vertical = false
+fromSector = "ed/OSE1"
+toSector = "ed/MRZ"
+remarks = ""
+
+[[agreements]]
+cop = "SULIV"
+level = 290
+ades = ["EKRN"]
+vertical = false
+fromSector = "ed/OSE1"
+toSector = "ed/MRZ"
+remarks = ""
+
+[[agreements]]
+cop = "NUVEN"
+level = 290
+ades = ["EDDV", "EDVE", "ETNW"]
+vertical = false
+fromSector = "ed/OSE1"
+toSector = "ed/MRZ"
+remarks = ""
+
+[[agreements]]
+cop = "TAGOB"
+level = 290
+ades = ["EDDV", "EDVE", "ETNW"]
+vertical = false
+fromSector = "ed/OSE1"
+toSector = "ed/MRZ"
+remarks = ""
+
+[[agreements]]
+cop = "ROSOK"
+level = 290
+ades = ["EDDH", "EDHI", "EDHL"]
+vertical = false
+fromSector = "ed/OSE1"
+toSector = "ed/MRZ"
+remarks = "Levelled latest 15 NM prior to reaching COP"
+
+[[agreements]]
+cop = "LEGSA"
+level = 290
+ades = ["EDDH", "EDHI", "EDHL", "EDHK", "EDDW"]
+vertical = false
+fromSector = "ed/OSE1"
+toSector = "ed/MRZ"
+remarks = ""
+
+[[agreements]]
+cop = "ABIKA"
+level = 290
+ades = ["ETNL", "EDBN"]
+vertical = false
+fromSector = "ed/OSE1"
+toSector = "ed/MRZ"
+remarks = ""
+
+[[agreements]]
+cop = "ABIKA"
+level = 290
+ades = ["ETNL", "EDBN"]
+vertical = false
+fromSector = "ed/OSE1"
+toSector = "ed/MRZ"
+remarks = "Levelled latest abeam RENKI"
+
+[[agreements]]
+cop = "RODEP"
+level = 290
+ades = ["EDDB", "EDAY"]
+vertical = false
+fromSector = "ed/OSE1"
+toSector = "ed/MRZ"
+remarks = "Levelled latest reaching RODEP "
+
+[[agreements]]
+cop = "KOGIM"
+level = 290
+ades = ["EPSC"]
+vertical = false
+fromSector = "ed/OSE1"
+toSector = "ed/MRZ"
+remarks = ""
+
+[[agreements]]
+cop = "KUBAB"
+level = 290
+ades = ["EPSC", "EDAH"]
+vertical = false
+fromSector = "ed/OSE1"
+toSector = "ed/MRZ"
+remarks = ""
+
+[[agreements]]
+cop = "VIBIS"
+level = 290
+ades = ["EPSC", "EDAH"]
+vertical = false
+fromSector = "ed/OSE1"
+toSector = "ed/MAR"
+remarks = ""
+
+[[agreements]]
+cop = "VIBIS"
+level = 290
+ades = ["EDDV", "ETNW"]
+vertical = false
+fromSector = "ed/OSE1"
+toSector = "ed/MAR"
+remarks = ""
+
+[[agreements]]
+cop = "PODUS"
+level = 290
+ades = ["EDVE"]
+vertical = false
+fromSector = "ed/OSE1"
+toSector = "ed/MAR"
+remarks = ""
+
+[[agreements]]
+cop = "RAKIT"
+level = 290
+ades = ["EDAZ"]
+vertical = false
+fromSector = "ed/OSE1"
+toSector = "ed/MAR"
+remarks = ""
+
+[[agreements]]
+cop = "RADEL"
+level = 290
+ades = ["EPPO", "EPPW", "EPKS"]
+vertical = false
+fromSector = "ed/OSE1"
+toSector = "ed/MAR"
+remarks = ""
+
+[[agreements]]
+cop = "GARGU"
+level = 290
+ades = ["EPSC", "EDAH", "EDBN"]
+vertical = false
+fromSector = "ed/HVL1"
+toSector = "ed/MAR"
+remarks = ""
+
+[[agreements]]
+cop = "RIMKO"
+level = 290
+ades = ["EPSC", "EDAH", "EDBN"]
+vertical = false
+fromSector = "ed/HVL1"
+toSector = "ed/MAR"
+remarks = ""
+
+[[agreements]]
+cop = "VIBIS"
+level = 290
+ades = ["EDDH", "EDHI", "EDHL", "EDHK", "EDDW"]
+vertical = false
+fromSector = "ed/OSE1"
+toSector = "ed/MAR"
+remarks = ""
+
+[[agreements]]
+cop = "GARGU"
+level = 290
+ades = ["EDDH", "EDHI", "EDHL", "EDHK", "EDDW"]
+vertical = false
+fromSector = "ed/HVL1"
+toSector = "ed/MAR"
+remarks = ""
+
+[[agreements]]
+cop = "SOGMA"
+level = 290
+ades = ["EDDH", "EDHI", "EDHL", "EDHK"]
+vertical = false
+fromSector = "ed/HVL1"
+toSector = "ed/MAR"
+remarks = ""
+
+[[agreements]]
+cop = "SUVAL"
+level = 290
+ades = ["EDDP", "EDAC"]
+vertical = false
+fromSector = "ed/HVL1"
+toSector = "ed/MAR"
+remarks = ""
+
+[[agreements]]
+cop = "IDOBA"
+level = 290
+ades = ["EDDP", "EDDC", "EDAC"]
+vertical = false
+fromSector = "ed/HVL1"
+toSector = "ed/FLG"
+remarks = ""
+
+[[agreements]]
+cop = "IDOBA"
+level = 290
+ades = ["EPSC"]
+vertical = false
+fromSector = "ed/HVL1"
+toSector = "ed/FLG"
+remarks = ""
+
+[[agreements]]
+cop = "SONUD"
+level = 290
+ades = ["EPSC"]
+vertical = false
+fromSector = "ed/HVL1"
+toSector = "ed/FLG"
+remarks = ""
+
+[[agreements]]
+cop = "SONUD"
+level = 290
+ades = ["EPPO", "EPPW", "EPZG", "EPKS"]
+vertical = false
+fromSector = "ed/HVL1"
+toSector = "ed/FLG"
+remarks = ""
+
+[[agreements]]
+cop = "PEPOL"
+level = 290
+ades = ["EPPO", "EPPW", "EPZG", "EPKS"]
+vertical = false
+fromSector = "ed/HVL1"
+toSector = "ed/FLG"
+remarks = ""
+
+[[agreements]]
+cop = "ADLIR"
+level = 290
+ades = ["EPPO", "EPPW", "EPZG", "EPKS"]
+vertical = false
+fromSector = "ed/HVL1"
+toSector = "ed/FLG"
+remarks = ""
+
+[[agreements]]
+cop = "IDOBA"
+level = 290
+ades = ["EDVE", "EDBM"]
+vertical = false
+fromSector = "ed/HVL1"
+toSector = "ed/FLG"
+remarks = "Levelled latest SONUD"
+
+[[agreements]]
+cop = "BUREL"
+level = 290
+ades = ["EDDV", "ETNW"]
+vertical = false
+fromSector = "ed/HVL1"
+toSector = "ed/BOR"
+remarks = "Levelled latest abeam ESIKA"
+
+[[agreements]]
+cop = "ESIKA"
+level = 290
+ades = ["EDVK", "EDLP", "EDLI", "EDFQ", "EDDE", "EDGS"]
+vertical = false
+fromSector = "ed/HVL1"
+toSector = "ed/BOR"
+remarks = ""
+
+[[agreements]]
+cop = "KOSIX"
+level = 290
+ades = ["EDVK", "EDLI", "EDLP"]
+vertical = false
+fromSector = "ed/HVL1"
+toSector = "ed/BOR"
+remarks = ""
+
+[[agreements]]
+cop = "MAG"
+level = 290
+ades = ["EDDW"]
+vertical = false
+fromSector = "ed/HVL1"
+toSector = "ed/BOR"
+remarks = ""
+
+[[agreements]]
+cop = "KOSIX"
+level = 290
+ades = ["EDDV"]
+vertical = false
+fromSector = "ed/HVL1"
+toSector = "ed/BOR"
+remarks = "EDDV RWYs 27"
+
+[[agreements]]
+cop = "MAG"
+level = 290
+ades = ["EDDV"]
+vertical = false
+fromSector = "ed/HVL1"
+toSector = "ed/BOR"
+remarks = "EDDV RWYs 09"
+
+[[agreements]]
+cop = "SOBLU"
+level = 290
+ades = ["EDDC", "EDAB", "EDAC"]
+vertical = false
+fromSector = "ed/HVL1"
+toSector = "ed/BOR"
+remarks = ""
+
+[[agreements]]
+cop = "NISGA"
+level = 290
+ades = ["EDDC", "EDAB", "EDAC"]
+vertical = false
+fromSector = "ed/HVL1"
+toSector = "ed/BOR"
+remarks = ""

@@ -1,0 +1,17 @@
+[[agreements]]
+cop = "ABGUS"
+level = 250
+ades = ["EDDN", "EDQ*"]
+vertical = false
+fromSector = "ed/SOL"
+toSector = "ed/HAL"
+remarks = ""
+
+[[agreements]]
+cop = "NOMKA"
+level = 250
+ades = ["EDDC", "EDDN", "EDAB", "EDAC", "EDQ*", "ETIC"]
+vertical = false
+fromSector = "ed/SOL"
+toSector = "ed/HAL"
+remarks = ""

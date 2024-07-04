@@ -1,0 +1,206 @@
+[[agreements]]
+cop = "AMADI"
+level = 130
+ades = ["EDDM"]
+vertical = false
+fromSector = "lo/B1"
+toSector = "ed/DMSH"
+remarks = "If traffic permits and with approval of EDDM_APP entry condition may be altered to\n“descending, FL190 or below at COP”. ACC Wien shall assure separation between\ninvolved flights until passing NAPSA"
+
+[[agreements]]
+cop = "REDBU"
+level = 140
+ades = ["EDDM"]
+vertical = false
+fromSector = "lo/B1"
+toSector = "ed/DMSH"
+remarks = "If traffic permits and with approval of DMSH entry condition may be altered to\n“descending, FL190 or below at COP”. ACC Wien shall assure separation between\ninvolved flights until passing NAPSA"
+
+[[agreements]]
+cop = "SIMBA"
+level = 300
+ades = ["EDDN"]
+vertical = false
+fromSector = "lo/N1"
+toSector = "ed/EGG"
+remarks = ""
+
+[[agreements]]
+cop = "SUBEN"
+level = 300
+ades = ["EDDN"]
+vertical = false
+fromSector = "lo/N1"
+toSector = "ed/EGG"
+remarks = ""
+
+[[agreements]]
+cop = "TRAUN"
+level = 150
+ades = ["EDMA", "EDMO"]
+vertical = false
+fromSector = "lo/B1"
+toSector = "ed/DMSH"
+remarks = ""
+
+[[agreements]]
+cop = "TITIG"
+level = 150
+ades = ["EDMA", "EDMO"]
+vertical = false
+fromSector = "lo/B1"
+toSector = "ed/DMSH"
+remarks = ""
+
+[[agreements]]
+cop = "TITIG"
+level = 300
+ades = ["EDDS"]
+vertical = false
+fromSector = "lo/B1"
+toSector = "ed/TRU"
+remarks = ""
+
+[[agreements]]
+cop = "KIRDI"
+level = 300
+ades = ["EDDS"]
+vertical = false
+fromSector = "lo/B1"
+toSector = "ed/TRU"
+remarks = ""
+
+[[agreements]]
+cop = "TRAUN"
+level = 300
+ades = ["EDNY", "EDJA", "LSZR"]
+vertical = false
+fromSector = "lo/B1"
+toSector = "ed/TRU"
+remarks = ""
+
+[[agreements]]
+cop = "ERKIR"
+level = 260
+ades = ["EDNY", "EDJA", "LSZR"]
+vertical = false
+fromSector = "lo/W1"
+toSector = "ed/TEG"
+remarks = ""
+
+[[agreements]]
+cop = "GEDSO"
+level = 300
+ades = ["LSZS"]
+vertical = false
+fromSector = "lo/W1"
+toSector = "ed/TEG"
+remarks = ""
+
+[[agreements]]
+cop = "DEXIT"
+level = 300
+ades = ["LK*"]
+vertical = false
+fromSector = "lo/N1"
+toSector = "ed/EGG"
+remarks = ""
+
+[[agreements]]
+cop = "LAMSI"
+level = 300
+ades = ["LK*"]
+vertical = false
+fromSector = "lo/N1"
+toSector = "ed/EGG"
+remarks = ""
+
+[[agreements]]
+cop = "SID"
+level = 160
+adep = ["LOWI"]
+transferType = "C"
+vertical = false
+fromSector = "lo/LOWI_APP"
+toSector = "ed/TRU"
+remarks = ""
+
+[[agreements]]
+cop = "SID"
+level = 160
+adep = ["LOWI"]
+transferType = "C"
+vertical = false
+fromSector = "lo/LOWI_APP"
+toSector = "ed/TEG"
+remarks = ""
+
+[[agreements]]
+cop = "SID"
+level = 160
+adep = ["LOWI"]
+transferType = "C"
+vertical = false
+fromSector = "lo/LOWI_APP"
+toSector = "ed/ZUG"
+remarks = ""
+
+[[agreements]]
+cop = "RENKA"
+level = 160
+adep = ["LOWL"]
+transferType = "C"
+vertical = false
+fromSector = "lo/LOWL_APP"
+toSector = "ed/EGG"
+remarks = ""
+
+[[agreements]]
+cop = "LAMSI"
+level = 160
+adep = ["LOWL"]
+transferType = "C"
+vertical = false
+fromSector = "lo/LOWL_APP"
+toSector = "ed/EGG"
+remarks = ""
+
+[[agreements]]
+cop = "SUBEN"
+level = 140
+adep = ["LOWL"]
+transferType = "C"
+vertical = false
+fromSector = "lo/LOWL_APP"
+toSector = "ed/EGG"
+remarks = "Rlsd FL160 20NM from SUBEN"
+
+[[agreements]]
+cop = "TRAUN"
+level = 120
+adep = ["LOWS"]
+transferType = "C"
+vertical = false
+fromSector = "lo/LOWS_APP"
+toSector = "ed/TRU"
+remarks = ""
+
+[[agreements]]
+cop = "SIMBA"
+level = 120
+adep = ["LOWS"]
+transferType = "C"
+vertical = false
+fromSector = "lo/LOWS_APP"
+toSector = "ed/EGG"
+remarks = ""
+
+[[agreements]]
+cop = "TITIG"
+level = 90
+adep = ["LOWS"]
+transferType = "C"
+vertical = false
+fromSector = "lo/LOWS_APP"
+toSector = "ed/DMSL"
+remarks = "Rlsd FL120"
