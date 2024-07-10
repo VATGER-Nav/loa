@@ -1,4 +1,5 @@
-[agreement]
+```text
+[[agreements]]
 adep = String[] | null
 ades = String[] | null
 runway = String[] | null
@@ -10,5 +11,6 @@ qnh = String | null
 transferType = "C" | "D" | null
 releases = "C" | "D" | "T" | "F" | null
 remark = String | null
-fromSector: String
-toSector: String
+fromSector = String
+toSector = String
+```
