@@ -534,15 +534,6 @@ toSector = "ed/LBU"
 remarks = "RWY25, released"
 
 [[agreements]]
-cop = "ETARU"
-level = 100
-ades = ["EDDF"]
-vertical = false
-fromSector = "ed/TAU"
-toSector = "ed/DFAN"
-remarks = "COP at level"
-
-[[agreements]]
 cop = "KERAX (B)"
 level = 100
 ades = ["EDDF"]
@@ -553,13 +544,22 @@ toSector = "ed/DFAS"
 remarks = "COP at level (EBIPA)"
 
 [[agreements]]
-cop = "OSPUL"
+cop = "OSPUL (A/D)"
+level = 100
+ades = ["EDDF"]
+vertical = false
+fromSector = "ed/TAU"
+toSector = "ed/DFAN"
+remarks = "For DIXAT/ROLIS A and D STAR. COP at level"
+
+[[agreements]]
+cop = "OSPUL (B/C)"
 level = 120
 ades = ["EDDF"]
 vertical = false
 fromSector = "ed/TAU"
 toSector = "ed/DFAN"
-remarks = "COP at level"
+remarks = "For DIXAT/ROLIS B and C STAR. COP at level"
 
 [[agreements]]
 cop = "KERAX (A)"
