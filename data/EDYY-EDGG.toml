@@ -15,7 +15,7 @@ ades = ["EDDF", "EDFE"]
 vertical = false
 fromSector = "ed/RHR"
 toSector = "ed/TAU"
-remarks = "Released for descent after passing abeam DIXAT."
+remarks = "EDDF arrivals have to be cleared via DIXAT#A (25) / DIXAT#D (07) STAR. Released for descent after passing abeam DIXAT."
 
 [[agreements]]
 cop = "DENOL"
