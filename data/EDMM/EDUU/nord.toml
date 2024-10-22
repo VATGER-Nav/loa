@@ -1,0 +1,83 @@
+# NDG
+[[agreements]]
+cop = "MAH"
+level = 310
+vertical = true
+adep = ["LOWI"]
+fromSector = "ed/NDG"
+toSector = "ed/ISA1"
+
+[[agreements]]
+cop = "RIDAR"
+level = 310
+vertical = true
+adep = ["EDSB", "ETAR", "EDFE", "EDFH", "EDFM", "EDGS", "EDDR", "EDRY", "EDRZ"]
+fromSector = "ed/NDG"
+toSector = "ed/ISA1"
+
+[[agreements]]
+cop = "WLD"
+level = 310
+vertical = true
+adep = ["EDDS", "EDTY"]
+fromSector = "ed/NDG"
+toSector = "ed/ISA1"
+
+[[agreements]]
+cop = "REDVO"
+level = 310
+vertical = true
+adep = ["EDDF"]
+fromSector = "ed/NDG"
+toSector = "ed/ISA1"
+
+# ALB
+[[agreements]]
+cop = "PETIX"
+level = 280
+ades = ["EDSB", "EDDR", "EDRZ"]
+fromSector = "ed/ALB"
+toSector = "ed/WUR1"
+
+[[agreements]]
+cop = "INBED"
+level = 300
+adep = ["EDDM", "EDMA", "EDMO", "EDMS"]
+transferType = "C"
+fromSector = "ed/ALB"
+toSector = "ed/WUR1"
+remarks = "latest IBAGA/REKDI at level"
+
+# RDG
+[[agreements]]
+cop = "MAMOR"
+level = 310
+vertical = true
+adep = ["LOWS", "LOWL", "LKPR", "LKPD", "LKKB", "LKKV", "LKVO"]
+fromSector = "ed/RDG"
+toSector = "ed/DON1"
+
+[[agreements]]
+cop = "RUDNO"
+level = 310
+vertical = true
+adep = ["LOWS", "LOWL", "EDAC", "EDDE"]
+fromSector = "ed/RDG"
+toSector = "ed/DON1"
+
+# EGG
+[[agreements]]
+cop = "LALIN"
+level = 310
+vertical = true
+adep = ["EDQA", "EDQC", "EDQD", "EDQG", "EDQK", "EDQM", "EDQT"]
+fromSector = "ed/EGG"
+toSector = "ed/DON1"
+
+[[agreements]]
+cop = "BAMTA"
+level = 310
+vertical = true
+adep = ["LKPR", "LKPD", "LKKB", "LKKV", "LKVO"]
+fromSector = "ed/EGG"
+toSector = "ed/DON1"

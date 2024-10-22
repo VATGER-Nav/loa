@@ -1,0 +1,140 @@
+# RDG
+[[agreements]]
+cop = "TIVDA"
+level = 300
+sfl = 280
+rfl = "300-"
+adep = ["EDDM", "EDMA", "EDME", "EDMO", "EDMS", "ETSI", "ETSL", "ETSN"]
+transferType = "C"
+fromSector = "ed/RDG"
+toSector = "lk/W1L"
+remarks = "released for climb to FL310 passing RUDNO or abeam"
+
+[[agreements]]
+cop = "TIVDA"
+level = 300
+rfl = "300-"
+adep = ["LOWL", "LOWS"]
+fromSector = "ed/RDG"
+toSector = "lk/W1L"
+remarks = "Released for climb to FL310 passing RUDNO or abeam"
+
+[[agreements]]
+cop = "TIVDA"
+level = 300
+sfl = 280
+rfl = "310+"
+adep = ["EDDM", "EDMA", "EDME", "EDMO", "EDMS", "ETSI", "ETSL", "ETSN"]
+transferType = "C"
+fromSector = "ed/RDG"
+toSector = "lk/WM"
+remarks = "released for climb to FL310 passing RUDNO or abeam"
+
+[[agreements]]
+cop = "TIVDA"
+level = 300
+rfl = "310+"
+adep = ["LOWL", "LOWS"]
+transferType = "C"
+fromSector = "ed/RDG"
+toSector = "lk/WM"
+remarks = "Released for climb to FL310 passing RUDNO or abeam"
+
+[[agreements]]
+cop = "AGNAV"
+level = 300
+sfl = 280
+rfl = "300-"
+adep = ["EDDM", "EDMA", "EDME", "EDMO", "EDMS", "ETSI", "ETSL", "ETSN"]
+transferType = "C"
+fromSector = "ed/RDG"
+toSector = "lk/W1L"
+remarks = "released for climb to FL310 passing RUDNO or abeam"
+
+[[agreements]]
+cop = "AGNAV"
+level = 300
+rfl = "300-"
+adep = ["LOWL", "LOWS"]
+fromSector = "ed/RDG"
+toSector = "lk/W1L"
+remarks = "Released for climb to FL310 passing RUDNO or abeam"
+
+[[agreements]]
+cop = "AGNAV"
+level = 300
+sfl = 280
+rfl = "310+"
+adep = ["EDDM", "EDMA", "EDME", "EDMO", "EDMS", "ETSI", "ETSL", "ETSN"]
+transferType = "C"
+fromSector = "ed/RDG"
+toSector = "lk/WM"
+remarks = "released for climb to FL310 passing RUDNO or abeam"
+
+[[agreements]]
+cop = "AGNAV"
+level = 300
+rfl = "310+"
+adep = ["LOWL", "LOWS"]
+fromSector = "ed/RDG"
+toSector = "lk/WM"
+remarks = "Released for climb to FL310 passing RUDNO or abeam"
+
+[[agreements]]
+cop = "AGNAV"
+level = 280
+ades = ["EDDC", "EDAB"]
+fromSector = "ed/RDG"
+toSector = "lk/W1L"
+
+[[agreements]]
+cop = "AGNAV"
+level = 220
+ades = ["LKPR", "LKKB", "LKVO", "LKPD", "LKCV", "LKHK", "LKMH"]
+fromSector = "ed/RDG"
+toSector = "lk/W1L"
+
+[[agreements]]
+cop = "AGNAV"
+level = 180
+ades = ["LKKV"]
+fromSector = "ed/RDG"
+toSector = "lk/W1L"
+
+# EGG
+[[agreements]]
+cop = "BEPAS"
+level = 300
+sfl = 270
+rfl = "300-"
+adep = ["EDDM", "EDMA", "EDME", "EDMO", "EDMS", "ETSI", "ETSL", "ETSN", "LOWL", "LOWS"]
+transferType = "C"
+fromSector = "ed/EGG"
+toSector = "lk/W1L"
+remarks = "released for climb to FL310 north of L610"
+
+[[agreements]]
+cop = "BEPAS"
+level = 300
+sfl = 270
+rfl = "310+"
+adep = ["EDDM", "EDMA", "EDME", "EDMO", "EDMS", "ETSI", "ETSL", "ETSN", "LOWL", "LOWS"]
+transferType = "C"
+fromSector = "ed/EGG"
+toSector = "lk/WM"
+remarks = "released for climb to FL310 north of L610"
+
+[[agreements]]
+cop = "DOLUP"
+level = 270
+ades = ["LKPR", "LKKB", "LKVO", "LKPD", "LKCV", "LKHK", "LKMH"]
+fromSector = "ed/EGG"
+toSector = "lk/W1L"
+remarks = "Released for descent north of L610"
+
+[[agreements]]
+cop = "DOLUP"
+level = 170
+ades = ["LKCS"]
+fromSector = "ed/EGG"
+toSector = "lk/W1L"

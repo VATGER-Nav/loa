@@ -1,0 +1,428 @@
+## FUE
+[[agreements]]
+cop = "KPT"
+level = 270
+adep = ["EDDM", "EDMA"]
+fromSector = "ed/FUE"
+toSector = "ed/ZUG"
+
+[[agreements]]
+cop = "XEBIX"
+level = 170
+adep = ["EDJA"]
+fromSector = "ed/FUE"
+toSector = "ed/ZUG"
+
+[[agreements]]
+cop = "BEMKI"
+level = 170
+adep = ["EDJA", "EDNY", "LSZR"]
+fromSector = "ed/FUE"
+toSector = "ed/ZUG"
+
+[[agreements]]
+cop = "MOMUK"
+level = 270
+adep = ["EDDS"]
+fromSector = "ed/FUE"
+toSector = "ed/ZUG"
+
+[[agreements]]
+cop = "DISUN"
+level = 120
+ades = ["EDDM"]
+fromSector = "ed/FUE"
+toSector = "ed/DMSH"
+runway = ["08L", "08R"]
+
+[[agreements]]
+cop = "DISUN"
+level = 160
+ades = ["EDDM"]
+fromSector = "ed/FUE"
+toSector = "ed/DMSH"
+runway = ["26L", "26R"]
+
+[[agreements]]
+cop = "MERSI"
+level = 120
+ades = ["EDDM"]
+fromSector = "ed/FUE"
+toSector = "ed/DMSH"
+runway = ["08L", "08R"]
+
+[[agreements]]
+cop = "MERSI"
+level = 160
+ades = ["EDDM"]
+fromSector = "ed/FUE"
+toSector = "ed/DMSH"
+runway = ["26L", "26R"]
+
+[[agreements]]
+cop = "DISUN"
+level = 80
+ades = ["EDMA", "EDMO"]
+fromSector = "ed/FUE"
+toSector = "ed/DMSL"
+
+[[agreements]]
+cop = "KPT"
+level = 80
+ades = ["EDMA", "EDMO"]
+fromSector = "ed/FUE"
+toSector = "ed/DMSL"
+
+[[agreements]]
+cop = "DISUN"
+level = 120
+ades = ["ETSI"]
+fromSector = "ed/FUE"
+toSector = "ed/DMSH"
+
+[[agreements]]
+cop = "KPT"
+level = 90
+ades = ["ETSL"]
+fromSector = "ed/FUE"
+toSector = "ed/ILR"
+
+[[agreements]]
+cop = "KPT"
+level = 100
+ades = ["EDJA"]
+fromSector = "ed/FUE"
+toSector = "ed/ILR"
+
+[[agreements]]
+level = 280
+sfl = 300
+ades = ["EDDF"]
+transferType = "D"
+fromSector = "ed/FUE"
+toSector = "ed/NDG"
+routeAfter = "Q163"
+
+[[agreements]]
+level = 250
+ades = ["LOWI", "LSZS", "LIPB"]
+fromSector = "ed/FUE"
+toSector = "ed/ZUG"
+
+## ZUG
+[[agreements]]
+cop = "GAPTO"
+level = 230
+adep = ["EDJA"]
+fromSector = "ed/ZUG"
+toSector = "ed/STA"
+
+[[agreements]]
+cop = "XEBIX"
+level = 230
+adep = ["EDJA"]
+fromSector = "ed/ZUG"
+toSector = "ed/STA"
+
+[[agreements]]
+cop = "GAPTO"
+level = 270
+adep = ["LSZH"]
+rfl = "310-"
+fromSector = "ed/ZUG"
+toSector = "ed/STA"
+
+[[agreements]]
+cop = "GAPTO"
+level = 310
+adep = ["LSZH"]
+rfl = "320+"
+fromSector = "ed/ZUG"
+toSector = "ed/STA"
+
+[[agreements]]
+cop = "KUSAM"
+level = 310
+adep = ["LSZS"]
+fromSector = "ed/ZUG"
+toSector = "ed/STA"
+
+[[agreements]]
+cop = "GAPTO"
+level = 230
+adep = ["EDNY", "LSZR"]
+fromSector = "ed/ZUG"
+toSector = "ed/STA"
+
+[[agreements]]
+cop = "XEBIX"
+level = 230
+adep = ["EDNY", "LSZR"]
+fromSector = "ed/ZUG"
+toSector = "ed/STA"
+
+[[agreements]]
+cop = "MOGTI"
+level = 180
+adep = ["LOWI"]
+fromSector = "ed/ZUG"
+toSector = "ed/FUE"
+
+[[agreements]]
+cop = "XEBIX"
+level = 270
+adep = ["LSZH"]
+fromSector = "ed/ZUG"
+toSector = "ed/STA"
+
+[[agreements]]
+cop = "BEMKI"
+level = 270
+ades = ["LOWS"]
+fromSector = "ed/ZUG"
+toSector = "ed/STA"
+
+[[agreements]]
+cop = "MADEB"
+level = 270
+ades = ["LOWS"]
+fromSector = "ed/ZUG"
+toSector = "ed/STA"
+
+[[agreements]]
+cop = "MOGTI"
+level = 170
+ades = ["EDJA", "EDNY", "LSZR", "LSZS"]
+fromSector = "ed/ZUG"
+toSector = "ed/FUE"
+
+[[agreements]]
+cop = "MOGTI"
+level = 280
+ades = ["LSZH"]
+fromSector = "ed/ZUG"
+toSector = "ed/FUE"
+
+[[agreements]]
+cop = "MOGTI"
+level = 300
+ades = ["EDDS"]
+fromSector = "ed/ZUG"
+toSector = "ed/FUE"
+
+## STA
+[[agreements]]
+cop = "KONIN"
+level = 260
+adep = ["LOWI"]
+fromSector = "ed/STA"
+toSector = "ed/NDG"
+
+[[agreements]]
+cop = "KONIN"
+level = 310
+sfl = 270
+adep = ["LOWS"]
+transferType = "C"
+fromSector = "ed/STA"
+toSector = "ed/FUE"
+
+[[agreements]]
+cop = "ANDEC"
+level = 130
+ades = ["EDDM"]
+runway = ["08L", "08R"]
+fromSector = "ed/STA"
+toSector = "ed/DMSH"
+
+[[agreements]]
+cop = "ANDEC"
+level = 150
+ades = ["EDDM"]
+runway = ["26L", "26R"]
+fromSector = "ed/STA"
+toSector = "ed/DMSH"
+
+[[agreements]]
+cop = "KONIN"
+level = 130
+ades = ["EDDM"]
+runway = ["08L", "08R"]
+fromSector = "ed/STA"
+toSector = "ed/DMSH"
+
+[[agreements]]
+cop = "KONIN"
+level = 150
+ades = ["EDDM"]
+runway = ["26L", "26R"]
+fromSector = "ed/STA"
+toSector = "ed/DMSH"
+
+[[agreements]]
+cop = "ANDEC"
+level = 90
+ades = ["EDMA", "EDMO"]
+fromSector = "ed/STA"
+toSector = "ed/DMSL"
+
+[[agreements]]
+cop = "KONIN"
+level = 90
+ades = ["EDMA", "EDMO"]
+fromSector = "ed/STA"
+toSector = "ed/DMSL"
+
+[[agreements]]
+cop = "KONIN"
+level = 130
+ades = ["ETSI"]
+fromSector = "ed/STA"
+toSector = "ed/DMSH"
+
+[[agreements]]
+cop = "KONIN"
+level = 70
+sfl = 90
+ades = ["ETSL"]
+transferType = "D"
+fromSector = "ed/STA"
+toSector = "ed/DMSL"
+
+[[agreements]]
+cop = "KONIN"
+level = 180
+ades = ["EDJA"]
+fromSector = "ed/STA"
+toSector = "ed/FUE"
+
+[[agreements]]
+cop = "KOGOL"
+level = 200
+ades = ["EDJA"]
+fromSector = "ed/STA"
+toSector = "ed/FUE"
+
+[[agreements]]
+cop = "KONIN"
+level = 260
+ades = ["EDDN", "ETIC"]
+fromSector = "ed/STA"
+toSector = "ed/NDG"
+
+[[agreements]]
+cop = "KONIN"
+level = 300
+ades = ["EDQA", "EDQC", "EDQD", "EDQM"]
+fromSector = "ed/STA"
+toSector = "ed/NDG"
+
+[[agreements]]
+cop = "KONIN"
+level = 280
+ades = ["EDDS", "EDTY", "EDFM", "EDSB", "EDRY"]
+fromSector = "ed/STA"
+toSector = "ed/NDG"
+
+## TEG
+[[agreements]]
+cop = "MANAL"
+level = 250
+adep = ["LOWS"]
+fromSector = "ed/TEG"
+toSector = "ed/STA"
+
+[[agreements]]
+cop = "BADVI"
+level = 160
+sfl = 180
+ades = ["LOWS"]
+transferType = "D"
+fromSector = "ed/TEG"
+toSector = "ed/TRU"
+
+[[agreements]]
+cop = "MANAL"
+level = 200
+ades = ["EDJA"]
+fromSector = "ed/TEG"
+toSector = "ed/STA"
+
+[[agreements]]
+cop = "ERKIR"
+level = 240
+ades = ["EDJA"]
+fromSector = "ed/TEG"
+toSector = "ed/STA"
+
+[[agreements]]
+cop = "MANAL"
+level = 220
+ades = ["EDNY", "LSZR", "LSZS"]
+fromSector = "ed/TEG"
+toSector = "ed/STA"
+
+[[agreements]]
+cop = "KOGOL"
+level = 240
+ades = ["EDNY", "LSZR", "LSZS"]
+fromSector = "ed/TEG"
+toSector = "ed/STA"
+
+[[agreements]]
+cop = "GEDSO"
+level = 240
+ades = ["LSZS"]
+fromSector = "ed/TEG"
+toSector = "ed/STA"
+
+[[agreements]]
+level = 190
+sfl = 220
+ades = ["LSZS"]
+transferType = "D"
+fromSector = "ed/STA"
+toSector = "ed/ZUG"
+
+## TRU
+[[agreements]]
+level = 190
+sfl = 160
+adep = ["LOWS"]
+transferType = "C"
+fromSector = "ed/TRU"
+toSector = "ed/TEG"
+
+[[agreements]]
+cop = "VAVOR"
+level = 220
+ades = ["EDJA"]
+fromSector = "ed/TRU"
+toSector = "ed/TEG"
+
+[[agreements]]
+cop = "EBEDA"
+level = 280
+ades = ["EDDS"]
+fromSector = "ed/TRU"
+toSector = "ed/NDG"
+
+[[agreements]]
+cop = "VAVOR"
+level = 260
+ades = ["EDNY", "LSZR", "LSZS"]
+fromSector = "ed/TRU"
+toSector = "ed/TEG"
+
+[[agreements]]
+level = 210
+ades = ["LOWI"]
+fromSector = "ed/TRU"
+toSector = "ed/TEG"
+
+[[agreements]]
+level = 290
+ades = ["LSZS"]
+fromSector = "ed/TRU"
+toSector = "ed/TEG"
+routeAfter = "M736 OLPIX"

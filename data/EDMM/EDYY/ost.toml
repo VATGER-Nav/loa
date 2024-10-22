@@ -1,18 +1,16 @@
 [[agreements]]
 cop = "KUMER"
 level = 280
+sfl = 250
 adep = ["EDDP"]
 transferType = "C"
-vertical = false
+releases = "F"
 fromSector = "ed/HAL"
 toSector = "ed/SOL"
-remarks = "FL250A, Traffic is released from HAL to SOL after transfer of communications"
 
 [[agreements]]
 cop = "ZUCKA"
-level = 0
 ades = ["EDDW", "EDDV"]
-vertical = false
 fromSector = "ed/HAL"
 toSector = "ed/SOL"
 remarks = "Not accepted by MUAC"

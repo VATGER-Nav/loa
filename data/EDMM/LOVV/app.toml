@@ -1,0 +1,40 @@
+# DMSL
+[[agreements]]
+cop = "TRAUN"
+level = 80
+sfl = 120
+ades = ["LOWS"]
+transferType = "D"
+qnh = "EDDM"
+fromSector = "ed/DMSL"
+toSector = "lo/LOWS_APP"
+
+[[agreements]]
+cop = "MEBEK"
+level = 80
+sfl = 120
+ades = ["LOWS"]
+transferType = "D"
+qnh = "EDDM"
+fromSector = "ed/DMSL"
+toSector = "lo/LOWS_APP"
+
+[[agreements]]
+cop = "TITIG"
+level = 80
+sfl = 120
+ades = ["LOWS"]
+transferType = "D"
+qnh = "EDDM"
+fromSector = "ed/DMSL"
+toSector = "lo/LOWS_APP"
+
+# DMSH
+[[agreements]]
+cop = "MEBEK"
+level = 190
+sfl = 100
+adep = ["EDDM"]
+transferType = "C"
+fromSector = "ed/DMSH"
+toSector = "lo/B1"

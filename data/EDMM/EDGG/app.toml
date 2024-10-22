@@ -1,0 +1,38 @@
+# SWA
+[[agreements]]
+cop = "ELVAG"
+level = 100
+ades = ["EDTY"]
+fromSector = "ed/SWA"
+toSector = "ed/STG"
+
+[[agreements]]
+cop = "AKANU"
+level = 100
+ades = ["EDTY"]
+fromSector = "ed/SWA"
+toSector = "ed/STG"
+
+# ILR
+[[agreements]]
+cop = "PELOG"
+level = 80
+ades = ["EDTM", "EDTO", "EDTL"]
+fromSector = "ed/ILR"
+toSector = "ed/REU"
+
+[[agreements]]
+cop = "PELOG"
+level = 80
+adep = ["ETHL", "EDMO"]
+fromSector = "ed/ILR"
+toSector = "ed/REU"
+
+[[agreements]]
+cop = "PELOG"
+level = 80
+adep = ["EDJA"]
+fromSector = "ed/ILR"
+toSector = "ed/REU"
+areas = ["ED-R107C", "ED-R107W"]
+remarks = "if TRA Allgäu active"

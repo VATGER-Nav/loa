@@ -2,25 +2,19 @@
 cop = "LASIS"
 level = 290
 ades = ["EPWR"]
-vertical = false
 fromSector = "ed/MEI"
 toSector = "ep/EPWWT"
-remarks = ""
 
 [[agreements]]
 cop = "POZUM"
 level = 290
 ades = ["EPPO"]
-vertical = false
 fromSector = "ed/MEI"
 toSector = "ep/EPWWD"
-remarks = ""
 
 [[agreements]]
 cop = "LASIS"
 level = 310
 adep = ["EDDP"]
-vertical = false
 fromSector = "ed/MEI"
 toSector = "ep/EPWWT"
-remarks = ""

@@ -1,128 +1,94 @@
+# FUE
 [[agreements]]
 cop = "UMTEX"
 level = 310
 adep = ["EDDM"]
-vertical = false
 fromSector = "ed/FUE"
 toSector = "ls/SZU"
-remarks = "released direct TRA."
+remarks = "released direct TRA"
 
 [[agreements]]
-cop = "RAVED"
-level = 200
-ades = ["LSZH", "LSMD"]
-vertical = false
+cop = "UMTEX"
+level = 160
+adep = ["EDDM"]
+transferType = "C"
 fromSector = "ed/FUE"
 toSector = "ls/SZE"
-remarks = ""
-
-[[agreements]]
-cop = "RAVED"
-level = 280
-ades = ["LFSB", "LFGA", "LFGB", "LFSM", "LSZB", "LSZC", "LSZG", "LSGC", "LSMA", "LSME", "LSMM", "LSMP", "EDTG"]
-vertical = false
-fromSector = "ed/FUE"
-toSector = "ls/SZU"
-remarks = ""
+remarks = "released climbing FL240 in RAVED AREA"
 
 [[agreements]]
 cop = "RAVED"
 level = 310
 adep = ["EDMA", "ETSI", "LOWI"]
-vertical = false
 fromSector = "ed/FUE"
 toSector = "ls/SZU"
-remarks = "May be cleared direct TRA."
+remarks = "released direct TRA"
 
 [[agreements]]
 cop = "RAVED"
 level = 280
-ades = ["LSZB", "LSZG", "LSZC", "LSMP", "LSMM", "LSGC"]
-vertical = false
+ades = ["LSZB", "LSZC", "LSZG", "LSGC", "LSMA", "LSME", "LSMM", "LSMP", "EDTG"]
 fromSector = "ed/FUE"
 toSector = "ls/SZU"
-remarks = ""
 
 [[agreements]]
 cop = "RAVED"
 level = 260
 adep = ["EDMO"]
-vertical = false
 fromSector = "ed/FUE"
 toSector = "ls/SZU"
-remarks = ""
 
 [[agreements]]
 cop = "RAVED"
 level = 240
 adep = ["EDDM"]
-vertical = false
 fromSector = "ed/FUE"
 toSector = "ls/SZE"
-remarks = ""
 
 [[agreements]]
 cop = "RAVED"
 level = 240
 ades = ["EDDS", "EDSB", "EDFM", "EDTD", "EDRY", "EDTL", "ETAR", "LFST", "LSZS"]
-vertical = false
 fromSector = "ed/FUE"
 toSector = "ls/SZE"
-remarks = ""
+
+[[agreements]]
+cop = "RAVED"
+level = 200
+ades = ["LSZH", "LSMD"]
+fromSector = "ed/FUE"
+toSector = "ls/SZE"
 
 [[agreements]]
 cop = "RAVED"
 level = 160
 adep = ["EDJA"]
 transferType = "C"
-vertical = false
 fromSector = "ed/FUE"
 toSector = "ls/SZE"
-remarks = "RLSD CLIMB FL240 in RAVED AREA"
+remarks = "released climbing FL240 in RAVED AREA"
 
 [[agreements]]
 cop = "RAVED"
 level = 100
 ades = ["EDTM"]
-vertical = false
 fromSector = "ed/FUE"
 toSector = "ls/ARFA"
-remarks = ""
 
 [[agreements]]
 cop = "KPT"
 level = 80
-ades = ["EDNY"]
+sfl = 100
+ades = ["EDNY", "LSZR"]
 transferType = "D"
-vertical = false
 fromSector = "ed/FUE"
 toSector = "ls/ARFA"
-remarks = "Clear STAR, FL100B."
+remarks = "Clear STAR"
 
-[[agreements]]
-cop = "KPT"
-level = 80
-ades = ["LSZR"]
-transferType = "D"
-vertical = false
-fromSector = "ed/FUE"
-toSector = "ls/ARFA"
-remarks = "Clear STAR, FL100B."
-
+# ZUG
 [[agreements]]
 cop = "TIRUL"
 level = 190
 ades = ["LSZS"]
-vertical = false
 fromSector = "ed/ZUG"
 toSector = "ls/SZS"
-remarks = ""
-
-[[agreements]]
-cop = "KPT"
-level = 80
-ades = ["EDNY", "LSZR"]
-vertical = false
-fromSector = "ed/FUE"
-toSector = "ls/ARFA"
-remarks = ""

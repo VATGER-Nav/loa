@@ -1,0 +1,457 @@
+## ALB
+[[agreements]]
+cop = "UPALA"
+level = 250
+adep = ["EDDM"]
+fromSector = "ed/ALB"
+toSector = "ed/BBG"
+remarks = "released passing T159"
+
+[[agreements]]
+cop = "DOSIS"
+level = 250
+adep = ["EDDM"]
+fromSector = "ed/ALB"
+toSector = "ed/BBG"
+remarks = "released passing T159"
+
+[[agreements]]
+cop = "GOLMO"
+level = 240
+adep = ["EDDM"]
+fromSector = "ed/ALB"
+toSector = "ed/WLD"
+
+[[agreements]]
+cop = "UPALA"
+level = 200
+adep = ["ETSI"]
+fromSector = "ed/ALB"
+toSector = "ed/BBG"
+
+[[agreements]]
+cop = "UPALA"
+level = 140
+ades = ["EDDN", "EDQA", "EDQC", "EDQD", "EDQM", "ETIC"]
+transferType = "D"
+releases = "F"
+vertical = true
+fromSector = "ed/ALB"
+toSector = "ed/FRK"
+
+[[agreements]]
+cop = "UPALA"
+level = 250
+ades = ["EDDE"]
+fromSector = "ed/ALB"
+toSector = "ed/BBG"
+
+[[agreements]]
+cop = "UPALA"
+level = 290
+ades = ["EDDP", "EDAC"]
+fromSector = "ed/ALB"
+toSector = "ed/BBG"
+
+[[agreements]]
+cop = "MIQ"
+level = 80
+ades = ["EDMA"]
+fromSector = "ed/ALB"
+toSector = "ed/DMNL"
+
+## RDG
+[[agreements]]
+cop = "RUDNO"
+level = 270
+adep = ["EDDN"]
+fromSector = "ed/RDG"
+toSector = "ed/EGG"
+
+[[agreements]]
+cop = "RUDNO"
+level = 230
+adep = ["EDQA", "EDQC", "EDQD", "EDQM", "ETIC"]
+fromSector = "ed/RDG"
+toSector = "ed/EGG"
+
+[[agreements]]
+cop = "AKINI"
+level = 300
+adep = ["LOWL", "LOWS"]
+fromSector = "ed/RDG"
+toSector = "ed/ALB"
+
+[[agreements]]
+cop = "GOMAX"
+level = 170
+ades = ["EDDM"]
+fromSector = "ed/RDG"
+toSector = "ed/DMNH"
+runway = ["08L", "08R"]
+
+[[agreements]]
+cop = "KUFAZ"
+level = 170
+ades = ["EDDM"]
+fromSector = "ed/RDG"
+toSector = "ed/DMNH"
+runway = ["08L", "08R"]
+
+[[agreements]]
+cop = "OSTES"
+level = 170
+ades = ["EDDM"]
+fromSector = "ed/RDG"
+toSector = "ed/DMNH"
+runway = ["08L", "08R"]
+
+[[agreements]]
+cop = "GOMAX"
+level = 110
+ades = ["EDDM"]
+fromSector = "ed/RDG"
+toSector = "ed/DMNH"
+runway = ["26L", "26R"]
+
+[[agreements]]
+cop = "KUFAZ"
+level = 110
+ades = ["EDDM"]
+fromSector = "ed/RDG"
+toSector = "ed/DMNH"
+runway = ["26L", "26R"]
+
+[[agreements]]
+cop = "OSTES"
+level = 110
+ades = ["EDDM"]
+fromSector = "ed/RDG"
+toSector = "ed/DMNH"
+runway = ["26L", "26R"]
+
+[[agreements]]
+cop = "VESIX"
+level = 90
+ades = ["EDMA", "EDMO"]
+fromSector = "ed/RDG"
+toSector = "ed/DMNL"
+
+[[agreements]]
+cop = "KUFAZ"
+level = 90
+ades = ["EDMA", "EDMO"]
+fromSector = "ed/RDG"
+toSector = "ed/DMNL"
+
+[[agreements]]
+cop = "OSTES"
+level = 90
+ades = ["EDMA", "EDMO"]
+fromSector = "ed/RDG"
+toSector = "ed/DMNL"
+
+[[agreements]]
+cop = "RUDNO"
+level = 90
+ades = ["ETSI"]
+fromSector = "ed/RDG"
+toSector = "ed/SWA"
+
+[[agreements]]
+cop = "STAUB"
+level = 100
+ades = ["ETSI"]
+fromSector = "ed/RDG"
+toSector = "ed/SWA"
+
+[[agreements]]
+cop = "AKINI"
+level = 210
+ades = ["EDDN"]
+fromSector = "ed/RDG"
+toSector = "ed/ALB"
+
+[[agreements]]
+cop = "RODIS"
+level = 140
+ades = ["EDDN", "EDQA", "EDQC", "EDQD", "EDQM", "ETIC"]
+transferType = "D"
+fromSector = "ed/RDG"
+toSector = "ed/FRK"
+
+[[agreements]]
+cop = "RODIS"
+level = 300
+ades = ["EDDP"]
+fromSector = "ed/RDG"
+toSector = "ed/BBG"
+
+[[agreements]]
+cop = "RODIS"
+level = 260
+ades = ["EDDE"]
+fromSector = "ed/RDG"
+toSector = "ed/BBG"
+
+[[agreements]]
+cop = "RDG"
+level = 250
+ades = ["LOWI"]
+fromSector = "ed/RDG"
+toSector = "ed/EGG"
+
+[[agreements]]
+cop = "ARBAX"
+level = 260
+ades = ["LOWL"]
+fromSector = "ed/RDG"
+toSector = "ed/EGG"
+
+[[agreements]]
+cop = "OSTES"
+level = 200
+ades = ["LOWS"]
+fromSector = "ed/RDG"
+toSector = "ed/EGG"
+
+## EGG
+[[agreements]]
+level = 260
+adep = ["LOWL"]
+fromSector = "ed/EGG"
+toSector = "ed/RDG"
+
+[[agreements]]
+cop = "NENUM"
+level = 240
+sfl = 210
+adep = ["LOWS"]
+transferType = "C"
+fromSector = "ed/EGG"
+toSector = "ed/RDG"
+
+[[agreements]]
+cop = "ROSAB"
+level = 170
+ades = ["EDDM"]
+fromSector = "ed/EGG"
+toSector = "ed/DMNH"
+runway = ["08L", "08R"]
+
+[[agreements]]
+cop = "ROSAB"
+level = 110
+ades = ["EDDM"]
+fromSector = "ed/EGG"
+toSector = "ed/DMNH"
+runway = ["26L", "26R"]
+
+[[agreements]]
+cop = "GONBA"
+level = 100
+ades = ["ETSI"]
+fromSector = "ed/EGG"
+toSector = "ed/RDG"
+
+[[agreements]]
+cop = "NENUM"
+level = 280
+ades = ["EDDN"]
+fromSector = "ed/EGG"
+toSector = "ed/RDG"
+
+[[agreements]]
+cop = "GONBA"
+level = 240
+ades = ["EDQA", "EDQC", "EDQD", "EDQM", "ETIC"]
+fromSector = "ed/EGG"
+toSector = "ed/RDG"
+
+[[agreements]]
+cop = "DOSEL"
+level = 240
+ades = ["LOWI"]
+fromSector = "ed/EGG"
+toSector = "ed/TRU"
+
+## NDG
+[[agreements]]
+cop = "BESNI"
+level = 200
+adep = ["EDMO"]
+transferType = "C"
+fromSector = "ed/NDG"
+toSector = "ed/EGG"
+
+[[agreements]]
+cop = "LASMI"
+level = 200
+adep = ["EDMO"]
+transferType = "C"
+fromSector = "ed/NDG"
+toSector = "ed/EGG"
+
+[[agreements]]
+cop = "BESNI"
+level = 200
+adep = ["EDMO"]
+fromSector = "ed/NDG"
+toSector = "ed/ALB"
+
+[[agreements]]
+cop = "LASMI"
+level = 200
+adep = ["EDMO"]
+fromSector = "ed/NDG"
+toSector = "ed/RDG"
+
+[[agreements]]
+cop = "BESNI"
+level = 310
+adep = ["EDDN"]
+fromSector = "ed/NDG"
+toSector = "ed/TEG"
+
+[[agreements]]
+cop = "BESNI"
+level = 310
+adep = ["EDDN"]
+fromSector = "ed/NDG"
+toSector = "ed/TRU"
+
+[[agreements]]
+cop = "LURER"
+level = 140
+ades = ["EDDM"]
+fromSector = "ed/NDG"
+toSector = "ed/DMNH"
+runway = ["08L", "08R"]
+
+[[agreements]]
+cop = "LURER"
+level = 160
+ades = ["EDDM"]
+fromSector = "ed/NDG"
+toSector = "ed/DMNH"
+runway = ["26L", "26R"]
+
+[[agreements]]
+cop = "RIDAR"
+level = 140
+ades = ["EDDM"]
+fromSector = "ed/NDG"
+toSector = "ed/DMNH"
+runway = ["08L", "08R"]
+
+[[agreements]]
+cop = "RIDAR"
+level = 160
+ades = ["EDDM"]
+fromSector = "ed/NDG"
+toSector = "ed/DMNH"
+runway = ["26L", "26R"]
+
+[[agreements]]
+level = 110
+ades = ["EDMA", "EDMO"]
+fromSector = "ed/NDG"
+toSector = "ed/SWA"
+
+[[agreements]]
+cop = "RIXED"
+level = 110
+ades = ["ETSL"]
+fromSector = "ed/NDG"
+toSector = "ed/SWA"
+
+[[agreements]]
+cop = "ELVAG"
+level = 110
+ades = ["EDJA"]
+fromSector = "ed/NDG"
+toSector = "ed/SWA"
+
+[[agreements]]
+cop = "MAH"
+level = 200
+ades = ["EDDN"]
+fromSector = "ed/NDG"
+toSector = "ed/ALB"
+
+[[agreements]]
+cop = "BESNI"
+level = 200
+ades = ["LOWI"]
+fromSector = "ed/NDG"
+toSector = "ed/TEG"
+
+[[agreements]]
+cop = "WLD"
+level = 200
+ades = ["LOWI"]
+fromSector = "ed/NDG"
+toSector = "ed/TEG"
+
+[[agreements]]
+cop = "BESNI"
+level = 200
+ades = ["LOWS"]
+fromSector = "ed/NDG"
+toSector = "ed/DMSH"
+remarks = "OLETU @FL200"
+
+[[agreements]]
+cop = "WLD"
+level = 200
+ades = ["LOWS"]
+fromSector = "ed/NDG"
+toSector = "ed/DMSH"
+remarks = "OLETU @FL200"
+
+[[agreements]]
+cop = "BESNI"
+level = 310
+ades = ["LOWL"]
+fromSector = "ed/NDG"
+toSector = "ed/EGG"
+remarks = "released after/abeam MIQ"
+
+## WLD
+[[agreements]]
+cop = "BURAM"
+level = 130
+ades = ["EDDM"]
+fromSector = "ed/WLD"
+toSector = "ed/DMNH"
+runway = ["08L", "08R"]
+
+[[agreements]]
+cop = "BURAM"
+level = 150
+ades = ["EDDM"]
+fromSector = "ed/WLD"
+toSector = "ed/DMNH"
+runway = ["26L", "26R"]
+
+[[agreements]]
+cop = "RENLO"
+level = 130
+ades = ["EDDM"]
+fromSector = "ed/WLD"
+toSector = "ed/DMNH"
+runway = ["08L", "08R"]
+
+[[agreements]]
+cop = "RENLO"
+level = 150
+ades = ["EDDM"]
+fromSector = "ed/WLD"
+toSector = "ed/DMNH"
+runway = ["26L", "26R"]
+
+[[agreements]]
+level = 270
+ades = ["LOWI"]
+fromSector = "ed/WLD"
+toSector = "ed/NDG"

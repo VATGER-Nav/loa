@@ -1,0 +1,206 @@
+# HOF
+[[agreements]]
+cop = "VEMUT"
+level = 270
+adep = ["EDDN", "EDQC"]
+fromSector = "ed/HOF"
+toSector = "lk/W1L"
+remarks = "Released for climb to FL310 after transfer of communication"
+
+[[agreements]]
+cop = "VEMUT"
+level = 270
+ades = ["LKCS"]
+fromSector = "ed/HOF"
+toSector = "lk/W1L"
+
+[[agreements]]
+cop = "ODOMO"
+level = 230
+adep = ["EDDN", "EDQC"]
+fromSector = "ed/HOF"
+toSector = "lk/W1L"
+
+[[agreements]]
+cop = "ODOMO"
+level = 250
+ades = ["LKPR", "LKKB", "LKVO", "LKPD", "LKCV", "LKHK", "LKMH"]
+fromSector = "ed/HOF"
+toSector = "lk/W1L"
+remarks = "Released for descent down to FL200 after ODOMO"
+
+[[agreements]]
+cop = "ODOMO"
+level = 270
+ades = ["LKCS"]
+fromSector = "ed/HOF"
+toSector = "lk/W1L"
+remarks = "Released for descent down to FL200 after ODOMO"
+
+[[agreements]]
+cop = "OKG"
+level = 270
+adep = ["EDDN", "EDQC"]
+fromSector = "ed/HOF"
+toSector = "lk/W1L"
+remarks = "Released for climb to FL310 after transfer of communication"
+
+# FRK
+[[agreements]]
+cop = "VEMUT"
+level = 170
+adep = ["EDQM"]
+fromSector = "ed/FRK"
+toSector = "lk/W1L"
+
+[[agreements]]
+cop = "ODOMO"
+level = 170
+adep = ["EDQM"]
+fromSector = "ed/FRK"
+toSector = "lk/W1L"
+
+[[agreements]]
+cop = "OKG"
+level = 170
+adep = ["EDQM"]
+fromSector = "ed/FRK"
+toSector = "lk/W1L"
+
+[[agreements]]
+cop = "OKG"
+level = 110
+ades = ["LKKV"]
+fromSector = "ed/FRK"
+toSector = "lk/KVY_CTA_U"
+
+# MEI
+[[agreements]]
+cop = "MAREM"
+level = 270
+adep = ["EDDP"]
+fromSector = "ed/MEI"
+toSector = "lk/W1L"
+remarks = "Released for climb to FL310 after transfer of communication"
+
+[[agreements]]
+cop = "LALUK"
+level = 170
+ades = ["LKPR", "LKKB", "LKVO"]
+fromSector = "ed/MEI"
+toSector = "lk/N1L"
+releases = "D"
+
+[[agreements]]
+cop = "OMELO"
+level = 270
+adep = ["EDDP", "EDAC"]
+fromSector = "ed/MEI"
+toSector = "lk/N1L"
+remarks = "Released for climb to FL310 after transfer of communication"
+
+[[agreements]]
+cop = "OMELO"
+level = 230
+ades = ["LKPD", "LKCV", "LKHK"]
+fromSector = "ed/MEI"
+toSector = "lk/N1L"
+
+[[agreements]]
+cop = "HDO"
+level = 230
+ades = ["LKPD", "LKCV", "LKHK"]
+fromSector = "ed/MEI"
+toSector = "lk/N1L"
+
+[[agreements]]
+cop = "HDO"
+level = 190
+ades = ["LKPR", "LKKB", "LKVO", "LKMH"]
+fromSector = "ed/MEI"
+toSector = "lk/N1L"
+remarks = "Released for descent after transfer of communication"
+
+[[agreements]]
+cop = "OMELO"
+level = 190
+ades = ["LKMH"]
+fromSector = "ed/MEI"
+toSector = "lk/N1L"
+
+[[agreements]]
+cop = "OMELO"
+level = 290
+ades = ["LKCS"]
+fromSector = "ed/MEI"
+toSector = "lk/N1L"
+
+[[agreements]]
+cop = "MAREM"
+level = 300
+ades = ["LKCS"]
+fromSector = "ed/MEI"
+toSector = "lk/W1L"
+
+[[agreements]]
+cop = "HDO"
+level = 290
+ades = ["LKCS"]
+fromSector = "ed/MEI"
+toSector = "lk/N1L"
+
+# SAS
+[[agreements]]
+cop = "MAREM"
+level = 160
+sfl = 130
+adep = ["EDDC", "EDAB"]
+transferType = "C"
+fromSector = "ed/SAS"
+toSector = "lk/W1L"
+
+[[agreements]]
+cop = "MAREM"
+level = 140
+ades = ["LKKV"]
+fromSector = "ed/SAS"
+toSector = "lk/W1L"
+
+[[agreements]]
+cop = "LALUK"
+level = 130
+adep = ["EDDC"]
+ades = ["LKPR", "LKKB", "LKVO"]
+fromSector = "ed/SAS"
+toSector = "lk/N1L"
+
+[[agreements]]
+cop = "DEKOV"
+level = 130
+adep = ["EDDC"]
+ades = ["LKPR", "LKKB", "LKVO"]
+fromSector = "ed/SAS"
+toSector = "lk/N1L"
+
+[[agreements]]
+cop = "DEKOV"
+level = 150
+sfl = 130
+adep = ["EDDC"]
+transferType = "C"
+fromSector = "ed/SAS"
+toSector = "lk/N1L"
+
+[[agreements]]
+cop = "HDO"
+level = 130
+adep = ["EDDC"]
+fromSector = "ed/SAS"
+toSector = "lk/N1L"
+
+[[agreements]]
+cop = "HDO"
+level = 90
+adep = ["EDAB"]
+fromSector = "ed/SAS"
+toSector = "lk/OVA_CTA_HDO"

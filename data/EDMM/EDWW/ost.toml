@@ -1,0 +1,253 @@
+# HAL
+[[agreements]]
+cop = "BOKSO"
+level = 220
+ades = ["EDDV", "ETNW"]
+fromSector = "ed/HAL"
+toSector = "ed/HRZ"
+remarks = "TFC may be cleared DCT BOKSO"
+
+[[agreements]]
+cop = "LORBO"
+level = 220
+ades = ["EDDV", "EDVE", "ETNW"]
+fromSector = "ed/HAL"
+toSector = "ed/BOR"
+remarks = "TFC may be cleared DCT HLZ"
+
+[[agreements]]
+cop = "ZUCKA"
+level = 200
+adep = ["EDDE"]
+fromSector = "ed/HAL"
+toSector = "ed/HRZ"
+
+[[agreements]]
+cop = "BOKSO"
+level = 200
+adep = ["EDDE"]
+fromSector = "ed/HAL"
+toSector = "ed/HRZ"
+remarks = "Only for flights with destination EDDV/ETNW"
+
+[[agreements]]
+cop = "KENIG"
+level = 250
+adep = ["EDDE"]
+fromSector = "ed/HAL"
+toSector = "ed/BOR"
+
+# GER
+[[agreements]]
+cop = "RUDAK"
+level = 210
+ades = ["EDDB"]
+fromSector = "ed/GER"
+toSector = "ed/FLG"
+remarks = "TFC may be cleared DCT KLF"
+
+[[agreements]]
+cop = "RUDAK"
+level = 230
+ades = ["EDAY"]
+fromSector = "ed/GER"
+toSector = "ed/FLG"
+
+[[agreements]]
+cop = "ZABEL"
+level = 210
+ades = ["EDDB"]
+fromSector = "ed/GER"
+toSector = "ed/FLG"
+remarks = "TFC may be cleared DCT ATGUP"
+
+[[agreements]]
+cop = "ZABEL"
+level = 240
+ades = ["EDAY"]
+fromSector = "ed/GER"
+toSector = "ed/FLG"
+
+# TRN
+[[agreements]]
+cop = "ZUCKA"
+level = 180
+ades = ["EDVE"]
+fromSector = "ed/TRN"
+toSector = "ed/HRZ"
+remarks = "TFC may be cleared DCT LARET"
+
+[[agreements]]
+cop = "KUMER"
+level = 180
+ades = ["EDVK"]
+fromSector = "ed/TRN"
+toSector = "ed/HRZ"
+
+[[agreements]]
+cop = "KENIG"
+level = 90
+ades = ["EDBM"]
+fromSector = "ed/TRN"
+toSector = "ed/BOR"
+
+[[agreements]]
+cop = "ODLUN"
+level = 180
+ades = ["EDVE"]
+fromSector = "ed/TRN"
+toSector = "ed/BOR"
+
+[[agreements]]
+cop = "LORBO"
+level = 80
+ades = ["EDBM"]
+fromSector = "ed/TRN"
+toSector = "ed/BOR"
+
+[[agreements]]
+cop = "DIDGI"
+level = 110
+ades = ["EDAZ"]
+fromSector = "ed/TRN"
+toSector = "ed/DBAS"
+
+[[agreements]]
+cop = "RUDAK"
+level = 110
+ades = ["EDAZ"]
+fromSector = "ed/TRN"
+toSector = "ed/DBAS"
+
+[[agreements]]
+cop = "ZABEL"
+level = 110
+ades = ["EDAZ"]
+fromSector = "ed/TRN"
+toSector = "ed/DBAS"
+
+[[agreements]]
+cop = "KUMER"
+level = 180
+adep = ["EDDE"]
+fromSector = "ed/TRN"
+toSector = "ed/HRZ"
+
+[[agreements]]
+cop = "ODLUN"
+level = 80
+adep = ["EDDP"]
+ades = ["EDBM"]
+fromSector = "ed/TRN"
+toSector = "ed/BOR"
+
+[[agreements]]
+cop = "ODLUN"
+level = 120
+adep = ["EDDP"]
+fromSector = "ed/TRN"
+toSector = "ed/BOR"
+
+[[agreements]]
+cop = "ODLUN"
+level = 180
+adep = ["EDAC"]
+fromSector = "ed/TRN"
+toSector = "ed/BOR"
+
+[[agreements]]
+cop = "UMBAL"
+level = 120
+adep = ["EDDP"]
+fromSector = "ed/TRN"
+toSector = "ed/BOR"
+
+[[agreements]]
+cop = "RUDAK"
+level = 140
+adep = ["EDDP"]
+fromSector = "ed/TRN"
+toSector = "ed/FLG"
+remarks = "Released by DBAS, TFC may be cleared DCT OLBIK, KLF"
+
+# MEI
+[[agreements]]
+cop = "AKUDI"
+level = 200
+ades = ["EDDB"]
+fromSector = "ed/MEI"
+toSector = "ed/FLG"
+remarks = "TFC may be cleared DCT ATGUP"
+
+[[agreements]]
+cop = "AKUDI"
+level = 220
+ades = ["EDAY"]
+fromSector = "ed/MEI"
+toSector = "ed/FLG"
+
+[[agreements]]
+cop = "ABLOX"
+level = 200
+ades = ["EDDB"]
+fromSector = "ed/MEI"
+toSector = "ed/FLG"
+
+[[agreements]]
+cop = "ABLOX"
+level = 230
+ades = ["EDAY"]
+fromSector = "ed/MEI"
+toSector = "ed/FLG"
+
+# SAS
+[[agreements]]
+cop = "OGSEN"
+level = 160
+adep = ["EDAC"]
+fromSector = "ed/SAS"
+toSector = "ed/FLG"
+
+[[agreements]]
+cop = "OLBIK"
+level = 140
+adep = ["EDDC", "EDAB"]
+fromSector = "ed/SAS"
+toSector = "ed/FLG"
+
+[[agreements]]
+cop = "KOBUS"
+level = 140
+adep = ["EDDC", "EDAB"]
+fromSector = "ed/SAS"
+toSector = "ed/FLG"
+routeAfter = "M725"
+
+[[agreements]]
+cop = "KOBUS"
+level = 150
+adep = ["EDDC", "EDAB"]
+fromSector = "ed/SAS"
+toSector = "ed/FLG"
+
+[[agreements]]
+cop = "ABLOX"
+level = 130
+adep = ["EDAB"]
+fromSector = "ed/SAS"
+toSector = "ed/FLG"
+
+[[agreements]]
+cop = "AKUDI"
+level = 120
+adep = ["EDDC"]
+ades = ["EDDB"]
+fromSector = "ed/SAS"
+toSector = "ed/DBAS"
+
+[[agreements]]
+cop = "OLBIK"
+level = 100
+ades = ["EDAZ"]
+fromSector = "ed/SAS"
+toSector = "ed/DBAS"

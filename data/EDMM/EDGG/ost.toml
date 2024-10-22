@@ -1,0 +1,207 @@
+# HAL
+[[agreements]]
+cop = "ESEGU"
+level = 220
+ades = ["EDDF"]
+fromSector = "ed/HAL"
+toSector = "ed/GED"
+remarks = "released passing FL245"
+
+[[agreements]]
+cop = "ROBEL"
+level = 200
+ades = ["EDDF"]
+transferType = "D"
+fromSector = "ed/HAL"
+toSector = "ed/GED"
+remarks = "ROBEL@ FL200,\nreleased passing FL245"
+
+# BBG
+[[agreements]]
+cop = "RUNEN"
+level = 210
+ades = ["EDDF"]
+transferType = "D"
+fromSector = "ed/BBG"
+toSector = "ed/GED"
+remarks = "RUNEN@ FL210\nreleased passing FL245"
+
+[[agreements]]
+cop = "RUFGA"
+level = 240
+ades = ["EDDS"]
+fromSector = "ed/BBG"
+toSector = "ed/HAB"
+remarks = "Released ↔ passing GORKO"
+
+[[agreements]]
+cop = "RUFGA"
+level = 220
+ades = ["ETAR", "EDDR", "EDRZ", "EDSB"]
+fromSector = "ed/BBG"
+toSector = "ed/HAB"
+
+[[agreements]]
+cop = "RUFGA"
+level = 200
+ades = ["EDFM", "EDFV", "EDRY"]
+fromSector = "ed/BBG"
+toSector = "ed/HAB"
+remarks = "Released ↔ passing GORKO"
+
+[[agreements]]
+cop = "GORKO"
+level = 210
+adep = ["EDQM", "EDQD", "EDQA", "EDQC"]
+fromSector = "ed/BBG"
+toSector = "ed/HEF"
+
+[[agreements]]
+cop = "GORKO"
+level = 220
+adep = ["EDDN"]
+fromSector = "ed/BBG"
+toSector = "ed/HEF"
+remarks = "Released ↑ by BBG after passing FL195 or SULUS"
+
+[[agreements]]
+cop = "RUFGA"
+level = 200
+ades = ["EDTY"]
+fromSector = "ed/BBG"
+toSector = "ed/HAB"
+remarks = "Released ↔ passing GORKO"
+
+[[agreements]]
+cop = "BARSU"
+level = 220
+ades = ["EDFM", "EDFV", "EDRY"]
+fromSector = "ed/BBG"
+toSector = "ed/KTG"
+
+[[agreements]]
+cop = "KEGOS"
+level = 200
+ades = ["EDDS"]
+fromSector = "ed/BBG"
+toSector = "ed/KTG"
+
+# FRK
+[[agreements]]
+cop = "DKB"
+level = 130
+adep = ["EDDN"]
+fromSector = "ed/FRK"
+toSector = "ed/DKB"
+remarks = "Released by FRK, DEPs via BOLSI shall be cleared DCT DKB"
+
+[[agreements]]
+cop = "SUKAD"
+level = 130
+adep = ["EDDN"]
+fromSector = "ed/FRK"
+toSector = "ed/KTG"
+releases = "F"
+
+[[agreements]]
+cop = "SULUS"
+level = 180
+adep = ["EDDN", "EDQM", "EDQD"]
+fromSector = "ed/FRK"
+toSector = "ed/HEF"
+
+[[agreements]]
+cop = "VAGAB"
+level = 180
+adep = ["EDQA", "EDQC", "EDQD", "EDQM"]
+fromSector = "ed/FRK"
+toSector = "ed/GED"
+
+[[agreements]]
+cop = "RUNEN"
+level = 130
+adep = ["EDQC", "EDQA"]
+fromSector = "ed/FRK"
+toSector = "ed/HEF"
+
+[[agreements]]
+cop = "SULUS"
+level = 130
+adep = ["EDQC", "EDQA"]
+fromSector = "ed/FRK"
+toSector = "ed/HAB"
+
+[[agreements]]
+cop = "SULUS"
+level = 180
+adep = ["EDDN", "EDQM", "EDQD"]
+fromSector = "ed/FRK"
+toSector = "ed/HAB"
+
+[[agreements]]
+cop = "KOMIB"
+level = 180
+adep = ["EDDN", "EDQM", "EDQD"]
+fromSector = "ed/FRK"
+toSector = "ed/HAB"
+
+[[agreements]]
+cop = "AMOSA"
+level = 100
+ades = ["EDTY"]
+fromSector = "ed/FRK"
+toSector = "ed/KTG"
+releases = "D"
+
+[[agreements]]
+level = 80
+ades = ["EDQG"]
+fromSector = "ed/FRK"
+toSector = "ed/KTG"
+remarks = "Individual Coordination"
+
+[[agreements]]
+level = 80
+ades = ["ETHN"]
+fromSector = "ed/FRK"
+toSector = "ed/DKB"
+remarks = "Individual Coordination"
+
+[[agreements]]
+cop = "ILM"
+level = 50
+ades = ["ETIK"]
+qnh = "ETIK"
+fromSector = "ed/FRK"
+toSector = "ed/KTG"
+
+[[agreements]]
+cop = "AMOSA"
+level = 150
+adep = ["EDQC", "EDQA"]
+fromSector = "ed/FRK"
+toSector = "ed/KTG"
+
+[[agreements]]
+level = 50
+adep = ["ETEB"]
+qnh = "ETEB"
+fromSector = "ed/FRK"
+toSector = "ed/KTG"
+remarks = "Individual Coordination"
+
+[[agreements]]
+cop = "AMOSA"
+level = 180
+adep = ["EDQM", "EDQD"]
+fromSector = "ed/FRK"
+toSector = "ed/KTG"
+
+# TRS
+[[agreements]]
+cop = "ERSIL"
+level = 140
+adep = ["EDDE"]
+transferType = "C"
+fromSector = "ed/TRS"
+toSector = "ed/HEF"

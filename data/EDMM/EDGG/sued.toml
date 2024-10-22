@@ -1,0 +1,25 @@
+# FUE
+[[agreements]]
+cop = "DITBA"
+level = 130
+ades = ["EDDS"]
+fromSector = "ed/FUE"
+toSector = "ed/REU"
+
+[[agreements]]
+cop = "KUNOD"
+level = 190
+adep = ["EDJA"]
+rfl = "240-"
+fromSector = "ed/FUE"
+toSector = "ed/BAD"
+remarks = "if TRA not active, rlsd ↑ by FUE"
+
+[[agreements]]
+cop = "KUNOD"
+level = 230
+adep = ["EDJA"]
+rfl = "250+"
+fromSector = "ed/FUE"
+toSector = "ed/BAD"
+remarks = "if TRA not active, able to cross KUNOD at level"

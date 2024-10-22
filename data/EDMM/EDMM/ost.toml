@@ -1,0 +1,673 @@
+## FRK
+[[agreements]]
+cop = "AKANU"
+level = 130
+adep = ["EDDN"]
+fromSector = "ed/FRK"
+toSector = "ed/WLD"
+
+[[agreements]]
+cop = "RODIS"
+level = 160
+adep = ["EDDN"]
+transferType = "C"
+fromSector = "ed/FRK"
+toSector = "ed/RDG"
+remarks = "SID"
+
+[[agreements]]
+cop = "SULUS"
+level = 190
+adep = ["EDDN"]
+transferType = "C"
+vertical = true
+fromSector = "ed/FRK"
+toSector = "ed/BBG"
+
+[[agreements]]
+cop = "ERETO"
+level = 190
+adep = ["EDDN"]
+transferType = "C"
+vertical = true
+fromSector = "ed/FRK"
+toSector = "ed/HOF"
+
+[[agreements]]
+cop = "PEROX"
+level = 120
+adep = ["EDQA", "EDQC", "EDQD", "EDQM", "ETIC"]
+fromSector = "ed/FRK"
+toSector = "ed/SAS"
+
+[[agreements]]
+cop = "LASGA"
+level = 120
+adep = ["EDQA", "EDQC", "EDQD", "EDQM", "ETIC"]
+fromSector = "ed/FRK"
+toSector = "ed/TRS"
+
+[[agreements]]
+cop = "TABAT"
+level = 120
+adep = ["EDQA", "EDQC", "EDQD", "EDQM", "ETIC"]
+fromSector = "ed/FRK"
+toSector = "ed/TRS"
+
+[[agreements]]
+cop = "NIKUS"
+level = 170
+adep = ["EDQA", "EDQC", "EDQD", "EDQM", "ETIC"]
+fromSector = "ed/FRK"
+toSector = "ed/RDG"
+remarks = "AKOSI/ARMUT @FL170"
+
+[[agreements]]
+cop = "AKOSI"
+level = 170
+ades = ["ETSI", "EDMS"]
+fromSector = "ed/FRK"
+toSector = "ed/RDG"
+
+[[agreements]]
+cop = "VOCIM"
+level = 190
+ades = ["EDDP"]
+fromSector = "ed/FRK"
+toSector = "ed/TRS"
+
+[[agreements]]
+cop = "TABAT"
+level = 110
+ades = ["EDAC"]
+fromSector = "ed/FRK"
+toSector = "ed/TRS"
+
+[[agreements]]
+cop = "PILAM"
+level = 110
+ades = ["EDDE"]
+fromSector = "ed/FRK"
+toSector = "ed/TRS"
+
+[[agreements]]
+cop = "LASGA"
+level = 110
+ades = ["EDDE"]
+fromSector = "ed/FRK"
+toSector = "ed/TRS"
+
+[[agreements]]
+cop = "SODRO"
+level = 110
+ades = ["EDDE"]
+fromSector = "ed/FRK"
+toSector = "ed/TRS"
+
+## BBG
+[[agreements]]
+cop = "LASGA"
+level = 280
+adep = ["EDDN"]
+fromSector = "ed/BBG"
+toSector = "ed/GER"
+
+[[agreements]]
+cop = "LASGA"
+level = 280
+ades = ["EDBM", "EDVE", "EDBC", "EDDV", "EDDW", "ETNW"]
+fromSector = "ed/BBG"
+toSector = "ed/GER"
+
+[[agreements]]
+cop = "PIBAD"
+level = 280
+ades = ["EDBM", "EDVE", "EDBC", "EDDV", "EDDW", "ETNW"]
+fromSector = "ed/BBG"
+toSector = "ed/GER"
+
+[[agreements]]
+cop = "LASGA"
+level = 230
+ades = ["EDDP"]
+fromSector = "ed/BBG"
+toSector = "ed/GER"
+
+[[agreements]]
+cop = "PIBAD"
+level = 230
+ades = ["EDDP"]
+fromSector = "ed/BBG"
+toSector = "ed/GER"
+
+[[agreements]]
+cop = "LONLI"
+level = 270
+ades = ["EDDC", "EDAB"]
+fromSector = "ed/BBG"
+toSector = "ed/HOF"
+
+[[agreements]]
+cop = "ERETO"
+level = 270
+ades = ["EDDC", "EDAB"]
+fromSector = "ed/BBG"
+toSector = "ed/HOF"
+
+[[agreements]]
+level = 200
+vertical = true
+ades = ["EDDN"]
+fromSector = "ed/BBG"
+toSector = "ed/FRK"
+
+## HOF
+[[agreements]]
+cop = "TABAT"
+level = 270
+adep = ["EDDN"]
+fromSector = "ed/HOF"
+toSector = "ed/GER"
+
+[[agreements]]
+cop = "PEROX"
+level = 270
+adep = ["EDDN"]
+fromSector = "ed/HOF"
+toSector = "ed/MEI"
+
+[[agreements]]
+cop = "AKOSI"
+level = 310
+adep = ["EDDE"]
+fromSector = "ed/HOF"
+toSector = "ed/RDG"
+
+[[agreements]]
+cop = "ARMUT"
+level = 310
+adep = ["EDDE"]
+fromSector = "ed/HOF"
+toSector = "ed/RDG"
+
+[[agreements]]
+cop = "TABAT"
+level = 270
+adep = ["EDDS"]
+fromSector = "ed/HOF"
+toSector = "ed/GER"
+
+[[agreements]]
+cop = "PEROX"
+level = 250
+ades = ["EDDC", "EDAB"]
+fromSector = "ed/HOF"
+toSector = "ed/MEI"
+
+[[agreements]]
+cop = "ARMUT"
+level = 270
+ades = ["EDDM", "EDMA", "EDMO"]
+fromSector = "ed/HOF"
+toSector = "ed/RDG"
+
+[[agreements]]
+cop = "KULOK"
+level = 260
+ades = ["EDJA", "EDDS", "EDDR"]
+fromSector = "ed/HOF"
+toSector = "ed/BBG"
+
+[[agreements]]
+cop = "KULOK"
+level = 220
+ades = ["EDFM", "EDSB", "EDRY"]
+fromSector = "ed/HOF"
+toSector = "ed/BBG"
+
+[[agreements]]
+cop = "NURGO"
+level = 270
+ades = ["EDDF", "EDFE", "ETOU"]
+fromSector = "ed/HOF"
+toSector = "ed/BBG"
+
+[[agreements]]
+cop = "UNAVI"
+level = 260
+ades = ["EDDF", "ETAR", "ETOU", "EDVK", "EDFE", "EDFH", "EDFM", "EDFQ", "EDGS", "EDRY", "EDRZ"]
+fromSector = "ed/HOF"
+toSector = "ed/BBG"
+
+[[agreements]]
+cop = "RONIG"
+level = 260
+ades = ["EDDF"]
+fromSector = "ed/HOF"
+toSector = "ed/BBG"
+
+[[agreements]]
+level = 200
+vertical = true
+ades = ["EDDN"]
+fromSector = "ed/HOF"
+toSector = "ed/FRK"
+
+# GER
+[[agreements]]
+cop = "ALOSO"
+level = 210
+adep = ["EDDP"]
+fromSector = "ed/GER"
+toSector = "ed/HOF"
+
+[[agreements]]
+cop = "BAMKI"
+level = 240
+adep = ["EDDP"]
+fromSector = "ed/GER"
+toSector = "ed/BBG"
+
+[[agreements]]
+cop = "TADUV"
+level = 250
+adep = ["EDDE"]
+fromSector = "ed/GER"
+toSector = "ed/MEI"
+
+[[agreements]]
+cop = "SULED"
+level = 250
+adep = ["EDDE"]
+fromSector = "ed/GER"
+toSector = "ed/MEI"
+
+[[agreements]]
+cop = "ALOSO"
+level = 290
+adep = ["EDBC", "EDBM"]
+fromSector = "ed/GER"
+toSector = "ed/HOF"
+
+[[agreements]]
+cop = "BAMKI"
+level = 290
+adep = ["EDBC", "EDBM"]
+fromSector = "ed/GER"
+toSector = "ed/BBG"
+
+[[agreements]]
+cop = "TADUV"
+level = 230
+adep = ["EDBC", "EDBM"]
+fromSector = "ed/GER"
+toSector = "ed/MEI"
+
+[[agreements]]
+cop = "TADUV"
+level = 240
+adep = ["EDDC", "EDAB"]
+fromSector = "ed/GER"
+toSector = "ed/HAL"
+
+[[agreements]]
+cop = "ALOSO"
+level = 290
+ades = ["EDMA", "EDMO"]
+fromSector = "ed/GER"
+toSector = "ed/HOF"
+
+[[agreements]]
+cop = "ALOSO"
+level = 250
+ades = ["ETSI"]
+fromSector = "ed/GER"
+toSector = "ed/HOF"
+
+[[agreements]]
+cop = "RELKO"
+level = 250
+ades = ["ETSI"]
+fromSector = "ed/GER"
+toSector = "ed/HOF"
+
+[[agreements]]
+cop = "ALOSO"
+level = 270
+ades = ["EDMS"]
+fromSector = "ed/GER"
+toSector = "ed/HOF"
+
+[[agreements]]
+cop = "BAMKI"
+level = 210
+ades = ["EDDN"]
+fromSector = "ed/GER"
+toSector = "ed/BBG"
+
+[[agreements]]
+cop = "ALOSO"
+level = 210
+ades = ["EDDN"]
+fromSector = "ed/GER"
+toSector = "ed/HOF"
+
+[[agreements]]
+cop = "RELKO"
+level = 210
+ades = ["EDDN"]
+fromSector = "ed/GER"
+toSector = "ed/HOF"
+
+[[agreements]]
+cop = "BAMKI"
+level = 260
+ades = ["EDDS", "EDJA", "EDDR", "EDFM", "EDTY", "EDSB", "ETAR"]
+fromSector = "ed/GER"
+toSector = "ed/BBG"
+
+[[agreements]]
+cop = "TALEG"
+level = 290
+ades = ["LKPR", "LKKB", "LKVO", "LKPD", "LKCV", "LKHK", "LKMH", "LKCS"]
+fromSector = "ed/GER"
+toSector = "ed/MEI"
+
+[[agreements]]
+cop = "OSTRA"
+level = 290
+ades = ["LKPR", "LKKB", "LKVO", "LKPD", "LKCV", "LKHK", "LKMH", "LKCS"]
+fromSector = "ed/GER"
+toSector = "ed/MEI"
+
+[[agreements]]
+cop = "BAMKI"
+level = 280
+ades = ["LSZH", "LFSB", "EDDM"]
+fromSector = "ed/GER"
+toSector = "ed/BBG"
+
+[[agreements]]
+cop = "MIPSI"
+level = 230
+ades = ["EDDP"]
+fromSector = "ed/GER"
+toSector = "ed/HAL"
+
+[[agreements]]
+cop = "NARUS"
+level = 280
+ades = ["EDDV", "EDDW", "ETNW"]
+fromSector = "ed/GER"
+toSector = "ed/HAL"
+
+[[agreements]]
+cop = "BAMKI"
+level = 280
+ades = ["EDDV", "EDDW", "ETNW"]
+fromSector = "ed/GER"
+toSector = "ed/HAL"
+
+[[agreements]]
+cop = "TADUV"
+level = 240
+ades = ["EDDV", "EDDW", "ETNW"]
+fromSector = "ed/GER"
+toSector = "ed/HAL"
+
+[[agreements]]
+cop = "NARUS"
+level = 220
+ades = ["EDBM", "EDVE"]
+fromSector = "ed/GER"
+toSector = "ed/HAL"
+
+[[agreements]]
+cop = "BAMKI"
+level = 220
+ades = ["EDBM", "EDVE"]
+fromSector = "ed/GER"
+toSector = "ed/HAL"
+
+[[agreements]]
+cop = "TADUV"
+level = 220
+ades = ["EDBM", "EDVE"]
+fromSector = "ed/GER"
+toSector = "ed/HAL"
+
+# HAL
+[[agreements]]
+cop = "OSKAT"
+level = 230
+adep = ["EDDE"]
+fromSector = "ed/HAL"
+toSector = "ed/GER"
+
+[[agreements]]
+cop = "SOPLA"
+level = 230
+adep = ["EDDE"]
+fromSector = "ed/HAL"
+toSector = "ed/GER"
+
+[[agreements]]
+cop = "GALMA"
+level = 210
+adep = ["EDBC", "EDBM"]
+fromSector = "ed/HAL"
+toSector = "ed/GER"
+
+[[agreements]]
+cop = "OSKAT"
+level = 210
+adep = ["EDBC", "EDBM"]
+fromSector = "ed/HAL"
+toSector = "ed/GER"
+
+[[agreements]]
+cop = "GALMA"
+level = 290
+ades = ["EDMS"]
+fromSector = "ed/HAL"
+toSector = "ed/GER"
+
+[[agreements]]
+cop = "GALMA"
+level = 240
+ades = ["EDDN"]
+fromSector = "ed/HAL"
+toSector = "ed/GER"
+
+[[agreements]]
+cop = "GALMA"
+level = 260
+ades = ["EDDS", "EDJA", "EDDR", "EDFM", "EDTY", "EDSB", "ETAR"]
+fromSector = "ed/HAL"
+toSector = "ed/GER"
+
+# MEI
+[[agreements]]
+cop = "ABKIS"
+level = 240
+adep = ["EDDC", "EDAB"]
+fromSector = "ed/MEI"
+toSector = "ed/HOF"
+
+[[agreements]]
+cop = "NOKSI"
+level = 300
+ades = ["EDJA"]
+fromSector = "ed/MEI"
+toSector = "ed/HOF"
+
+[[agreements]]
+cop = "ABKIS"
+level = 220
+ades = ["EDDN"]
+fromSector = "ed/MEI"
+toSector = "ed/HOF"
+
+[[agreements]]
+cop = "BEBEX"
+level = 180
+ades = ["EDDE"]
+fromSector = "ed/MEI"
+toSector = "ed/TRS"
+
+[[agreements]]
+cop = "BEBEX"
+level = 280
+ades = ["EDDV", "EDDW", "ETNW"]
+fromSector = "ed/MEI"
+toSector = "ed/GER"
+
+[[agreements]]
+cop = "BEBEX"
+level = 240
+ades = ["EDBM", "EDVE"]
+fromSector = "ed/MEI"
+toSector = "ed/GER"
+
+[[agreements]]
+cop = "NOKSI"
+level = 300
+ades = ["EDDS"]
+fromSector = "ed/MEI"
+toSector = "ed/HOF"
+
+# TRS
+[[agreements]]
+cop = "DRN"
+level = 150
+adep = ["EDDP"]
+fromSector = "ed/TRS"
+toSector = "ed/SAS"
+remarks = "SID"
+
+[[agreements]]
+level = 100
+adep = ["EDAC"]
+fromSector = "ed/TRS"
+toSector = "ed/SAS"
+
+[[agreements]]
+cop = "ALOSO"
+level = 120
+adep = ["EDAC"]
+fromSector = "ed/TRS"
+toSector = "ed/FRK"
+
+[[agreements]]
+cop = "ERF"
+level = 160
+adep = ["EDDE"]
+fromSector = "ed/TRS"
+toSector = "ed/FRK"
+
+[[agreements]]
+cop = "NEVKO"
+level = 160
+adep = ["EDDE"]
+fromSector = "ed/TRS"
+toSector = "ed/FRK"
+
+[[agreements]]
+cop = "LASTO"
+level = 160
+adep = ["EDDE"]
+fromSector = "ed/TRS"
+toSector = "ed/TRN"
+
+[[agreements]]
+cop = "BAMKI"
+level = 110
+adep = ["EDQA", "EDQC", "EDQD", "EDQM", "ETIC"]
+fromSector = "ed/TRS"
+toSector = "ed/FRK"
+
+[[agreements]]
+cop = "ALOSO"
+level = 110
+adep = ["EDQA", "EDQC", "EDQD", "EDQM", "ETIC"]
+fromSector = "ed/TRS"
+toSector = "ed/FRK"
+
+[[agreements]]
+cop = "RELKO"
+level = 110
+adep = ["EDQA", "EDQC", "EDQD", "EDQM", "ETIC"]
+fromSector = "ed/TRS"
+toSector = "ed/FRK"
+
+[[agreements]]
+cop = "SULED"
+level = 150
+ades = ["EDDC", "EDAB"]
+fromSector = "ed/TRS"
+toSector = "ed/SAS"
+
+[[agreements]]
+cop = "TADUV"
+level = 150
+ades = ["EDDC", "EDAB"]
+fromSector = "ed/TRS"
+toSector = "ed/SAS"
+
+[[agreements]]
+cop = "ALOSO"
+level = 190
+ades = ["LKKV"]
+fromSector = "ed/TRS"
+toSector = "ed/FRK"
+
+# TRN
+[[agreements]]
+cop = "GALMA"
+level = 190
+adep = ["EDQA", "EDQC", "EDQD", "EDQM", "ETIC"]
+fromSector = "ed/TRN"
+toSector = "ed/TRS"
+
+[[agreements]]
+cop = "OSKAT"
+level = 170
+ades = ["EDDC", "EDAB"]
+fromSector = "ed/TRN"
+toSector = "ed/TRS"
+
+# SAS
+[[agreements]]
+cop = "BEBEX"
+level = 160
+adep = ["EDDC", "EDAB"]
+fromSector = "ed/SAS"
+toSector = "ed/TRS"
+
+[[agreements]]
+cop = "ABKIS"
+level = 110
+ades = ["EDQA", "EDQC", "EDQD", "EDQM", "ETIC"]
+fromSector = "ed/SAS"
+toSector = "ed/FRK"
+
+[[agreements]]
+cop = "UWBAZ"
+level = 120
+ades = ["EDDP"]
+fromSector = "ed/SAS"
+toSector = "ed/TRN"
+
+[[agreements]]
+cop = "IVQOQ"
+level = 120
+ades = ["EDDP"]
+fromSector = "ed/SAS"
+toSector = "ed/TRS"
+
+[[agreements]]
+cop = "BEBEX"
+level = 110
+ades = ["EDAC"]
+fromSector = "ed/SAS"
+toSector = "ed/TRS"
