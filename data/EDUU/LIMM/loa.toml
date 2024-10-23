@@ -1,0 +1,20 @@
+[[agreements]]
+cop = "NATAG"
+level = 330
+ades = ["LIPE", "LIPK", "LIMP"]
+fromSector = "ed/ALP1"
+toSector = "li/LIPP-NE6"
+
+[[agreements]]
+cop = "OLPIX"
+level = 330
+ades = ["LIME", "LIPE", "LIPK", "LIMP"]
+fromSector = "ed/ALP1"
+toSector = "li/LIPP-NE6"
+
+[[agreements]]
+cop = "LIKDA"
+level = 330
+ades = ["LIME", "LIPE", "LIPK", "LIMP"]
+fromSector = "ed/ALP1"
+toSector = "li/LIPP-NE6"
