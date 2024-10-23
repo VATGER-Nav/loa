@@ -1,0 +1,20 @@
+[[agreements]]
+cop = "BINKA"
+level = 320
+ades = ["EKCH", "EKRK", "ESMS"]
+fromSector = "ep/EPWWB"
+toSector = "ed/OSE1"
+
+[[agreements]]
+cop = "PESEL"
+level = 340
+ades = ["EDAZ"]
+fromSector = "ep/EPWWB"
+toSector = "ed/OSE1"
+
+[[agreements]]
+cop = "XIGRI"
+level = 300
+adep = ["EPPO"]
+fromSector = "ep/EPWWD"
+toSector = "ed/HVL1"

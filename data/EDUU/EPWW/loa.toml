@@ -1,80 +1,69 @@
 [[agreements]]
 cop = "BINKA"
 level = 330
-ades = ["EPZG"]
-vertical = false
+ades = ["EPZG", "EPPO"]
 fromSector = "ed/OSE1"
 toSector = "ep/EPWB"
-remarks = ""
-
-[[agreements]]
-cop = "BINKA"
-level = 330
-ades = ["EPPO"]
-vertical = false
-fromSector = "ed/OSE1"
-toSector = "ep/EPWB"
-remarks = ""
 
 [[agreements]]
 cop = "ALUKA"
 level = 330
 ades = ["EPBY"]
-vertical = false
 fromSector = "ed/OSE1"
 toSector = "ep/EPWB"
-remarks = ""
+
+[[agreements]]
+cop = "ALUKA"
+level = 290
+ades = ["EPPO"]
+fromSector = "ed/OSE1"
+toSector = "ep/EPWB"
 
 [[agreements]]
 cop = "GILAS"
 level = 330
 ades = ["EPWR", "EPBY"]
-vertical = false
 fromSector = "ed/HVL1"
 toSector = "ep/EPWD"
-remarks = ""
 
 [[agreements]]
 cop = "SUBIX"
 level = 330
 ades = ["EPWR", "EPBY"]
-vertical = false
 fromSector = "ed/HVL1"
 toSector = "ep/EPWD"
-remarks = ""
+
+[[agreements]]
+cop = "SUBIX"
+level = 290
+ades = ["EPPO"]
+fromSector = "ed/HVL1"
+toSector = "ep/EPWD"
 
 [[agreements]]
 cop = "GOVEN"
 level = 330
 ades = ["EPWR", "EPBY"]
-vertical = false
 fromSector = "ed/HVL1"
 toSector = "ep/EPWD"
-remarks = ""
 
 [[agreements]]
 cop = "BINKA"
 level = 350
 adep = ["EKCH", "EKRK", "ESMS"]
-vertical = false
 fromSector = "ed/OSE1"
 toSector = "ep/EPWB"
-remarks = "Or below"
 
 [[agreements]]
 cop = "BODLA"
 level = 330
 adep = ["EDAZ"]
-vertical = false
 fromSector = "ed/OSE1"
 toSector = "ep/EPWB"
-remarks = "Or below"
 
 [[agreements]]
 cop = "SUBIX"
 level = 330
 adep = ["EDDP"]
-vertical = false
 fromSector = "ed/HVL1"
 toSector = "ep/EPWD"
-remarks = "Or below"
