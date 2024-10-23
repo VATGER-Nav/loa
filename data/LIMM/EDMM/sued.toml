@@ -1,141 +1,109 @@
 [[agreements]]
 cop = "BRENO"
 level = 300
-ades = ["EDDN", "EDQ*"]
-vertical = false
+ades = ["EDDN", "EDQA", "EDQC", "EDQD", "EDQM"]
 fromSector = "li/LIPP-NE5"
 toSector = "ed/TEG"
-remarks = ""
 
 [[agreements]]
 cop = "UNIMI"
 level = 300
 ades = ["LSZH", "EDTM"]
-vertical = false
 fromSector = "li/LIPP-NE5"
 toSector = "ed/TEG"
-remarks = ""
 
 [[agreements]]
 cop = "SOTOV"
 level = 300
 ades = ["LSZH", "EDTM"]
-vertical = false
 fromSector = "li/LIPP-NE5"
 toSector = "ed/TEG"
-remarks = ""
 
 [[agreements]]
 level = 300
 ades = ["EDTL", "LSMD", "LOWS"]
-vertical = false
 fromSector = "li/LIPP-NE5"
 toSector = "ed/TEG"
-remarks = ""
 
 [[agreements]]
 level = 300
 ades = ["EDTL", "LSMD", "LOWS"]
-vertical = false
 fromSector = "li/LIPP-NE5"
 toSector = "ed/ZUG"
-remarks = ""
 
 [[agreements]]
 cop = "IVKAL"
 level = 300
 ades = ["EDDM"]
-vertical = false
 fromSector = "li/LIPP-NE5"
 toSector = "ed/TEG"
-remarks = ""
 
 [[agreements]]
 cop = "SOTOV"
 level = 300
 ades = ["EDDM"]
-vertical = false
 fromSector = "li/LIPP-NE5"
 toSector = "ed/TEG"
-remarks = ""
 
 [[agreements]]
 cop = "BRENO"
 level = 300
 ades = ["EDDM"]
-vertical = false
 fromSector = "li/LIPP-NE5"
 toSector = "ed/TEG"
-remarks = ""
 
 [[agreements]]
 cop = "BRENO"
 level = 300
 ades = ["ETSI", "ETSN"]
-vertical = false
 fromSector = "li/LIPP-NE5"
 toSector = "ed/TEG"
-remarks = ""
 
 [[agreements]]
 cop = "BRENO"
 level = 260
-ades = ["EDMO"]
-vertical = false
+ades = ["EDMA", "EDMO", "EDMS"]
 fromSector = "li/LIPP-NE5"
 toSector = "ed/TEG"
-remarks = ""
 
 [[agreements]]
 cop = "IVKAL"
 level = 260
-ades = ["EDMO"]
-vertical = false
+ades = ["EDMA", "EDMO"]
 fromSector = "li/LIPP-NE5"
 toSector = "ed/TEG"
-remarks = ""
 
 [[agreements]]
 cop = "SOTOV"
 level = 260
-ades = ["EDMO"]
-vertical = false
+ades = ["EDMA", "EDMO"]
 fromSector = "li/LIPP-NE5"
 toSector = "ed/TEG"
-remarks = ""
 
 [[agreements]]
 cop = "BRENO"
 level = 240
-ades = ["EDMY", "EDME"]
-vertical = false
+ades = ["EDNY", "EDME"]
 fromSector = "li/LIPP-NE4"
 toSector = "ed/TEG"
-remarks = ""
-
-[[agreements]]
-cop = "BRENO"
-level = 260
-ades = ["EDMA", "EDMS"]
-vertical = false
-fromSector = "li/LIPP-NE5"
-toSector = "ed/TEG"
-remarks = ""
 
 [[agreements]]
 cop = "IVKAL"
 level = 260
 ades = ["EDJA", "EDNY", "EDNL", "ETHL", "LSZR"]
-vertical = false
 fromSector = "li/LIPP-NE5"
 toSector = "ed/TEG"
-remarks = ""
 
 [[agreements]]
 cop = "SOTOV"
 level = 260
 ades = ["EDJA", "EDNY", "EDNL", "ETHL", "LSZR"]
-vertical = false
 fromSector = "li/LIPP-NE5"
 toSector = "ed/TEG"
-remarks = ""
+
+[[agreements]]
+cop = "UNIMI"
+level = 260
+ades = ["EDJA", "EDNY", "EDNL", "ETHL", "LSZR"]
+fromSector = "li/LIPP-NE5"
+toSector = "ed/TEG"
