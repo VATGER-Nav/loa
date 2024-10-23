@@ -2,49 +2,37 @@
 cop = "MAREM"
 level = 340
 adep = ["EDDB"]
-vertical = false
 fromSector = "ed/SPE1"
 toSector = "lk/WM"
-remarks = ""
 
 [[agreements]]
 cop = "HDO"
 level = 330
 adep = ["EDDB"]
-vertical = false
 fromSector = "ed/SPE1"
 toSector = "lk/N1M"
-remarks = ""
 
 [[agreements]]
 cop = "MAREM"
 level = 340
 ades = ["EDDM", "LOWL", "LOWS"]
-vertical = false
 fromSector = "ed/SPE1"
 toSector = "lk/WM"
-remarks = ""
 
 [[agreements]]
 level = 350
 ades = ["LOWW", "EPWR"]
-vertical = false
 fromSector = "ed/DON1"
 toSector = "lk/WH"
-remarks = ""
 
 [[agreements]]
 level = 350
 ades = ["LOWW", "EPWR"]
-vertical = false
 fromSector = "ed/ERL1"
 toSector = "lk/WH"
-remarks = ""
 
 [[agreements]]
 level = 360
 ades = ["EDDB"]
-vertical = false
 fromSector = "ed/DON2"
 toSector = "lk/WH"
-remarks = ""
