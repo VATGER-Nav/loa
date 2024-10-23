@@ -2,25 +2,19 @@
 cop = "RAVED"
 level = 380
 ades = ["LSGG", "LFLB", "LFLI", "LFLJ", "LFLP"]
-vertical = false
 fromSector = "ed/ALP4"
 toSector = "ls/SZU"
-remarks = ""
 
 [[agreements]]
 cop = "RAVED"
 level = 340
 ades = ["LSGS"]
-vertical = false
 fromSector = "ed/ALP1"
 toSector = "ls/SZU"
-remarks = ""
 
 [[agreements]]
 cop = "RAVED"
 level = 320
 ades = ["LFSB", "LFGA", "LFGB", "LFSM"]
-vertical = false
-fromSector = "ed/ALP4"
+fromSector = "ed/ALP1"
 toSector = "ls/SZU"
-remarks = ""
