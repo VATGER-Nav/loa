@@ -2,7 +2,6 @@
 cop = "GAMSA"
 level = 370
 ades = ["LIPE", "LIPK", "LIMP"]
-vertical = false
 fromSector = "ls/SZU"
 toSector = "ed/ALP3"
 remarks = "Flights may be cleared DCT MADEB / BADVI / BIRGI / GEDSO / OTRES"
@@ -11,7 +10,6 @@ remarks = "Flights may be cleared DCT MADEB / BADVI / BIRGI / GEDSO / OTRES"
 cop = "GAMSA"
 level = 350
 ades = ["LIPZ", "LIPH", "LIPX", "LIPO", "LIPA"]
-vertical = false
 fromSector = "ls/SZU"
 toSector = "ed/ALP1"
 remarks = "Flights may be cleared DCT MADEB / BADVI / BIRGI / GEDSO / OTRES"

@@ -2,7 +2,6 @@
 cop = "GAMSA"
 level = 310
 adep = ["LFSB", "LFGA", "LFGB", "LFSM", "LSZS"]
-vertical = false
 fromSector = "ls/SZU"
 toSector = "ed/ZUG"
 remarks = "Flights may be cleared DCT MADEB"
@@ -11,7 +10,6 @@ remarks = "Flights may be cleared DCT MADEB"
 cop = "GAMSA"
 level = 310
 ades = ["LOWS", "EDDN", "LIPB"]
-vertical = false
 fromSector = "ls/SZU"
 toSector = "ed/ZUG"
 remarks = "Flights may be cleared DCT MADEB"
@@ -20,7 +18,6 @@ remarks = "Flights may be cleared DCT MADEB"
 cop = "GAMSA"
 level = 250
 ades = ["LOWI"]
-vertical = false
 fromSector = "ls/SZU"
 toSector = "ed/ZUG"
 remarks = "Minimum FL120, Flights may be cleared DCT MADEB"
@@ -30,7 +27,6 @@ cop = "DORAP"
 level = 240
 adep = ["LSZH", "LSMD", "ETDT"]
 transferType = "C"
-vertical = false
 fromSector = "ls/SZE"
 toSector = "ed/ZUG"
 remarks = "DCT XEBIX / TIRUL / OTRES; RLSD CLIMB FL280 in DORAP AREA"
@@ -39,71 +35,57 @@ remarks = "DCT XEBIX / TIRUL / OTRES; RLSD CLIMB FL280 in DORAP AREA"
 cop = "DORAP"
 level = 150
 ades = ["EDTM", "LOIH"]
-vertical = false
 fromSector = "ls/SZE"
 toSector = "ed/ZUG"
-remarks = ""
 
 [[agreements]]
 cop = "RONAG"
 level = 210
 adep = ["LSZS"]
-vertical = false
 fromSector = "ls/SZS"
 toSector = "ed/ZUG"
-remarks = ""
 
 [[agreements]]
 cop = "NUNRI"
 level = 270
+releases = "T"
 ades = ["EDDM", "ETSI"]
-vertical = false
 fromSector = "ls/SZU"
 toSector = "ed/FUE"
-remarks = "Flights are released for TURN"
 
 [[agreements]]
 cop = "NUNRI"
 level = 240
 adep = ["LSZH", "LSMD", "EDTD"]
 transferType = "C"
-vertical = false
 fromSector = "ls/SZE"
 toSector = "ed/FUE"
-remarks = "RLSD CLIMB FL280 in DORAP AREA"
 
 [[agreements]]
 cop = "NUNRI"
 level = 190
 ades = ["EDMA", "EDMO"]
-vertical = false
 fromSector = "ls/SZE"
 toSector = "ed/FUE"
-remarks = ""
 
 [[agreements]]
 cop = "NUNRI"
 level = 170
 ades = ["ETSL"]
-vertical = false
 fromSector = "ls/SZE"
 toSector = "ed/FUE"
-remarks = ""
 
 [[agreements]]
 cop = "NUNRI"
 level = 150
 adep = ["EDTM", "LOIH"]
-vertical = false
 fromSector = "ls/SZE"
 toSector = "ed/FUE"
-remarks = ""
 
 [[agreements]]
 cop = "NUNRI"
 level = 90
 ades = ["EDJA", "EDMA", "EDMO", "EDNL", "ETHL", "ETSL"]
-vertical = false
 fromSector = "ls/ARFA"
 toSector = "ed/ILR"
 remarks = "via ALOXO, Flights are released"
@@ -112,34 +94,28 @@ remarks = "via ALOXO, Flights are released"
 cop = "KPT"
 level = 110
 adep = ["LSZH", "LSMD", "EDTD", "EDTM", "LOIH"]
-vertical = false
 fromSector = "ls/ARFA"
 toSector = "ed/FUE"
-remarks = ""
 
 [[agreements]]
 cop = "KPT"
 level = 90
 ades = ["EDJA", "EDNL", "ETHL", "ETSL"]
-vertical = false
 fromSector = "ls/ARFA"
 toSector = "ed/ILR"
-remarks = ""
 
 [[agreements]]
 cop = "BEMKI"
 level = 150
+transferType = "C"
 adep = ["EDNY", "LSZR"]
-vertical = false
 fromSector = "ls/SZE"
 toSector = "ed/FUE"
-remarks = ""
 
 [[agreements]]
 cop = "KPT"
 level = 150
+transferType = "C"
 adep = ["EDNY", "LSZR"]
-vertical = false
 fromSector = "ls/SZE"
 toSector = "ed/FUE"
-remarks = ""
