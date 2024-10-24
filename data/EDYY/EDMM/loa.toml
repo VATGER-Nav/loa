@@ -1,17 +1,13 @@
 [[agreements]]
 cop = "ABGUS"
 level = 250
-ades = ["EDDN", "EDQ*"]
-vertical = false
+ades = ["EDDN", "EDQA", "EDQC", "EDQD", "EDQM"]
 fromSector = "ed/SOL"
 toSector = "ed/HAL"
-remarks = ""
 
 [[agreements]]
 cop = "NOMKA"
 level = 250
-ades = ["EDDC", "EDDN", "EDAB", "EDAC", "EDQ*", "ETIC"]
-vertical = false
+ades = ["EDDC", "EDDN", "EDAB", "EDAC", "EDQA", "EDQC", "EDQD", "EDQM", "ETIC"]
 fromSector = "ed/SOL"
 toSector = "ed/HAL"
-remarks = ""
