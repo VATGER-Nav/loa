@@ -1,152 +1,65 @@
+# HRZ
 [[agreements]]
 cop = "ABGUS"
 level = 190
 ades = ["EDDE"]
-vertical = false
 fromSector = "ed/HRZ"
 toSector = "ed/TRN"
-remarks = ""
 
 [[agreements]]
 cop = "BERDI"
 level = 150
 ades = ["EDDE"]
-vertical = false
 fromSector = "ed/HRZ"
 toSector = "ed/TRN"
-remarks = ""
 
 [[agreements]]
 cop = "BERDI"
 level = 190
 ades = ["EDAZ"]
-vertical = false
 fromSector = "ed/HRZ"
 toSector = "ed/TRN"
-remarks = ""
 
 [[agreements]]
 cop = "BERDI"
 level = 170
 ades = ["EDDP"]
-vertical = false
+runway = ["08L", "08R"]
 fromSector = "ed/HRZ"
 toSector = "ed/TRN"
-remarks = "EDDP RWYs 08 | TFC may be cleared DCT KOJEC"
+remarks = "TFC may be cleared DCT KOJEC"
 
 [[agreements]]
 cop = "BERDI"
 level = 190
 ades = ["EDDP"]
-vertical = false
+runway = ["26L", "26R"]
 fromSector = "ed/HRZ"
 toSector = "ed/TRN"
-remarks = "EDDP RWYs 26 | TFC may be cleared DCT KOJEC"
+remarks = "TFC may be cleared DCT KOJEC"
 
 [[agreements]]
 cop = "ADMOS"
 level = 150
 ades = ["EDDP"]
-vertical = false
+runway = ["08L", "08R"]
 fromSector = "ed/HRZ"
 toSector = "ed/TRN"
-remarks = "EDDP RWYs 08 | TFC may be cleared DCT KOJEC"
-
-[[agreements]]
-cop = "ADMOS"
-level = 170
-ades = ["EDDP"]
-vertical = false
-fromSector = "ed/HRZ"
-toSector = "ed/TRN"
-remarks = "EDDP RWYs 26 | TFC may be cleared DCT KOJEC"
+remarks = "TFC may be cleared DCT KOJEC"
 
 [[agreements]]
 cop = "ADMOS"
 level = 170
-ades = ["EDDE"]
-vertical = false
+ades = ["EDDP"]
+runway = ["26L", "26R"]
 fromSector = "ed/HRZ"
 toSector = "ed/TRN"
-remarks = ""
-
-[[agreements]]
-cop = "DIBDO"
-level = 130
-ades = ["EDDP"]
-vertical = false
-fromSector = "ed/BOR"
-toSector = "ed/TRN"
-remarks = ""
-
-[[agreements]]
-cop = "BARAP"
-level = 260
-ades = ["EDDN", "ETIC"]
-vertical = false
-fromSector = "ed/BOR"
-toSector = "ed/HAL"
-remarks = ""
-
-[[agreements]]
-cop = "BARAP"
-level = 180
-ades = ["EDDE", "EDAC"]
-vertical = false
-fromSector = "ed/BOR"
-toSector = "ed/TRN"
-remarks = ""
-
-[[agreements]]
-cop = "OSKAN"
-level = 150
-ades = ["EDDC"]
-vertical = false
-fromSector = "ed/FLG"
-toSector = "ed/SAS"
-remarks = ""
-
-[[agreements]]
-cop = "OSKAN"
-level = 150
-ades = ["EDAB", "EDAC"]
-vertical = false
-fromSector = "ed/FLG"
-toSector = "ed/SAS"
-remarks = ""
-
-[[agreements]]
-cop = "SISGO"
-level = 160
-ades = ["EDDP", "EDAC"]
-vertical = false
-fromSector = "ed/FLG"
-toSector = "ed/SAS"
-remarks = ""
-
-[[agreements]]
-cop = "EBASA"
-level = 150
-ades = ["EDDC", "EDAB"]
-vertical = false
-fromSector = "ed/FLG"
-toSector = "ed/SAS"
-remarks = ""
-
-[[agreements]]
-cop = "BUKIG"
-level = 160
-ades = ["EDDC", "EDAB"]
-vertical = false
-fromSector = "ed/FLG"
-toSector = "ed/SAS"
-remarks = ""
+remarks = "TFC may be cleared DCT KOJEC"
 
 [[agreements]]
 cop = "ABGUS"
 level = 230
 adep = ["EDDV", "ETNW"]
-vertical = false
 fromSector = "ed/HRZ"
 toSector = "ed/HAL"
 remarks = "TFC may be cleared DCT GALMA"
@@ -155,7 +68,6 @@ remarks = "TFC may be cleared DCT GALMA"
 cop = "ABGUS"
 level = 170
 adep = ["EDVE"]
-vertical = false
 fromSector = "ed/HRZ"
 toSector = "ed/TRN"
 remarks = "TFC may be cleared DCT GALMA"
@@ -164,16 +76,35 @@ remarks = "TFC may be cleared DCT GALMA"
 cop = "BERDI"
 level = 170
 adep = ["EDVK"]
-vertical = false
 fromSector = "ed/HRZ"
 toSector = "ed/TRN"
-remarks = ""
+
+# BOR
+[[agreements]]
+cop = "DIBDO"
+level = 130
+ades = ["EDDP"]
+fromSector = "ed/BOR"
+toSector = "ed/TRN"
+
+[[agreements]]
+cop = "BARAP"
+level = 260
+ades = ["EDDN", "ETIC"]
+fromSector = "ed/BOR"
+toSector = "ed/HAL"
+
+[[agreements]]
+cop = "BARAP"
+level = 180
+ades = ["EDDE", "EDAC"]
+fromSector = "ed/BOR"
+toSector = "ed/TRN"
 
 [[agreements]]
 cop = "DIBDO"
 level = 80
 adep = ["EDBM"]
-vertical = false
 fromSector = "ed/BOR"
 toSector = "ed/TRN"
 remarks = "TFC may be cleared DCT ESEGU"
@@ -182,7 +113,6 @@ remarks = "TFC may be cleared DCT ESEGU"
 cop = "DIBDO"
 level = 240
 adep = ["EDDB", "EDAZ"]
-vertical = false
 fromSector = "ed/BOR"
 toSector = "ed/HAL"
 remarks = "TFC may be cleared DCT ESEGU"
@@ -191,7 +121,6 @@ remarks = "TFC may be cleared DCT ESEGU"
 cop = "MAXAN"
 level = 280
 adep = ["EDDB", "EDAZ"]
-vertical = false
 fromSector = "ed/BOR"
 toSector = "ed/HAL"
 remarks = "TFC may be cleared DCT ESEGU"
@@ -200,7 +129,6 @@ remarks = "TFC may be cleared DCT ESEGU"
 cop = "ODLUN"
 level = 260
 adep = ["EDDB", "EDAZ"]
-vertical = false
 fromSector = "ed/BOR"
 toSector = "ed/HAL"
 remarks = "TFC may be cleared DCT ESEGU"
@@ -209,52 +137,77 @@ remarks = "TFC may be cleared DCT ESEGU"
 cop = "ELTED"
 level = 230
 adep = ["EDVE"]
-vertical = false
 fromSector = "ed/BOR"
 toSector = "ed/HAL"
-remarks = ""
 
 [[agreements]]
 cop = "ELTED"
 level = 280
 adep = ["EDDV", "ETNW"]
-vertical = false
 fromSector = "ed/BOR"
 toSector = "ed/HAL"
-remarks = ""
 
 [[agreements]]
 cop = "BARAP"
 level = 240
 adep = ["EDDB", "EDAZ"]
-vertical = false
 fromSector = "ed/BOR"
 toSector = "ed/HAL"
-remarks = ""
 
 [[agreements]]
 cop = "BARAP"
 level = 70
 adep = ["EDBM"]
-vertical = false
 fromSector = "ed/BOR"
 toSector = "ed/TRN"
-remarks = ""
+
+# FLG
+[[agreements]]
+cop = "OSKAN"
+level = 150
+ades = ["EDDC"]
+fromSector = "ed/FLG"
+toSector = "ed/SAS"
+
+[[agreements]]
+cop = "OSKAN"
+level = 150
+ades = ["EDAB", "EDAC"]
+fromSector = "ed/FLG"
+toSector = "ed/SAS"
+
+[[agreements]]
+cop = "SISGO"
+level = 160
+ades = ["EDDP", "EDAC"]
+fromSector = "ed/FLG"
+toSector = "ed/SAS"
+
+[[agreements]]
+cop = "EBASA"
+level = 150
+ades = ["EDDC", "EDAB"]
+fromSector = "ed/FLG"
+toSector = "ed/SAS"
+
+[[agreements]]
+cop = "BUKIG"
+level = 160
+ades = ["EDDC", "EDAB"]
+fromSector = "ed/FLG"
+toSector = "ed/SAS"
 
 [[agreements]]
 cop = "SISGO"
 level = 240
 adep = ["EDAY"]
-vertical = false
 fromSector = "ed/FLG"
 toSector = "ed/MEI"
-remarks = ""
 
 [[agreements]]
 cop = "BEBKU"
 level = 240
 adep = ["EDDB"]
-vertical = false
 fromSector = "ed/FLG"
 toSector = "ed/MEI"
 remarks = "TFC may be cleared DCT BEBKU"
@@ -263,7 +216,6 @@ remarks = "TFC may be cleared DCT BEBKU"
 cop = "EBASA"
 level = 250
 adep = ["EDDB"]
-vertical = false
 fromSector = "ed/FLG"
 toSector = "ed/MEI"
 remarks = "TFC may be cleared DCT HDO"
@@ -272,16 +224,12 @@ remarks = "TFC may be cleared DCT HDO"
 cop = "EBASA"
 level = 240
 adep = ["EDAY"]
-vertical = false
 fromSector = "ed/FLG"
 toSector = "ed/MEI"
-remarks = ""
 
 [[agreements]]
 cop = "OLBIK"
 level = 140
 adep = ["EDAZ"]
-vertical = false
 fromSector = "ed/FLG"
 toSector = "ed/SAS"
-remarks = ""
