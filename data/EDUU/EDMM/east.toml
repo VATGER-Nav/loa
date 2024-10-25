@@ -1,0 +1,254 @@
+# ERL
+[[agreements]]
+cop = "LASGA"
+level = 320
+ades = ["EDDW", "EDDV", "EDVE", "EDBM", "ETNW"]
+vertical = true
+fromSector = "ed/ERL1"
+toSector = "ed/HOF"
+
+[[agreements]]
+cop = "KULOK"
+level = 320
+ades = ["EDDC", "EDAB"]
+vertical = true
+fromSector = "ed/ERL1"
+toSector = "ed/HOF"
+remarks = "10 NM prior KULOK at level"
+
+[[agreements]]
+cop = "BAROB"
+level = 320
+ades = ["LKPR", "LKKB", "LKVO", "LKPD", "LKCV", "LKHK", "LKMH"]
+vertical = true
+fromSector = "ed/ERL1"
+toSector = "ed/HOF"
+remarks = "TONSU at level. Arrivals LKPR group may be cleared direct ODOMO."
+
+[[agreements]]
+cop = "NURGO"
+level = 320
+ades = ["EDDF"]
+vertical = true
+fromSector = "ed/ERL1"
+toSector = "ed/HOF"
+
+[[agreements]]
+cop = "SODRO"
+level = 320
+ades = ["EDDF"]
+vertical = true
+fromSector = "ed/ERL1"
+toSector = "ed/BBG"
+
+[[agreements]]
+cop = "UNAVI"
+level = 320
+ades = ["EDDF", "ETAR"]
+vertical = true
+fromSector = "ed/ERL1"
+toSector = "ed/HOF"
+
+# SPE
+[[agreements]]
+cop = "BEBKU"
+level = 320
+ades = ["EDQD", "EDQM", "EDQC", "EDQK", "EDQT", "EDQG", "EDQA", "ETIC", "ETIN", "ETHN", "LKKV", "LKCS"]
+vertical = true
+fromSector = "ed/SPE1"
+toSector = "ed/MEI"
+
+[[agreements]]
+cop = "BEBKU"
+level = 320
+ades = ["EPWR"]
+vertical = true
+fromSector = "ed/SPE1"
+toSector = "ed/MEI"
+remarks = "KOBUS at FL320"
+
+[[agreements]]
+cop = "KOBUS"
+level = 320
+ades = ["EPWR", "EPPO"]
+vertical = true
+fromSector = "ed/SPE1"
+toSector = "ed/MEI"
+
+[[agreements]]
+cop = "EBASA"
+level = 320
+ades = ["LKPR", "LKKB", "LKCS", "LKVO", "LKPD", "LKCV", "LKHK", "LKMH"]
+vertical = true
+fromSector = "ed/SPE1"
+toSector = "ed/MEI"
+
+[[agreements]]
+cop = "OSKAN"
+level = 320
+ades = ["LKPR", "LKKB", "LKCS", "LKVO", "LKPD", "LKCV", "LKHK", "LKMH"]
+vertical = true
+fromSector = "ed/SPE1"
+toSector = "ed/MEI"
+
+[[agreements]]
+cop = "OSTRA"
+level = 320
+ades = ["LKPR", "LKKB", "LKCS", "LKVO", "LKPD", "LKCV", "LKHK", "LKMH"]
+vertical = true
+fromSector = "ed/SPE1"
+toSector = "ed/GER"
+remarks = "Latest at boundary SAL/SPE"
+
+[[agreements]]
+cop = "TALEG"
+level = 320
+ades = ["LKPR", "LKKB", "LKCS", "LKVO", "LKPD", "LKCV", "LKHK", "LKMH"]
+vertical = true
+fromSector = "ed/SPE1"
+toSector = "ed/GER"
+remarks = "Latest at boundary SAL/SPE"
+
+[[agreements]]
+cop = "NOKSI"
+level = 320
+ades = ["EDDN", "EDDS", "EDJA"]
+vertical = true
+fromSector = "ed/SPE1"
+toSector = "ed/MEI"
+remarks = "20 NM prior NOKSI at level"
+
+[[agreements]]
+cop = "KOBUS"
+level = 320
+ades = ["EDQD", "EDQM", "EDQC", "EDQK", "EDQT", "EDQG", "EDQA", "ETIC", "ETIN", "ETHN", "LKKV", "LKCS"]
+vertical = true
+fromSector = "ed/SPE1"
+toSector = "ed/MEI"
+
+# SAL
+[[agreements]]
+cop = "GOLAT"
+level = 320
+ades = ["EDDB", "EDAY", "EDAZ"]
+vertical = true
+fromSector = "ed/SAL1"
+toSector = "ed/GER"
+
+[[agreements]]
+cop = "RELKO"
+level = 320
+ades = ["EDDB", "EDAY", "EDAZ"]
+vertical = true
+fromSector = "ed/SAL1"
+toSector = "ed/GER"
+
+[[agreements]]
+cop = "TOGRO"
+level = 320
+ades = ["EDDN", "EDQD", "EDQM", "EDQC", "EDQK", "EDQT", "EDQG", "EDQA", "ETIC"]
+vertical = true
+fromSector = "ed/SAL1"
+toSector = "ed/GER"
+
+[[agreements]]
+cop = "NIMAB"
+level = 320
+ades = ["EDDF", "ETOU", "EDFE", "EDFZ", "EDFQ"]
+vertical = true
+fromSector = "ed/SAL1"
+toSector = "ed/HAL"
+
+[[agreements]]
+cop = "OSKAT"
+level = 320
+ades = ["EDDF", "ETOU", "EDFE", "EDFZ", "EDFQ"]
+vertical = true
+fromSector = "ed/SAL1"
+toSector = "ed/HAL"
+
+[[agreements]]
+cop = "SULED"
+level = 320
+ades = ["EDDF", "ETOU", "EDFE", "EDFZ", "EDFQ"]
+vertical = true
+fromSector = "ed/SAL1"
+toSector = "ed/GER"
+remarks = "abeam NAMUB at level"
+
+[[agreements]]
+cop = "GALMA"
+level = 320
+ades = ["EDMS", "ETHN", "ETIN", "LKKV"]
+vertical = true
+fromSector = "ed/SAL1"
+toSector = "ed/HAL"
+
+[[agreements]]
+cop = "RELKO"
+level = 320
+ades = ["ETSI", "ETSN"]
+vertical = true
+fromSector = "ed/SAL1"
+toSector = "ed/GER"
+
+[[agreements]]
+cop = "SULED"
+level = 320
+ades = ["ETSI", "ETSN"]
+vertical = true
+fromSector = "ed/SAL1"
+toSector = "ed/GER"
+
+[[agreements]]
+cop = "SULED"
+level = 320
+ades = ["EDDR", "EDDS", "EDFM", "EDFV", "EDJA", "EDRY", "EDRZ", "EDTL", "EDTY", "EDSB", "EDTM", "ETAR"]
+vertical = true
+fromSector = "ed/SAL1"
+toSector = "ed/GER"
+
+[[agreements]]
+cop = "SODRO"
+level = 320
+ades = ["EDDM", "EDMA", "EDMO"]
+vertical = true
+fromSector = "ed/SAL1"
+toSector = "ed/HOF"
+remarks = "15NM prior SODRO at level"
+
+# HVL
+[[agreements]]
+cop = "VEVAS"
+level = 300
+ades = ["EDDN", "EDQD", "EDQM", "EDQC", "EDQK", "EDQT", "EDQG", "EDQA", "ETIC"]
+fromSector = "ed/HVL1"
+toSector = "ed/GER"
+
+[[agreements]]
+cop = "MAG"
+level = 300
+ades = ["EDDN", "EDQD", "EDQM", "EDQC", "EDQK", "EDQT", "EDQG", "EDQA", "ETIC", "EDDE"]
+fromSector = "ed/HVL1"
+toSector = "ed/HAL"
+
+[[agreements]]
+cop = "MAG"
+level = 300
+ades = ["ELLX"]
+fromSector = "ed/HVL1"
+toSector = "ed/HAL"
+
+[[agreements]]
+cop = "TOPDI"
+level = 300
+ades = ["EDDF", "ETOU", "EDFE", "EDFZ", "EDFQ"]
+fromSector = "ed/HVL1"
+toSector = "ed/HAL"
+
+[[agreements]]
+cop = "DIDGI"
+level = 300
+ades = ["EDDF", "ETOU", "EDFE", "EDFZ", "EDFQ"]
+fromSector = "ed/HVL1"
+toSector = "ed/HAL"

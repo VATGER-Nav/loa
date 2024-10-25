@@ -1,0 +1,15 @@
+[[agreements]]
+cop = "GESLU"
+level = 250
+transferType = "D"
+ades = ["EDDM"]
+fromSector = "ed/TGO1"
+toSector = "ed/NDG"
+remarks = "GESLU at level"
+
+[[agreements]]
+cop = "BATUB"
+level = 310
+ades = ["LOWI", "LSZS", "LSZA", "LSZL", "LIPB"]
+fromSector = "ed/TGO1"
+toSector = "ed/FUE"

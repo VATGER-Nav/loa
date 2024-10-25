@@ -1,0 +1,95 @@
+# WUR
+[[agreements]]
+cop = "DKB"
+level = 250
+ades = ["EDDM"]
+fromSector = "ed/WUR1"
+toSector = "ed/WLD"
+
+[[agreements]]
+cop = "IBAGA"
+level = 310
+ades = ["EDDP"]
+fromSector = "ed/WUR1"
+toSector = "ed/BBG"
+
+[[agreements]]
+cop = "DKB"
+level = 310
+ades = ["LOWI", "LOWS"]
+fromSector = "ed/WUR1"
+toSector = "ed/WLD"
+
+[[agreements]]
+cop = "KOMIB"
+level = 250
+ades = ["LKKV", "EDMS"]
+fromSector = "ed/WUR1"
+toSector = "ed/BBG"
+
+[[agreements]]
+cop = "ELVAG"
+level = 310
+sfl = 240
+adep = ["EDDF", "EDFE", "EDFZ", "ETOU"]
+transferType = "C"
+fromSector = "ed/WUR1"
+toSector = "ed/NDG"
+
+[[agreements]]
+cop = "BARSU"
+level = 270
+adep = ["ETAR", "ETOU"]
+fromSector = "ed/WUR1"
+toSector = "ed/BBG"
+
+# FUL
+[[agreements]]
+cop = "TAMEB"
+level = 250
+ades = ["EDAC", "EDDP"]
+fromSector = "ed/FUL1"
+toSector = "ed/GER"
+remarks = "5NM before TAMEB at level"
+
+[[agreements]]
+cop = "TAMEB"
+level = 290
+adep = ["EDDF", "EDFE", "EDFZ", "ETOU"]
+fromSector = "ed/FUL1"
+toSector = "ed/GER"
+
+[[agreements]]
+cop = "FEDZA"
+level = 260
+ades = ["EDDP"]
+fromSector = "ed/FUL1"
+toSector = "ed/HAL"
+
+[[agreements]]
+cop = "FEDZA"
+level = 270
+adep = ["EDDF", "EDFE", "EDFZ", "ETOU"]
+fromSector = "ed/FUL1"
+toSector = "ed/HAL"
+
+[[agreements]]
+cop = "FEDZA"
+level = 250
+ades = ["EDBM"]
+fromSector = "ed/FUL1"
+toSector = "ed/HAL"
+
+[[agreements]]
+cop = "GASKA"
+level = 250
+ades = ["LKKV", "EDMS"]
+fromSector = "ed/FUL1"
+toSector = "ed/BBG"
+
+[[agreements]]
+cop = "GASKA"
+level = 270
+adep = ["EDVK"]
+fromSector = "ed/FUL1"
+toSector = "ed/BBG"
