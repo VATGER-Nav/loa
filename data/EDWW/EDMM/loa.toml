@@ -40,6 +40,13 @@ remarks = "TFC may be cleared DCT KOJEC"
 
 [[agreements]]
 cop = "ADMOS"
+level = 170
+ades = ["EDDE"]
+fromSector = "ed/HRZ"
+toSector = "ed/TRN"
+
+[[agreements]]
+cop = "ADMOS"
 level = 150
 ades = ["EDDP"]
 runway = ["08L", "08R"]
@@ -55,6 +62,14 @@ runway = ["26L", "26R"]
 fromSector = "ed/HRZ"
 toSector = "ed/TRN"
 remarks = "TFC may be cleared DCT KOJEC"
+
+[[agreements]]
+cop = "ABGUS"
+level = 170
+adep = ["EDDV"]
+ades = ["EDDP"]
+fromSector = "ed/HRZ"
+toSector = "ed/HAL"
 
 [[agreements]]
 cop = "ABGUS"

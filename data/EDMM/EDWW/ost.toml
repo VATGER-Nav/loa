@@ -10,10 +10,17 @@ remarks = "TFC may be cleared DCT BOKSO"
 [[agreements]]
 cop = "LORBO"
 level = 220
-ades = ["EDDV", "EDVE", "ETNW"]
+ades = ["EDDW", "EDDV", "EDVE", "ETNW"]
 fromSector = "ed/HAL"
 toSector = "ed/BOR"
 remarks = "TFC may be cleared DCT HLZ"
+
+[[agreements]]
+cop = "ZUCKA"
+level = 240
+ades = ["EDDW"]
+fromSector = "ed/HAL"
+toSector = "ed/HRZ"
 
 [[agreements]]
 cop = "ZUCKA"
@@ -26,9 +33,9 @@ toSector = "ed/HRZ"
 cop = "BOKSO"
 level = 200
 adep = ["EDDE"]
+ades = ["EDDV", "ETNW"]
 fromSector = "ed/HAL"
 toSector = "ed/HRZ"
-remarks = "Only for flights with destination EDDV/ETNW"
 
 [[agreements]]
 cop = "KENIG"
@@ -118,11 +125,27 @@ level = 110
 ades = ["EDAZ"]
 fromSector = "ed/TRN"
 toSector = "ed/DBAS"
+remarks = "TFC may be cleared DCT MOSEX"
 
 [[agreements]]
 cop = "ZABEL"
 level = 110
 ades = ["EDAZ"]
+fromSector = "ed/TRN"
+toSector = "ed/DBAS"
+remarks = "TFC may be cleared DCT MOSEX"
+
+[[agreements]]
+cop = "VATUP"
+level = 110
+ades = ["ETSH"]
+fromSector = "ed/TRN"
+toSector = "ed/DBAS"
+
+[[agreements]]
+cop = "MILGU"
+level = 110
+ades = ["ETSH"]
 fromSector = "ed/TRN"
 toSector = "ed/DBAS"
 
@@ -150,8 +173,17 @@ toSector = "ed/BOR"
 
 [[agreements]]
 cop = "ODLUN"
+level = 190
+adep = ["EDAC"]
+routeAfter = "Z207"
+fromSector = "ed/TRN"
+toSector = "ed/BOR"
+
+[[agreements]]
+cop = "ODLUN"
 level = 180
 adep = ["EDAC"]
+routeAfter = "Y233"
 fromSector = "ed/TRN"
 toSector = "ed/BOR"
 
@@ -194,6 +226,14 @@ fromSector = "ed/MEI"
 toSector = "ed/FLG"
 
 [[agreements]]
+cop = "KOBUS"
+level = 290
+ades = ["EPKS", "EPPO", "EPPW"]
+vertical = true
+fromSector = "ed/MEI"
+toSector = "ed/FLG"
+
+[[agreements]]
 cop = "ABLOX"
 level = 230
 ades = ["EDAY"]
@@ -214,6 +254,14 @@ level = 140
 adep = ["EDDC", "EDAB"]
 fromSector = "ed/SAS"
 toSector = "ed/FLG"
+
+[[agreements]]
+cop = "KOBUS"
+level = 150
+adep = ["EDDC", "EDAB"]
+fromSector = "ed/SAS"
+toSector = "ed/FLG"
+routeAfter = "P31"
 
 [[agreements]]
 cop = "KOBUS"
@@ -251,3 +299,4 @@ level = 100
 ades = ["EDAZ"]
 fromSector = "ed/SAS"
 toSector = "ed/DBAS"
+remarks = "TFC may be cleared DCT MOSEX"
