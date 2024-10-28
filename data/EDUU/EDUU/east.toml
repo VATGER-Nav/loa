@@ -1,0 +1,150 @@
+# ERL
+[[agreements]]
+level = 320
+ades = ["LOWS", "LOWI", "LOWL"]
+fromSector = "ed/ERL1"
+toSector = "ed/DON1"
+
+[[agreements]]
+level = 370
+ades = ["LOWW"]
+fromSector = "ed/ERL2"
+toSector = "ed/DON3"
+
+[[agreements]]
+cop = "PILAM"
+level = 320
+ades = ["EDDK", "EDKB", "EDKZ", "EDLA", "EDLE", "EDLM", "EDLD", "EDLI", "EDLP", "EDLW"]
+fromSector = "ed/ERL1"
+toSector = "ed/FUL1"
+remarks = "PILAM at level"
+
+[[agreements]]
+level = 360
+ades = ["EDDV", "EDVE", "ETNW"]
+fromSector = "ed/ERL1"
+toSector = "ed/FUL2"
+
+[[agreements]]
+level = 320
+ades = ["EDDR", "EDFH", "ELLX", "EDSB", "EDRZ", "ETAD"]
+fromSector = "ed/ERL1"
+toSector = "ed/WUR1"
+
+[[agreements]]
+level = 360
+ades = ["EBLG", "EBZW", "EHBK", "LFLJ", "LFSN"]
+fromSector = "ed/ERL1"
+toSector = "ed/WUR3"
+
+[[agreements]]
+level = 340
+ades = ["EDTM", "EDTD"]
+fromSector = "ed/ERL1"
+toSector = "ed/WUR2"
+
+# SAL
+[[agreements]]
+level = 370
+ades = ["LOWS", "LOWL"]
+fromSector = "ed/SAL2"
+toSector = "ed/ERL2"
+
+[[agreements]]
+level = 350
+ades = ["LOWI"]
+fromSector = "ed/SAL1"
+toSector = "ed/ERL1"
+
+[[agreements]]
+level = 360
+ades = ["EDSB", "EDTM"]
+fromSector = "ed/SAL1"
+toSector = "ed/ERL1"
+
+[[agreements]]
+level = 320
+ades = ["LKPR", "LKPD", "LKKB", "LKCV", "LKHK", "LKMH", "LKVO", "LKCS"]
+fromSector = "ed/SAL1"
+toSector = "ed/SPE1"
+
+# SPE
+[[agreements]]
+level = 360
+ades = ["EDDV", "EDLP", "EDLI", "EDVK", "ETNW"]
+fromSector = "ed/SPE1"
+toSector = "ed/HVL1"
+
+[[agreements]]
+level = 360
+ades = ["EDDW"]
+fromSector = "ed/SPE1"
+toSector = "ed/HVL1"
+routeAfter = "KOSIX L986 MAG"
+
+[[agreements]]
+cop = "TADUV"
+level = 360
+ades = ["EDDF", "EDFE", "EDFQ", "EDFZ", "ETOU"]
+fromSector = "ed/SPE1"
+toSector = "ed/SAL1"
+
+[[agreements]]
+level = 360
+ades = ["EDDF", "EDFE", "EDFQ", "EDFZ", "ETOU"]
+fromSector = "ed/SPE1"
+toSector = "ed/SAL1"
+routeAfter = "SULED ROBEL"
+
+[[agreements]]
+level = 340
+ades = ["EDDF"]
+fromSector = "ed/SPE1"
+toSector = "ed/SAL1"
+routeAfter = "SODRO SULUS"
+
+[[agreements]]
+level = 350
+ades = ["EDDM", "EDMA", "EDMO"]
+fromSector = "ed/SPE1"
+toSector = "ed/SAL1"
+
+# HVL
+[[agreements]]
+level = 360
+ades = ["EDDR", "EDDS", "EDFM", "EDFV", "EDJA", "EDMS", "EDRY", "EDTL", "EDTY", "ETAR", "ETIN", "ETHN", "ETOR", "LKKV"]
+fromSector = "ed/HVL1"
+toSector = "ed/SAL1"
+
+[[agreements]]
+level = 340
+ades = ["EDDF", "EDFE", "EDFQ", "EDFZ", "ETOU"]
+fromSector = "ed/HVL1"
+toSector = "ed/SAL1"
+remarks = "except via DIDGI and TOPDI"
+
+[[agreements]]
+level = 350
+ades = ["LKPR", "LKPD", "LKKB", "LKCV", "LKHK", "LKMH", "LKVO"]
+fromSector = "ed/HVL1"
+toSector = "ed/SAL1"
+
+[[agreements]]
+level = 350
+ades = ["LKPR", "LKPD", "LKKB", "LKCV", "LKHK", "LKMH", "LKVO", "LKPM"]
+fromSector = "ed/HVL1"
+toSector = "ed/SPE1"
+
+[[agreements]]
+level = 370
+ades = ["LKCS"]
+fromSector = "ed/HVL2"
+toSector = "ed/SPE2"
+
+# OSE
+[[agreements]]
+cop = "SUVAL"
+level = 290
+ades = ["EDDP"]
+fromSector = "ed/OSE1"
+toSector = "ed/HVL1"

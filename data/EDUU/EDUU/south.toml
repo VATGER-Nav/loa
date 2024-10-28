@@ -1,0 +1,222 @@
+# ALP
+[[agreements]]
+level = 380
+ades = ["EDDF", "ETAR", "ETOU", "EDFZ", "EDFE", "EDGS", "EDRK", "LKKV"]
+fromSector = "ed/ALP4"
+toSector = "ed/CHI4"
+
+[[agreements]]
+level = 320
+ades = ["EDDS", "EDSB", "EDRY", "EDTY", "EDFM", "EDQA", "EDQC", "EDQD", "EDQG", "EDQM", "EDDN", "ETSI", "ETSN"]
+fromSector = "ed/ALP1"
+toSector = "ed/CHI1"
+
+[[agreements]]
+level = 330
+ades = ["LOWL"]
+fromSector = "ed/ALP1"
+toSector = "ed/CHI1"
+
+[[agreements]]
+level = 370
+ades = ["LOWW"]
+fromSector = "ed/ALP3"
+toSector = "ed/CHI3"
+
+[[agreements]]
+level = 360
+ades = ["LKCS"]
+fromSector = "ed/ALP2"
+toSector = "ed/CHI2"
+
+[[agreements]]
+level = 370
+ades = ["LOWW"]
+fromSector = "ed/ALP3"
+toSector = "ed/ISA3"
+
+[[agreements]]
+level = 320
+ades = ["EDGS", "EDFQ"]
+fromSector = "ed/ALP1"
+toSector = "ed/TGO1"
+
+[[agreements]]
+level = 340
+ades = ["EDDK", "EDKB", "EDFH", "EDDR", "ELLX"]
+fromSector = "ed/ALP1"
+toSector = "ed/TGO1"
+
+[[agreements]]
+level = 340
+adep = ["LOWI"]
+fromSector = "ed/ALP1"
+toSector = "ed/TGO1"
+
+# CHI
+[[agreements]]
+level = 320
+ades = ["LSMD", "EDDS", "EDSB", "EDFM", "ETAR", "EDTD", "EDTL", "EDTM", "EDTY", "EDRY"]
+fromSector = "ed/CHI1"
+toSector = "ed/ALP1"
+routeAfter = "KPT"
+
+[[agreements]]
+level = 320
+ades = ["LIPZ", "LIPH", "LIPX", "LIPO", "LIPA"]
+fromSector = "ed/CHI1"
+toSector = "ed/ALP1"
+
+[[agreements]]
+level = 340
+ades = ["LSZH"]
+fromSector = "ed/CHI1"
+toSector = "ed/ALP1"
+
+[[agreements]]
+level = 350
+ades = ["LIMP", "LIPE", "LIPK", "LIME"]
+fromSector = "ed/CHI1"
+toSector = "ed/ALP1"
+
+[[agreements]]
+level = 360
+ades = [
+        "LFST",
+        "LSZB",
+        "LSMA",
+        "LSMB",
+        "LSME",
+        "LSMF",
+        "LSML",
+        "LSMM",
+        "LMSO",
+        "LSMP",
+        "LSMS",
+        "LSMU",
+        "LFSB",
+        "LFGA",
+        "LFGB",
+        "LFSM",
+]
+fromSector = "ed/CHI2"
+toSector = "ed/ALP2"
+
+[[agreements]]
+level = 340
+ades = ["LKPR", "LKPD", "LKKB", "LKCV", "LKHK", "LKMH", "LKVO"]
+fromSector = "ed/CHI1"
+toSector = "ed/DON1"
+
+[[agreements]]
+level = 360
+ades = ["EDDF", "ETOU", "EDFZ", "EDFE", "EDGS", "EDRK"]
+fromSector = "ed/CHI2"
+toSector = "ed/ISA2"
+routeAfter = "M726"
+
+[[agreements]]
+level = 340
+ades = ["ETAR", "LKKV"]
+fromSector = "ed/CHI1"
+toSector = "ed/ISA1"
+
+[[agreements]]
+level = 360
+ades = ["EDDF"]
+fromSector = "ed/CHI2"
+toSector = "ed/ISA2"
+routeAfter = "Q863"
+
+[[agreements]]
+level = 360
+ades = ["EDDP", "EDAC", "EDDE", "EDFQ", "EDVK"]
+fromSector = "ed/CHI2"
+toSector = "ed/ISA2"
+routeAfter = "M726"
+
+# ISA
+[[agreements]]
+level = 350
+ades = [
+        "LIPZ",
+        "LIPH",
+        "LIPX",
+        "LIPO",
+        "LIPA",
+        "LIPB",
+        "LSZS",
+        "LSZA",
+        "LJLJ",
+        "LOWG",
+        "LOWK",
+        "LOXZ",
+        "LOWW",
+        "LDZA",
+        "LDRI",
+        "LJMB",
+        "LDPL",
+        "LDLO",
+]
+fromSector = "ed/ISA1"
+toSector = "ed/CHI1"
+
+[[agreements]]
+level = 320
+ades = [
+        "EDDF",
+        "ETOU",
+        "EDFE",
+        "EDFZ",
+        "EDDP",
+        "EDAC",
+        "EDDE",
+        "EDFQ",
+        "EDVK",
+        "LKPR",
+        "LKPD",
+        "LKKB",
+        "LKCV",
+        "LKHK",
+        "LKMH",
+        "LKVO",
+]
+fromSector = "ed/ISA1"
+toSector = "ed/DON1"
+
+[[agreements]]
+level = 340
+ades = ["EDDK", "EDKB", "EDFH", "EDDR", "ELLX"]
+fromSector = "ed/ISA1"
+toSector = "ed/TGO1"
+
+[[agreements]]
+level = 320
+ades = ["EDGS", "EDFQ"]
+fromSector = "ed/ISA1"
+toSector = "ed/TGO1"
+
+# DON
+[[agreements]]
+level = 360
+ades = ["LIPZ", "LIPH", "LIPX", "LIPO", "LIPA", "LIPB", "LSZS", "LSZA", "LDZA", "LDRI", "LJMB", "LDPL", "LDLO"]
+fromSector = "ed/DON2"
+toSector = "ed/CHI2"
+
+[[agreements]]
+level = 360
+adep = ["LKPR"]
+fromSector = "ed/DON2"
+toSector = "ed/CHI2"
+
+[[agreements]]
+level = 360
+adep = ["LOWL", "LOWS"]
+fromSector = "ed/DON2"
+toSector = "ed/ERL1"
+
+[[agreements]]
+level = 320
+ades = ["EDFH", "ELLX", "ETAD"]
+fromSector = "ed/DON1"
+toSector = "ed/WUR1"
