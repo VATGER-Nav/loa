@@ -1,0 +1,29 @@
+[[agreements]]
+cop = "ABTAL"
+level = 140
+adep = ["EDDS"]
+releases = "T"
+fromSector = "ed/STG"
+toSector = "ed/NDG"
+
+[[agreements]]
+cop = "KUNOD"
+level = 140
+adep = ["EDDS"]
+releases = "T"
+fromSector = "ed/STG"
+toSector = "ed/NDG"
+
+[[agreements]]
+cop = "DINKU"
+level = 100
+adep = ["EDTY"]
+fromSector = "ed/STG"
+toSector = "ed/WLD"
+
+[[agreements]]
+cop = "REUTL"
+level = 90
+ades = ["EDTO", "EDTL"]
+fromSector = "ed/REU"
+toSector = "ed/ILR"
