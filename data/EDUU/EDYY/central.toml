@@ -1,0 +1,42 @@
+[[agreements]]
+cop = "ELNAT"
+level = 320
+ades = ["EDDW", "EDWE", "EDWI", "ETND", "EDWF"]
+fromSector = "ed/FUL1"
+toSector = "ed/SOL"
+
+[[agreements]]
+cop = "BERXO"
+level = 340
+ades = ["EDDB"]
+fromSector = "ed/FUL1"
+toSector = "ed/SOL"
+
+[[agreements]]
+cop = "OTMON"
+level = 340
+ades = ["EDDB"]
+fromSector = "ed/FFM2"
+toSector = "ed/SOL"
+
+[[agreements]]
+cop = "MAPOX"
+level = 320
+ades = ["EHEH", "EHBD", "EHBK", "EHTE", "EHLE"]
+fromSector = "ed/FFM1"
+toSector = "ed/MNS"
+
+[[agreements]]
+cop = "OTMON"
+level = 280
+adep = ["EDDF", "EDFE", "ETOU"]
+fromSector = "ed/FFM1"
+toSector = "ed/SOL"
+remarks = "Released for climb to FL320"
+
+[[agreements]]
+cop = "MAPOX"
+level = 360
+ades = ["EHRD", "EHGG"]
+fromSector = "ed/FFM2"
+toSector = "ed/MNS"

@@ -1,0 +1,8 @@
+[[agreements]]
+cop = "BITBU"
+level = 300
+adep = ["EDDF", "EDFE", "EDFM"]
+transferType = "C"
+fromSector = "ed/NTM1"
+toSector = "ed/LUX"
+remarks = "max FL300, handover at any even FL, released for climb"
