@@ -2,244 +2,186 @@
 cop = "XAROL"
 level = 290
 ades = ["LFJL", "ELLX", "EDQG"]
-transferType = "D"
-vertical = false
 fromSector = "ed/SOL"
 toSector = "ed/FFM1"
-remarks = ""
 
 [[agreements]]
 cop = "XAROL"
 level = 330
 ades = ["EDSB", "LFST", "LFGA"]
-vertical = false
 fromSector = "ed/SOL"
 toSector = "ed/FFM2"
-remarks = ""
 
 [[agreements]]
 cop = "OTMON"
 level = 330
 ades = ["LFST", "LFGA"]
-vertical = false
 fromSector = "ed/SOL"
 toSector = "ed/FFM2"
-remarks = ""
 
 [[agreements]]
 cop = "BERXO"
 level = 350
 ades = ["EDDS", "EDTY", "EDTM", "EDTL", "EDSB", "EDJA", "EDMA", "EDMO", "ETSI", "ETSL", "ETSN"]
-vertical = false
 fromSector = "ed/SOL"
-toSector = "ed/FFM2"
-remarks = ""
+toSector = "ed/FUL1"
 
 [[agreements]]
 cop = "BERXO"
 level = 290
 ades = ["EDQG"]
-vertical = false
 fromSector = "ed/SOL"
 toSector = "ed/FUL1"
-remarks = ""
 
 [[agreements]]
 cop = "TIVUN"
 level = 350
 ades = ["EDDN", "EDMA", "EDMO", "EDJA", "EDTY"]
-vertical = false
 fromSector = "ed/RHR"
 toSector = "ed/FFM2"
-remarks = ""
+
+[[agreements]]
+cop = "DOJOH"
+level = 350
+ades = ["EDDN", "EDMA", "EDMO", "EDJA", "EDTY"]
+fromSector = "ed/RHR"
+toSector = "ed/FFM2"
 
 [[agreements]]
 cop = "TIVUN"
 level = 290
 ades = ["EDFM", "EDFV", "EDRY"]
-vertical = false
 fromSector = "ed/RHR"
 toSector = "ed/FFM1"
 remarks = "To be FL290 prior to the ARPEG Area"
 
 [[agreements]]
-cop = "DOJOH"
-level = 310
-ades = ["EDDS", "EDSB", "LFST", "LFGA"]
-vertical = false
-fromSector = "ed/RHR"
-toSector = "ed/FFM1"
-remarks = ""
-
-[[agreements]]
-cop = "XAROL"
-level = 270
-adep = ["EDDV"]
-vertical = false
-fromSector = "ed/SOL"
-toSector = "ed/FFM1"
-remarks = ""
-
-[[agreements]]
-cop = "ELNAT"
-level = 270
-adep = ["EDDV"]
-transferType = "C"
-vertical = false
-fromSector = "ed/SOL"
-toSector = "ed/FUL1"
-remarks = "Climbing out of FL260"
-
-[[agreements]]
-cop = "NEBUN"
-level = 290
-adep = ["EDDW"]
-vertical = false
-fromSector = "ed/CEL"
-toSector = "ed/OSE1"
-remarks = ""
-
-[[agreements]]
-cop = "POVEL"
-level = 330
-adep = ["EDDW"]
-vertical = false
-fromSector = "ed/SOL"
-toSector = "ed/SAL1"
-remarks = ""
-
-[[agreements]]
-cop = "ZUCKA"
-level = 330
-adep = ["EDDW"]
-vertical = false
-fromSector = "ed/SOL"
-toSector = "ed/SAL1"
-remarks = ""
-
-[[agreements]]
-cop = "ABGUS"
-level = 330
-adep = ["EDDW"]
-vertical = false
-fromSector = "ed/SOL"
-toSector = "ed/SAL1"
-remarks = ""
-
-[[agreements]]
-cop = "KUMER"
-level = 330
-adep = ["EDDW"]
-vertical = false
-fromSector = "ed/SOL"
-toSector = "ed/SAL1"
-remarks = ""
-
-[[agreements]]
-cop = "NOMKA"
-level = 330
-adep = ["EDDW"]
-vertical = false
-fromSector = "ed/SOL"
-toSector = "ed/SAL1"
-remarks = ""
-
-[[agreements]]
-cop = "GMH"
-level = 310
-adep = ["EHEH", "EHBK", "EHBD", "EDLV", "EDLS"]
-transferType = "C"
-vertical = false
-fromSector = "ed/RHR"
-toSector = "ed/FFM1"
-remarks = "Climbing out of FL260"
-
-[[agreements]]
-cop = "DOJOH"
-level = 350
-ades = ["EDDN", "EDMA", "EDMO", "EDJA", "EDTY"]
-vertical = false
-fromSector = "ed/RHR"
-toSector = "ed/FFM2"
-remarks = ""
-
-[[agreements]]
 cop = "TIVUN"
 level = 310
 ades = ["EDDR", "EDRZ"]
-vertical = false
 fromSector = "ed/RHR"
 toSector = "ed/FFM1"
-remarks = ""
 
 [[agreements]]
 cop = "TIVUN"
 level = 310
 ades = ["EDDS", "EDSB", "LFST", "LFGA"]
-vertical = false
 fromSector = "ed/RHR"
 toSector = "ed/FFM1"
-remarks = ""
+
+[[agreements]]
+cop = "DOJOH"
+level = 310
+ades = ["EDDS", "EDSB", "LFST", "LFGA"]
+fromSector = "ed/RHR"
+toSector = "ed/FFM1"
 
 [[agreements]]
 cop = "GARLU"
 level = 350
 ades = ["EDAH"]
-vertical = false
 fromSector = "ed/CEL"
 toSector = "ed/OSE1"
-remarks = ""
 
 [[agreements]]
 cop = "NEBUN"
 level = 350
 ades = ["EDAH"]
-vertical = false
 fromSector = "ed/HOL"
 toSector = "ed/OSE1"
-remarks = ""
 
 [[agreements]]
 cop = "BUMIL"
 level = 350
 ades = ["EDAH"]
-vertical = false
 fromSector = "ed/HOL"
 toSector = "ed/OSE1"
-remarks = ""
-
-[[agreements]]
-cop = "290"
-level = 0
-adep = ["EDVE"]
-vertical = false
-fromSector = "ed/SOL"
-toSector = "ed/FFM1"
-remarks = ""
 
 [[agreements]]
 cop = "XAROL"
-level = 310
-adep = ["EDVE"]
-vertical = false
+level = 270
+adep = ["EDDV"]
 fromSector = "ed/SOL"
 toSector = "ed/FFM1"
-remarks = ""
+
+[[agreements]]
+cop = "ELNAT"
+level = 270
+sfl = 260
+adep = ["EDDV"]
+transferType = "C"
+fromSector = "ed/SOL"
+toSector = "ed/FUL1"
 
 [[agreements]]
 cop = "ELNAT"
 level = 290
 adep = ["EDVE"]
-vertical = false
 fromSector = "ed/SOL"
 toSector = "ed/FUL1"
-remarks = ""
+
+[[agreements]]
+cop = "XAROL"
+level = 310
+adep = ["EDVE"]
+fromSector = "ed/SOL"
+toSector = "ed/FFM1"
+
+[[agreements]]
+cop = "NEBUN"
+level = 290
+adep = ["EDDW"]
+fromSector = "ed/CEL"
+toSector = "ed/OSE1"
+
+[[agreements]]
+cop = "POVEL"
+level = 330
+adep = ["EDDW"]
+fromSector = "ed/SOL"
+toSector = "ed/SAL1"
+
+[[agreements]]
+cop = "ZUCKA"
+level = 330
+adep = ["EDDW"]
+fromSector = "ed/SOL"
+toSector = "ed/SAL1"
+
+[[agreements]]
+cop = "ABGUS"
+level = 330
+adep = ["EDDW"]
+fromSector = "ed/SOL"
+toSector = "ed/SAL1"
+
+[[agreements]]
+cop = "KUMER"
+level = 330
+adep = ["EDDW"]
+fromSector = "ed/SOL"
+toSector = "ed/SAL1"
+
+[[agreements]]
+cop = "NOMKA"
+level = 330
+adep = ["EDDW"]
+fromSector = "ed/SOL"
+toSector = "ed/SAL1"
 
 [[agreements]]
 cop = "ZUCKA"
 level = 350
 adep = ["EDDH"]
-vertical = false
 fromSector = "ed/SOL"
 toSector = "ed/SAL1"
 remarks = "Higher odd level after system coordination"
+
+[[agreements]]
+cop = "GMH"
+level = 310
+sfl = 260
+adep = ["EHEH", "EHBK", "EHBD", "EDLV", "EDLS"]
+transferType = "C"
+fromSector = "ed/RHR"
+toSector = "ed/FFM1"
