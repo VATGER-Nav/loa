@@ -1,0 +1,91 @@
+# NTM
+[[agreements]]
+cop = "UMUPU"
+level = 270
+releases = "F"
+ades = ["EBBR", "EBCI", "EBMB", "EBAW", "ELLX", "EHEH", "EHGR"]
+fromSector = "ed/NTM1"
+toSector = "ed/NOR"
+
+[[agreements]]
+cop = "LADAT"
+level = 250
+ades = ["EDDS", "EDSB"]
+fromSector = "ed/NTM1"
+toSector = "ed/PFA"
+remarks = "20 NM prior LADAT at level"
+
+[[agreements]]
+cop = "EMGOD"
+level = 250
+ades = ["EDDS", "EDSB"]
+fromSector = "ed/NTM1"
+toSector = "ed/RUD"
+
+[[agreements]]
+cop = "IDOVI"
+level = 250
+ades = ["EBBR", "EBCI", "EBMB", "EBAW", "ELLX", "EHEH", "EHGR", "EBCV", "EBLG", "EHBK"]
+fromSector = "ed/NTM1"
+toSector = "ed/KIR"
+
+# SLN
+[[agreements]]
+cop = "LAMGO"
+level = 250
+ades = ["LSZH", "LSZR", "LSMD", "EDNY"]
+fromSector = "ed/SLN1"
+toSector = "ed/BAD"
+remarks = "20 NM prior SUL at level"
+
+[[agreements]]
+cop = "IBGES"
+ades = ["ELLX"]
+fromSector = "ed/SLN1"
+toSector = "ed/NKRH"
+
+[[agreements]]
+cop = "VABEN"
+ades = ["ELLX"]
+fromSector = "ed/SLN1"
+toSector = "ed/PFA"
+
+[[agreements]]
+cop = "UMDAS"
+level = 250
+ades = ["EDDK"]
+fromSector = "ed/SLN1"
+toSector = "ed/NKRH"
+remarks = "Flights have to stay clear of FFM and have to descend asap to FL240 or below."
+
+# TGO
+[[agreements]]
+cop = "TEDGO"
+level = 240
+ades = ["LSZH", "LSZR", "LSMD", "EDNY"]
+fromSector = "ed/TGO1"
+toSector = "ed/BAD"
+
+[[agreements]]
+cop = "KOVAN"
+level = 250
+ades = ["EDDF"]
+fromSector = "ed/TGO1"
+toSector = "ed/LBU"
+remarks = "Flights have to be cleared via EMPAX#B (25) / EMPAX#C (07) Star, LBU may request DCT DF635/ SPESA."
+
+[[agreements]]
+cop = "ETAGO"
+level = 240
+ades = ["EDDN"]
+fromSector = "ed/TGO1"
+toSector = "ed/LBU"
+remarks = "TEDGO at level"
+
+[[agreements]]
+cop = "KISEK"
+level = 250
+ades = ["EDFH"]
+fromSector = "ed/TGO1"
+toSector = "ed/SLN"
+remarks = "TGO has to announce flights to SLN, Langen does not have to stay clear of SLN."
