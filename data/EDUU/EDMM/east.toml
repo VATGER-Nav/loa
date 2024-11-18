@@ -10,20 +10,21 @@ toSector = "ed/HOF"
 [[agreements]]
 cop = "KULOK"
 level = 320
+levelAt = [-10, "KULOK"]
 ades = ["EDDC", "EDAB"]
 vertical = true
 fromSector = "ed/ERL1"
 toSector = "ed/HOF"
-remarks = "10 NM prior KULOK at level"
 
 [[agreements]]
 cop = "BAROB"
 level = 320
+levelAt = [0, "TONSU"]
 ades = ["LKPR", "LKKB", "LKVO", "LKPD", "LKCV", "LKHK", "LKMH"]
 vertical = true
 fromSector = "ed/ERL1"
 toSector = "ed/HOF"
-remarks = "TONSU at level. Arrivals LKPR group may be cleared direct ODOMO."
+remarks = "Arrivals LKPR group may be cleared direct ODOMO."
 
 [[agreements]]
 cop = "NURGO"
@@ -112,11 +113,11 @@ remarks = "Latest at boundary SAL/SPE"
 [[agreements]]
 cop = "NOKSI"
 level = 320
+levelAt = [-20, "NOKSI"]
 ades = ["EDDN", "EDDS", "EDJA"]
 vertical = true
 fromSector = "ed/SPE1"
 toSector = "ed/MEI"
-remarks = "20 NM prior NOKSI at level"
 
 [[agreements]]
 cop = "KOBUS"
@@ -170,11 +171,11 @@ toSector = "ed/HAL"
 [[agreements]]
 cop = "SULED"
 level = 320
+levelAt = [0, "NAMUB"]
 ades = ["EDDF", "ETOU", "EDFE", "EDFZ", "EDFQ"]
 vertical = true
 fromSector = "ed/SAL1"
 toSector = "ed/GER"
-remarks = "abeam NAMUB at level"
 
 [[agreements]]
 cop = "GALMA"
@@ -211,11 +212,11 @@ toSector = "ed/GER"
 [[agreements]]
 cop = "SODRO"
 level = 320
+levelAt = [-15, "SODRO"]
 ades = ["EDDM", "EDMA", "EDMO"]
 vertical = true
 fromSector = "ed/SAL1"
 toSector = "ed/HOF"
-remarks = "15NM prior SODRO at level"
 
 # HVL
 [[agreements]]

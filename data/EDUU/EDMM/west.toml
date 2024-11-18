@@ -1,11 +1,11 @@
 [[agreements]]
 cop = "GESLU"
 level = 250
+levelAt = [0, "GESLU"]
 transferType = "D"
 ades = ["EDDM"]
 fromSector = "ed/TGO1"
 toSector = "ed/NDG"
-remarks = "GESLU at level"
 
 [[agreements]]
 cop = "BATUB"

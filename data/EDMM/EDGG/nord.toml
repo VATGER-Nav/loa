@@ -2,10 +2,10 @@
 [[agreements]]
 cop = "ASPAT"
 level = 240
+levelAt = [0, "DEBHI"]
 ades = ["EDDF"]
 fromSector = "ed/ALB"
 toSector = "ed/KTG"
-remarks = "DEBHI at level"
 
 [[agreements]]
 cop = "DAMJA"
@@ -28,7 +28,7 @@ level = 110
 ades = ["EDDS"]
 fromSector = "ed/NDG"
 toSector = "ed/STG"
-remarks = "May be cleared direct TEKSI south of T127/T129."
+remarks = "May be cleared direct TEKSI south of T127/T129"
 
 [[agreements]]
 cop = "GUPIN"

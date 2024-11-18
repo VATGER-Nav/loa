@@ -975,20 +975,20 @@ remarks = "released"
 [[agreements]]
 cop = "BADGO"
 level = 140
+levelAt = [0, "BADGO"]
 ades = ["EDLW"]
 vertical = false
 fromSector = "ed/PADH"
 toSector = "ed/PADL"
-remarks = "COP at level"
 
 [[agreements]]
 cop = "TINSA"
 level = 140
+levelAt = [-10, "TINSA"]
 ades = ["EDLW"]
 vertical = false
 fromSector = "ed/PADH"
 toSector = "ed/PADL"
-remarks = "10Nm prior COP at level"
 
 [[agreements]]
 cop = "EXOBA"
@@ -1000,13 +1000,22 @@ toSector = "ed/PADL"
 remarks = ""
 
 [[agreements]]
-cop = "ESADU,PELUN"
+cop = "ESADU"
 level = 140
+levelAt = [-10, "ESADU"]
 ades = ["EDVK"]
 vertical = false
 fromSector = "ed/PADH"
 toSector = "ed/PADL"
-remarks = "10 NM prior COP at level"
+
+[[agreements]]
+cop = "PELUN"
+level = 140
+levelAt = [-10, "PELUN"]
+ades = ["EDVK"]
+vertical = false
+fromSector = "ed/PADH"
+toSector = "ed/PADL"
 
 [[agreements]]
 cop = "HMM"

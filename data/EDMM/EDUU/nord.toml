@@ -42,11 +42,22 @@ toSector = "ed/WUR1"
 [[agreements]]
 cop = "INBED"
 level = 300
+levelAt = [0, "IBAGA"]
 adep = ["EDDM", "EDMA", "EDMO", "EDMS"]
 transferType = "C"
 fromSector = "ed/ALB"
 toSector = "ed/WUR1"
-remarks = "latest IBAGA/REKDI at level"
+routeAfter = "IBAGA"
+
+[[agreements]]
+cop = "INBED"
+level = 300
+levelAt = [0, "REKDI"]
+adep = ["EDDM", "EDMA", "EDMO", "EDMS"]
+transferType = "C"
+fromSector = "ed/ALB"
+toSector = "ed/WUR1"
+routeAfter = "REKDI"
 
 # RDG
 [[agreements]]

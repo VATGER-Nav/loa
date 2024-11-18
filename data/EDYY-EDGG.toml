@@ -32,10 +32,10 @@ cop = "HMM"
 level = 250
 ades = ["EDDL", "EDL*", "EHEH", "EHBK"]
 transferType = "D"
+levelAt = [-20, "HMM"]
 vertical = false
 fromSector = "ed/MNS"
 toSector = "ed/HMM"
-remarks = "Traffic shall descend FL250 to be leveled 20 NM prior to HMM\n"
 
 [[agreements]]
 cop = "PODER"

@@ -10,10 +10,10 @@ toSector = "ed/NOR"
 [[agreements]]
 cop = "LADAT"
 level = 250
+levelAt = [-20, "LADAT"]
 ades = ["EDDS", "EDSB"]
 fromSector = "ed/NTM1"
 toSector = "ed/PFA"
-remarks = "20 NM prior LADAT at level"
 
 [[agreements]]
 cop = "EMGOD"
@@ -33,10 +33,10 @@ toSector = "ed/KIR"
 [[agreements]]
 cop = "LAMGO"
 level = 250
+levelAt = [-20, "SUL"]
 ades = ["LSZH", "LSZR", "LSMD", "EDNY"]
 fromSector = "ed/SLN1"
 toSector = "ed/BAD"
-remarks = "20 NM prior SUL at level"
 
 [[agreements]]
 cop = "IBGES"
@@ -77,10 +77,10 @@ remarks = "Flights have to be cleared via EMPAX#B (25) / EMPAX#C (07) Star, LBU 
 [[agreements]]
 cop = "ETAGO"
 level = 240
+levelAt = [0, "TEDGO"]
 ades = ["EDDN"]
 fromSector = "ed/TGO1"
 toSector = "ed/LBU"
-remarks = "TEDGO at level"
 
 [[agreements]]
 cop = "KISEK"

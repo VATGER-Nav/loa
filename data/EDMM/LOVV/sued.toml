@@ -68,10 +68,11 @@ toSector = "lo/B1"
 [[agreements]]
 cop = "UNKEN"
 level = 130
+levelAt = [-10, "UNKEN"]
 ades = ["LOWS"]
 fromSector = "ed/TRU"
 toSector = "lo/LOWS_APP"
-remarks = "10NM west of UNKEN at level. Passing ROCKY Line at FL120B will be assured by LOWS_APP."
+remarks = "Passing ROCKY Line at FL120B will be assured by LOWS_APP"
 
 [[agreements]]
 cop = "RADIZ"

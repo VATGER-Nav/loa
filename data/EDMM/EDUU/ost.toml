@@ -64,10 +64,10 @@ remarks = "Flights may be revised at FL280 / FL300"
 [[agreements]]
 cop = "GASKA"
 level = 260
+levelAt = [0, "GASKA"]
 adep = ["EDDN"]
 fromSector = "ed/BBG"
 toSector = "ed/FUL1"
-remarks = "GASKA at level"
 
 [[agreements]]
 cop = "GASKA"
@@ -177,18 +177,7 @@ toSector = "ed/SAL1"
 cop = "KULOK"
 level = 310
 vertical = true
-adep = [
-        "EDDS",
-        "EDSB",
-        "EDTY",
-        "EDVK",
-        "EDDF",
-        "ETOU",
-        "EDFE",
-        "EDQG",
-        "ETHN",
-        "ETAR",
-]
+adep = ["EDDS", "EDSB", "EDTY", "EDVK", "EDDF", "ETOU", "EDFE", "EDQG", "ETHN", "ETAR"]
 fromSector = "ed/HOF"
 toSector = "ed/ERL1"
 
@@ -196,18 +185,7 @@ toSector = "ed/ERL1"
 cop = "NOGRA"
 level = 310
 vertical = true
-adep = [
-        "EDDS",
-        "EDSB",
-        "EDTY",
-        "EDVK",
-        "EDDF",
-        "ETOU",
-        "EDFE",
-        "EDQG",
-        "ETHN",
-        "ETAR",
-]
+adep = ["EDDS", "EDSB", "EDTY", "EDVK", "EDDF", "ETOU", "EDFE", "EDQG", "ETHN", "ETAR"]
 fromSector = "ed/HOF"
 toSector = "ed/ERL1"
 
@@ -240,19 +218,7 @@ toSector = "ed/HVL1"
 cop = "GALMA"
 level = 310
 vertical = true
-adep = [
-        "EDDV",
-        "EDDG",
-        "EDVE",
-        "ETNW",
-        "EDLP",
-        "EDDK",
-        "EDDL",
-        "EDLW",
-        "EDVK",
-        "EDAY",
-        "EDAZ",
-]
+adep = ["EDDV", "EDDG", "EDVE", "ETNW", "EDLP", "EDDK", "EDDL", "EDLW", "EDVK", "EDAY", "EDAZ"]
 fromSector = "ed/HAL"
 toSector = "ed/SAL1"
 
@@ -292,10 +258,11 @@ toSector = "ed/SAL1"
 [[agreements]]
 cop = "TAMEB"
 level = 260
+levelAt = [-2, "TAMEB"]
 adep = ["EDDP"]
 fromSector = "ed/GER"
 toSector = "ed/FUL1"
-remarks = "2 NM before TAMEB at level. Flights may be revised at FL280 / FL300"
+remarks = "Flights may be revised at FL280/FL300"
 
 [[agreements]]
 cop = "MIPSI"

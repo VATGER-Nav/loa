@@ -47,10 +47,10 @@ toSector = "ed/BBG"
 [[agreements]]
 cop = "TAMEB"
 level = 250
+levelAt = [-5, "TAMEB"]
 ades = ["EDAC", "EDDP"]
 fromSector = "ed/FUL1"
 toSector = "ed/GER"
-remarks = "5NM before TAMEB at level"
 
 [[agreements]]
 cop = "TAMEB"

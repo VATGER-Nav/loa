@@ -14,10 +14,10 @@ toSector = "ed/DON3"
 [[agreements]]
 cop = "PILAM"
 level = 320
+levelAt = [0, "PILAM"]
 ades = ["EDDK", "EDKB", "EDKZ", "EDLA", "EDLE", "EDLM", "EDLD", "EDLI", "EDLP", "EDLW"]
 fromSector = "ed/ERL1"
 toSector = "ed/FUL1"
-remarks = "PILAM at level"
 
 [[agreements]]
 level = 360

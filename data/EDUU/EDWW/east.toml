@@ -106,11 +106,11 @@ toSector = "ed/MRZ"
 [[agreements]]
 cop = "ROSOK"
 level = 290
+levelAt = [-15, "ROSOK"]
 ades = ["EDDH", "EDHI", "EDHL"]
 vertical = true
 fromSector = "ed/OSE1"
 toSector = "ed/MRZ"
-remarks = "15 NM prior ROSOK at level"
 
 [[agreements]]
 cop = "LEGSA"
@@ -123,20 +123,20 @@ toSector = "ed/MRZ"
 [[agreements]]
 cop = "ABIKA"
 level = 290
+levelAt = [0, "RENKI"]
 ades = ["ETNL", "EDBN"]
 vertical = true
 fromSector = "ed/OSE1"
 toSector = "ed/MRZ"
-remarks = "Levelled latest abeam RENKI"
 
 [[agreements]]
 cop = "RODEP"
 level = 290
+levelAt = [0, "RODEP"]
 ades = ["EDDB", "EDAY"]
 vertical = true
 fromSector = "ed/OSE1"
 toSector = "ed/MRZ"
-remarks = "RODEP at level"
 
 [[agreements]]
 cop = "KOGIM"
@@ -294,20 +294,20 @@ toSector = "ed/FLG"
 [[agreements]]
 cop = "IDOBA"
 level = 290
+levelAt = [0, "SONUD"]
 ades = ["EDVE", "EDBM"]
 vertical = true
 fromSector = "ed/HVL1"
 toSector = "ed/FLG"
-remarks = "SONUD at level"
 
 [[agreements]]
 cop = "BUREL"
 level = 290
+levelAt = [0, "ESIKA"]
 ades = ["EDDV", "ETNW"]
 vertical = true
 fromSector = "ed/HVL1"
 toSector = "ed/BOR"
-remarks = "Abeam ESIKA at level"
 
 [[agreements]]
 cop = "ESIKA"

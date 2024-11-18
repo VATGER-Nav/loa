@@ -35,60 +35,60 @@ routeAfter = "L856"
 [[agreements]]
 cop = "KPT"
 level = 320
+levelAt = [-20, "KPT"]
 ades = ["LSZH"]
 vertical = true
 fromSector = "ed/ALP1"
 toSector = "ed/FUE"
 routeBefore = "P66"
-remarks = "20 NM prior KPT at level"
 
 [[agreements]]
 cop = "MOGTI"
 level = 320
+levelAt = [-10, "MOGTI"]
 ades = ["EDDS"]
 vertical = true
 fromSector = "ed/ALP1"
 toSector = "ed/ZUG"
-remarks = "10 NM prior MOGTI at level"
 
 [[agreements]]
 cop = "KPT"
 level = 320
+levelAt = [-15, "KPT"]
 ades = ["EDSB", "LSZS", "EDFM", "ETAR", "EDTD", "EDTL", "EDRY"]
 vertical = true
 fromSector = "ed/ALP1"
 toSector = "ed/FUE"
 routeBefore = "P66"
-remarks = "15 NM prior KPT at level"
 
 [[agreements]]
 cop = "KPT"
 level = 320
+levelAt = [-15, "KPT"]
 ades = ["EDSB", "LSZS", "EDFM", "ETAR", "EDTD", "EDTL", "EDRY"]
 vertical = true
 fromSector = "ed/ALP1"
 toSector = "ed/FUE"
 routeBefore = "L856"
-remarks = "15 NM prior KPT at level"
 
 [[agreements]]
 cop = "KPT"
 level = 320
+levelAt = [-30, "KPT"]
 ades = ["EDDS", "EDSB", "EDRY", "EDTY", "EDFM"]
 vertical = true
 fromSector = "ed/ALP1"
 toSector = "ed/FUE"
 routeBefore = "L608"
-remarks = "30 NM prior KPT at level"
 
 [[agreements]]
 cop = "MOMUK"
 level = 320
+levelAt = [-15, "BEMKI"]
 ades = ["LOWS"]
 vertical = true
 fromSector = "ed/ALP1"
 toSector = "ed/ZUG"
-remarks = "15 NM prior BEMKI at level"
 
 # FIXME LFSB duplicate
 [[agreements]]
@@ -102,32 +102,32 @@ toSector = "ed/FUE"
 [[agreements]]
 cop = "KPT"
 level = 320
+levelAt = [-30, "KPT"]
 ades = ["LSZH", "LSMD"]
 vertical = true
 fromSector = "ed/ALP1"
 toSector = "ed/FUE"
 routeBefore = "L856"
-remarks = "30NM prior KPT at level"
 
 [[agreements]]
 cop = "KPT"
 level = 320
+levelAt = [-30, "KPT"]
 ades = ["LSZH", "LSMD"]
 vertical = true
 fromSector = "ed/ALP1"
 toSector = "ed/FUE"
 routeBefore = "L608"
-remarks = "30NM prior KPT at level"
 
 [[agreements]]
 cop = "KPT"
 level = 320
+levelAt = [-30, "KUNOD"]
 ades = ["LFST", "LFGA", "LFSB", "LFJL"]
 vertical = true
 fromSector = "ed/ALP1"
 toSector = "ed/FUE"
 routeAfter = "L608"
-remarks = "30NM prior KUNOD at level"
 
 [[agreements]]
 cop = "NIKWU"
@@ -141,11 +141,11 @@ toSector = "ed/FUE"
 [[agreements]]
 cop = "TULSI"
 level = 320
+levelAt = [0, "MANAL"]
 ades = ["LSZS", "LSZA", "LIPB"]
 vertical = true
 fromSector = "ed/CHI1"
 toSector = "ed/TEG"
-remarks = "abeam MANAL at FL320"
 
 # FIXME duplicates
 [[agreements]]
@@ -167,11 +167,11 @@ toSector = "ed/TEG"
 [[agreements]]
 cop = "KOGOL"
 level = 320
+levelAt = [0, "NORIN"]
 ades = ["EDDN", "EDDS", "EDTY", "EDQD", "EDQM", "EDQC", "EDQK", "EDQT", "EDQG", "EDQA"]
 vertical = true
 fromSector = "ed/CHI1"
 toSector = "ed/STA"
-remarks = "NORIN at FL320"
 
 [[agreements]]
 cop = "AMDID"
@@ -185,11 +185,11 @@ toSector = "ed/TRU"
 [[agreements]]
 cop = "MAH"
 level = 320
+levelAt = [0, "OTT"]
 ades = ["EDDS", "EDSB", "EDDR", "EDRY", "EDRZ", "EDFM", "EDTY", "ETAD", "ETAR"]
 vertical = true
 fromSector = "ed/ISA1"
 toSector = "ed/NDG"
-remarks = "OTT at level"
 
 [[agreements]]
 cop = "MAH"
@@ -283,62 +283,62 @@ toSector = "ed/RDG"
 [[agreements]]
 cop = "TIVDA"
 level = 320
+levelAt = [0, "ARMUT"]
 ades = ["LOWS", "LOWL"]
 vertical = true
 fromSector = "ed/DON1"
 toSector = "ed/RDG"
-remarks = "ARMUT at level"
 
 [[agreements]]
 cop = "RUDNO"
 level = 320
+levelAt = [-10, "RUDNO"]
 ades = ["EDDC", "EDAB"]
 vertical = true
 fromSector = "ed/DON1"
 toSector = "ed/RDG"
-remarks = "10NM prior RUDNO at level"
 
 [[agreements]]
 cop = "GOLMO"
 level = 320
+levelAt = [0, "GOLMO"]
 ades = ["EDDF"]
 vertical = true
 fromSector = "ed/DON1"
 toSector = "ed/ALB"
-remarks = "abeam GOLMO at level"
 
 [[agreements]]
 cop = "ERNAS"
 level = 320
+levelAt = [0, "TALAL"]
 ades = ["EDDF", "ETOU", "EDFE", "EDFZ"]
 vertical = true
 fromSector = "ed/DON1"
 toSector = "ed/ALB"
-remarks = "TALAL at level"
 
 [[agreements]]
 cop = "ERMEL"
 level = 320
+levelAt = [-10, "ERMEL"]
 ades = ["EDDF"]
 vertical = true
 fromSector = "ed/DON1"
 toSector = "ed/ALB"
-remarks = "10NM prior ERMEL at level"
 
 [[agreements]]
 cop = "UNKUL"
 level = 320
+levelAt = [0, "UPALA"]
 ades = ["EDSB", "EDDR", "EDRZ"]
 vertical = true
 fromSector = "ed/DON1"
 toSector = "ed/ALB"
-remarks = "UPALA at level"
 
 [[agreements]]
 cop = "UPALA"
 level = 320
+levelAt = [-10, "UPALA"]
 ades = ["EDDP", "EDAC", "EDDE", "EDDK", "EDFQ", "EDLW", "EDLA", "EDKZ", "EDLP", "EDLI", "EDVK"]
 vertical = true
 fromSector = "ed/DON1"
 toSector = "ed/ALB"
-remarks = "10 NM prior UPALA at level"
