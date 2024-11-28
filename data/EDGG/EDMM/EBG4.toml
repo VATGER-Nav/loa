@@ -44,6 +44,22 @@ toSector = "ed/NDG"
 remarks = "not able to cross NOMBO FL240A"
 
 [[agreements]]
+cop = "BEMBO"
+level = 230
+adep = ["EDDF"]
+rfl = "240-"
+fromSector = "ed/DKB"
+toSector = "ed/WLD"
+
+[[agreements]]
+cop = "BEMBO"
+adep = ["EDDF"]
+rfl = "250+"
+fromSector = "ed/DKB"
+toSector = "ed/NDG"
+remarks = "not able to cross DINKU FL230A"
+
+[[agreements]]
 cop = "AKANU"
 level = 110
 adep = ["EDTY"]

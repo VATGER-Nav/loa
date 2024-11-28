@@ -94,7 +94,7 @@ toSector = "ed/ZUG"
 [[agreements]]
 cop = "KPT"
 level = 320
-ades = ["LFSB", "LFGA", "LFGB", "LFSM", "EDTG", "LSGC", "LSZA", "LSZB", "LSZC", "LSZG", "LSZS", "LSME", "LSMP"]
+ades = ["LFSB", "LFGA", "LFGB", "LFSC", "LFSM", "EDTG", "LSGC", "LSZA", "LSZB", "LSZC", "LSZG", "LSZS", "LSME", "LSMP"]
 vertical = true
 fromSector = "ed/ALP1"
 toSector = "ed/FUE"
@@ -147,11 +147,10 @@ vertical = true
 fromSector = "ed/CHI1"
 toSector = "ed/TEG"
 
-# FIXME duplicates
 [[agreements]]
 cop = "KOGOL"
 level = 320
-ades = ["EDDS", "EDSB", "EDRY", "EDTY", "EDFM"]
+ades = ["EDDS", "EDSB", "EDRY", "EDFM"]
 vertical = true
 fromSector = "ed/CHI1"
 toSector = "ed/STA"
@@ -186,7 +185,7 @@ toSector = "ed/TRU"
 cop = "MAH"
 level = 320
 levelAt = [0, "OTT"]
-ades = ["EDDS", "EDSB", "EDDR", "EDRY", "EDRZ", "EDFM", "EDTY", "ETAD", "ETAR"]
+ades = ["EDSB", "EDDR", "EDRY", "EDRZ", "EDFM", "ETAD", "ETAR"]
 vertical = true
 fromSector = "ed/ISA1"
 toSector = "ed/NDG"
@@ -304,8 +303,10 @@ level = 320
 levelAt = [0, "GOLMO"]
 ades = ["EDDF"]
 vertical = true
+releaes = "F"
 fromSector = "ed/DON1"
 toSector = "ed/ALB"
+remarks = "If spacing cannot be accomplished by DON, successive arrivals may be revised at FL330"
 
 [[agreements]]
 cop = "ERNAS"

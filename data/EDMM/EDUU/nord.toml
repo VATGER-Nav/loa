@@ -8,10 +8,10 @@ fromSector = "ed/NDG"
 toSector = "ed/ISA1"
 
 [[agreements]]
-cop = "RIDAR"
+cop = "REDVO"
 level = 310
 vertical = true
-adep = ["EDSB", "ETAR", "EDFE", "EDFH", "EDFM", "EDGS", "EDDR", "EDRY", "EDRZ"]
+adep = ["EDDF", "EDSB", "ETAR", "EDFE", "EDFH", "EDFM", "EDGS", "EDDR", "EDRY", "EDRZ"]
 fromSector = "ed/NDG"
 toSector = "ed/ISA1"
 
@@ -24,12 +24,21 @@ fromSector = "ed/NDG"
 toSector = "ed/ISA1"
 
 [[agreements]]
-cop = "REDVO"
+cop = "BESNI"
 level = 310
 vertical = true
 adep = ["EDDF"]
 fromSector = "ed/NDG"
 toSector = "ed/ISA1"
+
+[[agreements]]
+cop = "ALUTU"
+level = 310
+vertical = true
+adep = ["EDDF"]
+fromSector = "ed/EGG"
+toSector = "ed/DON1"
+remarks = "slow climber"
 
 # ALB
 [[agreements]]
@@ -40,7 +49,7 @@ fromSector = "ed/ALB"
 toSector = "ed/WUR1"
 
 [[agreements]]
-cop = "INBED"
+cop = "AMOSA"
 level = 300
 levelAt = [0, "IBAGA"]
 adep = ["EDDM", "EDMA", "EDMO", "EDMS"]

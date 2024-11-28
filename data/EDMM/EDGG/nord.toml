@@ -42,6 +42,7 @@ remarks = "Flights via UQ863, released ↔ passing TEKSI"
 cop = "HAFUN"
 level = 220
 ades = ["EDDF"]
+releases = "T"
 fromSector = "ed/NDG"
 toSector = "ed/LBU"
 remarks = "Flights via UQ163, released ↔ passing TEKSI"
@@ -77,7 +78,9 @@ toSector = "ed/DKB"
 # WLD
 [[agreements]]
 cop = "BEMBO"
-level = 240
+level = 220
 ades = ["EDDK", "ELLX"]
 fromSector = "ed/WLD"
 toSector = "ed/DKB"
+releases = "C"
+remarks = "may be revised FL240"

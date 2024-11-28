@@ -28,10 +28,20 @@ fromSector = "ed/WUR1"
 toSector = "ed/BBG"
 
 [[agreements]]
+cop = "DINKU"
+level = 290
+sfl = 230
+adep = ["EDDF"]
+transferType = "C"
+fromSector = "ed/WUR1"
+toSector = "ed/WLD"
+remarks = "Released for climb to FL310"
+
+[[agreements]]
 cop = "ELVAG"
 level = 310
 sfl = 240
-adep = ["EDDF", "EDFE", "EDFZ", "ETOU"]
+adep = ["EDDF", "EDFB", "EDFE", "EDFZ", "ETOU"]
 transferType = "C"
 fromSector = "ed/WUR1"
 toSector = "ed/NDG"
@@ -53,11 +63,20 @@ fromSector = "ed/FUL1"
 toSector = "ed/GER"
 
 [[agreements]]
-cop = "TAMEB"
+cop = "MAGES"
 level = 290
-adep = ["EDDF", "EDFE", "EDFZ", "ETOU"]
+adep = ["EDDF"]
 fromSector = "ed/FUL1"
 toSector = "ed/GER"
+remarks = "Released for climb to FL310"
+
+[[agreements]]
+cop = "TAMEB"
+level = 290
+adep = ["EDDF", "EDFB", "EDFE", "EDFZ", "ETOU"]
+fromSector = "ed/FUL1"
+toSector = "ed/GER"
+remarks = "Released for climb to FL310"
 
 [[agreements]]
 cop = "FEDZA"
@@ -68,10 +87,11 @@ toSector = "ed/HAL"
 
 [[agreements]]
 cop = "FEDZA"
-level = 270
-adep = ["EDDF", "EDFE", "EDFZ", "ETOU"]
+level = 290
+adep = ["EDDF", "EDFB", "EDFE", "EDFZ", "ETOU"]
 fromSector = "ed/FUL1"
 toSector = "ed/HAL"
+remarks = "Released for climb to FL310"
 
 [[agreements]]
 cop = "FEDZA"

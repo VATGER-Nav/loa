@@ -54,7 +54,7 @@ toSector = "ed/HOF"
 [[agreements]]
 cop = "BEBKU"
 level = 320
-ades = ["EDQD", "EDQM", "EDQC", "EDQK", "EDQT", "EDQG", "EDQA", "ETIC", "ETIN", "ETHN", "LKKV", "LKCS"]
+ades = ["EDQD", "EDQM", "EDQC", "EDQK", "EDQT", "EDQG", "EDQA", "ETIC", "ETIN", "ETHN", "LKKV", "LKCS", "LKPM"]
 vertical = true
 fromSector = "ed/SPE1"
 toSector = "ed/MEI"
