@@ -19,7 +19,7 @@ sfl = int | null
 levelAt = [int, string] | null
 qnh = string | null
 releases = "C" | "D" | "T" | "F" | null
-remark = string | null
+remarks = string | null
 fromSector = string
 toSector = string
 ```
@@ -100,7 +100,7 @@ If traffic is:
 - `"F"`: fully released
 - `null`: not released
 
-## `remark`
+## `remarks`
 
 Further remarks for more specific releases or conditions.
 
