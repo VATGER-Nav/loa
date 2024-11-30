@@ -5,11 +5,6 @@ TransferTypes = Literal["C", "D"]
 ReleaseTypes = Literal["C", "D", "T", "F"]
 
 
-class LevelAt(BaseModel):
-    transfer_distance: int
-    waypoitn: str
-
-
 class Agreement(BaseModel):
     # required:
     from_sector: str
