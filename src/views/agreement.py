@@ -30,6 +30,9 @@ class Agreement(BaseModel):
     qnh: str | None = None
     releases: ReleaseTypes | None = None
     remark: str | None = None
+    vertical: bool | None = None
+    areas: List[str] | None = None
+    rfl: str | None = None
 
     @classmethod
     def from_dict(cls, data: dict) -> "Agreement":
@@ -48,5 +51,8 @@ class Agreement(BaseModel):
             level_at=data.get("levelAt"),
             qnh=data.get("qnh"),
             releases=data.get("releases"),
-            remark=data.get("remark"),
+            remark=data.get("remarks"),
+            vertical=data.get("vertical"),
+            areas=data.get("areas"),
+            rfl=data.get("rfl"),
         )
