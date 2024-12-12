@@ -41,3 +41,19 @@ class TestAgreement(unittest.TestCase):
         # model with ADEP or model with ADES set should not raise any errors
         Agreement(from_sector="ed/DUS", to_sector="ed/BOT", adep=["EDDF"])
         Agreement(from_sector="ed/DUS", to_sector="ed/BOT", ades=["EDDF"])
+
+    def test_runway_validation(self):
+        Agreement(
+            from_sector="ed/DUS", to_sector="ed/BOT", ades=["EDDF"], runway=["05L"]
+        )
+        Agreement(
+            from_sector="ed/DUS",
+            to_sector="ed/BOT",
+            ades=["EDDF"],
+            runway=["36", "05L"],
+        )
+
+        with self.assertRaises(ValueError):
+            Agreement(
+                from_sector="ed/DUS", to_sector="ed/BOT", ades=["EDDF"], runway=["05P"]
+            )

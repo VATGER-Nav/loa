@@ -1,6 +1,8 @@
 from typing import List, Literal, Self, Tuple
 from pydantic import BaseModel, model_validator
 
+from validators.runway import validate_runways
+
 TransferTypes = Literal["C", "D"]
 ReleaseTypes = Literal["C", "D", "T", "F"]
 
@@ -62,5 +64,15 @@ class Agreement(BaseModel):
 
         if self.ades and not isinstance(self.ades, list):
             raise ValueError("ADES must be of type list")
+
+        return self
+
+    @model_validator(mode="after")
+    def validate_runway(self) -> Self:
+        # as runway field is optional:
+        if not self.runway:
+            return self
+
+        self.runway = validate_runways(self.runway)
 
         return self
