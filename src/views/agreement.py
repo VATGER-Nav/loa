@@ -1,5 +1,5 @@
-from typing import List, Literal, Tuple
-from pydantic import BaseModel
+from typing import List, Literal, Self, Tuple
+from pydantic import BaseModel, model_validator
 
 TransferTypes = Literal["C", "D"]
 ReleaseTypes = Literal["C", "D", "T", "F"]
@@ -30,7 +30,7 @@ class Agreement(BaseModel):
     rfl: str | None = None
 
     @classmethod
-    def from_dict(cls, data: dict) -> "Agreement":
+    def from_dict(cls, data: dict) -> Self:
         return Agreement(
             from_sector=data.get("fromSector"),
             to_sector=data.get("toSector"),
@@ -51,3 +51,16 @@ class Agreement(BaseModel):
             areas=data.get("areas"),
             rfl=data.get("rfl"),
         )
+
+    @model_validator(mode="after")
+    def validate_adep_ades(self) -> Self:
+        if not self.adep and not self.ades:
+            raise ValueError("Agreement must have ADEP or ADES")
+
+        if self.adep and not isinstance(self.adep, list):
+            raise ValueError("ADEP must be of type list")
+
+        if self.ades and not isinstance(self.ades, list):
+            raise ValueError("ADES must be of type list")
+
+        return self
