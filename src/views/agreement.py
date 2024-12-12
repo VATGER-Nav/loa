@@ -31,6 +31,11 @@ class Agreement(BaseModel):
     areas: List[str] | None = None
     rfl: str | None = None
 
+    class Config:
+        """enables validation on assignment, used to make testing more maintainable"""
+
+        validate_assignment = True
+
     @classmethod
     def from_dict(cls, data: dict) -> Self:
         return Agreement(

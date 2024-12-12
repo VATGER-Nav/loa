@@ -5,6 +5,10 @@ from views.agreement import Agreement
 
 
 class TestAgreement(unittest.TestCase):
+    def get_default_agreement(self) -> Agreement:
+        """returns an instance of Agreement which passes all validation"""
+        return Agreement(from_sector="ed/DUS", to_sector="ed/BOT", ades=["EDDF"])
+
     def test_on_data(self):
         """all agreements should create a valid Agreement object"""
 
