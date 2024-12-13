@@ -1,6 +1,7 @@
 from typing import List, Literal, Self, Tuple
-from pydantic import BaseModel, model_validator
+from pydantic import BaseModel, ValidationInfo, field_validator, model_validator
 
+from validators.cop import validate_cop
 from validators.runway import validate_runways
 
 TransferTypes = Literal["C", "D"]
@@ -72,12 +73,11 @@ class Agreement(BaseModel):
 
         return self
 
-    @model_validator(mode="after")
-    def validate_runway(self) -> Self:
+    @field_validator("runway")
+    @classmethod
+    def validate_runway(cls, runway: List[str]):
         # as runway field is optional:
-        if not self.runway:
-            return self
+        if not runway:
+            return
 
-        self.runway = validate_runways(self.runway)
-
-        return self
+        return validate_runways(runway)

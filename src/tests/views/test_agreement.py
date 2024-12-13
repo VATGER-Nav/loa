@@ -47,17 +47,12 @@ class TestAgreement(unittest.TestCase):
         Agreement(from_sector="ed/DUS", to_sector="ed/BOT", ades=["EDDF"])
 
     def test_runway_validation(self):
-        Agreement(
-            from_sector="ed/DUS", to_sector="ed/BOT", ades=["EDDF"], runway=["05L"]
-        )
-        Agreement(
-            from_sector="ed/DUS",
-            to_sector="ed/BOT",
-            ades=["EDDF"],
-            runway=["36", "05L"],
-        )
+        agreement = self.get_default_agreement()
+        agreement.runway = ["05L"]
+        agreement.runway = ["36", "05L"]
 
         with self.assertRaises(ValueError):
-            Agreement(
-                from_sector="ed/DUS", to_sector="ed/BOT", ades=["EDDF"], runway=["05P"]
-            )
+            agreement.runway = ["05P"]
+
+        with self.assertRaises(ValueError):
+            agreement.runway = "05L"
