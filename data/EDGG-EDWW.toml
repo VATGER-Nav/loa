@@ -77,7 +77,7 @@ adep = ["EDDK"]
 vertical = false
 fromSector = "ed/PADH"
 toSector = "ed/DST"
-remarks = ""
+remarks = "only applicable to flights with a RFL below FL245"
 
 [[agreements]]
 cop = "ESADU"

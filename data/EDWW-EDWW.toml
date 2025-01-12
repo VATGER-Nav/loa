@@ -5,7 +5,7 @@ ades = ["EDAY"]
 vertical = false
 fromSector = "ed/DBAN"
 toSector = "ed/DBDN"
-remarks = "Individual Coordination | On APCH Procedure | EDDB RWYs 07"
+remarks = "Individual Coordination | On APCH Procedure | EDDB RWYs 06"
 
 [[agreements]]
 cop = "TUVAK"
@@ -15,7 +15,7 @@ transferType = "C"
 vertical = false
 fromSector = "ed/DBAN"
 toSector = "ed/DBAS"
-remarks = "EDDB RWYs 25"
+remarks = "EDDB RWYs 24"
 
 [[agreements]]
 cop = "RENKI"
@@ -34,7 +34,7 @@ ades = ["EDAY"]
 vertical = false
 fromSector = "ed/DBAS"
 toSector = "ed/DBAN"
-remarks = "EDDB RWYs 25"
+remarks = "EDDB RWYs 24"
 
 [[agreements]]
 cop = "MOSEX"
@@ -43,7 +43,7 @@ ades = ["EDAZ"]
 vertical = false
 fromSector = "ed/DBAS"
 toSector = "ed/DBAST"
-remarks = "Individual Coordination | On APCH Procedure | EDDB RWYs 07"
+remarks = "Individual Coordination | On APCH Procedure | EDDB RWYs 06"
 
 [[agreements]]
 cop = "MOSEX"
@@ -52,7 +52,7 @@ ades = ["EDAZ"]
 vertical = false
 fromSector = "ed/DBAS"
 toSector = "ed/DBDS"
-remarks = "Individual Coordination | On APCH Procedure | EDDB RWYs 25"
+remarks = "Individual Coordination | On APCH Procedure | EDDB RWYs 24"
 
 [[agreements]]
 cop = "KOSIX"
@@ -72,7 +72,7 @@ transferType = "C"
 vertical = false
 fromSector = "ed/DBAS"
 toSector = "ed/DBDS"
-remarks = "EDDB RWYs 07"
+remarks = "EDDB RWYs 06"
 
 [[agreements]]
 cop = "BOLBO"
@@ -93,7 +93,7 @@ qnh = "EDAZ"
 vertical = false
 fromSector = "ed/DBAST"
 toSector = "ed/DBAS"
-remarks = "EDDB RWYs 07"
+remarks = "EDDB RWYs 06"
 
 [[agreements]]
 cop = "GERGA"
@@ -102,7 +102,7 @@ ades = ["EDAY"]
 vertical = false
 fromSector = "ed/DBDN"
 toSector = "ed/DBAN"
-remarks = "EDDB RWYs 07"
+remarks = "EDDB RWYs 06"
 
 [[agreements]]
 cop = "SUKIP"
@@ -112,7 +112,7 @@ transferType = "C"
 vertical = false
 fromSector = "ed/DBDN"
 toSector = "ed/BOR"
-remarks = "SUKIP/LOGDO SIDs"
+remarks = "LOGDO SIDs"
 
 [[agreements]]
 cop = "HLZ"
@@ -142,7 +142,7 @@ transferType = "C"
 vertical = false
 fromSector = "ed/DBDN"
 toSector = "ed/DBAN"
-remarks = "EDDB RWYs 07"
+remarks = "EDDB RWYs 06"
 
 [[agreements]]
 cop = "TUVAK"
@@ -151,7 +151,7 @@ adep = ["EDAY"]
 vertical = false
 fromSector = "ed/DBDN"
 toSector = "ed/DBDS"
-remarks = "EDDB RWYs 07"
+remarks = "EDDB RWYs 06"
 
 [[agreements]]
 cop = "MAG"
@@ -170,17 +170,7 @@ adep = ["EDDB"]
 vertical = false
 fromSector = "ed/DBDN"
 toSector = "ed/DBDS"
-remarks = "ARSAP/LUROS SIDs | EDDB RWYs 07"
-
-[[agreements]]
-cop = "PINOB"
-level = 160
-adep = ["EDDB"]
-transferType = "C"
-vertical = false
-fromSector = "ed/DBDN"
-toSector = "ed/FLG"
-remarks = "ARSAP/LUROS SIDs | EDDB RWYs 25"
+remarks = "ARSAP/LUROS SIDs | EDDB RWYs 06"
 
 [[agreements]]
 cop = "GERGA"
@@ -195,21 +185,11 @@ remarks = "GERGA SIDs"
 [[agreements]]
 cop = "IDOBA"
 level = 100
-ades = ["EDDB"]
+ades = ["EDAY"]
 vertical = false
 fromSector = "ed/DBDS"
 toSector = "ed/DBDN"
-remarks = "EDDB RWYs 07"
-
-[[agreements]]
-cop = "ESIKA"
-level = 160
-adep = ["EDDB"]
-transferType = "C"
-vertical = false
-fromSector = "ed/DBDS"
-toSector = "ed/BOR"
-remarks = "SUKIP SIDs | EDDB RWYs 07"
+remarks = "EDDB RWYs 06"
 
 [[agreements]]
 cop = "LOGDO"
@@ -260,7 +240,7 @@ qnh = "EDAZ"
 vertical = false
 fromSector = "ed/DBDS"
 toSector = "ed/DBAS"
-remarks = "EDDB RWYs 25"
+remarks = "EDDB RWYs 24"
 
 [[agreements]]
 cop = "ESIKA"
@@ -269,7 +249,7 @@ adep = ["EDDB"]
 vertical = false
 fromSector = "ed/DBDS"
 toSector = "ed/DBDN"
-remarks = "SUKIP SIDs | EDDB RWYs 25"
+remarks = "SUKIP SIDs"
 
 [[agreements]]
 cop = "IDOBA"
@@ -278,16 +258,16 @@ adep = ["EDDB"]
 vertical = false
 fromSector = "ed/DBDS"
 toSector = "ed/DBDN"
-remarks = "GERGA SIDs | EDDB RWYs 07"
+remarks = "GERGA SIDs | EDDB RWYs 06"
 
 [[agreements]]
 cop = "IDOBA"
-level = 120
+level = 110
 adep = ["EDDB"]
 vertical = false
 fromSector = "ed/DBDS"
 toSector = "ed/DBDN"
-remarks = "GERGA SIDs | EDDB RWYs 25"
+remarks = "GERGA SIDs | EDDB RWYs 24"
 
 [[agreements]]
 cop = "IDOBA"
@@ -317,7 +297,7 @@ transferType = "C"
 vertical = false
 fromSector = "ed/DBDS"
 toSector = "ed/FLG"
-remarks = "ARSAP SIDs"
+remarks = "ARSAP SIDs | If ARSAP Overflow Area is inactive"
 
 [[agreements]]
 cop = "SONUD"
@@ -337,7 +317,7 @@ transferType = "D"
 vertical = false
 fromSector = "ed/ALR"
 toSector = "ed/EIDE"
-remarks = "ALR may clear DCT KIL"
+remarks = ""
 
 [[agreements]]
 cop = "ELSOB"
@@ -418,12 +398,13 @@ remarks = "Individual Coordination"
 
 [[agreements]]
 cop = "RIBSO"
-level = 0
+level = 110
 ades = ["EDDH", "EDHI"]
+transferType = "D"
 vertical = false
 fromSector = "ed/ALR"
 toSector = "ed/HAMW"
-remarks = "Individual Coordination"
+remarks = ""
 
 [[agreements]]
 cop = "RIBSO"
@@ -463,39 +444,43 @@ remarks = ""
 
 [[agreements]]
 cop = "EKERN"
-level = 0
+level = 100
 adep = ["EDDH", "EDHL"]
+transferType = "C"
 vertical = false
 fromSector = "ed/HAME"
 toSector = "ed/EIDE"
-remarks = "Individual Coordination"
+remarks = ""
 
 [[agreements]]
 cop = "AMLUH"
-level = 0
+level = 100
 adep = ["EDDH", "EDHI", "EDHL"]
+transferType = "C"
 vertical = false
 fromSector = "ed/HAME"
 toSector = "ed/HEI"
-remarks = "Individual Coordination"
+remarks = ""
 
 [[agreements]]
 cop = "LUGEG"
-level = 0
+level = 100
 adep = ["EDDH", "EDHI", "EDHL"]
+transferType = "C"
 vertical = false
 fromSector = "ed/HAME"
 toSector = "ed/HEI"
-remarks = "Individual Coordination"
+remarks = ""
 
 [[agreements]]
 cop = "RAMAR"
-level = 0
+level = 100
 adep = ["EDDH", "EDHI", "EDHL"]
+transferType = "C"
 vertical = false
 fromSector = "ed/HAME"
 toSector = "ed/HEI"
-remarks = "Individual Coordination"
+remarks = ""
 
 [[agreements]]
 cop = "OLUBI"
@@ -526,48 +511,53 @@ remarks = "Individual Coordination"
 
 [[agreements]]
 cop = "WSN"
-level = 0
+level = 100
 adep = ["EDDH", "EDHI"]
+transferType = "C"
 vertical = false
 fromSector = "ed/HAMW"
 toSector = "ed/ALR"
-remarks = "Individual Coordination"
+remarks = ""
 
 [[agreements]]
 cop = "BASUM"
-level = 0
+level = 100
 adep = ["EDDH", "EDHI"]
+transferType = "C"
 vertical = false
 fromSector = "ed/HAMW"
 toSector = "ed/ALR"
-remarks = "Individual Coordination"
+remarks = ""
 
 [[agreements]]
 cop = "IDEKO"
-level = 0
+level = 100
 adep = ["EDDH", "EDHI"]
+transferType = "C"
 vertical = false
 fromSector = "ed/HAMW"
 toSector = "ed/ALR"
-remarks = "Individual Coordination"
+remarks = ""
 
 [[agreements]]
 cop = "ELSOB"
-level = 0
+level = 100
 adep = ["EDDH", "EDHI"]
+transferType = "C"
 vertical = false
 fromSector = "ed/HAMW"
 toSector = "ed/ALR"
-remarks = "Individual Coordination"
+remarks = ""
 
 [[agreements]]
 cop = "OSTOR"
-level = 0
+level = 100
 adep = ["EDDH", "EDHI"]
+transferType = "C"
 vertical = false
 fromSector = "ed/HAMW"
 toSector = "ed/EIDW"
-remarks = "Individual Coordination"
+remarks = ""
 
 [[agreements]]
 cop = "HAM"
@@ -605,7 +595,7 @@ transferType = "D"
 vertical = false
 fromSector = "ed/HEI"
 toSector = "ed/EIDE"
-remarks = "HEI may clear DCT KIL"
+remarks = ""
 
 [[agreements]]
 cop = "HAM"
@@ -615,7 +605,7 @@ transferType = "D"
 vertical = false
 fromSector = "ed/HEI"
 toSector = "ed/EIDE"
-remarks = "HEI may clear DCT KIL"
+remarks = ""
 
 [[agreements]]
 cop = "HAM"
@@ -638,75 +628,83 @@ remarks = "Individual Coordination"
 
 [[agreements]]
 cop = "NOLGO"
-level = 0
+level = 110
 ades = ["EDDH", "EDHI", "EDHL"]
+transferType = "D"
 vertical = false
 fromSector = "ed/HEI"
 toSector = "ed/HAME"
-remarks = "Individual Coordination"
+remarks = ""
 
 [[agreements]]
 cop = "BOGMU"
-level = 0
+level = 110
 ades = ["EDDH", "EDHI", "EDHL"]
+transferType = "D"
 vertical = false
 fromSector = "ed/HEI"
 toSector = "ed/HAME"
-remarks = "Individual Coordination"
+remarks = ""
 
 [[agreements]]
 cop = "RARUP"
-level = 0
+level = 110
 ades = ["EDDH", "EDHI", "EDHL"]
+transferType = "D"
 vertical = false
 fromSector = "ed/HEI"
 toSector = "ed/HAME"
-remarks = "Individual Coordination"
+remarks = ""
 
 [[agreements]]
 cop = "HAM"
-level = 0
+level = 110
 ades = ["EDDH", "EDHI"]
+transferType = "D"
 vertical = false
 fromSector = "ed/HEI"
 toSector = "ed/HAME"
-remarks = "Individual Coordination"
+remarks = ""
 
 [[agreements]]
 cop = "LYE"
-level = 0
+level = 110
 ades = ["EDHL"]
+transferType = "D"
 vertical = false
 fromSector = "ed/HEI"
 toSector = "ed/HAME"
-remarks = "Individual Coordination"
+remarks = ""
 
 [[agreements]]
 cop = "CEL"
-level = 0
+level = 110
 ades = ["EDDV", "ETNW"]
+transferType = "D"
 vertical = false
 fromSector = "ed/HEI"
 toSector = "ed/HAN"
-remarks = "Individual Coordination"
+remarks = ""
 
 [[agreements]]
 cop = "DIRBO"
-level = 0
+level = 110
 ades = ["EDVE"]
+transferType = "D"
 vertical = false
 fromSector = "ed/HEI"
 toSector = "ed/HAN"
-remarks = "Individual Coordination"
+remarks = ""
 
 [[agreements]]
 cop = "ULSEN"
-level = 0
+level = 110
 ades = ["EDVE"]
+transferType = "D"
 vertical = false
 fromSector = "ed/HEI"
 toSector = "ed/HAN"
-remarks = "Individual Coordination"
+remarks = ""
 
 [[agreements]]
 cop = "NUSGU"
@@ -1106,7 +1104,7 @@ adep = ["EDBM"]
 vertical = false
 fromSector = "ed/BOR"
 toSector = "ed/DBAS"
-remarks = "EDDB RWYs 07"
+remarks = "EDDB RWYs 06"
 
 [[agreements]]
 cop = "BUROK"
@@ -1115,7 +1113,7 @@ adep = ["EDBM"]
 vertical = false
 fromSector = "ed/BOR"
 toSector = "ed/DBDS"
-remarks = "EDDB RWYs 25"
+remarks = "EDDB RWYs 24"
 
 [[agreements]]
 cop = "POVEL"
@@ -1140,16 +1138,6 @@ remarks = ""
 cop = "BUREL"
 level = 240
 adep = ["EDDP", "EDAC", "EDAZ"]
-vertical = false
-fromSector = "ed/BOR"
-toSector = "ed/MAR"
-remarks = ""
-
-[[agreements]]
-cop = "GENTI"
-level = 200
-adep = ["EDDB"]
-transferType = "C"
 vertical = false
 fromSector = "ed/BOR"
 toSector = "ed/MAR"
@@ -2210,3 +2198,41 @@ vertical = false
 fromSector = "ed/EIDW"
 toSector = "ed/FRI"
 remarks = ""
+
+[[agreements]]
+cop = "ROBEG"
+level = 160
+ades = ["EDDW"]
+vertical = false
+fromSector = "ed/DST"
+toSector = "ed/EMS"
+remarks = ""
+
+[[agreements]]
+cop = "SUKIP"
+level = 160
+adep = ["EDDB"]
+transferType = "C"
+vertical = false
+fromSector = "ed/DBDN"
+toSector = "ed/BOR"
+remarks = "SUKIP SIDs via SUKIP Y206 BUREL"
+
+[[agreements]]
+cop = "GENTI"
+level = 160
+adep = ["EDDB"]
+transferType = "C"
+vertical = false
+fromSector = "ed/DBDN"
+toSector = "ed/MAR"
+remarks = "SUKIP SIDs via SUKIP M748 SOGMA"
+
+[[agreements]]
+cop = "PINOB"
+level = 120
+adep = ["EDDB"]
+vertical = false
+fromSector = "ed/DBDN"
+toSector = "ed/DBDS"
+remarks = "ARSAP/LUROS SIDs | EDDB RWYs 24"

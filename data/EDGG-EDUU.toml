@@ -41,7 +41,7 @@ adep = ["EDDF"]
 vertical = false
 fromSector = "ed/GIN"
 toSector = "ed/FFM1"
-remarks = ""
+remarks = "only flights routing via Y150/Y153 to the North"
 
 [[agreements]]
 cop = "SWALM"
@@ -95,7 +95,7 @@ adep = ["EDDF"]
 vertical = false
 fromSector = "ed/NKRH"
 toSector = "ed/SLN1"
-remarks = "Flights are approved to cross BAD FL200+, Langen may clear flights direct LUTIX,\nTRA and DITON, all to stay west of TRA."
+remarks = "Flights are approved to cross BAD FL200+, Langen may clear flights direct LUTIX,\nTRA and DITON, all to stay west of TRA and clear of LFEE"
 
 [[agreements]]
 cop = "BADLI"

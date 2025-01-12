@@ -4,7 +4,7 @@ level = 250
 adep = ["EHAA FIR"]
 vertical = false
 fromSector = "eh/EHAAE"
-toSector = "ed/RHR"
+toSector = "ed/RL"
 remarks = "Note: Flights with RFL 250+ should must the following conditions:\nDEPAD at or above FL210\nAMOSU at or above FL250"
 
 [[agreements]]
@@ -14,5 +14,5 @@ adep = ["EHAA"]
 transferType = "C"
 vertical = false
 fromSector = "eh/EHAAE"
-toSector = "ed/MNS"
+toSector = "ed/ML"
 remarks = "Note: Flights with RFL 250+ should must the following conditions:\nSONEB at or above FL210\nOLDOD at or above FL250"

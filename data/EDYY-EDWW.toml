@@ -4,7 +4,7 @@ level = 250
 ades = ["EDDH", "EDHI", "EDHL", "ETMN"]
 transferType = "D"
 vertical = false
-fromSector = "ed/JEV"
+fromSector = "ed/JL"
 toSector = "ed/EIDW"
 remarks = ""
 
@@ -14,7 +14,7 @@ level = 250
 ades = ["EDXW", "EDXF"]
 transferType = "D"
 vertical = false
-fromSector = "ed/JEV"
+fromSector = "ed/JL"
 toSector = "ed/EIDW"
 remarks = ""
 
@@ -24,7 +24,7 @@ level = 250
 ades = ["EDXW", "EDXF"]
 transferType = "D"
 vertical = false
-fromSector = "ed/JEV"
+fromSector = "ed/JL"
 toSector = "ed/EIDW"
 remarks = ""
 
@@ -34,7 +34,7 @@ level = 250
 ades = ["EKBI", "EKSP", "EKEB", "EKVD", "EKVJ"]
 transferType = "D"
 vertical = false
-fromSector = "ed/JEV"
+fromSector = "ed/JL"
 toSector = "ed/EIDW"
 remarks = "EKBI Inbounds are released direct LOKSA RWY 27 or GELBA RWY 09"
 
@@ -44,7 +44,7 @@ level = 250
 ades = ["EHGG", "EHLE"]
 transferType = "D"
 vertical = false
-fromSector = "ed/JEV"
+fromSector = "ed/JL"
 toSector = "ed/EIDW"
 remarks = ""
 
@@ -54,7 +54,7 @@ level = 250
 ades = ["EHGG", "EHLE"]
 transferType = "D"
 vertical = false
-fromSector = "ed/JEV"
+fromSector = "ed/JL"
 toSector = "ed/EIDW"
 remarks = ""
 
@@ -64,7 +64,7 @@ level = 250
 ades = ["EKPB", "EKSB", "EKOD"]
 transferType = "D"
 vertical = false
-fromSector = "ed/JEV"
+fromSector = "ed/JL"
 toSector = "ed/EIDE"
 remarks = "Cross FL250 25 NM after DHE"
 
@@ -74,7 +74,7 @@ level = 260
 ades = ["EDDH", "EDHI", "EDHL", "ETMN", "EDHK", "EDXR"]
 transferType = "D"
 vertical = false
-fromSector = "ed/JEV"
+fromSector = "ed/JL"
 toSector = "ed/ALR"
 remarks = "RLSD for Descent and Turns"
 
@@ -84,7 +84,7 @@ level = 250
 ades = ["EDDW", "ETND"]
 transferType = "D"
 vertical = false
-fromSector = "ed/JEV"
+fromSector = "ed/JL"
 toSector = "ed/FRI"
 remarks = "Cross FL250 15 NM after AKZOM"
 
@@ -94,7 +94,7 @@ level = 250
 ades = ["EDXW"]
 transferType = "D"
 vertical = false
-fromSector = "ed/HOL"
+fromSector = "ed/HL"
 toSector = "ed/EIDE"
 remarks = "EIDE may request earlier descent"
 
@@ -104,7 +104,7 @@ level = 250
 ades = ["EDXW"]
 transferType = "D"
 vertical = false
-fromSector = "ed/HOL"
+fromSector = "ed/HL"
 toSector = "ed/EIDE"
 remarks = ""
 
@@ -114,7 +114,7 @@ level = 250
 ades = ["EKBI", "EKVS", "EKVJ", "EKEB", "EKPB", "EKSB", "EKSP", "EKOD"]
 transferType = "D"
 vertical = false
-fromSector = "ed/HOL"
+fromSector = "ed/HL"
 toSector = "ed/EIDE"
 remarks = "EKBI Inbounds are released direct LOKSA RWY 27 or GELBA RWY 09"
 
@@ -124,7 +124,7 @@ level = 250
 ades = ["EKSP", "EKOD"]
 transferType = "D"
 vertical = false
-fromSector = "ed/HOL"
+fromSector = "ed/HL"
 toSector = "ed/EIDE"
 remarks = ""
 
@@ -134,7 +134,7 @@ level = 247
 ades = ["EDWF", "EDWE", "EDWI", "EHGG", "EHLE"]
 transferType = "D"
 vertical = false
-fromSector = "ed/HOL"
+fromSector = "ed/HL"
 toSector = "ed/ALR"
 remarks = "HOL shall coordinate LVL with ALR"
 
@@ -144,7 +144,7 @@ level = 250
 ades = ["EDDW", "ETND"]
 transferType = "D"
 vertical = false
-fromSector = "ed/HOL"
+fromSector = "ed/HL"
 toSector = "ed/ALR"
 remarks = ""
 
@@ -154,7 +154,7 @@ level = 250
 ades = ["EDVE", "EDXF"]
 transferType = "D"
 vertical = false
-fromSector = "ed/HOL"
+fromSector = "ed/HL"
 toSector = "ed/ALR"
 remarks = ""
 
@@ -164,7 +164,7 @@ level = 250
 ades = ["EDDV", "ETNW"]
 transferType = "D"
 vertical = false
-fromSector = "ed/HOL"
+fromSector = "ed/HL"
 toSector = "ed/ALR"
 remarks = ""
 
@@ -174,7 +174,7 @@ level = 250
 ades = ["EDDV", "ETNW"]
 transferType = "D"
 vertical = false
-fromSector = "ed/HOL"
+fromSector = "ed/HL"
 toSector = "ed/HEI"
 remarks = ""
 
@@ -184,7 +184,7 @@ level = 250
 ades = ["ETMN"]
 transferType = "D"
 vertical = false
-fromSector = "ed/HOL"
+fromSector = "ed/HL"
 toSector = "ed/HEI"
 remarks = ""
 
@@ -194,7 +194,7 @@ level = 250
 ades = ["EDVE"]
 transferType = "D"
 vertical = false
-fromSector = "ed/HOL"
+fromSector = "ed/HL"
 toSector = "ed/HEI"
 remarks = ""
 
@@ -204,7 +204,7 @@ level = 250
 ades = ["EDVE", "EDXF"]
 transferType = "D"
 vertical = false
-fromSector = "ed/HOL"
+fromSector = "ed/HL"
 toSector = "ed/HEI"
 remarks = ""
 
@@ -214,7 +214,7 @@ level = 250
 ades = ["ETNL", "EDBN", "EDBH", "EDAH"]
 transferType = "D"
 vertical = false
-fromSector = "ed/HOL"
+fromSector = "ed/HL"
 toSector = "ed/MRZ"
 remarks = ""
 
@@ -224,7 +224,7 @@ level = 250
 ades = ["EDDH", "EDHI", "EDHL", "EDHK", "ETMN", "EDXR"]
 transferType = "D"
 vertical = false
-fromSector = "ed/CEL"
+fromSector = "ed/CL"
 toSector = "ed/HEI"
 remarks = "Cross FL250 at MADOR"
 
@@ -234,7 +234,7 @@ level = 250
 ades = ["EDDH", "EDHI", "EDHL", "ETMN"]
 transferType = "D"
 vertical = false
-fromSector = "ed/CEL"
+fromSector = "ed/CL"
 toSector = "ed/HEI"
 remarks = "May be cleared DCT RARUP"
 
@@ -244,7 +244,7 @@ level = 250
 ades = ["EDHK", "EDXR"]
 transferType = "D"
 vertical = false
-fromSector = "ed/CEL"
+fromSector = "ed/CL"
 toSector = "ed/HEI"
 remarks = ""
 
@@ -254,7 +254,7 @@ level = 250
 ades = ["EDVE"]
 transferType = "D"
 vertical = false
-fromSector = "ed/CEL"
+fromSector = "ed/CL"
 toSector = "ed/EMS"
 remarks = ""
 
@@ -264,7 +264,7 @@ level = 250
 ades = ["EDDG", "EDLW", "EDLA", "EHTW", "EHLE"]
 transferType = "D"
 vertical = false
-fromSector = "ed/CEL"
+fromSector = "ed/CL"
 toSector = "ed/EMS"
 remarks = ""
 
@@ -274,7 +274,7 @@ level = 250
 ades = ["EDDL", "EDDG", "EDLA", "EDLW", "EDLD", "EDLV", "ETNG", "EHBK", "EHEH", "EHTW", "EHBD"]
 transferType = "D"
 vertical = false
-fromSector = "ed/CEL"
+fromSector = "ed/CL"
 toSector = "ed/EMS"
 remarks = ""
 
@@ -284,7 +284,7 @@ level = 250
 ades = ["EDVK", "EDLI"]
 transferType = "D"
 vertical = false
-fromSector = "ed/CEL"
+fromSector = "ed/CL"
 toSector = "ed/EMS"
 remarks = ""
 
@@ -294,7 +294,7 @@ level = 250
 ades = ["EDLP", "EDLI"]
 transferType = "D"
 vertical = false
-fromSector = "ed/CEL"
+fromSector = "ed/CL"
 toSector = "ed/DST"
 remarks = ""
 
@@ -304,7 +304,7 @@ level = 250
 ades = ["EDLP", "EDFQ"]
 transferType = "D"
 vertical = false
-fromSector = "ed/CEL"
+fromSector = "ed/CL"
 toSector = "ed/DST"
 remarks = ""
 
@@ -314,7 +314,7 @@ level = 250
 ades = ["EDVK", "EDFQ", "EDLP"]
 transferType = "D"
 vertical = false
-fromSector = "ed/CEL"
+fromSector = "ed/CL"
 toSector = "ed/HRZ"
 remarks = ""
 
@@ -324,7 +324,7 @@ level = 250
 ades = ["EDBM"]
 transferType = "D"
 vertical = false
-fromSector = "ed/CEL"
+fromSector = "ed/CL"
 toSector = "ed/HRZ"
 remarks = ""
 
@@ -334,7 +334,7 @@ level = 250
 ades = ["EDBM"]
 transferType = "D"
 vertical = false
-fromSector = "ed/CEL"
+fromSector = "ed/CL"
 toSector = "ed/HRZ"
 remarks = ""
 
@@ -343,7 +343,7 @@ cop = "GARLU"
 level = 270
 ades = ["ETNL"]
 vertical = false
-fromSector = "ed/CEL"
+fromSector = "ed/CL"
 toSector = "ed/MAR"
 remarks = ""
 
@@ -353,7 +353,7 @@ level = 250
 ades = ["EDOP"]
 transferType = "D"
 vertical = false
-fromSector = "ed/CEL"
+fromSector = "ed/CL"
 toSector = "ed/MAR"
 remarks = ""
 
@@ -363,9 +363,9 @@ level = 250
 ades = ["EDDB", "EDAE", "EDAV", "EDAY", "EDAZ", "EDBW", "EDON"]
 transferType = "D"
 vertical = false
-fromSector = "ed/CEL"
+fromSector = "ed/CL"
 toSector = "ed/MAR"
-remarks = "EDDB 07: Leveled FL250 ; EDDB 25: FL270 or below descending FL270"
+remarks = "EDDB 06: Leveled FL250 ; EDDB 24: FL270 or below descending FL250"
 
 [[agreements]]
 cop = "BATEL"
@@ -373,16 +373,16 @@ level = 250
 ades = ["EDDB"]
 transferType = "D"
 vertical = false
-fromSector = "ed/CEL"
+fromSector = "ed/CL"
 toSector = "ed/MAR"
-remarks = "EDDB 07: Leveled FL250 ; EDDB 25: FL270 or below descending FL250"
+remarks = "EDDB 06: Leveled FL250 ; EDDB 24: FL270 or below descending FL250"
 
 [[agreements]]
 cop = "BATEL"
 level = 250
 ades = ["EDDP"]
 vertical = false
-fromSector = "ed/CEL"
+fromSector = "ed/CL"
 toSector = "ed/MAR"
 remarks = ""
 
@@ -391,7 +391,7 @@ cop = "BUMIL"
 level = 270
 ades = ["EDDP"]
 vertical = false
-fromSector = "ed/CEL"
+fromSector = "ed/CL"
 toSector = "ed/MAR"
 remarks = ""
 
@@ -401,7 +401,7 @@ level = 250
 ades = ["EDDW", "EDWE", "EDWI", "EDWF", "ETND"]
 transferType = "D"
 vertical = false
-fromSector = "ed/SOL"
+fromSector = "ed/SL"
 toSector = "ed/HRZ"
 remarks = ""
 
@@ -411,7 +411,7 @@ level = 250
 ades = ["EDVE"]
 transferType = "D"
 vertical = false
-fromSector = "ed/SOL"
+fromSector = "ed/SL"
 toSector = "ed/HRZ"
 remarks = ""
 
@@ -421,7 +421,7 @@ level = 250
 ades = ["EDAC"]
 transferType = "D"
 vertical = false
-fromSector = "ed/SOL"
+fromSector = "ed/SL"
 toSector = "ed/HRZ"
 remarks = ""
 
@@ -431,7 +431,7 @@ level = 250
 ades = ["EDDP", "EDDE"]
 transferType = "D"
 vertical = false
-fromSector = "ed/SOL"
+fromSector = "ed/SL"
 toSector = "ed/HRZ"
 remarks = ""
 
@@ -441,7 +441,7 @@ level = 250
 ades = ["EDLP"]
 transferType = "D"
 vertical = false
-fromSector = "ed/SOL"
+fromSector = "ed/SL"
 toSector = "ed/HRZ"
 remarks = ""
 
@@ -451,7 +451,7 @@ level = 250
 ades = ["EDFH", "EDDR", "EDRZ", "EDFM", "EDRY", "EDFV", "EDGS", "ETAR"]
 transferType = "D"
 vertical = false
-fromSector = "ed/SOL"
+fromSector = "ed/SL"
 toSector = "ed/DST"
 remarks = "Cross FL250 15NM prior WRB"
 
@@ -460,7 +460,7 @@ cop = "POVEL"
 level = 250
 ades = ["EDAE", "EDAV", "EDAY", "EDAZ", "EDBW", "EDON"]
 vertical = false
-fromSector = "ed/SOL"
+fromSector = "ed/SL"
 toSector = "ed/BOR"
 remarks = ""
 
@@ -470,7 +470,7 @@ level = 250
 ades = ["EDDH", "EDHI", "EDHL", "EDHK", "ETMN", "EDXR"]
 transferType = "D"
 vertical = false
-fromSector = "ed/MNS"
+fromSector = "ed/ML"
 toSector = "ed/ALR"
 remarks = "TFC may be cleared DCT WSN to cross FL250 15 NM prior WSN"
 
@@ -480,7 +480,7 @@ level = 250
 ades = ["EDDG", "EDLW"]
 transferType = "D"
 vertical = false
-fromSector = "ed/MNS"
+fromSector = "ed/ML"
 toSector = "ed/EMS"
 remarks = ""
 
@@ -490,7 +490,7 @@ level = 250
 ades = ["EDDW", "EDWE", "EDWI", "EDWF", "ETND"]
 transferType = "D"
 vertical = false
-fromSector = "ed/MNS"
+fromSector = "ed/ML"
 toSector = "ed/EMS"
 remarks = ""
 
@@ -500,7 +500,7 @@ level = 250
 ades = ["EDDV", "EDVK", "ETNW"]
 transferType = "D"
 vertical = false
-fromSector = "ed/MNS"
+fromSector = "ed/ML"
 toSector = "ed/EMS"
 remarks = "Cross FL250 10 NM prior OSN"
 
@@ -510,6 +510,6 @@ level = 250
 ades = ["EDDV", "ETNW"]
 transferType = "D"
 vertical = false
-fromSector = "ed/MNS"
+fromSector = "ed/ML"
 toSector = "ed/EMS"
 remarks = ""

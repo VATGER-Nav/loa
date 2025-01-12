@@ -60,7 +60,7 @@ transferType = "D"
 vertical = false
 fromSector = "ed/EMS"
 toSector = "ed/HMM"
-remarks = "Handoff @ FL200"
+remarks = "out of FL200"
 
 [[agreements]]
 cop = "MOBSA"

@@ -5,7 +5,7 @@ adep = ["EDDH", "EDHI", "EDHL"]
 transferType = "C"
 vertical = false
 fromSector = "ed/ALR"
-toSector = "ed/JEV"
+toSector = "ed/JL"
 remarks = ""
 
 [[agreements]]
@@ -15,7 +15,7 @@ adep = ["EDDH", "EDHI", "EDHL"]
 transferType = "C"
 vertical = false
 fromSector = "ed/ALR"
-toSector = "ed/CEL"
+toSector = "ed/CL"
 remarks = ""
 
 [[agreements]]
@@ -25,7 +25,7 @@ adep = ["EDDH", "EDHI", "EDHL"]
 transferType = "C"
 vertical = false
 fromSector = "ed/ALR"
-toSector = "ed/MNS"
+toSector = "ed/ML"
 remarks = ""
 
 [[agreements]]
@@ -35,7 +35,7 @@ adep = ["EDDW", "EDWE", "EDWF", "EDWI"]
 transferType = "C"
 vertical = false
 fromSector = "ed/ALR"
-toSector = "ed/HOL"
+toSector = "ed/HL"
 remarks = ""
 
 [[agreements]]
@@ -45,7 +45,7 @@ adep = ["EDWE", "EDWI", "EDWF", "EHGG"]
 transferType = "C"
 vertical = false
 fromSector = "ed/ALR"
-toSector = "ed/JEV"
+toSector = "ed/JL"
 remarks = ""
 
 [[agreements]]
@@ -55,7 +55,7 @@ adep = ["ETNW"]
 transferType = "C"
 vertical = false
 fromSector = "ed/ALR"
-toSector = "ed/HOL"
+toSector = "ed/HL"
 remarks = ""
 
 [[agreements]]
@@ -65,7 +65,7 @@ adep = ["EDHL"]
 transferType = "C"
 vertical = false
 fromSector = "ed/ALR"
-toSector = "ed/HOL"
+toSector = "ed/HL"
 remarks = ""
 
 [[agreements]]
@@ -74,7 +74,7 @@ level = 0
 adep = ["EDDB"]
 vertical = false
 fromSector = "ed/BOR"
-toSector = "ed/CEL"
+toSector = "ed/CL"
 remarks = "EVEN FLs"
 
 [[agreements]]
@@ -83,7 +83,7 @@ level = 0
 adep = ["EDDB"]
 vertical = false
 fromSector = "ed/BOR"
-toSector = "ed/SOL"
+toSector = "ed/SL"
 remarks = "EVEN FLs"
 
 [[agreements]]
@@ -92,7 +92,7 @@ level = 0
 adep = ["EDDB"]
 vertical = false
 fromSector = "ed/BOR"
-toSector = "ed/SOL"
+toSector = "ed/SL"
 remarks = "EVEN FLs"
 
 [[agreements]]
@@ -101,7 +101,7 @@ level = 260
 adep = ["EDDE", "EDDP", "ETSH", "EDAC"]
 vertical = false
 fromSector = "ed/BOR"
-toSector = "ed/SOL"
+toSector = "ed/SL"
 remarks = ""
 
 [[agreements]]
@@ -111,7 +111,7 @@ adep = ["EDDF"]
 transferType = "C"
 vertical = false
 fromSector = "ed/DST"
-toSector = "ed/SOL"
+toSector = "ed/SL"
 remarks = ""
 
 [[agreements]]
@@ -121,7 +121,7 @@ adep = ["EDDV"]
 transferType = "C"
 vertical = false
 fromSector = "ed/DST"
-toSector = "ed/SOL"
+toSector = "ed/SL"
 remarks = "Transfer of Communications shall take place before EDGG FIR"
 
 [[agreements]]
@@ -131,7 +131,7 @@ adep = ["EDLW"]
 transferType = "C"
 vertical = false
 fromSector = "ed/DST"
-toSector = "ed/SOL"
+toSector = "ed/SL"
 remarks = ""
 
 [[agreements]]
@@ -141,7 +141,7 @@ adep = ["EDDH", "EDHI"]
 transferType = "C"
 vertical = false
 fromSector = "ed/EIDE"
-toSector = "ed/HOL"
+toSector = "ed/HL"
 remarks = ""
 
 [[agreements]]
@@ -151,7 +151,7 @@ adep = ["EDDH", "EDHI", "EDHL"]
 transferType = "C"
 vertical = false
 fromSector = "ed/EIDE"
-toSector = "ed/HOL"
+toSector = "ed/HL"
 remarks = ""
 
 [[agreements]]
@@ -161,7 +161,7 @@ adep = ["EKBI", "EKOB", "EKEB", "EKVD. EKPB", "EKSB", "EKSP"]
 transferType = "C"
 vertical = false
 fromSector = "ed/EIDE"
-toSector = "ed/HOL"
+toSector = "ed/HL"
 remarks = ""
 
 [[agreements]]
@@ -171,7 +171,7 @@ adep = ["EKOD", "EKPB", "EKSB", "EKVD"]
 transferType = "C"
 vertical = false
 fromSector = "ed/EIDE"
-toSector = "ed/HOL"
+toSector = "ed/HL"
 remarks = ""
 
 [[agreements]]
@@ -181,7 +181,7 @@ adep = ["EKVD"]
 transferType = "C"
 vertical = false
 fromSector = "ed/EIDE"
-toSector = "ed/HOL"
+toSector = "ed/HL"
 remarks = ""
 
 [[agreements]]
@@ -191,7 +191,7 @@ adep = ["EDXW"]
 transferType = "C"
 vertical = false
 fromSector = "ed/EIDE"
-toSector = "ed/HOL"
+toSector = "ed/HL"
 remarks = ""
 
 [[agreements]]
@@ -201,7 +201,7 @@ adep = ["EDXW"]
 transferType = "C"
 vertical = false
 fromSector = "ed/EIDE"
-toSector = "ed/HOL"
+toSector = "ed/HL"
 remarks = ""
 
 [[agreements]]
@@ -211,7 +211,7 @@ adep = ["EDDH", "EDHI", "ETMN", "EDXW", "EDXF"]
 transferType = "C"
 vertical = false
 fromSector = "ed/EIDW"
-toSector = "ed/JEV"
+toSector = "ed/JL"
 remarks = ""
 
 [[agreements]]
@@ -221,7 +221,7 @@ adep = ["EDXW"]
 transferType = "C"
 vertical = false
 fromSector = "ed/EIDW"
-toSector = "ed/JEV"
+toSector = "ed/JL"
 remarks = ""
 
 [[agreements]]
@@ -231,7 +231,7 @@ adep = ["EHGG"]
 transferType = "C"
 vertical = false
 fromSector = "ed/EIDW"
-toSector = "ed/JEV"
+toSector = "ed/JL"
 remarks = ""
 
 [[agreements]]
@@ -241,7 +241,7 @@ adep = ["EHGG"]
 transferType = "C"
 vertical = false
 fromSector = "ed/EIDW"
-toSector = "ed/JEV"
+toSector = "ed/JL"
 remarks = ""
 
 [[agreements]]
@@ -251,7 +251,7 @@ adep = ["EDDW", "ETND"]
 transferType = "C"
 vertical = false
 fromSector = "ed/EMS"
-toSector = "ed/CEL"
+toSector = "ed/CL"
 remarks = ""
 
 [[agreements]]
@@ -261,7 +261,7 @@ adep = ["EDLP", "EDFQ", "EDLI", "EDVK"]
 transferType = "C"
 vertical = false
 fromSector = "ed/EMS"
-toSector = "ed/CEL"
+toSector = "ed/CL"
 remarks = ""
 
 [[agreements]]
@@ -271,7 +271,7 @@ adep = ["EDDG", "EDLW", "EDLA"]
 transferType = "C"
 vertical = false
 fromSector = "ed/EMS"
-toSector = "ed/CEL"
+toSector = "ed/CL"
 remarks = ""
 
 [[agreements]]
@@ -281,7 +281,7 @@ adep = ["EDDW", "ETND"]
 transferType = "C"
 vertical = false
 fromSector = "ed/FRI"
-toSector = "ed/JEV"
+toSector = "ed/JL"
 remarks = ""
 
 [[agreements]]
@@ -291,7 +291,7 @@ adep = ["EDDW", "ETND"]
 transferType = "C"
 vertical = false
 fromSector = "ed/HRZ"
-toSector = "ed/CEL"
+toSector = "ed/CL"
 remarks = ""
 
 [[agreements]]
@@ -301,7 +301,7 @@ adep = ["EDVE"]
 transferType = "C"
 vertical = false
 fromSector = "ed/HRZ"
-toSector = "ed/CEL"
+toSector = "ed/CL"
 remarks = ""
 
 [[agreements]]
@@ -311,7 +311,7 @@ adep = ["EDVE"]
 transferType = "C"
 vertical = false
 fromSector = "ed/HRZ"
-toSector = "ed/SOL"
+toSector = "ed/SL"
 remarks = "Clear of HILFE Window"
 
 [[agreements]]
@@ -321,7 +321,7 @@ adep = ["EDLP", "EDVK", "EDFQ"]
 transferType = "C"
 vertical = false
 fromSector = "ed/HRZ"
-toSector = "ed/SOL"
+toSector = "ed/SL"
 remarks = ""
 
 [[agreements]]
@@ -331,7 +331,7 @@ adep = ["EDDV"]
 transferType = "C"
 vertical = false
 fromSector = "ed/HRZ"
-toSector = "ed/SOL"
+toSector = "ed/SL"
 remarks = "Clear of HILFE Window"
 
 [[agreements]]
@@ -341,7 +341,7 @@ adep = ["EDBM"]
 transferType = "C"
 vertical = false
 fromSector = "ed/HRZ"
-toSector = "ed/SOL"
+toSector = "ed/SL"
 remarks = ""
 
 [[agreements]]
@@ -351,7 +351,7 @@ adep = ["EDDH", "EDHI"]
 transferType = "C"
 vertical = false
 fromSector = "ed/HEI"
-toSector = "ed/SOL"
+toSector = "ed/SL"
 remarks = ""
 
 [[agreements]]
@@ -361,7 +361,7 @@ adep = ["EDDW", "ETND"]
 transferType = "C"
 vertical = false
 fromSector = "ed/HEI"
-toSector = "ed/HOL"
+toSector = "ed/HL"
 remarks = ""
 
 [[agreements]]
@@ -371,7 +371,7 @@ adep = ["EDDV", "EDVE"]
 transferType = "C"
 vertical = false
 fromSector = "ed/HEI"
-toSector = "ed/HOL"
+toSector = "ed/HL"
 remarks = ""
 
 [[agreements]]
@@ -381,7 +381,7 @@ adep = ["ETNL"]
 transferType = "C"
 vertical = false
 fromSector = "ed/HEI"
-toSector = "ed/HOL"
+toSector = "ed/HL"
 remarks = ""
 
 [[agreements]]
@@ -391,7 +391,7 @@ adep = ["EDHK"]
 transferType = "C"
 vertical = false
 fromSector = "ed/HEI"
-toSector = "ed/HOL"
+toSector = "ed/HL"
 remarks = ""
 
 [[agreements]]
@@ -401,7 +401,7 @@ adep = ["EDDH", "EDHI", "EDHL", "ETMN"]
 transferType = "C"
 vertical = false
 fromSector = "ed/HEI"
-toSector = "ed/CEL"
+toSector = "ed/CL"
 remarks = ""
 
 [[agreements]]
@@ -411,7 +411,7 @@ adep = ["EDDW", "ETND"]
 transferType = "C"
 vertical = false
 fromSector = "ed/HEI"
-toSector = "ed/CEL"
+toSector = "ed/CL"
 remarks = "If RFL at or above FL290, not for destinations inside EDWW FIR"
 
 [[agreements]]
@@ -421,7 +421,7 @@ adep = ["EDDV", "ETNW", "EDVE"]
 transferType = "C"
 vertical = false
 fromSector = "ed/HEI"
-toSector = "ed/CEL"
+toSector = "ed/CL"
 remarks = ""
 
 [[agreements]]
@@ -431,7 +431,7 @@ adep = ["EDHL"]
 transferType = "C"
 vertical = false
 fromSector = "ed/HEI"
-toSector = "ed/CEL"
+toSector = "ed/CL"
 remarks = ""
 
 [[agreements]]
@@ -441,7 +441,7 @@ adep = ["EDHK"]
 transferType = "C"
 vertical = false
 fromSector = "ed/HEI"
-toSector = "ed/CEL"
+toSector = "ed/CL"
 remarks = ""
 
 [[agreements]]
@@ -451,7 +451,7 @@ adep = ["EDBM"]
 transferType = "C"
 vertical = false
 fromSector = "ed/MAR"
-toSector = "ed/CEL"
+toSector = "ed/CL"
 remarks = ""
 
 [[agreements]]
@@ -461,7 +461,7 @@ adep = ["EDBH", "ETNL", "EDBN"]
 transferType = "C"
 vertical = false
 fromSector = "ed/MAR"
-toSector = "ed/CEL"
+toSector = "ed/CL"
 remarks = ""
 
 [[agreements]]
@@ -470,7 +470,7 @@ level = 260
 adep = ["EDBN", "EDAH", "EDBH"]
 vertical = false
 fromSector = "ed/MRZ"
-toSector = "ed/HOL"
+toSector = "ed/HL"
 remarks = ""
 
 [[agreements]]
@@ -480,7 +480,7 @@ adep = ["EDDW", "ETND"]
 transferType = "C"
 vertical = false
 fromSector = "ed/EMS"
-toSector = "ed/MNS"
+toSector = "ed/ML"
 remarks = ""
 
 [[agreements]]
@@ -490,7 +490,7 @@ adep = ["EDDV", "ETNW"]
 transferType = "C"
 vertical = false
 fromSector = "ed/EMS"
-toSector = "ed/MNS"
+toSector = "ed/ML"
 remarks = ""
 
 [[agreements]]
@@ -500,7 +500,7 @@ adep = ["EDDV", "ETNW"]
 transferType = "C"
 vertical = false
 fromSector = "ed/EMS"
-toSector = "ed/MNS"
+toSector = "ed/ML"
 remarks = ""
 
 [[agreements]]
@@ -510,5 +510,32 @@ adep = ["EDDG", "EDLW", "EDLA"]
 transferType = "C"
 vertical = false
 fromSector = "ed/EMS"
-toSector = "ed/MNS"
+toSector = "ed/ML"
+remarks = ""
+
+[[agreements]]
+cop = "LUWIL"
+level = 260
+adep = ["ETNL"]
+vertical = false
+fromSector = "ed/MAR"
+toSector = "ed/CL"
+remarks = ""
+
+[[agreements]]
+cop = "WISMA"
+level = 260
+adep = ["ETNL"]
+vertical = false
+fromSector = "ed/MRZ"
+toSector = "ed/HL"
+remarks = ""
+
+[[agreements]]
+cop = "RISOK"
+level = 260
+adep = ["ETSH"]
+vertical = false
+fromSector = "ed/BOR"
+toSector = "ed/SL"
 remarks = ""

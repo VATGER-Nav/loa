@@ -19,7 +19,7 @@ remarks = "Handoff at least 15 NM before sector border | RLSD for descent and tu
 [[agreements]]
 cop = "ALUKA"
 level = 250
-ades = ["EPPO", "EPKS", "EPPW", "EPZG"]
+ades = ["EPKS", "EPPW"]
 transferType = "D"
 vertical = false
 fromSector = "ed/MAR"
@@ -29,7 +29,7 @@ remarks = ""
 [[agreements]]
 cop = "SUBIX"
 level = 250
-ades = ["EPPO", "EPKS", "EPPW", "EPZG"]
+ades = ["EPKS", "EPPW", "EPZG"]
 vertical = false
 fromSector = "ed/FLG"
 toSector = "ep/EPWD"
@@ -42,7 +42,7 @@ ades = ["EPPO", "EPZG"]
 vertical = false
 fromSector = "ed/FLG"
 toSector = "ep/EPWD"
-remarks = ""
+remarks = "If ARSAP Overflow Area is inactive"
 
 [[agreements]]
 cop = "GOVEN"
@@ -74,7 +74,7 @@ remarks = ""
 [[agreements]]
 cop = "BINKA"
 level = 270
-adep = ["ETNL", "EDBH", "EDOP"]
+adep = ["ETNL", "EDBH"]
 transferType = "C"
 vertical = false
 fromSector = "ed/MRZ"
@@ -89,42 +89,22 @@ transferType = "C"
 vertical = false
 fromSector = "ed/MAR"
 toSector = "ep/EPWB"
-remarks = "EDDB RWYs 07 | FL230-FL270"
+remarks = "FL230-FL270"
 
 [[agreements]]
-cop = "BODLA"
-level = 270
+cop = "ALUKA"
+level = 230
 adep = ["EDDB"]
 transferType = "C"
 vertical = false
 fromSector = "ed/MAR"
 toSector = "ep/EPWB"
-remarks = "EDDB RWYs 25"
-
-[[agreements]]
-cop = "ALUKA"
-level = 210
-adep = ["EDDB"]
-transferType = "C"
-vertical = false
-fromSector = "ed/MAR"
-toSector = "ep/EPWB"
-remarks = "EDDB RWYs 07 | FL170-FL210"
+remarks = "FL170-FL230"
 
 [[agreements]]
 cop = "ALUKA"
 level = 270
-adep = ["EDDB"]
-transferType = "C"
-vertical = false
-fromSector = "ed/MAR"
-toSector = "ep/EPWB"
-remarks = "EDDB RWYs 25 | FL230-FL270"
-
-[[agreements]]
-cop = "ALUKA"
-level = 270
-adep = ["EDAY", "EDAZ"]
+adep = ["EDAZ"]
 transferType = "C"
 vertical = false
 fromSector = "ed/MAR"
@@ -143,7 +123,7 @@ remarks = ""
 [[agreements]]
 cop = "SUBIX"
 level = 270
-adep = ["EDDC", "EDAB", "EDAC", "EDBM"]
+adep = ["EDDC", "EDAB", "EDAC", "EDAZ", "EDBM"]
 vertical = false
 fromSector = "ed/FLG"
 toSector = "ep/EPWD"
@@ -157,17 +137,7 @@ transferType = "C"
 vertical = false
 fromSector = "ed/FLG"
 toSector = "ep/EPWD"
-remarks = "EDDB RWYs 07 | FL170-FL230"
-
-[[agreements]]
-cop = "ARSAP"
-level = 270
-adep = ["EDDB"]
-transferType = "C"
-vertical = false
-fromSector = "ed/FLG"
-toSector = "ep/EPWD"
-remarks = "EDDB RWYs 25 | FL230-FL270"
+remarks = "FL170-FL230 | If ARSAP Overflow Area is inactive"
 
 [[agreements]]
 cop = "GOVEN"
@@ -178,3 +148,40 @@ vertical = false
 fromSector = "ed/FLG"
 toSector = "ep/EPWD"
 remarks = "FL230-FL270"
+
+[[agreements]]
+cop = "ARSAP"
+level = 210
+ades = ["EPPO", "EPZG"]
+vertical = false
+fromSector = "ed/DBDS"
+toSector = "ep/EPWD"
+remarks = "If ARSAP Overflow Area is active"
+
+[[agreements]]
+cop = "BODLA"
+level = 190
+adep = ["EDAY"]
+vertical = false
+fromSector = "ed/MAR"
+toSector = "ep/EPWB"
+remarks = ""
+
+[[agreements]]
+cop = "ALUKA"
+level = 130
+adep = ["EDAY"]
+vertical = false
+fromSector = "ed/DBAN"
+toSector = "ep/EPWB"
+remarks = ""
+
+[[agreements]]
+cop = "ARSAP"
+level = 230
+adep = ["EDDB"]
+transferType = "C"
+vertical = false
+fromSector = "ed/DBDS"
+toSector = "ep/EPWD"
+remarks = "FL170-FL230 | If ARSAP Overflow Area is active"

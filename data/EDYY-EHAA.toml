@@ -4,7 +4,7 @@ level = 260
 ades = ["EHAM", "EHRD", "EHEH", "EHAA FIR"]
 transferType = "D"
 vertical = false
-fromSector = "ed/JEV"
+fromSector = "ed/JL"
 toSector = "eh/EHAE"
 remarks = ""
 
@@ -14,7 +14,7 @@ level = 260
 ades = ["EHAA", "EH*"]
 transferType = "D"
 vertical = false
-fromSector = "ed/MNS"
+fromSector = "ed/ML"
 toSector = "eh/EHAAE"
 remarks = "from upper airspace\nFlights are released for speed control, turns and descent, subject to known traffic, after passing 2.5\nNM west of the lateral limits of the TEBRO area"
 
@@ -24,6 +24,6 @@ level = 260
 ades = ["EHAM"]
 transferType = "D"
 vertical = false
-fromSector = "ed/MNS"
+fromSector = "ed/ML"
 toSector = "eh/EHAAE"
 remarks = "from upper airspace\nFlights are released for speed control, turns and descent, subject to known traffic, after passing 2.5NM west of the lateral limits of the TEBRO area"

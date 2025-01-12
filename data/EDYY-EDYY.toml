@@ -1,105 +1,119 @@
 [[agreements]]
-cop = "BASUM"
+level = 330
+ades = ["EDDC", "EDDP EDDN", "EDAB", "EDAC", "EDQ*", "ETIC"]
+vertical = false
+fromSector = "ed/CL"
+toSector = "ed/SL"
+remarks = "Or Below"
+
+[[agreements]]
 level = 320
-ades = ["EDDL", "EDDK"]
+ades = ["EDDK"]
 vertical = false
-fromSector = "ed/HOL"
-toSector = "ed/MNS"
-remarks = ""
+fromSector = "ed/CL"
+toSector = "ed/SL"
+remarks = "Or Below"
 
 [[agreements]]
-cop = "KEGAB"
+level = 300
+ades = ["EDDR", "EDFH", "EDFM", "EDFV", "EDGS", "EDRY", "EDRZ", "ETAR"]
+vertical = false
+fromSector = "ed/CL"
+toSector = "ed/SL"
+remarks = "Or Below"
+
+[[agreements]]
 level = 320
-ades = ["EDDL"]
+ades = ["EDDL", "EDDG", "EDLA", "EDLD", "EDLW", "EDLV", "ETNG", "EHTW", "EHBD", "EHEH", "EHBK"]
 vertical = false
-fromSector = "ed/HOL"
-toSector = "ed/CEL"
-remarks = ""
+fromSector = "ed/HL"
+toSector = "ed/CL"
+remarks = "Or Beow"
 
 [[agreements]]
-cop = "IRKIS"
-level = 360
-ades = ["EDDB", "EDDP", "EDAE", "EDAV", "EDAY", "EDAZ", "EDBW", "EDON"]
-transferType = "D"
+level = 320
+ades = ["EDDL", "EDDG", "EDLA", "EDLD", "EDLW", "EDLV", "ETNG", "EHTW", "EHBD", "EHEH", "EHBK"]
 vertical = false
-fromSector = "ed/HOL"
-toSector = "ed/CEL"
-remarks = ""
+fromSector = "ed/HL"
+toSector = "ed/CL"
+remarks = "Or Below"
 
 [[agreements]]
-cop = "DIRBO"
-level = 360
-ades = ["EDDH", "EDHI", "EDHL", "ETMN"]
-transferType = "D"
+level = 320
+ades = ["EDDB", "EDDP", "EDAE", "EDAV", "EDAY", "EDAZ", "EDBW", "EDON", "EDBC"]
 vertical = false
-fromSector = "ed/SOL"
-toSector = "ed/CEL"
-remarks = ""
+fromSector = "ed/HL"
+toSector = "ed/CL"
+remarks = "Or Below"
 
 [[agreements]]
-cop = "SAS"
-level = 360
-ades = ["EDDH", "EDHI", "EDHL", "ETMN"]
-transferType = "D"
+level = 330
+ades = ["EDVK", "EDLP", "EDFQ"]
 vertical = false
-fromSector = "ed/SOL"
-toSector = "ed/CEL"
-remarks = ""
+fromSector = "ed/HL"
+toSector = "ed/CL"
+remarks = "Or Below"
 
 [[agreements]]
-cop = "IRKIS"
-level = 290
-adep = ["EDDV", "EDVE"]
-transferType = "C"
+level = 320
+ades = ["EDDG", "EDLW", "EDLA"]
 vertical = false
-fromSector = "ed/CEL"
-toSector = "ed/HOL"
-remarks = ""
+fromSector = "ed/HL"
+toSector = "ed/ML"
+remarks = "Or Below"
 
 [[agreements]]
-cop = "PIROT"
 level = 350
-adep = ["EDDH", "EDHI", "EDHL", "ETMN"]
+ades = ["EDDC", "EDDP EDDN", "EDAB", "EDAC", "EDQ*", "ETIC"]
 vertical = false
-fromSector = "ed/CEL"
-toSector = "ed/SOL"
-remarks = ""
+fromSector = "ed/ML"
+toSector = "ed/CL"
+remarks = "Or Below"
 
 [[agreements]]
-cop = "HLZ"
 level = 350
-adep = ["EDDH", "EDHI", "EDHL", "ETMN"]
+ades = ["EDDC", "EDDP EDDN", "EDAB", "EDAC", "EDQ*", "ETIC"]
 vertical = false
-fromSector = "ed/CEL"
-toSector = "ed/SOL"
-remarks = ""
+fromSector = "ed/ML"
+toSector = "ed/SL"
+remarks = "Or Below"
 
 [[agreements]]
-cop = "SAS"
-level = 290
-adep = ["EDDW"]
-transferType = "C"
+level = 330
+ades = ["EDDV", "EDDW", "EDVK", "EDWE", "EDWF", "EDWI", "ETND", "ETNW"]
 vertical = false
-fromSector = "ed/CEL"
-toSector = "ed/SOL"
-remarks = ""
+fromSector = "ed/RL"
+toSector = "ed/ML"
+remarks = "Or Below"
 
 [[agreements]]
-cop = "DCT"
-level = 245
-ades = ["MUAC GENERAL RELEASE"]
-transferType = "C"
+level = 280
+ades = ["EBBR", "EBAW", "EBCI", "EBCV", "EBLG", "EBMB", "ELLX"]
 vertical = false
-fromSector = "ed/JEV,HOL,CEL,SOL,MUN,RHR"
-toSector = "ed/JEV,HOL,CEL,SOL,MUN,RHR"
-remarks = "DCTs without coordination to last fix inside MUAC boundary.\n\n"
+fromSector = "ed/ML"
+toSector = "ed/RL"
+remarks = "Or Below"
 
 [[agreements]]
-cop = "DCT"
-level = 245
-ades = ["MUAC GENERAL RELEASE"]
-transferType = "C"
+level = 330
+ades = ["EDDH", "EDHI", "EDHK", "EDHL", "EDXR"]
 vertical = false
-fromSector = "ed/JEV,HOL,CEL,SOL,MUN,RHR"
-toSector = "ed/YD (EHAA MUAC SECTOR)"
-remarks = "DCT: NOGRO, GALSO, ABNED, RAVLO, SPY, MIMVA, LONAM, GODOS, MIMVA, KOLAG."
+fromSector = "ed/SL"
+toSector = "ed/CL"
+remarks = "Or Below"
+
+[[agreements]]
+level = 340
+ades = ["EBBR", "EBAW", "EBCI", "EBCV", "EBLG", "EBMB", "ELLX"]
+vertical = false
+fromSector = "ed/SL"
+toSector = "ed/ML"
+remarks = "Or Below"
+
+[[agreements]]
+level = 280
+ades = ["EHBK", "EHEH", "EHTE", "EHBD", "EHLE"]
+vertical = false
+fromSector = "ed/SL"
+toSector = "ed/ML"
+remarks = "Or Below"

@@ -13,7 +13,7 @@ level = 130
 adep = ["EDDF"]
 transferType = "C"
 vertical = false
-fromSector = "ed/DFN"
+fromSector = "ed/DFAN"
 toSector = "ed/GIN"
 remarks = "MARUN SIDs. Released for turns and climb"
 
@@ -165,7 +165,7 @@ transferType = "C"
 vertical = false
 fromSector = "ed/BOT"
 toSector = "ed/HMM"
-remarks = "released"
+remarks = "released; BOT may clear traffic on MEVEL SID direct to MEVEL"
 
 [[agreements]]
 cop = "BAMSU"
@@ -342,12 +342,12 @@ remarks = "ROLIS C-STAR, released, transfer before FFM"
 
 [[agreements]]
 cop = "KUSOM"
-level = 110
+level = 130
 adep = ["EDDF"]
 vertical = false
 fromSector = "ed/DFDN"
 toSector = "ed/TAU"
-remarks = "COP at level"
+remarks = "KUSOM at or above FL110"
 
 [[agreements]]
 cop = "OBOKA"
@@ -544,22 +544,13 @@ toSector = "ed/DFAS"
 remarks = "COP at level (EBIPA)"
 
 [[agreements]]
-cop = "OSPUL (A/D)"
-level = 100
-ades = ["EDDF"]
-vertical = false
-fromSector = "ed/TAU"
-toSector = "ed/DFAN"
-remarks = "For DIXAT/ROLIS A and D STAR. COP at level"
-
-[[agreements]]
-cop = "OSPUL (B/C)"
+cop = "OSPUL"
 level = 120
 ades = ["EDDF"]
 vertical = false
 fromSector = "ed/TAU"
 toSector = "ed/DFAN"
-remarks = "For DIXAT/ROLIS B and C STAR. COP at level"
+remarks = "B-STAR (25)/C-STAR (07); COP at level"
 
 [[agreements]]
 cop = "KERAX (A)"
@@ -591,7 +582,7 @@ toSector = "ed/DFAN"
 remarks = "COP at level (GED)"
 
 [[agreements]]
-cop = "DITAN"
+cop = "DITAM"
 level = 200
 adep = ["EDDF"]
 transferType = "C"
@@ -975,20 +966,20 @@ remarks = "released"
 [[agreements]]
 cop = "BADGO"
 level = 140
-levelAt = [0, "BADGO"]
 ades = ["EDLW"]
 vertical = false
 fromSector = "ed/PADH"
 toSector = "ed/PADL"
+remarks = "COP at level"
 
 [[agreements]]
 cop = "TINSA"
 level = 140
-levelAt = [-10, "TINSA"]
 ades = ["EDLW"]
 vertical = false
 fromSector = "ed/PADH"
 toSector = "ed/PADL"
+remarks = "10Nm prior COP at level"
 
 [[agreements]]
 cop = "EXOBA"
@@ -1000,22 +991,13 @@ toSector = "ed/PADL"
 remarks = ""
 
 [[agreements]]
-cop = "ESADU"
+cop = "ESADU,PELUN"
 level = 140
-levelAt = [-10, "ESADU"]
 ades = ["EDVK"]
 vertical = false
 fromSector = "ed/PADH"
 toSector = "ed/PADL"
-
-[[agreements]]
-cop = "PELUN"
-level = 140
-levelAt = [-10, "PELUN"]
-ades = ["EDVK"]
-vertical = false
-fromSector = "ed/PADH"
-toSector = "ed/PADL"
+remarks = "10 NM prior COP at level"
 
 [[agreements]]
 cop = "HMM"
@@ -1376,3 +1358,12 @@ vertical = false
 fromSector = "ed/NOR"
 toSector = "ed/RUD"
 remarks = ""
+
+[[agreements]]
+cop = "OSPUL"
+level = 100
+ades = ["EDDF"]
+vertical = false
+fromSector = "ed/TAU"
+toSector = "ed/DFAN"
+remarks = "A-STAR (25)/D-STAR (07); COP at level"
