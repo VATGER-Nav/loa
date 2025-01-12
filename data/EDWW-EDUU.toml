@@ -2,331 +2,258 @@
 cop = "PEROM"
 level = 280
 adep = ["EKCH", "EKRK", "ESMS"]
-vertical = false
 fromSector = "ed/MRZ"
 toSector = "ed/OSE1"
-remarks = ""
 
 [[agreements]]
 cop = "ARGAD"
 level = 280
 adep = ["EKCH", "EKRK", "ESMS"]
-vertical = false
 fromSector = "ed/MRZ"
 toSector = "ed/OSE1"
-remarks = ""
 
 [[agreements]]
 cop = "NONSA"
 level = 280
 adep = ["EKRN"]
-vertical = false
 fromSector = "ed/MRZ"
 toSector = "ed/OSE1"
-remarks = ""
 
 [[agreements]]
 cop = "GASBO"
 level = 280
 adep = ["EDDH", "EDHI", "EDHK"]
-vertical = false
 fromSector = "ed/MRZ"
 toSector = "ed/OSE1"
-remarks = ""
 
 [[agreements]]
 cop = "KUBAB"
 level = 280
 adep = ["EDDH", "EDHI", "EDHK"]
-vertical = false
 fromSector = "ed/MRZ"
 toSector = "ed/OSE1"
-remarks = ""
 
 [[agreements]]
 cop = "NONSA"
 level = 280
 adep = ["EDHL"]
-vertical = false
 fromSector = "ed/MRZ"
 toSector = "ed/OSE1"
-remarks = ""
 
 [[agreements]]
 cop = "GEVNI"
 level = 280
 adep = ["EDHL"]
-vertical = false
 fromSector = "ed/MRZ"
 toSector = "ed/OSE1"
-remarks = ""
 
 [[agreements]]
 cop = "TAGOB"
 level = 280
 adep = ["EDDV", "EDVE", "ETNW"]
-vertical = false
 fromSector = "ed/MRZ"
 toSector = "ed/OSE1"
-remarks = ""
 
 [[agreements]]
 cop = "KUBAB"
 level = 280
 adep = ["EDDV", "EDVE", "ETNW"]
-vertical = false
 fromSector = "ed/MRZ"
 toSector = "ed/OSE1"
-remarks = ""
 
 [[agreements]]
 cop = "MASOR"
 level = 280
 adep = ["EDAY"]
-vertical = false
 fromSector = "ed/MRZ"
 toSector = "ed/OSE1"
-remarks = ""
 
 [[agreements]]
 cop = "KUBAB"
 level = 280
 adep = ["EPSC"]
-vertical = false
 fromSector = "ed/MRZ"
 toSector = "ed/OSE1"
-remarks = ""
 
 [[agreements]]
 cop = "NONSA"
 level = 280
 adep = ["EPSC"]
-vertical = false
 fromSector = "ed/MRZ"
 toSector = "ed/OSE1"
-remarks = ""
 
 [[agreements]]
 cop = "ARGAD"
 level = 280
 adep = ["EPSC"]
-vertical = false
 fromSector = "ed/MRZ"
 toSector = "ed/OSE1"
-remarks = ""
 
 [[agreements]]
 cop = "PODUS"
 level = 280
 adep = ["EPSC"]
-vertical = false
 fromSector = "ed/MAR"
 toSector = "ed/OSE1"
-remarks = ""
 
 [[agreements]]
 cop = "BEKBA"
 level = 280
 adep = ["EDDB"]
-vertical = false
 fromSector = "ed/MAR"
 toSector = "ed/OSE1"
-remarks = ""
 
 [[agreements]]
 cop = "RAKIT"
 level = 280
 adep = ["EDDB"]
-vertical = false
 fromSector = "ed/MAR"
 toSector = "ed/OSE1"
-remarks = ""
 
 [[agreements]]
 cop = "ERNUD"
 level = 280
 adep = ["EDDB"]
-vertical = false
 fromSector = "ed/MAR"
 toSector = "ed/OSE1"
-remarks = ""
 
 [[agreements]]
 cop = "VIBIS"
 level = 280
 adep = ["EDAY"]
-vertical = false
 fromSector = "ed/MAR"
 toSector = "ed/OSE1"
-remarks = ""
 
 [[agreements]]
 cop = "RAKIT"
 level = 280
 adep = ["EDAZ"]
-vertical = false
 fromSector = "ed/MAR"
 toSector = "ed/OSE1"
-remarks = ""
 
 [[agreements]]
 cop = "OSROC"
 level = 280
 adep = ["EPSC"]
-vertical = false
 fromSector = "ed/MAR"
 toSector = "ed/HVL1"
-remarks = ""
 
 [[agreements]]
 cop = "BIRMO"
 level = 280
 adep = ["EDDH", "EDHI", "EDHL", "EDHK"]
-vertical = false
 fromSector = "ed/MAR"
 toSector = "ed/HVL1"
-remarks = ""
 
 [[agreements]]
 cop = "RUPIR"
 level = 280
 adep = ["ETNL", "EDAH", "EDBH", "EDBN"]
-vertical = false
 fromSector = "ed/MAR"
 toSector = "ed/HVL1"
-remarks = ""
 
 [[agreements]]
 cop = "IDOWO"
 level = 280
 adep = ["ETNL", "EDAH", "EDBH", "EDBN"]
-vertical = false
 fromSector = "ed/MAR"
 toSector = "ed/HVL1"
-remarks = ""
 
 [[agreements]]
 cop = "OSROC"
 level = 280
 adep = ["ETNL", "EDAH", "EDBH", "EDBN"]
-vertical = false
 fromSector = "ed/MAR"
 toSector = "ed/HVL1"
-remarks = ""
 
 [[agreements]]
 cop = "SOGMA"
 level = 280
 adep = ["ETNL", "EDAH", "EDBH", "EDBN"]
-vertical = false
 fromSector = "ed/MAR"
 toSector = "ed/HVL1"
-remarks = ""
 
 [[agreements]]
 cop = "ADLIR"
 level = 280
 adep = ["EPPO", "EPZG"]
-vertical = false
 fromSector = "ed/FLG"
 toSector = "ed/HVL1"
-remarks = ""
 
 [[agreements]]
 cop = "SONUD"
 level = 280
 adep = ["EPPO", "EPZG"]
-vertical = false
 fromSector = "ed/FLG"
 toSector = "ed/HVL1"
-remarks = ""
 
 [[agreements]]
 cop = "OBANI"
 level = 280
 adep = ["EDDP"]
-vertical = false
 fromSector = "ed/FLG"
 toSector = "ed/HVL1"
-remarks = ""
 
 [[agreements]]
 cop = "GERGA"
 level = 280
 adep = ["EDDC", "EDAB"]
-vertical = false
 fromSector = "ed/FLG"
 toSector = "ed/HVL1"
-remarks = ""
 
 [[agreements]]
 cop = "MAG"
 level = 280
 adep = ["EDDC"]
-vertical = false
 fromSector = "ed/BOR"
 toSector = "ed/HVL1"
-remarks = ""
 
 [[agreements]]
 cop = "MAG"
 level = 280
 adep = ["EDDV", "EDVK", "ETNW"]
-vertical = false
 fromSector = "ed/BOR"
 toSector = "ed/HVL1"
-remarks = ""
 
 [[agreements]]
 cop = "KOSIX"
 level = 280
 adep = ["EDVE"]
-vertical = false
 fromSector = "ed/BOR"
 toSector = "ed/HVL1"
-remarks = ""
 
 [[agreements]]
 cop = "LULUL"
 level = 280
 adep = ["EDVE"]
-vertical = false
 fromSector = "ed/BOR"
 toSector = "ed/HVL1"
-remarks = ""
 
 [[agreements]]
 cop = "BUREL"
 level = 280
 adep = ["EDDE"]
-vertical = false
 fromSector = "ed/BOR"
 toSector = "ed/HVL1"
-remarks = ""
 
 [[agreements]]
 cop = "LEGDA"
 level = 280
 adep = ["EDDE"]
-vertical = false
 fromSector = "ed/BOR"
 toSector = "ed/HVL1"
-remarks = ""
 
 [[agreements]]
 cop = "PENEK"
 level = 280
 adep = ["EDDP"]
-vertical = false
 fromSector = "ed/BOR"
 toSector = "ed/HVL1"
-remarks = ""
 
 [[agreements]]
 cop = "HLZ"
 level = 280
 adep = ["EDDB", "EDAY"]
-vertical = false
 fromSector = "ed/BOR"
 toSector = "ed/HVL1"
 remarks = "Departures EDDB via HLZ or POVEL abeam BUREL at FL240. Otherwise, ACC Bremen sector BOR shall coordinate immediately with UAC sector HVL, due to suspended silent transfer procedure."
@@ -335,7 +262,6 @@ remarks = "Departures EDDB via HLZ or POVEL abeam BUREL at FL240. Otherwise, ACC
 cop = "POVEL"
 level = 280
 adep = ["EDDB", "EDAY"]
-vertical = false
 fromSector = "ed/BOR"
 toSector = "ed/HVL1"
 remarks = "Departures EDDB via HLZ or POVEL abeam BUREL at FL240. Otherwise, ACC Bremen sector BOR shall coordinate immediately with UAC sector HVL, due to suspended silent transfer procedure."
@@ -344,7 +270,6 @@ remarks = "Departures EDDB via HLZ or POVEL abeam BUREL at FL240. Otherwise, ACC
 cop = "ABGUS"
 level = 280
 adep = ["EDDB", "EDAY"]
-vertical = false
 fromSector = "ed/BOR"
 toSector = "ed/HVL1"
-remarks = ""
+

@@ -2,34 +2,27 @@
 cop = "GESKA"
 level = 280
 ades = ["EKCH", "EKRK"]
-vertical = false
 fromSector = "ed/HL"
 toSector = "ek/EKDB"
-remarks = ""
 
 [[agreements]]
 cop = "MEGAR"
 level = 270
 adep = ["EDDH", "EDHI", "EDHL"]
-vertical = false
 fromSector = "ed/HL"
 toSector = "ek/EKDA"
-remarks = ""
 
 [[agreements]]
 cop = "ALS"
 level = 270
 adep = ["EDDH", "EDHI", "EDHL"]
-vertical = false
 fromSector = "ed/HL"
 toSector = "ek/EKDS"
-remarks = ""
 
 [[agreements]]
 cop = "ATTUS"
 level = 270
 adep = ["EDDH", "EDHI", "EDHL"]
-vertical = false
 fromSector = "ed/HL"
 toSector = "ek/EKDS"
-remarks = ""
+

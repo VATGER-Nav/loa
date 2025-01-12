@@ -3,53 +3,42 @@ cop = "EEL"
 level = 180
 ades = ["EHLE"]
 transferType = "D"
-vertical = false
 fromSector = "ed/EIDW"
 toSector = "eh/EHAE"
-remarks = ""
 
 [[agreements]]
 cop = "EEL"
 level = 180
 ades = ["EHLE"]
 transferType = "D"
-vertical = false
 fromSector = "ed/FRI"
 toSector = "eh/EHAE"
-remarks = ""
 
 [[agreements]]
 cop = "TEMLU"
 level = 70
 ades = ["EHGG"]
-vertical = false
 fromSector = "ed/EIDW"
 toSector = "eh/EHGG APP"
-remarks = ""
 
 [[agreements]]
 cop = "OLWOF"
 level = 70
 ades = ["EHGG"]
-vertical = false
 fromSector = "ed/EIDW"
 toSector = "eh/EHGG APP"
-remarks = ""
 
 [[agreements]]
 cop = "KUBAT"
 level = 70
 ades = ["EHGG"]
-vertical = false
 fromSector = "ed/EIDW"
 toSector = "eh/EHGG APP"
-remarks = ""
 
 [[agreements]]
 cop = "DOBAK"
 level = 70
 ades = ["EHGG"]
-vertical = false
 fromSector = "ed/FRI"
 toSector = "eh/EHGG APP"
-remarks = ""
+

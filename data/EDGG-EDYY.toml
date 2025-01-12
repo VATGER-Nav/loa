@@ -2,7 +2,6 @@
 cop = "OBOKA"
 level = 260
 adep = ["EDDF", "EDFE"]
-vertical = false
 fromSector = "ed/NOR"
 toSector = "ed/RL"
 remarks = "NOR sector responsible for separation between this flow and outbounds Brussels FIR"
@@ -11,25 +10,20 @@ remarks = "NOR sector responsible for separation between this flow and outbounds
 cop = "OSN"
 level = 240
 adep = ["EDLP"]
-vertical = false
 fromSector = "ed/HMM"
 toSector = "ed/ML"
-remarks = ""
 
 [[agreements]]
 cop = "MEVEL"
 level = 240
 adep = ["EDDL", "EDL*"]
-vertical = false
 fromSector = "ed/HMM"
 toSector = "ed/ML"
-remarks = ""
 
 [[agreements]]
 cop = "ELDAR"
 level = 240
 adep = ["EBBU"]
-vertical = false
 fromSector = "ed/NOR"
 toSector = "ed/RL"
 remarks = "NOR sector responsible for separation between this flow and outbound EDDF, EDFE"
@@ -38,7 +32,6 @@ remarks = "NOR sector responsible for separation between this flow and outbound 
 cop = "LUSIX"
 level = 240
 adep = ["EHEH", "EHBK"]
-vertical = false
 fromSector = "ed/BOT"
 toSector = "ed/RL"
 remarks = "released DCT GMH/HMM/OSDIK (clear of other sectors)"
@@ -47,16 +40,13 @@ remarks = "released DCT GMH/HMM/OSDIK (clear of other sectors)"
 cop = "AMOSU"
 level = 240
 adep = ["EDLP", "EDDG", "ELDS"]
-vertical = false
 fromSector = "ed/BOT"
 toSector = "ed/RL"
-remarks = ""
 
 [[agreements]]
 cop = "PELUN"
 level = 240
 adep = ["EDDK"]
-vertical = false
 fromSector = "ed/PADH"
 toSector = "ed/SL"
 remarks = "Only applicable to flights with a RFL above FL245;  traffic may be cleared DCT WRB by EDGG"
@@ -65,7 +55,5 @@ remarks = "Only applicable to flights with a RFL above FL245;  traffic may be cl
 cop = "BAGDO"
 level = 240
 adep = ["EDDF", "EDFE"]
-vertical = false
 fromSector = "ed/PADH"
 toSector = "ed/ML"
-remarks = ""

@@ -1,7 +1,6 @@
 [[agreements]]
 level = 330
 ades = ["EDDC", "EDDP EDDN", "EDAB", "EDAC", "EDQ*", "ETIC"]
-vertical = false
 fromSector = "ed/CL"
 toSector = "ed/SL"
 remarks = "Or Below"
@@ -9,7 +8,6 @@ remarks = "Or Below"
 [[agreements]]
 level = 320
 ades = ["EDDK"]
-vertical = false
 fromSector = "ed/CL"
 toSector = "ed/SL"
 remarks = "Or Below"
@@ -17,7 +15,6 @@ remarks = "Or Below"
 [[agreements]]
 level = 300
 ades = ["EDDR", "EDFH", "EDFM", "EDFV", "EDGS", "EDRY", "EDRZ", "ETAR"]
-vertical = false
 fromSector = "ed/CL"
 toSector = "ed/SL"
 remarks = "Or Below"
@@ -25,7 +22,6 @@ remarks = "Or Below"
 [[agreements]]
 level = 320
 ades = ["EDDL", "EDDG", "EDLA", "EDLD", "EDLW", "EDLV", "ETNG", "EHTW", "EHBD", "EHEH", "EHBK"]
-vertical = false
 fromSector = "ed/HL"
 toSector = "ed/CL"
 remarks = "Or Beow"
@@ -33,7 +29,6 @@ remarks = "Or Beow"
 [[agreements]]
 level = 320
 ades = ["EDDL", "EDDG", "EDLA", "EDLD", "EDLW", "EDLV", "ETNG", "EHTW", "EHBD", "EHEH", "EHBK"]
-vertical = false
 fromSector = "ed/HL"
 toSector = "ed/CL"
 remarks = "Or Below"
@@ -41,7 +36,6 @@ remarks = "Or Below"
 [[agreements]]
 level = 320
 ades = ["EDDB", "EDDP", "EDAE", "EDAV", "EDAY", "EDAZ", "EDBW", "EDON", "EDBC"]
-vertical = false
 fromSector = "ed/HL"
 toSector = "ed/CL"
 remarks = "Or Below"
@@ -49,7 +43,6 @@ remarks = "Or Below"
 [[agreements]]
 level = 330
 ades = ["EDVK", "EDLP", "EDFQ"]
-vertical = false
 fromSector = "ed/HL"
 toSector = "ed/CL"
 remarks = "Or Below"
@@ -57,7 +50,6 @@ remarks = "Or Below"
 [[agreements]]
 level = 320
 ades = ["EDDG", "EDLW", "EDLA"]
-vertical = false
 fromSector = "ed/HL"
 toSector = "ed/ML"
 remarks = "Or Below"
@@ -65,7 +57,6 @@ remarks = "Or Below"
 [[agreements]]
 level = 350
 ades = ["EDDC", "EDDP EDDN", "EDAB", "EDAC", "EDQ*", "ETIC"]
-vertical = false
 fromSector = "ed/ML"
 toSector = "ed/CL"
 remarks = "Or Below"
@@ -73,7 +64,6 @@ remarks = "Or Below"
 [[agreements]]
 level = 350
 ades = ["EDDC", "EDDP EDDN", "EDAB", "EDAC", "EDQ*", "ETIC"]
-vertical = false
 fromSector = "ed/ML"
 toSector = "ed/SL"
 remarks = "Or Below"
@@ -81,7 +71,6 @@ remarks = "Or Below"
 [[agreements]]
 level = 330
 ades = ["EDDV", "EDDW", "EDVK", "EDWE", "EDWF", "EDWI", "ETND", "ETNW"]
-vertical = false
 fromSector = "ed/RL"
 toSector = "ed/ML"
 remarks = "Or Below"
@@ -89,7 +78,6 @@ remarks = "Or Below"
 [[agreements]]
 level = 280
 ades = ["EBBR", "EBAW", "EBCI", "EBCV", "EBLG", "EBMB", "ELLX"]
-vertical = false
 fromSector = "ed/ML"
 toSector = "ed/RL"
 remarks = "Or Below"
@@ -97,7 +85,6 @@ remarks = "Or Below"
 [[agreements]]
 level = 330
 ades = ["EDDH", "EDHI", "EDHK", "EDHL", "EDXR"]
-vertical = false
 fromSector = "ed/SL"
 toSector = "ed/CL"
 remarks = "Or Below"
@@ -105,7 +92,6 @@ remarks = "Or Below"
 [[agreements]]
 level = 340
 ades = ["EBBR", "EBAW", "EBCI", "EBCV", "EBLG", "EBMB", "ELLX"]
-vertical = false
 fromSector = "ed/SL"
 toSector = "ed/ML"
 remarks = "Or Below"
@@ -113,7 +99,6 @@ remarks = "Or Below"
 [[agreements]]
 level = 280
 ades = ["EHBK", "EHEH", "EHTE", "EHBD", "EHLE"]
-vertical = false
 fromSector = "ed/SL"
 toSector = "ed/ML"
 remarks = "Or Below"

@@ -3,37 +3,30 @@ cop = "DHE"
 level = 250
 ades = ["EDDH", "EDHI", "EDHL", "ETMN"]
 transferType = "D"
-vertical = false
 fromSector = "ed/JL"
 toSector = "ed/EIDW"
-remarks = ""
 
 [[agreements]]
 cop = "DHE"
 level = 250
 ades = ["EDXW", "EDXF"]
 transferType = "D"
-vertical = false
 fromSector = "ed/JL"
 toSector = "ed/EIDW"
-remarks = ""
 
 [[agreements]]
 cop = "GOLEN"
 level = 250
 ades = ["EDXW", "EDXF"]
 transferType = "D"
-vertical = false
 fromSector = "ed/JL"
 toSector = "ed/EIDW"
-remarks = ""
 
 [[agreements]]
 cop = "LEGPI"
 level = 250
 ades = ["EKBI", "EKSP", "EKEB", "EKVD", "EKVJ"]
 transferType = "D"
-vertical = false
 fromSector = "ed/JL"
 toSector = "ed/EIDW"
 remarks = "EKBI Inbounds are released direct LOKSA RWY 27 or GELBA RWY 09"
@@ -43,27 +36,22 @@ cop = "WELGO"
 level = 250
 ades = ["EHGG", "EHLE"]
 transferType = "D"
-vertical = false
 fromSector = "ed/JL"
 toSector = "ed/EIDW"
-remarks = ""
 
 [[agreements]]
 cop = "DHE"
 level = 250
 ades = ["EHGG", "EHLE"]
 transferType = "D"
-vertical = false
 fromSector = "ed/JL"
 toSector = "ed/EIDW"
-remarks = ""
 
 [[agreements]]
 cop = "DHE"
 level = 250
 ades = ["EKPB", "EKSB", "EKOD"]
 transferType = "D"
-vertical = false
 fromSector = "ed/JL"
 toSector = "ed/EIDE"
 remarks = "Cross FL250 25 NM after DHE"
@@ -73,7 +61,6 @@ cop = "POBZU"
 level = 260
 ades = ["EDDH", "EDHI", "EDHL", "ETMN", "EDHK", "EDXR"]
 transferType = "D"
-vertical = false
 fromSector = "ed/JL"
 toSector = "ed/ALR"
 remarks = "RLSD for Descent and Turns"
@@ -83,7 +70,6 @@ cop = "AKZOM"
 level = 250
 ades = ["EDDW", "ETND"]
 transferType = "D"
-vertical = false
 fromSector = "ed/JL"
 toSector = "ed/FRI"
 remarks = "Cross FL250 15 NM after AKZOM"
@@ -93,7 +79,6 @@ cop = "EKERN"
 level = 250
 ades = ["EDXW"]
 transferType = "D"
-vertical = false
 fromSector = "ed/HL"
 toSector = "ed/EIDE"
 remarks = "EIDE may request earlier descent"
@@ -103,17 +88,14 @@ cop = "BADOS"
 level = 250
 ades = ["EDXW"]
 transferType = "D"
-vertical = false
 fromSector = "ed/HL"
 toSector = "ed/EIDE"
-remarks = ""
 
 [[agreements]]
 cop = "EKERN"
 level = 250
 ades = ["EKBI", "EKVS", "EKVJ", "EKEB", "EKPB", "EKSB", "EKSP", "EKOD"]
 transferType = "D"
-vertical = false
 fromSector = "ed/HL"
 toSector = "ed/EIDE"
 remarks = "EKBI Inbounds are released direct LOKSA RWY 27 or GELBA RWY 09"
@@ -123,17 +105,14 @@ cop = "BADOS"
 level = 250
 ades = ["EKSP", "EKOD"]
 transferType = "D"
-vertical = false
 fromSector = "ed/HL"
 toSector = "ed/EIDE"
-remarks = ""
 
 [[agreements]]
 cop = "SIMAF"
 level = 247
 ades = ["EDWF", "EDWE", "EDWI", "EHGG", "EHLE"]
 transferType = "D"
-vertical = false
 fromSector = "ed/HL"
 toSector = "ed/ALR"
 remarks = "HOL shall coordinate LVL with ALR"
@@ -143,87 +122,70 @@ cop = "ELSOB"
 level = 250
 ades = ["EDDW", "ETND"]
 transferType = "D"
-vertical = false
 fromSector = "ed/HL"
 toSector = "ed/ALR"
-remarks = ""
 
 [[agreements]]
 cop = "ELSOB"
 level = 250
 ades = ["EDVE", "EDXF"]
 transferType = "D"
-vertical = false
 fromSector = "ed/HL"
 toSector = "ed/ALR"
-remarks = ""
 
 [[agreements]]
 cop = "ELSOB"
 level = 250
 ades = ["EDDV", "ETNW"]
 transferType = "D"
-vertical = false
 fromSector = "ed/HL"
 toSector = "ed/ALR"
-remarks = ""
 
 [[agreements]]
 cop = "RAMAR"
 level = 250
 ades = ["EDDV", "ETNW"]
 transferType = "D"
-vertical = false
 fromSector = "ed/HL"
 toSector = "ed/HEI"
-remarks = ""
 
 [[agreements]]
 cop = "AMLUH"
 level = 250
 ades = ["ETMN"]
 transferType = "D"
-vertical = false
 fromSector = "ed/HL"
 toSector = "ed/HEI"
-remarks = ""
 
 [[agreements]]
 cop = "RAMAR"
 level = 250
 ades = ["EDVE"]
 transferType = "D"
-vertical = false
 fromSector = "ed/HL"
 toSector = "ed/HEI"
-remarks = ""
 
 [[agreements]]
 cop = "HAM"
 level = 250
 ades = ["EDVE", "EDXF"]
 transferType = "D"
-vertical = false
 fromSector = "ed/HL"
 toSector = "ed/HEI"
-remarks = ""
 
 [[agreements]]
 cop = "BERIM"
 level = 250
 ades = ["ETNL", "EDBN", "EDBH", "EDAH"]
 transferType = "D"
-vertical = false
 fromSector = "ed/HL"
 toSector = "ed/MRZ"
-remarks = ""
 
 [[agreements]]
 cop = "SAS"
 level = 250
 ades = ["EDDH", "EDHI", "EDHL", "EDHK", "ETMN", "EDXR"]
 transferType = "D"
-vertical = false
 fromSector = "ed/CL"
 toSector = "ed/HEI"
 remarks = "Cross FL250 at MADOR"
@@ -233,7 +195,6 @@ cop = "DIRBO"
 level = 250
 ades = ["EDDH", "EDHI", "EDHL", "ETMN"]
 transferType = "D"
-vertical = false
 fromSector = "ed/CL"
 toSector = "ed/HEI"
 remarks = "May be cleared DCT RARUP"
@@ -243,126 +204,101 @@ cop = "DIRBO"
 level = 250
 ades = ["EDHK", "EDXR"]
 transferType = "D"
-vertical = false
 fromSector = "ed/CL"
 toSector = "ed/HEI"
-remarks = ""
 
 [[agreements]]
 cop = "ROBEG"
 level = 250
 ades = ["EDVE"]
 transferType = "D"
-vertical = false
 fromSector = "ed/CL"
 toSector = "ed/EMS"
-remarks = ""
 
 [[agreements]]
 cop = "ROBEG"
 level = 250
 ades = ["EDDG", "EDLW", "EDLA", "EHTW", "EHLE"]
 transferType = "D"
-vertical = false
 fromSector = "ed/CL"
 toSector = "ed/EMS"
-remarks = ""
 
 [[agreements]]
 cop = "ENUGA"
 level = 250
 ades = ["EDDL", "EDDG", "EDLA", "EDLW", "EDLD", "EDLV", "ETNG", "EHBK", "EHEH", "EHTW", "EHBD"]
 transferType = "D"
-vertical = false
 fromSector = "ed/CL"
 toSector = "ed/EMS"
-remarks = ""
 
 [[agreements]]
 cop = "ROBEG"
 level = 250
 ades = ["EDVK", "EDLI"]
 transferType = "D"
-vertical = false
 fromSector = "ed/CL"
 toSector = "ed/EMS"
-remarks = ""
 
 [[agreements]]
 cop = "PIROT"
 level = 250
 ades = ["EDLP", "EDLI"]
 transferType = "D"
-vertical = false
 fromSector = "ed/CL"
 toSector = "ed/DST"
-remarks = ""
 
 [[agreements]]
 cop = "PIROT"
 level = 250
 ades = ["EDLP", "EDFQ"]
 transferType = "D"
-vertical = false
 fromSector = "ed/CL"
 toSector = "ed/DST"
-remarks = ""
 
 [[agreements]]
 cop = "SAS"
 level = 250
 ades = ["EDVK", "EDFQ", "EDLP"]
 transferType = "D"
-vertical = false
 fromSector = "ed/CL"
 toSector = "ed/HRZ"
-remarks = ""
 
 [[agreements]]
 cop = "SAS"
 level = 250
 ades = ["EDBM"]
 transferType = "D"
-vertical = false
 fromSector = "ed/CL"
 toSector = "ed/HRZ"
-remarks = ""
 
 [[agreements]]
 cop = "HLZ"
 level = 250
 ades = ["EDBM"]
 transferType = "D"
-vertical = false
 fromSector = "ed/CL"
 toSector = "ed/HRZ"
-remarks = ""
 
 [[agreements]]
 cop = "GARLU"
 level = 270
 ades = ["ETNL"]
-vertical = false
 fromSector = "ed/CL"
 toSector = "ed/MAR"
-remarks = ""
 
 [[agreements]]
 cop = "GARLU"
 level = 250
 ades = ["EDOP"]
 transferType = "D"
-vertical = false
 fromSector = "ed/CL"
 toSector = "ed/MAR"
-remarks = ""
 
 [[agreements]]
 cop = "BUMIL"
 level = 250
 ades = ["EDDB", "EDAE", "EDAV", "EDAY", "EDAZ", "EDBW", "EDON"]
 transferType = "D"
-vertical = false
 fromSector = "ed/CL"
 toSector = "ed/MAR"
 remarks = "EDDB 06: Leveled FL250 ; EDDB 24: FL270 or below descending FL250"
@@ -372,7 +308,6 @@ cop = "BATEL"
 level = 250
 ades = ["EDDB"]
 transferType = "D"
-vertical = false
 fromSector = "ed/CL"
 toSector = "ed/MAR"
 remarks = "EDDB 06: Leveled FL250 ; EDDB 24: FL270 or below descending FL250"
@@ -381,76 +316,61 @@ remarks = "EDDB 06: Leveled FL250 ; EDDB 24: FL270 or below descending FL250"
 cop = "BATEL"
 level = 250
 ades = ["EDDP"]
-vertical = false
 fromSector = "ed/CL"
 toSector = "ed/MAR"
-remarks = ""
 
 [[agreements]]
 cop = "BUMIL"
 level = 270
 ades = ["EDDP"]
-vertical = false
 fromSector = "ed/CL"
 toSector = "ed/MAR"
-remarks = ""
 
 [[agreements]]
 cop = "NORTA"
 level = 250
 ades = ["EDDW", "EDWE", "EDWI", "EDWF", "ETND"]
 transferType = "D"
-vertical = false
 fromSector = "ed/SL"
 toSector = "ed/HRZ"
-remarks = ""
 
 [[agreements]]
 cop = "DLE"
 level = 250
 ades = ["EDVE"]
 transferType = "D"
-vertical = false
 fromSector = "ed/SL"
 toSector = "ed/HRZ"
-remarks = ""
 
 [[agreements]]
 cop = "POVEL"
 level = 250
 ades = ["EDAC"]
 transferType = "D"
-vertical = false
 fromSector = "ed/SL"
 toSector = "ed/HRZ"
-remarks = ""
 
 [[agreements]]
 cop = "NORTA"
 level = 250
 ades = ["EDDP", "EDDE"]
 transferType = "D"
-vertical = false
 fromSector = "ed/SL"
 toSector = "ed/HRZ"
-remarks = ""
 
 [[agreements]]
 cop = "NORTA"
 level = 250
 ades = ["EDLP"]
 transferType = "D"
-vertical = false
 fromSector = "ed/SL"
 toSector = "ed/HRZ"
-remarks = ""
 
 [[agreements]]
 cop = "WRB"
 level = 250
 ades = ["EDFH", "EDDR", "EDRZ", "EDFM", "EDRY", "EDFV", "EDGS", "ETAR"]
 transferType = "D"
-vertical = false
 fromSector = "ed/SL"
 toSector = "ed/DST"
 remarks = "Cross FL250 15NM prior WRB"
@@ -459,17 +379,14 @@ remarks = "Cross FL250 15NM prior WRB"
 cop = "POVEL"
 level = 250
 ades = ["EDAE", "EDAV", "EDAY", "EDAZ", "EDBW", "EDON"]
-vertical = false
 fromSector = "ed/SL"
 toSector = "ed/BOR"
-remarks = ""
 
 [[agreements]]
 cop = "BASUM"
 level = 250
 ades = ["EDDH", "EDHI", "EDHL", "EDHK", "ETMN", "EDXR"]
 transferType = "D"
-vertical = false
 fromSector = "ed/ML"
 toSector = "ed/ALR"
 remarks = "TFC may be cleared DCT WSN to cross FL250 15 NM prior WSN"
@@ -479,27 +396,22 @@ cop = "BASUM"
 level = 250
 ades = ["EDDG", "EDLW"]
 transferType = "D"
-vertical = false
 fromSector = "ed/ML"
 toSector = "ed/EMS"
-remarks = ""
 
 [[agreements]]
 cop = "OSN"
 level = 250
 ades = ["EDDW", "EDWE", "EDWI", "EDWF", "ETND"]
 transferType = "D"
-vertical = false
 fromSector = "ed/ML"
 toSector = "ed/EMS"
-remarks = ""
 
 [[agreements]]
 cop = "OSN"
 level = 250
 ades = ["EDDV", "EDVK", "ETNW"]
 transferType = "D"
-vertical = false
 fromSector = "ed/ML"
 toSector = "ed/EMS"
 remarks = "Cross FL250 10 NM prior OSN"
@@ -509,7 +421,6 @@ cop = "GEPKO"
 level = 250
 ades = ["EDDV", "ETNW"]
 transferType = "D"
-vertical = false
 fromSector = "ed/ML"
 toSector = "ed/EMS"
-remarks = ""
+

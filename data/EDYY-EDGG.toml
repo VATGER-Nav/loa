@@ -2,16 +2,13 @@
 cop = "RIMET"
 level = 250
 ades = ["EDDF", "EDFE"]
-vertical = false
 fromSector = "ed/SL"
 toSector = "ed/GED"
-remarks = ""
 
 [[agreements]]
 cop = "DF400"
 level = 260
 ades = ["EDDF"]
-vertical = false
 fromSector = "ed/RL"
 toSector = "ed/TAU"
 remarks = "via STAR; must be cleared for DIXAT#A (25)/DIXAT#D (07); released for descent after passing abeam DIXAT"
@@ -20,16 +17,13 @@ remarks = "via STAR; must be cleared for DIXAT#A (25)/DIXAT#D (07); released for
 cop = "DENOL"
 level = 250
 ades = ["EDDL", "EDL*", "EHEH", "EHBK"]
-vertical = false
 fromSector = "ed/CL"
 toSector = "ed/HMM"
-remarks = ""
 
 [[agreements]]
 cop = "HMM"
 level = 250
 ades = ["EDDL", "EDL*", "EHEH", "EHBK"]
-vertical = false
 fromSector = "ed/ML"
 toSector = "ed/HMM"
 remarks = "Traffic shall descend FL250 to be leveled 20 NM prior to HMM\n"
@@ -38,25 +32,20 @@ remarks = "Traffic shall descend FL250 to be leveled 20 NM prior to HMM\n"
 cop = "PODER"
 level = 250
 ades = ["EDDK"]
-vertical = false
 fromSector = "ed/SL"
 toSector = "ed/PADH"
-remarks = ""
 
 [[agreements]]
 cop = "ABAMI"
 level = 250
 ades = ["EBBR", "EBMB", "EBCI", "EBLG", "EBAW", "ELLX"]
-vertical = false
 fromSector = "ed/RL"
 toSector = "ed/BOT"
-remarks = ""
 
 [[agreements]]
 cop = "LIPMI"
 level = 250
 ades = ["EDFE", "ETAR"]
-vertical = false
 fromSector = "ed/RL"
 toSector = "ed/TAU"
-remarks = ""
+

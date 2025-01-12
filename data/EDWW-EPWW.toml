@@ -2,7 +2,6 @@
 cop = "FARCU"
 level = 130
 ades = ["EPSC"]
-vertical = false
 fromSector = "ed/MRZ"
 toSector = "ep/EPSC TMA"
 remarks = "Handoff at least 15 NM before sector border | RLSD for descent and turns"
@@ -11,7 +10,6 @@ remarks = "Handoff at least 15 NM before sector border | RLSD for descent and tu
 cop = "BODLA"
 level = 130
 ades = ["EPSC"]
-vertical = false
 fromSector = "ed/MAR"
 toSector = "ep/EPSC TMA"
 remarks = "Handoff at least 15 NM before sector border | RLSD for descent and turns"
@@ -21,25 +19,20 @@ cop = "ALUKA"
 level = 250
 ades = ["EPKS", "EPPW"]
 transferType = "D"
-vertical = false
 fromSector = "ed/MAR"
 toSector = "ep/EPWB"
-remarks = ""
 
 [[agreements]]
 cop = "SUBIX"
 level = 250
 ades = ["EPKS", "EPPW", "EPZG"]
-vertical = false
 fromSector = "ed/FLG"
 toSector = "ep/EPWD"
-remarks = ""
 
 [[agreements]]
 cop = "ARSAP"
 level = 210
 ades = ["EPPO", "EPZG"]
-vertical = false
 fromSector = "ed/FLG"
 toSector = "ep/EPWD"
 remarks = "If ARSAP Overflow Area is inactive"
@@ -48,45 +41,36 @@ remarks = "If ARSAP Overflow Area is inactive"
 cop = "GOVEN"
 level = 170
 ades = ["EPPO", "EPKS", "EPZG"]
-vertical = false
 fromSector = "ed/FLG"
 toSector = "ep/EPWD"
-remarks = ""
 
 [[agreements]]
 cop = "BINKA"
 level = 90
 adep = ["EDAH"]
-vertical = false
 fromSector = "ed/MRZ"
 toSector = "ep/EPSC TMA"
-remarks = ""
 
 [[agreements]]
 cop = "BINKA"
 level = 150
 adep = ["EDBN"]
-vertical = false
 fromSector = "ed/MRZ"
 toSector = "ep/EPWB"
-remarks = ""
 
 [[agreements]]
 cop = "BINKA"
 level = 270
 adep = ["ETNL", "EDBH"]
 transferType = "C"
-vertical = false
 fromSector = "ed/MRZ"
 toSector = "ep/EPWB"
-remarks = ""
 
 [[agreements]]
 cop = "BODLA"
 level = 270
 adep = ["EDDB"]
 transferType = "C"
-vertical = false
 fromSector = "ed/MAR"
 toSector = "ep/EPWB"
 remarks = "FL230-FL270"
@@ -96,7 +80,6 @@ cop = "ALUKA"
 level = 230
 adep = ["EDDB"]
 transferType = "C"
-vertical = false
 fromSector = "ed/MAR"
 toSector = "ep/EPWB"
 remarks = "FL170-FL230"
@@ -106,7 +89,6 @@ cop = "ALUKA"
 level = 270
 adep = ["EDAZ"]
 transferType = "C"
-vertical = false
 fromSector = "ed/MAR"
 toSector = "ep/EPWB"
 remarks = "FL230-FL270"
@@ -115,26 +97,21 @@ remarks = "FL230-FL270"
 cop = "ALUKA"
 level = 270
 adep = ["ETNL", "EDBH"]
-vertical = false
 fromSector = "ed/MAR"
 toSector = "ep/EPWB"
-remarks = ""
 
 [[agreements]]
 cop = "SUBIX"
 level = 270
 adep = ["EDDC", "EDAB", "EDAC", "EDAZ", "EDBM"]
-vertical = false
 fromSector = "ed/FLG"
 toSector = "ep/EPWD"
-remarks = ""
 
 [[agreements]]
 cop = "ARSAP"
 level = 230
 adep = ["EDDB"]
 transferType = "C"
-vertical = false
 fromSector = "ed/FLG"
 toSector = "ep/EPWD"
 remarks = "FL170-FL230 | If ARSAP Overflow Area is inactive"
@@ -144,7 +121,6 @@ cop = "GOVEN"
 level = 270
 adep = ["EDDC", "EDDP"]
 transferType = "C"
-vertical = false
 fromSector = "ed/FLG"
 toSector = "ep/EPWD"
 remarks = "FL230-FL270"
@@ -153,7 +129,6 @@ remarks = "FL230-FL270"
 cop = "ARSAP"
 level = 210
 ades = ["EPPO", "EPZG"]
-vertical = false
 fromSector = "ed/DBDS"
 toSector = "ep/EPWD"
 remarks = "If ARSAP Overflow Area is active"
@@ -162,26 +137,21 @@ remarks = "If ARSAP Overflow Area is active"
 cop = "BODLA"
 level = 190
 adep = ["EDAY"]
-vertical = false
 fromSector = "ed/MAR"
 toSector = "ep/EPWB"
-remarks = ""
 
 [[agreements]]
 cop = "ALUKA"
 level = 130
 adep = ["EDAY"]
-vertical = false
 fromSector = "ed/DBAN"
 toSector = "ep/EPWB"
-remarks = ""
 
 [[agreements]]
 cop = "ARSAP"
 level = 230
 adep = ["EDDB"]
 transferType = "C"
-vertical = false
 fromSector = "ed/DBDS"
 toSector = "ep/EPWD"
 remarks = "FL170-FL230 | If ARSAP Overflow Area is active"
