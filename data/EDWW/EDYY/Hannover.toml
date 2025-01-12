@@ -136,7 +136,7 @@ remarks = "Clear of HILFE Window"
 [[agreements]]
 cop = "POVEL"
 level = 240
-adep = ["EDBM"]
+adep = ["EDBM", "EDBC"]
 transferType = "C"
 fromSector = "ed/HRZ"
 toSector = "ed/SL"
@@ -193,7 +193,7 @@ toSector = "ed/CL"
 [[agreements]]
 cop = "BUMIL"
 level = 260
-adep = ["EDBM"]
+adep = ["EDBM", "EDBC"]
 transferType = "C"
 fromSector = "ed/MAR"
 toSector = "ed/CL"

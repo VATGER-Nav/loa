@@ -58,7 +58,7 @@ toSector = "ed/BOR"
 [[agreements]]
 cop = "ESIKA"
 level = 100
-adep = ["EDBM"]
+adep = ["EDBM", "EDBC"]
 transferType = "C"
 fromSector = "ed/DBAS"
 toSector = "ed/DBDS"
@@ -294,7 +294,7 @@ remarks = "ARSAP SIDs | If ARSAP Overflow Area is inactive"
 [[agreements]]
 cop = "SONUD"
 level = 160
-adep = ["EDBM"]
+adep = ["EDBM", "EDBC"]
 transferType = "C"
 fromSector = "ed/DBDS"
 toSector = "ed/FLG"

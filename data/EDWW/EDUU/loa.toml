@@ -13,6 +13,20 @@ fromSector = "ed/MRZ"
 toSector = "ed/OSE1"
 
 [[agreements]]
+cop = "USEDU"
+level = 280
+adep = ["EKCH", "EKRK", "ESMS"]
+fromSector = "ed/MRZ"
+toSector = "ed/OSE1"
+
+[[agreements]]
+cop = "NONSA"
+level = 280
+adep = ["EKCH", "EKRK"]
+fromSector = "ed/MRZ"
+toSector = "ed/OSE1"
+
+[[agreements]]
 cop = "NONSA"
 level = 280
 adep = ["EKRN"]
@@ -20,30 +34,23 @@ fromSector = "ed/MRZ"
 toSector = "ed/OSE1"
 
 [[agreements]]
-cop = "GASBO"
+cop = "EBAWE"
 level = 280
-adep = ["EDDH", "EDHI", "EDHK"]
+adep = ["ETNL"]
+fromSector = "ed/MRZ"
+toSector = "ed/OSE1"
+
+[[agreements]]
+cop = "ROSOK"
+level = 280
+adep = ["EDDH", "EDHI", "EDHL"]
 fromSector = "ed/MRZ"
 toSector = "ed/OSE1"
 
 [[agreements]]
 cop = "KUBAB"
 level = 280
-adep = ["EDDH", "EDHI", "EDHK"]
-fromSector = "ed/MRZ"
-toSector = "ed/OSE1"
-
-[[agreements]]
-cop = "NONSA"
-level = 280
-adep = ["EDHL"]
-fromSector = "ed/MRZ"
-toSector = "ed/OSE1"
-
-[[agreements]]
-cop = "GEVNI"
-level = 280
-adep = ["EDHL"]
+adep = ["EDDH", "EDHI", "EDHL", "EDHK"]
 fromSector = "ed/MRZ"
 toSector = "ed/OSE1"
 
@@ -62,28 +69,42 @@ fromSector = "ed/MRZ"
 toSector = "ed/OSE1"
 
 [[agreements]]
-cop = "MASOR"
+cop = "RODEP"
+level = 280
+adep = ["EDDB"]
+fromSector = "ed/MRZ"
+toSector = "ed/OSE1"
+
+[[agreements]]
+cop = "TIRMI"
+level = 280
+adep = ["EDDB"]
+fromSector = "ed/MRZ"
+toSector = "ed/OSE1"
+
+[[agreements]]
+cop = "ITZEG"
+level = 280
+adep = ["EDDB"]
+fromSector = "ed/MRZ"
+toSector = "ed/OSE1"
+
+[[agreements]]
+cop = "RODEP"
 level = 280
 adep = ["EDAY"]
 fromSector = "ed/MRZ"
 toSector = "ed/OSE1"
 
 [[agreements]]
-cop = "KUBAB"
+cop = "PENET"
 level = 280
 adep = ["EPSC"]
 fromSector = "ed/MRZ"
 toSector = "ed/OSE1"
 
 [[agreements]]
-cop = "NONSA"
-level = 280
-adep = ["EPSC"]
-fromSector = "ed/MRZ"
-toSector = "ed/OSE1"
-
-[[agreements]]
-cop = "ARGAD"
+cop = "LEGSA"
 level = 280
 adep = ["EPSC"]
 fromSector = "ed/MRZ"
@@ -97,16 +118,37 @@ fromSector = "ed/MAR"
 toSector = "ed/OSE1"
 
 [[agreements]]
-cop = "BEKBA"
+cop = "KETAP"
 level = 280
-adep = ["EDDB"]
+adep = ["EPSC", "EDAH"]
 fromSector = "ed/MAR"
 toSector = "ed/OSE1"
 
 [[agreements]]
-cop = "RAKIT"
+cop = "PODUS"
 level = 280
-adep = ["EDDB"]
+adep = ["EDAH"]
+fromSector = "ed/MAR"
+toSector = "ed/OSE1"
+
+[[agreements]]
+cop = "LASLU"
+level = 280
+adep = ["EDAH"]
+fromSector = "ed/MAR"
+toSector = "ed/OSE1"
+
+[[agreements]]
+cop = "VIBIS"
+level = 280
+adep = ["EDDH", "EDHI", "EDHL", "EDHK"]
+fromSector = "ed/MAR"
+toSector = "ed/OSE1"
+
+[[agreements]]
+cop = "PABMI"
+level = 280
+adep = ["EDDH", "EDHI", "EDHL"]
 fromSector = "ed/MAR"
 toSector = "ed/OSE1"
 
@@ -125,16 +167,37 @@ fromSector = "ed/MAR"
 toSector = "ed/OSE1"
 
 [[agreements]]
-cop = "RAKIT"
+cop = "RENKI"
 level = 280
 adep = ["EDAZ"]
 fromSector = "ed/MAR"
 toSector = "ed/OSE1"
 
 [[agreements]]
+cop = "ABIKA"
+level = 280
+adep = ["EDAZ"]
+fromSector = "ed/MAR"
+toSector = "ed/OSE1"
+
+[[agreements]]
+cop = "VIBIS"
+level = 280
+adep = ["EDDV", "EDVE", "ETNW"]
+fromSector = "ed/MAR"
+toSector = "ed/OSE1"
+
+[[agreements]]
+cop = "SOGMA"
+level = 280
+adep = ["EDDP", "EDAC", "EDAZ"]
+fromSector = "ed/MAR"
+toSector = "ed/HVL1"
+
+[[agreements]]
 cop = "OSROC"
 level = 280
-adep = ["EPSC"]
+adep = ["EPSC", "ETNL", "EDAH", "EDBH"]
 fromSector = "ed/MAR"
 toSector = "ed/HVL1"
 
@@ -146,44 +209,23 @@ fromSector = "ed/MAR"
 toSector = "ed/HVL1"
 
 [[agreements]]
-cop = "RUPIR"
-level = 280
-adep = ["ETNL", "EDAH", "EDBH", "EDBN"]
-fromSector = "ed/MAR"
-toSector = "ed/HVL1"
-
-[[agreements]]
 cop = "IDOWO"
 level = 280
-adep = ["ETNL", "EDAH", "EDBH", "EDBN"]
+adep = ["EDBN", "ETNL"]
 fromSector = "ed/MAR"
 toSector = "ed/HVL1"
 
 [[agreements]]
-cop = "OSROC"
+cop = "BIRMO"
 level = 280
-adep = ["ETNL", "EDAH", "EDBH", "EDBN"]
+adep = ["ETNL", "EDBN", "EDBH"]
 fromSector = "ed/MAR"
-toSector = "ed/HVL1"
-
-[[agreements]]
-cop = "SOGMA"
-level = 280
-adep = ["ETNL", "EDAH", "EDBH", "EDBN"]
-fromSector = "ed/MAR"
-toSector = "ed/HVL1"
-
-[[agreements]]
-cop = "ADLIR"
-level = 280
-adep = ["EPPO", "EPZG"]
-fromSector = "ed/FLG"
 toSector = "ed/HVL1"
 
 [[agreements]]
 cop = "SONUD"
 level = 280
-adep = ["EPPO", "EPZG"]
+adep = ["EDBM", "EDBC"]
 fromSector = "ed/FLG"
 toSector = "ed/HVL1"
 
@@ -195,7 +237,28 @@ fromSector = "ed/FLG"
 toSector = "ed/HVL1"
 
 [[agreements]]
-cop = "GERGA"
+cop = "KLF"
+level = 280
+adep = ["EDDP"]
+fromSector = "ed/FLG"
+toSector = "ed/HVL1"
+
+[[agreements]]
+cop = "PEPOL"
+level = 280
+adep = ["EDAC"]
+fromSector = "ed/FLG"
+toSector = "ed/HVL1"
+
+[[agreements]]
+cop = "IDOBA"
+level = 280
+adep = ["EDDC", "EDAB"]
+fromSector = "ed/FLG"
+toSector = "ed/HVL1"
+
+[[agreements]]
+cop = "BOLBO"
 level = 280
 adep = ["EDDC", "EDAB"]
 fromSector = "ed/FLG"
@@ -204,7 +267,7 @@ toSector = "ed/HVL1"
 [[agreements]]
 cop = "MAG"
 level = 280
-adep = ["EDDC"]
+adep = ["EDAZ"]
 fromSector = "ed/BOR"
 toSector = "ed/HVL1"
 
@@ -216,28 +279,21 @@ fromSector = "ed/BOR"
 toSector = "ed/HVL1"
 
 [[agreements]]
-cop = "KOSIX"
+cop = "ESIKA"
 level = 280
 adep = ["EDVE"]
 fromSector = "ed/BOR"
 toSector = "ed/HVL1"
 
 [[agreements]]
-cop = "LULUL"
-level = 280
-adep = ["EDVE"]
-fromSector = "ed/BOR"
-toSector = "ed/HVL1"
-
-[[agreements]]
-cop = "BUREL"
+cop = "PENEK"
 level = 280
 adep = ["EDDE"]
 fromSector = "ed/BOR"
 toSector = "ed/HVL1"
 
 [[agreements]]
-cop = "LEGDA"
+cop = "MAG"
 level = 280
 adep = ["EDDE"]
 fromSector = "ed/BOR"
@@ -251,25 +307,31 @@ fromSector = "ed/BOR"
 toSector = "ed/HVL1"
 
 [[agreements]]
-cop = "HLZ"
+cop = "BUREL"
 level = 280
 adep = ["EDDB", "EDAY"]
 fromSector = "ed/BOR"
 toSector = "ed/HVL1"
-remarks = "Departures EDDB via HLZ or POVEL abeam BUREL at FL240. Otherwise, ACC Bremen sector BOR shall coordinate immediately with UAC sector HVL, due to suspended silent transfer procedure."
+remarks = "Coordination required unless TFC at/abeam BUREL at FL240 or higher"
 
 [[agreements]]
-cop = "POVEL"
+cop = "MAG"
 level = 280
 adep = ["EDDB", "EDAY"]
 fromSector = "ed/BOR"
 toSector = "ed/HVL1"
-remarks = "Departures EDDB via HLZ or POVEL abeam BUREL at FL240. Otherwise, ACC Bremen sector BOR shall coordinate immediately with UAC sector HVL, due to suspended silent transfer procedure."
+remarks = "Coordination required unless TFC at/abeam BUREL at FL240 or higher"
 
 [[agreements]]
-cop = "ABGUS"
+cop = "LUPAK"
 level = 280
-adep = ["EDDB", "EDAY"]
+adep = ["ETSH"]
 fromSector = "ed/BOR"
 toSector = "ed/HVL1"
 
+[[agreements]]
+cop = "PENEK"
+level = 280
+adep = ["ETSH"]
+fromSector = "ed/BOR"
+toSector = "ed/HVL1"

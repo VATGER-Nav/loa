@@ -94,7 +94,7 @@ toSector = "ed/HRZ"
 [[agreements]]
 cop = "KENIG"
 level = 90
-ades = ["EDBM"]
+ades = ["EDBM", "EDBC"]
 fromSector = "ed/TRN"
 toSector = "ed/BOR"
 
@@ -108,7 +108,7 @@ toSector = "ed/BOR"
 [[agreements]]
 cop = "LORBO"
 level = 80
-ades = ["EDBM"]
+ades = ["EDBM", "EDBC"]
 fromSector = "ed/TRN"
 toSector = "ed/BOR"
 
@@ -160,7 +160,7 @@ toSector = "ed/HRZ"
 cop = "ODLUN"
 level = 80
 adep = ["EDDP"]
-ades = ["EDBM"]
+ades = ["EDBM", "EDBC"]
 fromSector = "ed/TRN"
 toSector = "ed/BOR"
 

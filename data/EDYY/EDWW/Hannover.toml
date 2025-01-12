@@ -83,7 +83,7 @@ toSector = "ed/HRZ"
 [[agreements]]
 cop = "SAS"
 level = 250
-ades = ["EDBM"]
+ades = ["EDBM, "EDBC""]
 levelAt = [0, "SAS"]
 fromSector = "ed/CL"
 toSector = "ed/HRZ"
@@ -91,7 +91,7 @@ toSector = "ed/HRZ"
 [[agreements]]
 cop = "HLZ"
 level = 250
-ades = ["EDBM"]
+ades = ["EDBM", "EDBC"]
 levelAt = [0, "HLZ"]
 fromSector = "ed/CL"
 toSector = "ed/HRZ"
@@ -158,7 +158,7 @@ toSector = "ed/MAR"
 [[agreements]]
 cop = "BUMIL"
 level = 270
-ades = ["EDDP"]
+ades = ["EDDP", "EDBC"]
 fromSector = "ed/CL"
 toSector = "ed/MAR"
 

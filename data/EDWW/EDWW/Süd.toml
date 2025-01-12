@@ -310,14 +310,14 @@ toSector = "ed/BOR"
 [[agreements]]
 cop = "POVEL"
 level = 110
-ades = ["EDBM"]
+ades = ["EDBM", "EDBC"]
 fromSector = "ed/HRZ"
 toSector = "ed/BOR"
 
 [[agreements]]
 cop = "ABGUS"
 level = 110
-ades = ["EDBM"]
+ades = ["EDBM", "EDBC"]
 fromSector = "ed/HRZ"
 toSector = "ed/BOR"
 
