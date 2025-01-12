@@ -10,7 +10,7 @@ cop = "MEGAR"
 level = 270
 adep = ["EDDH", "EDHI", "EDHL"]
 fromSector = "ed/HL"
-toSector = "ek/EKDA"
+toSector = "ek/EKDB"
 
 [[agreements]]
 cop = "ALS"
@@ -25,4 +25,3 @@ level = 270
 adep = ["EDDH", "EDHI", "EDHL"]
 fromSector = "ed/HL"
 toSector = "ek/EKDS"
-

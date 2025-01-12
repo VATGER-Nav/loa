@@ -1,0 +1,473 @@
+[[agreements]]
+cop = "ROBEG"
+level = 240
+ades = ["EDWE", "EDWF", "EDWI"]
+fromSector = "ed/DST"
+toSector = "ed/EMS"
+
+[[agreements]]
+cop = "ROBEG"
+level = 110
+ades = ["EDDV"]
+transferType = "D"
+fromSector = "ed/DST"
+toSector = "ed/HAN"
+remarks = "EDDV RWYs 09"
+
+[[agreements]]
+cop = "UMKUK"
+level = 110
+ades = ["EDDV"]
+runway = ["27L", "27R"]
+transferType = "D"
+fromSector = "ed/DST"
+toSector = "ed/HAN"
+remarks = "Clear DCT SAS | Sector Skip to HAN"
+
+[[agreements]]
+cop = "ROBEG"
+level = 110
+ades = ["ETNW", "ETHB"]
+transferType = "D"
+fromSector = "ed/DST"
+toSector = "ed/HAN"
+
+[[agreements]]
+cop = "SOVIP"
+level = 160
+ades = ["EDVE"]
+fromSector = "ed/DST"
+toSector = "ed/HRZ"
+
+[[agreements]]
+cop = "NORTA"
+level = 160
+ades = ["EDVE"]
+fromSector = "ed/DST"
+toSector = "ed/HRZ"
+
+[[agreements]]
+cop = "ROBEG"
+level = 0
+adep = ["EDLP", "EDVK", "EDFQ"]
+fromSector = "ed/DST"
+toSector = "ed/EMS"
+
+[[agreements]]
+cop = "ROBEG"
+level = 160
+ades = ["EDDW"]
+fromSector = "ed/DST"
+toSector = "ed/EMS"
+
+[[agreements]]
+cop = "WERRA"
+level = 240
+adep = ["EDDV"]
+fromSector = "ed/DST"
+toSector = "ed/HRZ"
+remarks = "EDDV RWYs 27"
+
+[[agreements]]
+cop = "LUXUX"
+level = 230
+adep = ["EDDK", "EDDL", "EDLW"]
+fromSector = "ed/DST"
+toSector = "ed/HRZ"
+
+[[agreements]]
+cop = "MPIDU"
+level = 230
+adep = ["EDDK", "EDDL", "EDLW"]
+fromSector = "ed/DST"
+toSector = "ed/HRZ"
+
+[[agreements]]
+cop = "NIE"
+level = 180
+ades = ["EDWE", "EDWF", "EDWI"]
+fromSector = "ed/EMS"
+toSector = "ed/ALR"
+
+[[agreements]]
+cop = "BASUM"
+level = 230
+ades = ["EDWE", "EDWF", "EDWI"]
+fromSector = "ed/EMS"
+toSector = "ed/ALR"
+
+[[agreements]]
+cop = "ROBEG"
+level = 0
+ades = ["EDVK"]
+fromSector = "ed/EMS"
+toSector = "ed/DST"
+
+[[agreements]]
+cop = "BASUM"
+level = 110
+ades = ["EDDW"]
+transferType = "D"
+fromSector = "ed/EMS"
+toSector = "ed/FRI"
+
+[[agreements]]
+cop = "NIE"
+level = 110
+ades = ["EDDW"]
+transferType = "D"
+fromSector = "ed/EMS"
+toSector = "ed/FRI"
+
+[[agreements]]
+cop = "UMVIS"
+level = 110
+ades = ["EDDV", "ETNW"]
+transferType = "D"
+fromSector = "ed/EMS"
+toSector = "ed/HAN"
+remarks = "Clear DCT NIE when RWY 27R/L in use."
+
+[[agreements]]
+cop = "ROBEG"
+level = 110
+ades = ["ETNW"]
+transferType = "D"
+fromSector = "ed/EMS"
+toSector = "ed/HAN"
+
+[[agreements]]
+cop = "SAS"
+level = 160
+ades = ["EDVE"]
+fromSector = "ed/EMS"
+toSector = "ed/HRZ"
+
+[[agreements]]
+cop = "BASUM"
+level = 0
+adep = ["ETND"]
+fromSector = "ed/EMS"
+toSector = "ed/FRI"
+
+[[agreements]]
+cop = "SAS"
+level = 240
+adep = ["ETND"]
+fromSector = "ed/EMS"
+toSector = "ed/HRZ"
+
+[[agreements]]
+cop = "SAS"
+level = 190
+adep = ["EDDW"]
+fromSector = "ed/EMS"
+toSector = "ed/HRZ"
+
+[[agreements]]
+cop = "NIE"
+level = 100
+adep = ["EDDV", "ETNW", "ETHB", "ETHC"]
+transferType = "C"
+fromSector = "ed/HAN"
+toSector = "ed/FRI"
+remarks = "Sector Skip to ALR may be coordinated"
+
+[[agreements]]
+cop = "ROLUK"
+level = 100
+adep = ["EDDV"]
+runway = ["27L", "27R"]
+transferType = "C"
+fromSector = "ed/HAN"
+toSector = "ed/DST"
+remarks = "WRB/WERRA SID"
+
+[[agreements]]
+cop = "PIROT"
+level = 100
+adep = ["ETNW"]
+transferType = "C"
+fromSector = "ed/HAN"
+toSector = "ed/DST"
+
+[[agreements]]
+cop = "VAXEV"
+level = 100
+adep = ["EDDV", "ETNW"]
+transferType = "C"
+fromSector = "ed/HAN"
+toSector = "ed/EMS"
+remarks = "TFC may be cleared DCT OSN/RORUS"
+
+[[agreements]]
+cop = "CEL"
+level = 100
+adep = ["EDDV", "ETNW"]
+transferType = "C"
+fromSector = "ed/HAN"
+toSector = "ed/HEI"
+
+[[agreements]]
+cop = "POVEL"
+level = 100
+adep = ["EDDV"]
+transferType = "C"
+fromSector = "ed/HAN"
+toSector = "ed/HRZ"
+
+[[agreements]]
+cop = "MULDO"
+level = 100
+adep = ["EDDV"]
+transferType = "C"
+fromSector = "ed/HAN"
+toSector = "ed/HRZ"
+
+[[agreements]]
+cop = "NORTA"
+level = 100
+adep = ["EDDV"]
+runway = ["09L", "09R"]
+transferType = "C"
+fromSector = "ed/HAN"
+toSector = "ed/HRZ"
+remarks = "WRB/WERRA SIDs"
+
+[[agreements]]
+cop = "POVEL"
+level = 100
+adep = ["ETNW"]
+transferType = "C"
+fromSector = "ed/HAN"
+toSector = "ed/HRZ"
+
+[[agreements]]
+cop = "BATEL"
+level = 100
+adep = ["EDVE"]
+transferType = "C"
+fromSector = "ed/HAN"
+toSector = "ed/HRZ"
+
+[[agreements]]
+cop = "HLZ"
+level = 100
+adep = ["EDVE"]
+transferType = "C"
+fromSector = "ed/HAN"
+toSector = "ed/HRZ"
+
+[[agreements]]
+cop = "NORTA"
+level = 100
+adep = ["EDVE"]
+transferType = "C"
+fromSector = "ed/HAN"
+toSector = "ed/HRZ"
+remarks = "TFC may be cleared DCT ELNAT"
+
+[[agreements]]
+cop = "DLE"
+level = 100
+adep = ["EDVE"]
+transferType = "C"
+fromSector = "ed/HAN"
+toSector = "ed/HRZ"
+
+[[agreements]]
+cop = "POVEL"
+level = 100
+adep = ["EDVE"]
+transferType = "C"
+fromSector = "ed/HAN"
+toSector = "ed/HRZ"
+remarks = "TFC may be cleared DCT MAG/ELTED"
+
+[[agreements]]
+cop = "DIRBO"
+level = 100
+adep = ["EDVE"]
+transferType = "C"
+fromSector = "ed/HAN"
+toSector = "ed/HRZ"
+
+[[agreements]]
+cop = "NIE"
+level = 100
+adep = ["EDVE"]
+transferType = "C"
+fromSector = "ed/HAN"
+toSector = "ed/HRZ"
+
+[[agreements]]
+cop = "POVEL"
+level = 230
+ades = ["EDAC"]
+fromSector = "ed/HRZ"
+toSector = "ed/BOR"
+
+[[agreements]]
+cop = "POVEL"
+level = 110
+ades = ["EDBM"]
+fromSector = "ed/HRZ"
+toSector = "ed/BOR"
+
+[[agreements]]
+cop = "ABGUS"
+level = 110
+ades = ["EDBM"]
+fromSector = "ed/HRZ"
+toSector = "ed/BOR"
+
+[[agreements]]
+cop = "TOLTA"
+level = 240
+ades = ["EDDV"]
+runway = ["09L", "09R"]
+fromSector = "ed/HRZ"
+toSector = "ed/DST"
+remarks = "clear WERRA STAR"
+
+[[agreements]]
+cop = "TOLTA"
+level = 240
+ades = ["ETNW", "ETHB"]
+fromSector = "ed/HRZ"
+toSector = "ed/DST"
+
+[[agreements]]
+cop = "TOLTA"
+level = 230
+ades = ["EDDF", "EDFE", "ETOU"]
+fromSector = "ed/HRZ"
+toSector = "ed/DST"
+
+[[agreements]]
+cop = "GOTGI"
+level = 200
+ades = ["EDDK", "EDDL", "EDLW"]
+fromSector = "ed/HRZ"
+toSector = "ed/DST"
+
+[[agreements]]
+cop = "SAS"
+level = 180
+ades = ["EDDW", "EDWE", "EDWF", "EDWI"]
+fromSector = "ed/HRZ"
+toSector = "ed/EMS"
+
+[[agreements]]
+cop = "SAS"
+level = 240
+ades = ["EDDG", "EDLI"]
+fromSector = "ed/HRZ"
+toSector = "ed/EMS"
+
+[[agreements]]
+cop = "CEL"
+level = 110
+ades = ["EDDV"]
+transferType = "D"
+fromSector = "ed/HRZ"
+toSector = "ed/HAN"
+
+[[agreements]]
+cop = "NORTA"
+level = 110
+ades = ["EDDV"]
+runway = ["27L", "27R"]
+transferType = "D"
+fromSector = "ed/HRZ"
+toSector = "ed/HAN"
+remarks = "Clear DCT SAS"
+
+[[agreements]]
+cop = "GITEX"
+level = 110
+ades = ["EDDV"]
+transferType = "D"
+fromSector = "ed/HRZ"
+toSector = "ed/HAN"
+remarks = "Clear DCT SAS when RWY 27R/L or ROBEG when RWY 09R/L are in use."
+
+[[agreements]]
+cop = "SAS"
+level = 110
+ades = ["ETNW", "ETHS"]
+transferType = "D"
+fromSector = "ed/HRZ"
+toSector = "ed/HAN"
+
+[[agreements]]
+cop = "DLE"
+level = 110
+ades = ["EDVE"]
+transferType = "D"
+fromSector = "ed/HRZ"
+toSector = "ed/HAN"
+
+[[agreements]]
+cop = "POVEL"
+level = 230
+adep = ["EDDV", "ETNW"]
+fromSector = "ed/HRZ"
+toSector = "ed/BOR"
+remarks = "TFC may be cleared DCT MAG/ELTED"
+
+[[agreements]]
+cop = "ABGUS"
+level = 230
+adep = ["EDVK"]
+fromSector = "ed/HRZ"
+toSector = "ed/BOR"
+
+[[agreements]]
+cop = "POVEL"
+level = 150
+adep = ["EDVE"]
+transferType = "C"
+fromSector = "ed/HRZ"
+toSector = "ed/BOR"
+remarks = "TFC may be cleared DCT MAG/ELTED"
+
+[[agreements]]
+cop = "TOLTA"
+level = 190
+adep = ["EDDV"]
+runway = ["09L", "09R"]
+fromSector = "ed/HRZ"
+toSector = "ed/DST"
+remarks = "WRB SIDs"
+
+[[agreements]]
+cop = "GOTGI"
+level = 200
+adep = ["EDDE"]
+transferType = "C"
+fromSector = "ed/HRZ"
+toSector = "ed/DST"
+
+[[agreements]]
+cop = "TOLTA"
+level = 190
+adep = ["EDVE"]
+fromSector = "ed/HRZ"
+toSector = "ed/DST"
+
+[[agreements]]
+cop = "DIRBO"
+level = 150
+adep = ["EDVE"]
+transferType = "C"
+fromSector = "ed/HRZ"
+toSector = "ed/HEI"
+
+[[agreements]]
+cop = "BATEL"
+level = 150
+adep = ["EDVE"]
+transferType = "C"
+fromSector = "ed/HRZ"
+toSector = "ed/MAR"

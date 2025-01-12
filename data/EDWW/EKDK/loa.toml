@@ -45,7 +45,7 @@ ades = ["EKSB"]
 transferType = "D"
 fromSector = "ed/EIDE"
 toSector = "ek/EKDD"
-remarks = "Released for descend 3000ft in EDWW FIR"
+releases = "D"
 
 [[agreements]]
 cop = "ATTUS, DOSUR, ALS"

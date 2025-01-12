@@ -1,0 +1,300 @@
+[[agreements]]
+cop = "RENKI"
+level = 0
+ades = ["EDAY"]
+fromSector = "ed/DBAN"
+toSector = "ed/DBDN"
+remarks = "On APCH Procedure | EDDB RWYs 06"
+
+[[agreements]]
+cop = "TUVAK"
+level = 90
+adep = ["EDAY"]
+transferType = "C"
+fromSector = "ed/DBAN"
+toSector = "ed/DBAS"
+remarks = "EDDB RWYs 24"
+
+[[agreements]]
+cop = "RENKI"
+level = 130
+adep = ["EDAY"]
+transferType = "C"
+fromSector = "ed/DBAN"
+toSector = "ed/MAR"
+
+[[agreements]]
+cop = "TUVAK"
+level = 100
+ades = ["EDAY"]
+fromSector = "ed/DBAS"
+toSector = "ed/DBAN"
+remarks = "EDDB RWYs 24"
+
+[[agreements]]
+cop = "MOSEX"
+level = 0
+ades = ["EDAZ"]
+fromSector = "ed/DBAS"
+toSector = "ed/DBAST"
+remarks = "On APCH Procedure | EDDB RWYs 06"
+
+[[agreements]]
+cop = "MOSEX"
+level = 0
+ades = ["EDAZ"]
+fromSector = "ed/DBAS"
+toSector = "ed/DBDS"
+remarks = "On APCH Procedure | EDDB RWYs 24"
+
+[[agreements]]
+cop = "KOSIX"
+level = 100
+adep = ["ETSH"]
+transferType = "C"
+fromSector = "ed/DBAS"
+toSector = "ed/BOR"
+
+[[agreements]]
+cop = "ESIKA"
+level = 100
+adep = ["EDBM"]
+transferType = "C"
+fromSector = "ed/DBAS"
+toSector = "ed/DBDS"
+remarks = "EDDB RWYs 06"
+
+[[agreements]]
+cop = "BOLBO"
+level = 130
+adep = ["EDAZ"]
+transferType = "C"
+fromSector = "ed/DBAS"
+toSector = "ed/FLG"
+
+[[agreements]]
+cop = "BOLBO"
+level = 40
+adep = ["EDAZ"]
+transferType = "C"
+qnh = "EDAZ"
+fromSector = "ed/DBAST"
+toSector = "ed/DBAS"
+remarks = "EDDB RWYs 06"
+
+[[agreements]]
+cop = "GERGA"
+level = 100
+ades = ["EDAY"]
+fromSector = "ed/DBDN"
+toSector = "ed/DBAN"
+remarks = "EDDB RWYs 06"
+
+[[agreements]]
+cop = "SUKIP"
+level = 160
+adep = ["EDDB"]
+transferType = "C"
+fromSector = "ed/DBDN"
+toSector = "ed/BOR"
+remarks = "LOGDO SIDs"
+
+[[agreements]]
+cop = "HLZ"
+level = 160
+adep = ["EDAY"]
+transferType = "C"
+fromSector = "ed/DBDN"
+toSector = "ed/BOR"
+
+[[agreements]]
+cop = "POVEL"
+level = 160
+adep = ["EDAY"]
+transferType = "C"
+fromSector = "ed/DBDN"
+toSector = "ed/BOR"
+
+[[agreements]]
+cop = "RENKI"
+level = 70
+adep = ["EDAY"]
+transferType = "C"
+fromSector = "ed/DBDN"
+toSector = "ed/DBAN"
+remarks = "EDDB RWYs 06"
+
+[[agreements]]
+cop = "TUVAK"
+level = 90
+adep = ["EDAY"]
+fromSector = "ed/DBDN"
+toSector = "ed/DBDS"
+remarks = "EDDB RWYs 06"
+
+[[agreements]]
+cop = "MAG"
+level = 160
+adep = ["EDAY"]
+transferType = "C"
+fromSector = "ed/DBDN"
+toSector = "ed/BOR"
+
+[[agreements]]
+cop = "PINOB"
+level = 100
+adep = ["EDDB"]
+runway = ["06L", "06R"]
+fromSector = "ed/DBDN"
+toSector = "ed/DBDS"
+remarks = "ARSAP/LUROS SIDs"
+
+[[agreements]]
+cop = "SUKIP"
+level = 160
+adep = ["EDDB"]
+routeAfter = "Y206 BUREL"
+transferType = "C"
+fromSector = "ed/DBDN"
+toSector = "ed/BOR"
+remarks = "SUKIP SIDs"
+
+[[agreements]]
+cop = "GENTI"
+level = 160
+adep = ["EDDB"]
+routeAfter = "M748 SOGMA"
+transferType = "C"
+fromSector = "ed/DBDN"
+toSector = "ed/MAR"
+remarks = "SUKIP SIDs"
+
+[[agreements]]
+cop = "PINOB"
+level = 120
+adep = ["EDDB"]
+runway = ["24L", "24R"]
+fromSector = "ed/DBDN"
+toSector = "ed/DBDS"
+remarks = "ARSAP/LUROS SIDs"
+
+[[agreements]]
+cop = "GERGA"
+level = 160
+adep = ["EDDB"]
+transferType = "C"
+fromSector = "ed/DBDN"
+toSector = "ed/MAR"
+remarks = "GERGA SIDs"
+
+[[agreements]]
+cop = "IDOBA"
+level = 100
+ades = ["EDAY"]
+fromSector = "ed/DBDS"
+toSector = "ed/DBDN"
+remarks = "EDDB RWYs 06"
+
+[[agreements]]
+cop = "LOGDO"
+level = 160
+adep = ["EDDB"]
+transferType = "C"
+fromSector = "ed/DBDS"
+toSector = "ed/BOR"
+remarks = "LOGDO SIDs"
+
+[[agreements]]
+cop = "HLZ"
+level = 160
+adep = ["EDAY"]
+transferType = "C"
+fromSector = "ed/DBDS"
+toSector = "ed/BOR"
+
+[[agreements]]
+cop = "POVEL"
+level = 160
+adep = ["EDAY"]
+transferType = "C"
+fromSector = "ed/DBDS"
+toSector = "ed/BOR"
+
+[[agreements]]
+cop = "MAG"
+level = 160
+adep = ["EDAY"]
+transferType = "C"
+fromSector = "ed/DBDS"
+toSector = "ed/BOR"
+
+[[agreements]]
+cop = "BOLBO"
+level = 40
+adep = ["EDAZ"]
+transferType = "C"
+qnh = "EDAZ"
+fromSector = "ed/DBDS"
+toSector = "ed/DBAS"
+remarks = "EDDB RWYs 24"
+
+[[agreements]]
+cop = "ESIKA"
+level = 120
+adep = ["EDDB"]
+fromSector = "ed/DBDS"
+toSector = "ed/DBDN"
+remarks = "SUKIP SIDs"
+
+[[agreements]]
+cop = "IDOBA"
+level = 90
+adep = ["EDDB"]
+runway = ["06L", "06R"]
+fromSector = "ed/DBDS"
+toSector = "ed/DBDN"
+remarks = "GERGA SIDs"
+
+[[agreements]]
+cop = "IDOBA"
+level = 110
+adep = ["EDDB"]
+runway = ["24L", "24R"]
+fromSector = "ed/DBDS"
+toSector = "ed/DBDN"
+remarks = "GERGA SIDs"
+
+[[agreements]]
+cop = "IDOBA"
+level = 160
+adep = ["EDDB"]
+transferType = "C"
+fromSector = "ed/DBDS"
+toSector = "ed/FLG"
+remarks = "LUROS SIDs"
+
+[[agreements]]
+cop = "JACOW"
+level = 160
+adep = ["EDDB"]
+transferType = "C"
+fromSector = "ed/DBDS"
+toSector = "ed/FLG"
+remarks = "LUROS SIDs"
+
+[[agreements]]
+cop = "ARSAP"
+level = 160
+adep = ["EDDB"]
+transferType = "C"
+fromSector = "ed/DBDS"
+toSector = "ed/FLG"
+remarks = "ARSAP SIDs | If ARSAP Overflow Area is inactive"
+
+[[agreements]]
+cop = "SONUD"
+level = 160
+adep = ["EDBM"]
+transferType = "C"
+fromSector = "ed/DBDS"
+toSector = "ed/FLG"

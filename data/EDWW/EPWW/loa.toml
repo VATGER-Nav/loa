@@ -4,7 +4,7 @@ level = 130
 ades = ["EPSC"]
 fromSector = "ed/MRZ"
 toSector = "ep/EPSC TMA"
-remarks = "Handoff at least 15 NM before sector border | RLSD for descent and turns"
+releases = "F"
 
 [[agreements]]
 cop = "BODLA"
@@ -12,7 +12,7 @@ level = 130
 ades = ["EPSC"]
 fromSector = "ed/MAR"
 toSector = "ep/EPSC TMA"
-remarks = "Handoff at least 15 NM before sector border | RLSD for descent and turns"
+releases = "F"
 
 [[agreements]]
 cop = "ALUKA"

@@ -1,0 +1,261 @@
+[[agreements]]
+cop = "SAS"
+level = 250
+ades = ["EDDH", "EDHI", "EDHL", "EDHK", "ETMN", "EDXR"]
+levelAt = [0, "MADOR"]
+transferType = "D"
+fromSector = "ed/CL"
+toSector = "ed/HEI"
+
+[[agreements]]
+cop = "DIRBO"
+level = 250
+ades = ["EDDH", "EDHI", "EDHL", "ETMN"]
+levelAt = [0, "DIRBO"]
+fromSector = "ed/CL"
+toSector = "ed/HEI"
+remarks = "May be cleared DCT RARUP"
+
+[[agreements]]
+cop = "DIRBO"
+level = 250
+ades = ["EDHK", "EDXR"]
+levelAt = [0, "DIRBO"]
+fromSector = "ed/CL"
+toSector = "ed/HEI"
+
+[[agreements]]
+cop = "ROBEG"
+level = 250
+ades = ["EDVE"]
+levelAt = [0, "ROBEG"]
+fromSector = "ed/CL"
+toSector = "ed/EMS"
+
+[[agreements]]
+cop = "ROBEG"
+level = 250
+ades = ["EDDG", "EDLW", "EDLA", "EHTW", "EHLE"]
+levelAt = [0, "ROBEG"]
+fromSector = "ed/CL"
+toSector = "ed/EMS"
+
+[[agreements]]
+cop = "ENUGA"
+level = 250
+ades = ["EDDL", "EDDG", "EDLA", "EDLW", "EDLD", "EDLV", "ETNG", "EHBK", "EHEH", "EHTW", "EHBD"]
+levelAt = [0, "ENUGA"]
+fromSector = "ed/CL"
+toSector = "ed/EMS"
+
+[[agreements]]
+cop = "ROBEG"
+level = 250
+ades = ["EDVK", "EDLI"]
+levelAt = [0, "ROBEG"]
+fromSector = "ed/CL"
+toSector = "ed/EMS"
+
+[[agreements]]
+cop = "PIROT"
+level = 250
+ades = ["EDLP", "EDLI"]
+levelAt = [0, "PIROT"]
+fromSector = "ed/CL"
+toSector = "ed/DST"
+
+[[agreements]]
+cop = "PIROT"
+level = 250
+ades = ["EDLP", "EDFQ"]
+levelAt = [0, "PIROT"]
+fromSector = "ed/CL"
+toSector = "ed/DST"
+
+[[agreements]]
+cop = "SAS"
+level = 250
+ades = ["EDVK", "EDFQ", "EDLP"]
+levelAt = [0, "SAS"]
+fromSector = "ed/CL"
+toSector = "ed/HRZ"
+
+[[agreements]]
+cop = "SAS"
+level = 250
+ades = ["EDBM"]
+levelAt = [0, "SAS"]
+fromSector = "ed/CL"
+toSector = "ed/HRZ"
+
+[[agreements]]
+cop = "HLZ"
+level = 250
+ades = ["EDBM"]
+levelAt = [0, "HLZ"]
+fromSector = "ed/CL"
+toSector = "ed/HRZ"
+
+[[agreements]]
+cop = "GARLU"
+level = 270
+ades = ["ETNL"]
+fromSector = "ed/CL"
+toSector = "ed/MAR"
+
+[[agreements]]
+cop = "GARLU"
+level = 250
+ades = ["EDOP"]
+transferType = "D"
+fromSector = "ed/CL"
+toSector = "ed/MAR"
+
+[[agreements]]
+cop = "BUMIL"
+level = 250
+ades = ["EDDB", "EDAE", "EDAV", "EDAY", "EDAZ", "EDBW", "EDON"]
+levelAt = [0, "BUMIL"]
+runway = ["06L", "06R"]
+fromSector = "ed/CL"
+toSector = "ed/MAR"
+
+[[agreements]]
+cop = "BUMIL"
+level = 250
+ades = ["EDDB", "EDAE", "EDAV", "EDAY", "EDAZ", "EDBW", "EDON"]
+transferType = "D"
+sfl = 270
+runway = ["24L", "24R"]
+fromSector = "ed/CL"
+toSector = "ed/MAR"
+
+[[agreements]]
+cop = "BATEL"
+level = 250
+ades = ["EDDB"]
+levelAt = [0, "BUMIL"]
+runway = ["06L", "06R"]
+fromSector = "ed/CL"
+toSector = "ed/MAR"
+
+[[agreements]]
+cop = "BATEL"
+level = 250
+ades = ["EDDB"]
+transferType = "D"
+sfl = 270
+fromSector = "ed/CL"
+toSector = "ed/MAR"
+
+[[agreements]]
+cop = "BATEL"
+level = 250
+ades = ["EDDP"]
+fromSector = "ed/CL"
+toSector = "ed/MAR"
+
+[[agreements]]
+cop = "BUMIL"
+level = 270
+ades = ["EDDP"]
+fromSector = "ed/CL"
+toSector = "ed/MAR"
+
+[[agreements]]
+cop = "NORTA"
+level = 250
+ades = ["EDDW", "EDWE", "EDWI", "EDWF", "ETND"]
+levelAt = [0, "NORTA"]
+fromSector = "ed/SL"
+toSector = "ed/HRZ"
+
+[[agreements]]
+cop = "DLE"
+level = 250
+ades = ["EDVE"]
+levelAt = [0, "DLE"]
+fromSector = "ed/SL"
+toSector = "ed/HRZ"
+
+[[agreements]]
+cop = "POVEL"
+level = 250
+ades = ["EDAC"]
+levelAt = [0, "POVEL"]
+fromSector = "ed/SL"
+toSector = "ed/HRZ"
+
+[[agreements]]
+cop = "NORTA"
+level = 250
+ades = ["EDDP", "EDDE"]
+levelAt = [0, "NORTA"]
+fromSector = "ed/SL"
+toSector = "ed/HRZ"
+
+[[agreements]]
+cop = "NORTA"
+level = 250
+ades = ["EDLP"]
+levelAt = [0, "NORTA"]
+fromSector = "ed/SL"
+toSector = "ed/HRZ"
+
+[[agreements]]
+cop = "WRB"
+level = 250
+ades = ["EDFH", "EDDR", "EDRZ", "EDFM", "EDRY", "EDFV", "EDGS", "ETAR"]
+levelAt = [-15, "WRB"]
+fromSector = "ed/SL"
+toSector = "ed/DST"
+
+[[agreements]]
+cop = "POVEL"
+level = 250
+ades = ["EDAE", "EDAV", "EDAY", "EDAZ", "EDBW", "EDON"]
+fromSector = "ed/SL"
+toSector = "ed/BOR"
+
+[[agreements]]
+cop = "BASUM"
+level = 250
+ades = ["EDDH", "EDHI", "EDHL", "EDHK", "ETMN", "EDXR"]
+levelAt = [-15, "WSN"]
+transferType = "D"
+fromSector = "ed/ML"
+toSector = "ed/ALR"
+remarks = "TFC may be cleared DCT WSN"
+
+[[agreements]]
+cop = "BASUM"
+level = 250
+ades = ["EDDG", "EDLW"]
+levelAt = [0, "BASUM"]
+fromSector = "ed/ML"
+toSector = "ed/EMS"
+
+[[agreements]]
+cop = "OSN"
+level = 250
+ades = ["EDDW", "EDWE", "EDWI", "EDWF", "ETND"]
+levelAt = [0, "OSN"]
+fromSector = "ed/ML"
+toSector = "ed/EMS"
+
+[[agreements]]
+cop = "OSN"
+level = 250
+ades = ["EDDV", "EDVK", "ETNW"]
+levelAt = [-10, "OSN"]
+transferType = "D"
+fromSector = "ed/ML"
+toSector = "ed/EMS"
+
+[[agreements]]
+cop = "GEPKO"
+level = 250
+ades = ["EDDV", "ETNW"]
+levelAt = [0, "GEPKO"]
+fromSector = "ed/ML"
+toSector = "ed/EMS"

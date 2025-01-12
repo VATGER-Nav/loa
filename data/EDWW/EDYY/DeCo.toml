@@ -1,0 +1,181 @@
+[[agreements]]
+cop = "OTEXE"
+level = 250
+adep = ["EDDH", "EDHI", "EDHL"]
+transferType = "C"
+fromSector = "ed/ALR"
+toSector = "ed/JL"
+
+[[agreements]]
+cop = "ELSOB"
+level = 240
+adep = ["EDDW", "EDWE", "EDWF", "EDWI"]
+transferType = "C"
+fromSector = "ed/ALR"
+toSector = "ed/HL"
+
+[[agreements]]
+cop = "OPJOT"
+level = 250
+adep = ["EDWE", "EDWI", "EDWF", "EHGG"]
+transferType = "C"
+fromSector = "ed/ALR"
+toSector = "ed/JL"
+
+[[agreements]]
+cop = "ESTAD"
+level = 240
+adep = ["ETNW"]
+transferType = "C"
+fromSector = "ed/ALR"
+toSector = "ed/HL"
+
+[[agreements]]
+cop = "ESTAD"
+level = 250
+adep = ["EDHL"]
+transferType = "C"
+fromSector = "ed/ALR"
+toSector = "ed/HL"
+
+[[agreements]]
+cop = "EKERN"
+level = 240
+adep = ["EDDH", "EDHI"]
+transferType = "C"
+fromSector = "ed/EIDE"
+toSector = "ed/HL"
+
+[[agreements]]
+cop = "BADOS"
+level = 240
+adep = ["EDDH", "EDHI", "EDHL"]
+transferType = "C"
+fromSector = "ed/EIDE"
+toSector = "ed/HL"
+
+[[agreements]]
+cop = "EKERN"
+level = 240
+adep = ["EKBI", "EKOB", "EKEB", "EKVD. EKPB", "EKSB", "EKSP"]
+transferType = "C"
+fromSector = "ed/EIDE"
+toSector = "ed/HL"
+
+[[agreements]]
+cop = "DEGUL"
+level = 240
+adep = ["EKOD", "EKPB", "EKSB", "EKVD"]
+transferType = "C"
+fromSector = "ed/EIDE"
+toSector = "ed/HL"
+
+[[agreements]]
+cop = "GIKOG"
+level = 240
+adep = ["EKVD"]
+transferType = "C"
+fromSector = "ed/EIDE"
+toSector = "ed/HL"
+
+[[agreements]]
+cop = "BADOS"
+level = 240
+adep = ["EDXW"]
+transferType = "C"
+fromSector = "ed/EIDE"
+toSector = "ed/HL"
+
+[[agreements]]
+cop = "EKERN"
+level = 240
+adep = ["EDXW"]
+transferType = "C"
+fromSector = "ed/EIDE"
+toSector = "ed/HL"
+
+[[agreements]]
+cop = "GOLEN"
+level = 240
+adep = ["EDDH", "EDHI", "ETMN", "EDXW", "EDXF"]
+transferType = "C"
+fromSector = "ed/EIDW"
+toSector = "ed/JL"
+
+[[agreements]]
+cop = "DHE"
+level = 240
+adep = ["EDXW"]
+transferType = "C"
+fromSector = "ed/EIDW"
+toSector = "ed/JL"
+
+[[agreements]]
+cop = "WELGO"
+level = 240
+adep = ["EHGG"]
+transferType = "C"
+fromSector = "ed/EIDW"
+toSector = "ed/JL"
+
+[[agreements]]
+cop = "DHE"
+level = 240
+adep = ["EHGG"]
+transferType = "C"
+fromSector = "ed/EIDW"
+toSector = "ed/JL"
+
+[[agreements]]
+cop = "SOFED"
+level = 240
+adep = ["EDDW", "ETND"]
+transferType = "C"
+fromSector = "ed/FRI"
+toSector = "ed/JL"
+
+[[agreements]]
+cop = "HAM"
+level = 240
+adep = ["EDDW", "ETND"]
+transferType = "C"
+fromSector = "ed/HEI"
+toSector = "ed/HL"
+
+[[agreements]]
+cop = "AMLUH"
+level = 240
+adep = ["EDDV", "EDVE"]
+transferType = "C"
+fromSector = "ed/HEI"
+toSector = "ed/HL"
+
+[[agreements]]
+cop = "RAMAR"
+level = 240
+adep = ["ETNL"]
+transferType = "C"
+fromSector = "ed/HEI"
+toSector = "ed/HL"
+
+[[agreements]]
+cop = "HAM"
+level = 240
+adep = ["EDHK"]
+transferType = "C"
+fromSector = "ed/HEI"
+toSector = "ed/HL"
+
+[[agreements]]
+cop = "BERIM"
+level = 260
+adep = ["EDBN", "EDAH", "EDBH"]
+fromSector = "ed/MRZ"
+toSector = "ed/HL"
+
+[[agreements]]
+cop = "WISMA"
+level = 260
+adep = ["ETNL"]
+fromSector = "ed/MRZ"
+toSector = "ed/HL"
