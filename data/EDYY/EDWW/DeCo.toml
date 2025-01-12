@@ -1,0 +1,182 @@
+[[agreements]]
+cop = "DHE"
+level = 250
+ades = ["EDDH", "EDHI", "EDHL", "ETMN"]
+levelAt = [0, "DHE"]
+fromSector = "ed/JL"
+toSector = "ed/EIDW"
+
+[[agreements]]
+cop = "DHE"
+level = 250
+ades = ["EDXW", "EDXF"]
+levelAt = [0, "DHE"]
+fromSector = "ed/JL"
+toSector = "ed/EIDW"
+
+[[agreements]]
+cop = "GOLEN"
+level = 250
+ades = ["EDXW", "EDXF"]
+levelAt = [0, "GOLEN"]
+fromSector = "ed/JL"
+toSector = "ed/EIDW"
+
+[[agreements]]
+cop = "LEGPI"
+level = 250
+ades = ["EKBI", "EKSP", "EKEB", "EKVD", "EKVJ"]
+levelAt = [0, "LEGPI"]
+fromSector = "ed/JL"
+toSector = "ed/EIDW"
+remarks = "EKBI Inbounds are released direct LOKSA RWY 27 or GELBA RWY 09"
+
+[[agreements]]
+cop = "WELGO"
+level = 250
+ades = ["EHGG", "EHLE"]
+levelAt = [0, "WELGO"]
+fromSector = "ed/JL"
+toSector = "ed/EIDW"
+
+[[agreements]]
+cop = "DHE"
+level = 250
+ades = ["EHGG", "EHLE"]
+levelAt = [0, "DHE"]
+fromSector = "ed/JL"
+toSector = "ed/EIDW"
+
+[[agreements]]
+cop = "DHE"
+level = 250
+ades = ["EKPB", "EKSB", "EKOD"]
+levelAt = [25, "DHE"]
+transferType = "D"
+fromSector = "ed/JL"
+toSector = "ed/EIDE"
+
+[[agreements]]
+cop = "POBZU"
+level = 260
+ades = ["EDDH", "EDHI", "EDHL", "ETMN", "EDHK", "EDXR"]
+levelAt = [0, "POBZU"]
+releases = "F"
+fromSector = "ed/JL"
+toSector = "ed/ALR"
+
+[[agreements]]
+cop = "AKZOM"
+level = 250
+ades = ["EDDW", "ETND"]
+levelAt = [15, "AKZOM"]
+transferType = "D"
+fromSector = "ed/JL"
+toSector = "ed/FRI"
+
+[[agreements]]
+cop = "EKERN"
+level = 250
+ades = ["EDXW"]
+levelAt = [0, "EKERN"]
+fromSector = "ed/HL"
+toSector = "ed/EIDE"
+remarks = "EIDE may request earlier descent"
+
+[[agreements]]
+cop = "BADOS"
+level = 250
+ades = ["EDXW"]
+levelAt = [0, "BADOS"]
+fromSector = "ed/HL"
+toSector = "ed/EIDE"
+
+[[agreements]]
+cop = "EKERN"
+level = 250
+ades = ["EKBI", "EKVS", "EKVJ", "EKEB", "EKPB", "EKSB", "EKSP", "EKOD"]
+levelAt = [0, "EKERN"]
+fromSector = "ed/HL"
+toSector = "ed/EIDE"
+remarks = "EKBI Inbounds are released direct LOKSA RWY 27 or GELBA RWY 09"
+
+[[agreements]]
+cop = "BADOS"
+level = 250
+ades = ["EKSP", "EKOD"]
+levelAt = [0, "BADOS"]
+fromSector = "ed/HL"
+toSector = "ed/EIDE"
+
+[[agreements]]
+cop = "SIMAF"
+level = 247
+ades = ["EDWF", "EDWE", "EDWI", "EHGG", "EHLE"]
+levelAt = [0, "SIMAF"]
+fromSector = "ed/HL"
+toSector = "ed/ALR"
+remarks = "HOL shall coordinate LVL with ALR"
+
+[[agreements]]
+cop = "ELSOB"
+level = 250
+ades = ["EDDW", "ETND"]
+levelAt = [0, "ELSOB"]
+fromSector = "ed/HL"
+toSector = "ed/ALR"
+
+[[agreements]]
+cop = "ELSOB"
+level = 250
+ades = ["EDVE", "EDXF"]
+levelAt = [0, "ELSOB"]
+fromSector = "ed/HL"
+toSector = "ed/ALR"
+
+[[agreements]]
+cop = "ELSOB"
+level = 250
+ades = ["EDDV", "ETNW"]
+levelAt = [0, "ELSOB"]
+fromSector = "ed/HL"
+toSector = "ed/ALR"
+
+[[agreements]]
+cop = "RAMAR"
+level = 250
+ades = ["EDDV", "ETNW"]
+levelAt = [0, "RAMAR"]
+fromSector = "ed/HL"
+toSector = "ed/HEI"
+
+[[agreements]]
+cop = "AMLUH"
+level = 250
+ades = ["ETMN"]
+levelAt = [0, "AMLUH"]
+fromSector = "ed/HL"
+toSector = "ed/HEI"
+
+[[agreements]]
+cop = "RAMAR"
+level = 250
+ades = ["EDVE"]
+levelAt = [0, "RAMAR"]
+fromSector = "ed/HL"
+toSector = "ed/HEI"
+
+[[agreements]]
+cop = "HAM"
+level = 250
+ades = ["EDVE", "EDXF"]
+levelAt = [0, "HAM"]
+fromSector = "ed/HL"
+toSector = "ed/HEI"
+
+[[agreements]]
+cop = "BERIM"
+level = 250
+ades = ["ETNL", "EDBN", "EDBH", "EDAH"]
+transferType = "D"
+fromSector = "ed/HL"
+toSector = "ed/MRZ"

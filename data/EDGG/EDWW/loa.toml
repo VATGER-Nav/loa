@@ -60,7 +60,7 @@ level = 210
 adep = ["EDDK"]
 fromSector = "ed/PADH"
 toSector = "ed/DST"
-remarks = "only applicable to flights with a RFL below FL245"
+remarks = "Only applicable to flights with a RFL below FL245"
 
 [[agreements]]
 cop = "ESADU"

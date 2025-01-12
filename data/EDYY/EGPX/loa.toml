@@ -2,6 +2,7 @@
 cop = "LONAM"
 level = 320
 adep = ["EHAM"]
+releases = "F"
 fromSector = "ed/HL"
 toSector = "eg/SCE"
-remarks = "Released for climb to FL360 and released for turn"
+remarks = "Released max. FL360"

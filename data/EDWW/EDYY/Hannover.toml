@@ -1,12 +1,4 @@
 [[agreements]]
-cop = "OTEXE"
-level = 250
-adep = ["EDDH", "EDHI", "EDHL"]
-transferType = "C"
-fromSector = "ed/ALR"
-toSector = "ed/JL"
-
-[[agreements]]
 cop = "NIE"
 level = 240
 adep = ["EDDH", "EDHI", "EDHL"]
@@ -23,60 +15,25 @@ fromSector = "ed/ALR"
 toSector = "ed/ML"
 
 [[agreements]]
-cop = "ELSOB"
-level = 240
-adep = ["EDDW", "EDWE", "EDWF", "EDWI"]
-transferType = "C"
-fromSector = "ed/ALR"
-toSector = "ed/HL"
-
-[[agreements]]
-cop = "OPJOT"
-level = 250
-adep = ["EDWE", "EDWI", "EDWF", "EHGG"]
-transferType = "C"
-fromSector = "ed/ALR"
-toSector = "ed/JL"
-
-[[agreements]]
-cop = "ESTAD"
-level = 240
-adep = ["ETNW"]
-transferType = "C"
-fromSector = "ed/ALR"
-toSector = "ed/HL"
-
-[[agreements]]
-cop = "ESTAD"
-level = 250
-adep = ["EDHL"]
-transferType = "C"
-fromSector = "ed/ALR"
-toSector = "ed/HL"
-
-[[agreements]]
 cop = "HLZ"
-level = 0
 adep = ["EDDB"]
 fromSector = "ed/BOR"
 toSector = "ed/CL"
-remarks = "EVEN FLs"
+remarks = "ANY EVEN FL"
 
 [[agreements]]
 cop = "POVEL"
-level = 0
 adep = ["EDDB"]
 fromSector = "ed/BOR"
 toSector = "ed/SL"
-remarks = "EVEN FLs"
+remarks = "ANY EVEN FL"
 
 [[agreements]]
 cop = "ABGUS"
-level = 0
 adep = ["EDDB"]
 fromSector = "ed/BOR"
 toSector = "ed/SL"
-remarks = "EVEN FLs"
+remarks = "ANY EVEN FL"
 
 [[agreements]]
 cop = "POVEL"
@@ -111,94 +68,6 @@ fromSector = "ed/DST"
 toSector = "ed/SL"
 
 [[agreements]]
-cop = "EKERN"
-level = 240
-adep = ["EDDH", "EDHI"]
-transferType = "C"
-fromSector = "ed/EIDE"
-toSector = "ed/HL"
-
-[[agreements]]
-cop = "BADOS"
-level = 240
-adep = ["EDDH", "EDHI", "EDHL"]
-transferType = "C"
-fromSector = "ed/EIDE"
-toSector = "ed/HL"
-
-[[agreements]]
-cop = "EKERN"
-level = 240
-adep = ["EKBI", "EKOB", "EKEB", "EKVD. EKPB", "EKSB", "EKSP"]
-transferType = "C"
-fromSector = "ed/EIDE"
-toSector = "ed/HL"
-
-[[agreements]]
-cop = "DEGUL"
-level = 240
-adep = ["EKOD", "EKPB", "EKSB", "EKVD"]
-transferType = "C"
-fromSector = "ed/EIDE"
-toSector = "ed/HL"
-
-[[agreements]]
-cop = "GIKOG"
-level = 240
-adep = ["EKVD"]
-transferType = "C"
-fromSector = "ed/EIDE"
-toSector = "ed/HL"
-
-[[agreements]]
-cop = "BADOS"
-level = 240
-adep = ["EDXW"]
-transferType = "C"
-fromSector = "ed/EIDE"
-toSector = "ed/HL"
-
-[[agreements]]
-cop = "EKERN"
-level = 240
-adep = ["EDXW"]
-transferType = "C"
-fromSector = "ed/EIDE"
-toSector = "ed/HL"
-
-[[agreements]]
-cop = "GOLEN"
-level = 240
-adep = ["EDDH", "EDHI", "ETMN", "EDXW", "EDXF"]
-transferType = "C"
-fromSector = "ed/EIDW"
-toSector = "ed/JL"
-
-[[agreements]]
-cop = "DHE"
-level = 240
-adep = ["EDXW"]
-transferType = "C"
-fromSector = "ed/EIDW"
-toSector = "ed/JL"
-
-[[agreements]]
-cop = "WELGO"
-level = 240
-adep = ["EHGG"]
-transferType = "C"
-fromSector = "ed/EIDW"
-toSector = "ed/JL"
-
-[[agreements]]
-cop = "DHE"
-level = 240
-adep = ["EHGG"]
-transferType = "C"
-fromSector = "ed/EIDW"
-toSector = "ed/JL"
-
-[[agreements]]
 cop = "BUSEP"
 level = 240
 adep = ["EDDW", "ETND"]
@@ -221,14 +90,6 @@ adep = ["EDDG", "EDLW", "EDLA"]
 transferType = "C"
 fromSector = "ed/EMS"
 toSector = "ed/CL"
-
-[[agreements]]
-cop = "SOFED"
-level = 240
-adep = ["EDDW", "ETND"]
-transferType = "C"
-fromSector = "ed/FRI"
-toSector = "ed/JL"
 
 [[agreements]]
 cop = "SAS"
@@ -275,7 +136,7 @@ remarks = "Clear of HILFE Window"
 [[agreements]]
 cop = "POVEL"
 level = 240
-adep = ["EDBM"]
+adep = ["EDBM", "EDBC"]
 transferType = "C"
 fromSector = "ed/HRZ"
 toSector = "ed/SL"
@@ -287,38 +148,6 @@ adep = ["EDDH", "EDHI"]
 transferType = "C"
 fromSector = "ed/HEI"
 toSector = "ed/SL"
-
-[[agreements]]
-cop = "HAM"
-level = 240
-adep = ["EDDW", "ETND"]
-transferType = "C"
-fromSector = "ed/HEI"
-toSector = "ed/HL"
-
-[[agreements]]
-cop = "AMLUH"
-level = 240
-adep = ["EDDV", "EDVE"]
-transferType = "C"
-fromSector = "ed/HEI"
-toSector = "ed/HL"
-
-[[agreements]]
-cop = "RAMAR"
-level = 240
-adep = ["ETNL"]
-transferType = "C"
-fromSector = "ed/HEI"
-toSector = "ed/HL"
-
-[[agreements]]
-cop = "HAM"
-level = 240
-adep = ["EDHK"]
-transferType = "C"
-fromSector = "ed/HEI"
-toSector = "ed/HL"
 
 [[agreements]]
 cop = "DENIX"
@@ -364,7 +193,7 @@ toSector = "ed/CL"
 [[agreements]]
 cop = "BUMIL"
 level = 260
-adep = ["EDBM"]
+adep = ["EDBM", "EDBC"]
 transferType = "C"
 fromSector = "ed/MAR"
 toSector = "ed/CL"
@@ -376,13 +205,6 @@ adep = ["EDBH", "ETNL", "EDBN"]
 transferType = "C"
 fromSector = "ed/MAR"
 toSector = "ed/CL"
-
-[[agreements]]
-cop = "BERIM"
-level = 260
-adep = ["EDBN", "EDAH", "EDBH"]
-fromSector = "ed/MRZ"
-toSector = "ed/HL"
 
 [[agreements]]
 cop = "OSN"
@@ -424,16 +246,8 @@ fromSector = "ed/MAR"
 toSector = "ed/CL"
 
 [[agreements]]
-cop = "WISMA"
-level = 260
-adep = ["ETNL"]
-fromSector = "ed/MRZ"
-toSector = "ed/HL"
-
-[[agreements]]
 cop = "RISOK"
 level = 260
 adep = ["ETSH"]
 fromSector = "ed/BOR"
 toSector = "ed/SL"
-
