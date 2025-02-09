@@ -3,40 +3,40 @@ cop = "ELNAT"
 level = 320
 ades = ["EDDW", "EDWE", "EDWI", "ETND", "EDWF"]
 from_sector = "ed/FUL1"
-to_sector = "ed/SOL"
+to_sector = "ed/SL"
 
 [[agreements]]
 cop = "BERXO"
 level = 340
 ades = ["EDDB"]
 from_sector = "ed/FUL1"
-to_sector = "ed/SOL"
+to_sector = "ed/SL"
 
 [[agreements]]
 cop = "OTMON"
 level = 340
 ades = ["EDDB"]
-from_sector = "ed/FFM2"
-to_sector = "ed/SOL"
+from_sector = "ed/FUL2"
+to_sector = "ed/SL"
 
 [[agreements]]
 cop = "MAPOX"
 level = 320
 ades = ["EHEH", "EHBD", "EHBK", "EHTE", "EHLE"]
-from_sector = "ed/FFM1"
-to_sector = "ed/MNS"
+from_sector = "ed/FUL1"
+to_sector = "ed/ML"
 
 [[agreements]]
 cop = "OTMON"
 level = 280
 adep = ["EDDF", "EDFE", "ETOU"]
-from_sector = "ed/FFM1"
-to_sector = "ed/SOL"
+from_sector = "ed/FUL1"
+to_sector = "ed/SL"
 remarks = "Released for climb to FL320"
 
 [[agreements]]
 cop = "MAPOX"
 level = 360
 ades = ["EHRD", "EHGG"]
-from_sector = "ed/FFM2"
-to_sector = "ed/MNS"
+from_sector = "ed/FUL2"
+to_sector = "ed/ML"

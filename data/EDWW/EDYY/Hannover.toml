@@ -53,15 +53,6 @@ to_sector = "ed/SL"
 [[agreements]]
 cop = "WRB"
 level = 240
-adep = ["EDDV"]
-transfer_type = "C"
-from_sector = "ed/DST"
-to_sector = "ed/SL"
-remarks = "Transfer of Communications shall take place before EDGG FIR"
-
-[[agreements]]
-cop = "WRB"
-level = 240
 adep = ["EDLW"]
 transfer_type = "C"
 from_sector = "ed/DST"

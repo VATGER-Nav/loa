@@ -6,11 +6,11 @@ adep = ["EDDP"]
 transfer_type = "C"
 releases = "F"
 from_sector = "ed/HAL"
-to_sector = "ed/SOL"
+to_sector = "ed/SL"
 
 [[agreements]]
 cop = "ZUCKA"
 ades = ["EDDW", "EDDV"]
 from_sector = "ed/HAL"
-to_sector = "ed/SOL"
+to_sector = "ed/SL"
 remarks = "Not accepted by MUAC"
