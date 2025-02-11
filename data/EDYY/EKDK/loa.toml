@@ -1,0 +1,27 @@
+[[agreements]]
+cop = "GESKA"
+level = 280
+ades = ["EKCH", "EKRK"]
+fromSector = "ed/HL"
+toSector = "ek/EKDB"
+
+[[agreements]]
+cop = "MEGAR"
+level = 270
+adep = ["EDDH", "EDHI", "EDHL"]
+fromSector = "ed/HL"
+toSector = "ek/EKDB"
+
+[[agreements]]
+cop = "ALS"
+level = 270
+adep = ["EDDH", "EDHI", "EDHL"]
+fromSector = "ed/HL"
+toSector = "ek/EKDS"
+
+[[agreements]]
+cop = "ATTUS"
+level = 270
+adep = ["EDDH", "EDHI", "EDHL"]
+fromSector = "ed/HL"
+toSector = "ek/EKDS"

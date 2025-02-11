@@ -1,49 +1,64 @@
-# OSE
-[[agreements]]
-cop = "BAKDO"
-level = 290
-ades = ["EKCH", "EKRK"]
-vertical = true
-fromSector = "ed/OSE1"
-toSector = "ed/MRZ"
-
 [[agreements]]
 cop = "TAGOB"
 level = 290
 ades = ["EKCH", "EKRK"]
-vertical = true
+levelAt = [0, "TAGOB"]
+fromSector = "ed/OSE1"
+toSector = "ed/MRZ"
+
+[[agreements]]
+cop = "BAKDO"
+level = 290
+ades = ["EKCH"]
+levelAt = [0, "BAKDO"]
 fromSector = "ed/OSE1"
 toSector = "ed/MRZ"
 
 [[agreements]]
 cop = "GEVNI"
 level = 290
-ades = ["EKCH", "EKRK"]
-vertical = true
+ades = ["EKCH"]
+levelAt = [0, "GEVNI"]
+fromSector = "ed/OSE1"
+toSector = "ed/MRZ"
+
+[[agreements]]
+cop = "BINZE"
+level = 290
+ades = ["EKCH"]
+fromSector = "ed/OSE1"
+toSector = "ed/MRZ"
+remarks = "Level before reaching BINZE"
+
+[[agreements]]
+cop = "LABES"
+level = 290
+ades = ["EKCH"]
+levelAt = [0, "LABES"]
+fromSector = "ed/OSE1"
+toSector = "ed/MRZ"
+
+[[agreements]]
+cop = "ROSOK"
+level = 290
+ades = ["EKCH", "ESMK"]
+levelAt = [0, "ROSOK"]
 fromSector = "ed/OSE1"
 toSector = "ed/MRZ"
 
 [[agreements]]
 cop = "PENET"
 level = 290
-ades = ["EKCH", "EKRK"]
-vertical = true
-fromSector = "ed/OSE1"
-toSector = "ed/MRZ"
-
-[[agreements]]
-cop = "LABES"
-level = 290
-ades = ["EKCH", "EKRK"]
-vertical = true
+ades = ["EKRK"]
+levelAt = [0, "PENET"]
 fromSector = "ed/OSE1"
 toSector = "ed/MRZ"
 
 [[agreements]]
 cop = "USEDU"
 level = 290
-ades = ["ESMS"]
-vertical = true
+ades = ["ESMS", "ESMK", "EKRK", "EKRN"]
+levelAt = [0, "USEDU"]
 fromSector = "ed/OSE1"
 toSector = "ed/MRZ"
 
@@ -51,7 +66,7 @@ toSector = "ed/MRZ"
 cop = "MASOR"
 level = 290
 ades = ["ESMS", "ESMK", "EKRN"]
-vertical = true
+levelAt = [0, "MASOR"]
 fromSector = "ed/OSE1"
 toSector = "ed/MRZ"
 
@@ -59,15 +74,15 @@ toSector = "ed/MRZ"
 cop = "ADUKI"
 level = 290
 ades = ["ESMS", "ESMK", "EKRN"]
-vertical = true
+levelAt = [0, "ADUKI"]
 fromSector = "ed/OSE1"
 toSector = "ed/MRZ"
 
 [[agreements]]
 cop = "KUBAB"
 level = 290
-ades = ["ESMS", "ESMK", "EKRN"]
-vertical = true
+ades = ["ESMS"]
+levelAt = [0, "KUBAB"]
 fromSector = "ed/OSE1"
 toSector = "ed/MRZ"
 
@@ -75,7 +90,7 @@ toSector = "ed/MRZ"
 cop = "GASBO"
 level = 290
 ades = ["EKRN"]
-vertical = true
+levelAt = [0, "GASBO"]
 fromSector = "ed/OSE1"
 toSector = "ed/MRZ"
 
@@ -83,7 +98,7 @@ toSector = "ed/MRZ"
 cop = "SULIV"
 level = 290
 ades = ["EKRN"]
-vertical = true
+levelAt = [0, "SULIV"]
 fromSector = "ed/OSE1"
 toSector = "ed/MRZ"
 
@@ -91,7 +106,7 @@ toSector = "ed/MRZ"
 cop = "NUVEN"
 level = 290
 ades = ["EDDV", "EDVE", "ETNW"]
-vertical = true
+levelAt = [0, "NUVEN"]
 fromSector = "ed/OSE1"
 toSector = "ed/MRZ"
 
@@ -99,42 +114,56 @@ toSector = "ed/MRZ"
 cop = "TAGOB"
 level = 290
 ades = ["EDDV", "EDVE", "ETNW"]
-vertical = true
+levelAt = [0, "TAGOB"]
+fromSector = "ed/OSE1"
+toSector = "ed/MRZ"
+
+[[agreements]]
+cop = "EBAWE"
+level = 290
+ades = ["ETNL"]
+levelAt = [0, "EBAWE"]
 fromSector = "ed/OSE1"
 toSector = "ed/MRZ"
 
 [[agreements]]
 cop = "ROSOK"
 level = 290
-levelAt = [-15, "ROSOK"]
 ades = ["EDDH", "EDHI", "EDHL"]
-vertical = true
+levelAt = [-15, "ROSOK"]
 fromSector = "ed/OSE1"
 toSector = "ed/MRZ"
 
 [[agreements]]
 cop = "LEGSA"
 level = 290
-ades = ["EDDH", "EDHI", "EDHL", "EDHK", "EDDW"]
-vertical = true
-fromSector = "ed/OSE1"
-toSector = "ed/MRZ"
-
-[[agreements]]
-cop = "ABIKA"
-level = 290
-levelAt = [0, "RENKI"]
-ades = ["ETNL", "EDBN"]
-vertical = true
+ades = ["EDDH", "EDHI", "EDHL", "EDHK", "EDDW", "EDWE", "EDWI"]
+levelAt = [0, "LEGSA"]
 fromSector = "ed/OSE1"
 toSector = "ed/MRZ"
 
 [[agreements]]
 cop = "RODEP"
 level = 290
-levelAt = [0, "RODEP"]
 ades = ["EDDB", "EDAY"]
-vertical = true
+levelAt = [0, "RODEP"]
+fromSector = "ed/OSE1"
+toSector = "ed/MRZ"
+remarks = "Level latest RODEP"
+
+[[agreements]]
+cop = "ADEPO"
+level = 290
+ades = ["EDDB""]
+levelAt = [0, "ADEPO"]
+fromSector = "ed/OSE1"
+toSector = "ed/MRZ"
+
+[[agreements]]
+cop = "LEGSA"
+level = 290
+ades = ["EDDB"]
+levelAt = [0, "LEGSA"]
 fromSector = "ed/OSE1"
 toSector = "ed/MRZ"
 
@@ -142,23 +171,57 @@ toSector = "ed/MRZ"
 cop = "KOGIM"
 level = 290
 ades = ["EPSC"]
-vertical = true
+levelAt = [0, "KOGIM"]
+fromSector = "ed/OSE1"
+toSector = "ed/MRZ"
+remarks = "Level latest KOGIM"
+
+[[agreements]]
+cop = "BEBEB"
+level = 290
+ades = ["EPSC"]
+levelAt = [0, "BEBEB"]
 fromSector = "ed/OSE1"
 toSector = "ed/MRZ"
 
 [[agreements]]
 cop = "KUBAB"
 level = 290
-ades = ["EPSC", "EDAH"]
-vertical = true
+ades = ["EDAH"]
+levelAt = [-30, "KUBAB"]
 fromSector = "ed/OSE1"
 toSector = "ed/MRZ"
 
 [[agreements]]
-cop = "VIBIS"
+cop = "KUBAB"
+level = 290
+ades = ["EPSC"]
+levelAt = [0, "KUBAB"]
+fromSector = "ed/OSE1"
+toSector = "ed/MRZ"
+
+[[agreements]]
+cop = "ABIKA"
+level = 290
+ades = ["ETNL", "EDBN"]
+levelAt = [0, "ABIKA"]
+fromSector = "ed/OSE1"
+toSector = "ed/MAR"
+remarks = "Level latest abeam RENKI"
+
+[[agreements]]
+cop = "RENKI"
+level = 290
+ades = ["ETNL", "EDBN", "EDAH", "EDBH"]
+fromSector = "ed/OSE1"
+toSector = "ed/MAR"
+remarks = "Level before RENKI"
+
+[[agreements]]
+cop = "PODUS"
 level = 290
 ades = ["EPSC", "EDAH"]
-vertical = true
+levelAt = [-15, "PODUS"]
 fromSector = "ed/OSE1"
 toSector = "ed/MAR"
 
@@ -166,7 +229,7 @@ toSector = "ed/MAR"
 cop = "VIBIS"
 level = 290
 ades = ["EDDV", "ETNW"]
-vertical = true
+levelAt = [0, "VIBIS"]
 fromSector = "ed/OSE1"
 toSector = "ed/MAR"
 
@@ -174,7 +237,7 @@ toSector = "ed/MAR"
 cop = "PODUS"
 level = 290
 ades = ["EDVE"]
-vertical = true
+levelAt = [0, "PODUS"]
 fromSector = "ed/OSE1"
 toSector = "ed/MAR"
 
@@ -182,56 +245,73 @@ toSector = "ed/MAR"
 cop = "RAKIT"
 level = 290
 ades = ["EDAZ"]
-vertical = true
+levelAt = [0, "RAKIT"]
+fromSector = "ed/OSE1"
+toSector = "ed/MAR"
+
+[[agreements]]
+cop = "VIBIS"
+level = 290
+ades = ["EDDH", "EDHI", "EDHL", "EDHK", "EDDW", "EDWE", "EDWI"]
+levelAt = [0, "VIBIS"]
 fromSector = "ed/OSE1"
 toSector = "ed/MAR"
 
 [[agreements]]
 cop = "RADEL"
 level = 290
-ades = ["EPPO", "EPPW", "EPKS"]
-vertical = true
+ades = ["EPPW", "EPKS"]
+levelAt = [0, "RADEL"]
 fromSector = "ed/OSE1"
-toSector = "ed/MAR"
-
-# HVL
-[[agreements]]
-cop = "GARGU"
-level = 290
-ades = ["EPSC", "EDAH", "EDBN"]
-vertical = true
-fromSector = "ed/HVL1"
-toSector = "ed/MAR"
-
-[[agreements]]
-cop = "RIMKO"
-level = 290
-ades = ["EPSC", "EDAH", "EDBN"]
-vertical = true
-fromSector = "ed/HVL1"
-toSector = "ed/MAR"
-
-[[agreements]]
-cop = "VIBIS"
-level = 290
-ades = ["EDDH", "EDHI", "EDHL", "EDHK", "EDDW"]
-vertical = true
-fromSector = "ed/OSE1"
-toSector = "ed/MAR"
-
-[[agreements]]
-cop = "GARGU"
-level = 290
-ades = ["EDDH", "EDHI", "EDHL", "EDHK", "EDDW"]
-vertical = true
-fromSector = "ed/HVL1"
 toSector = "ed/MAR"
 
 [[agreements]]
 cop = "SOGMA"
 level = 290
+ades = ["ETNL", "EDBN", "EDAH", "EDBH"]
+levelAt = [0, "SOGMA"]
+fromSector = "ed/HVL1"
+toSector = "ed/MAR"
+
+[[agreements]]
+cop = "GARGU"
+level = 290
+ades = ["ETNL", "EDBN", "EDAH", "EDBH"]
+levelAt = [0, "GARGU"]
+fromSector = "ed/HVL1"
+toSector = "ed/MAR"
+remarks = "Level latest GARGU"
+
+[[agreements]]
+cop = "RIMKO"
+level = 290
+ades = ["EDAH", "EDBN"]
+levelAt = [0, "RIMKO"]
+fromSector = "ed/HVL1"
+toSector = "ed/MAR"
+
+[[agreements]]
+cop = "EVOKI"
+level = 290
+ades = ["EPSC"]
+fromSector = "ed/HVL1"
+toSector = "ed/MAR"
+remarks = "Level before EVOKI"
+
+[[agreements]]
+cop = "GARGU"
+level = 290
+ades = ["EDDH", "EDHI", "EDHL", "EDHK", "EDDW", "EDWE", "EDWI"]
+levelAt = [0, "GARGU"]
+fromSector = "ed/HVL1"
+toSector = "ed/MAR"
+remarks = "Level latest GARGU"
+
+[[agreements]]
+cop = "SOGMA"
+level = 290
 ades = ["EDDH", "EDHI", "EDHL", "EDHK"]
-vertical = true
+levelAt = [0, "SOGMA"]
 fromSector = "ed/HVL1"
 toSector = "ed/MAR"
 
@@ -239,7 +319,7 @@ toSector = "ed/MAR"
 cop = "SUVAL"
 level = 290
 ades = ["EDDP", "EDAC"]
-vertical = true
+levelAt = [0, "SUVAL"]
 fromSector = "ed/HVL1"
 toSector = "ed/MAR"
 
@@ -247,7 +327,7 @@ toSector = "ed/MAR"
 cop = "IDOBA"
 level = 290
 ades = ["EDDP", "EDDC", "EDAC"]
-vertical = true
+levelAt = [0, "IDOBA"]
 fromSector = "ed/HVL1"
 toSector = "ed/FLG"
 
@@ -255,7 +335,7 @@ toSector = "ed/FLG"
 cop = "IDOBA"
 level = 290
 ades = ["EPSC"]
-vertical = true
+levelAt = [0, "IDOBA"]
 fromSector = "ed/HVL1"
 toSector = "ed/FLG"
 
@@ -263,57 +343,64 @@ toSector = "ed/FLG"
 cop = "SONUD"
 level = 290
 ades = ["EPSC"]
-vertical = true
+levelAt = [0, "SONUD"]
 fromSector = "ed/HVL1"
 toSector = "ed/FLG"
 
 [[agreements]]
 cop = "SONUD"
 level = 290
-ades = ["EPPO", "EPPW", "EPZG", "EPKS"]
-vertical = true
+ades = ["EPPW", "EPZG", "EPKS"]
+levelAt = [0, "SONUD"]
 fromSector = "ed/HVL1"
 toSector = "ed/FLG"
 
 [[agreements]]
 cop = "PEPOL"
 level = 290
-ades = ["EPPO", "EPPW", "EPZG", "EPKS"]
-vertical = true
-fromSector = "ed/HVL1"
-toSector = "ed/FLG"
-
-[[agreements]]
-cop = "ADLIR"
-level = 290
-ades = ["EPPO", "EPPW", "EPZG", "EPKS"]
-vertical = true
+ades = ["EPPW", "EPZG", "EPKS"]
+levelAt = [0, "PEPOL"]
 fromSector = "ed/HVL1"
 toSector = "ed/FLG"
 
 [[agreements]]
 cop = "IDOBA"
 level = 290
+ades = ["EDBM", "EDBC"]
 levelAt = [0, "SONUD"]
-ades = ["EDVE", "EDBM"]
-vertical = true
+fromSector = "ed/HVL1"
+toSector = "ed/FLG"
+remarks = "Level latest SONUD"
+
+[[agreements]]
+cop = "HOZ"
+level = 290
+ades = ["EPKS", "EPPW"]
+levelAt = [0, "HOZ"]
 fromSector = "ed/HVL1"
 toSector = "ed/FLG"
 
 [[agreements]]
 cop = "BUREL"
 level = 290
-levelAt = [0, "ESIKA"]
 ades = ["EDDV", "ETNW"]
-vertical = true
 fromSector = "ed/HVL1"
 toSector = "ed/BOR"
+remarks = "Level abeam ESIKA"
 
 [[agreements]]
 cop = "ESIKA"
 level = 290
 ades = ["EDVK", "EDLP", "EDLI", "EDFQ", "EDDE", "EDGS"]
-vertical = true
+levelAt = [0, "ESIKA"]
+fromSector = "ed/HVL1"
+toSector = "ed/BOR"
+
+[[agreements]]
+cop = "SONUD"
+level = 290
+ades = ["EDVE"]
+levelAt = [0, "SONUD"]
 fromSector = "ed/HVL1"
 toSector = "ed/BOR"
 
@@ -321,7 +408,7 @@ toSector = "ed/BOR"
 cop = "KOSIX"
 level = 290
 ades = ["EDVK", "EDLI", "EDLP"]
-vertical = true
+levelAt = [0, "KOSIX"]
 fromSector = "ed/HVL1"
 toSector = "ed/BOR"
 
@@ -329,25 +416,15 @@ toSector = "ed/BOR"
 cop = "MAG"
 level = 290
 ades = ["EDDW"]
-vertical = true
+levelAt = [0, "MAG"]
 fromSector = "ed/HVL1"
 toSector = "ed/BOR"
 
 [[agreements]]
 cop = "KOSIX"
 level = 290
-ades = ["EDDV"]
-vertical = true
-runway = ["27L", "27C", "27R"]
-fromSector = "ed/HVL1"
-toSector = "ed/BOR"
-
-[[agreements]]
-cop = "MAG"
-level = 290
-ades = ["EDDV"]
-runway = ["09L", "09C", "09R"]
-vertical = true
+ades = ["EDDV", "ETNW"]
+levelAt = [0, "KOSIX"]
 fromSector = "ed/HVL1"
 toSector = "ed/BOR"
 
@@ -355,7 +432,7 @@ toSector = "ed/BOR"
 cop = "SOBLU"
 level = 290
 ades = ["EDDC", "EDAB", "EDAC"]
-vertical = true
+levelAt = [0, "SOBLU"]
 fromSector = "ed/HVL1"
 toSector = "ed/BOR"
 
@@ -363,6 +440,22 @@ toSector = "ed/BOR"
 cop = "NISGA"
 level = 290
 ades = ["EDDC", "EDAB", "EDAC"]
-vertical = true
+fromSector = "ed/HVL1"
+toSector = "ed/BOR"
+remarks = "Level latest abeam SOBLU"
+
+[[agreements]]
+cop = "LUPAK"
+level = 290
+ades = ["ETSH"]
+fromSector = "ed/HVL1"
+toSector = "ed/BOR"
+remarks = "Level before LUPAK"
+
+[[agreements]]
+cop = "PENEK"
+level = 290
+ades = ["ETSH"]
+levelAt = [0, "PENEK"]
 fromSector = "ed/HVL1"
 toSector = "ed/BOR"

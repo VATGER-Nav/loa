@@ -117,6 +117,15 @@ fromSector = "ed/BOR"
 toSector = "ed/TRN"
 
 [[agreements]]
+cop = "KENIG"
+level = 80
+adep = ["EDBC"]
+transferType = "C"
+fromSector = "ed/BOR"
+toSector = "ed/TRN"
+remarks = "TFC may be cleared DCT ESEGU"
+
+[[agreements]]
 cop = "DIBDO"
 level = 80
 adep = ["EDBM"]

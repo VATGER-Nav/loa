@@ -82,7 +82,7 @@ toSector = "ed/KTG"
 [[agreements]]
 cop = "KEGOS"
 level = 200
-ades = ["EDDS"]
+ades = ["EDDS", "EDMA"]
 fromSector = "ed/BBG"
 toSector = "ed/KTG"
 

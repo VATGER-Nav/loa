@@ -2,108 +2,90 @@
 cop = "NATOR"
 level = 190
 adep = ["LFST", "LFGA", "LFJL", "EDTL"]
-transferType = "C"
-vertical = false
 fromSector = "ed/BAD"
 toSector = "ls/SZN"
-remarks = "Flights may be cleared DCT OLBEN / ROTOS / TRA / WIL when passing or remaining west of TRA. Via N850,N869. Flights are released for CLIMB FL 240 (remain clear of Rhein airspace) south of HERBI."
+remarks = "released for climb FL240 (remain clear of EDUU) South of HERBI; flights may be cleared DCT LUTIX/ROTOS when passing or remaining West of TRA"
 
 [[agreements]]
 cop = "NATOR"
 level = 240
 adep = ["EDDS", "EDSB"]
-transferType = "C"
-vertical = false
 fromSector = "ed/BAD"
 toSector = "ls/SZN"
-remarks = "Flights may be cleared DCT OLBEN / ROTOS / TRA / WIL when passing or remaining west of TRA. Via N850,N869."
+remarks = "flights may be cleared DCT LUTIX/ROTOS/TRA/WIL when passing or remaining West of TRA"
 
 [[agreements]]
 cop = "MOPAN"
-level = 0
+level = 150
 ades = [""]
-vertical = false
 fromSector = "ed/BAD"
 toSector = "ls/LSASZ"
-remarks = "Via Y164: Flights may be cleared DCT OLBEN / ROTOS / TRA / WIL when passing or remaining west of TRA."
+remarks = "or higher (odd levels); flights may be cleared DCT LUTIX/ROTOS when passing or remaining West of TRA"
 
 [[agreements]]
 cop = "NATOR"
 level = 180
 ades = ["LSZH", "LSMD"]
-vertical = false
 fromSector = "ed/BAD"
 toSector = "ls/SZN"
-remarks = "Flights may be cleared DCT RILAX. EDGG shall ensure the separation between arrivals via NATOR, IBINI and EMKIL. In case of subsequent arrivals, higher FL (odd / even) may be used. Flights shall be transferred to LSAS at SUL or as soon as possible if traffic situation does not permit. Flights are released for TURN, DESCENT FL 130 and SPEED REDUCTION within the SULZ area."
+remarks = "flights may be cleared DCT RILAX; EDGG shall ensure separation between arrivals via NATOR, IBINI, and EMKIL; in case of subsequent arrivals, higher FL (odd/even) may be used; flights shall be transferred to LSAS at SUL or as soon as possible; released in SULZ area (descent not below FL130)"
 
 [[agreements]]
 cop = "IBINI"
 level = 180
 ades = ["LSZH", "LSMD"]
-vertical = false
 fromSector = "ed/BAD"
 toSector = "ls/SZN"
-remarks = "Flights may be cleared DCT RILAX. EDGG shall ensure the separation between arrivals via NATOR, IBINI and EMKIL. In case of subsequent arrivals, higher FL (odd / even) may be used. Flights shall be transferred to LSAS at SUL or as soon as possible if traffic situation does not permit. Flights are released for TURN, DESCENT FL 130 and SPEED REDUCTION within the SULZ area."
+remarks = "flights may be cleared DCT RILAX; EDGG shall ensure separation between arrivals via NATOR, IBINI, and EMKIL; in case of subsequent arrivals, higher FL (odd/even) may be used; flights shall be transferred to LSAS at SUL or as soon as possible; released in SULZ area (descent not below FL130)"
 
 [[agreements]]
 cop = "EMKIL"
 level = 180
 ades = ["LSZH", "LSMD"]
-vertical = false
 fromSector = "ed/BAD"
 toSector = "ls/SZN"
-remarks = "Flights may be cleared DCT RILAX. EDGG shall ensure the separation between arrivals via NATOR, IBINI and EMKIL. In case of subsequent arrivals, higher FL (odd / even) may be used. Flights shall be transferred to LSAS at SUL or as soon as possible if traffic situation does not permit. Flights are released for TURN, DESCENT FL 130 and SPEED REDUCTION within the SULZ area."
+remarks = "flights may be cleared DCT RILAX; EDGG shall ensure separation between arrivals via NATOR, IBINI, and EMKIL; in case of subsequent arrivals, higher FL (odd/even) may be used; flights shall be transferred to LSAS at SUL or as soon as possible; released in SULZ area (descent not below FL130)"
 
 [[agreements]]
 cop = "EMKIL"
 level = 150
 ades = ["EDNY", "LSZR"]
-vertical = false
 fromSector = "ed/BAD"
 toSector = "ls/SZN"
-remarks = "Flights may be cleared DCT GARMO."
 
 [[agreements]]
 cop = "NATOR"
 level = 150
 ades = ["EDNY", "LSZR"]
-vertical = false
 fromSector = "ed/BAD"
 toSector = "ls/SZN"
-remarks = "Via T732. Flights may be cleared DCT GARMO."
 
 [[agreements]]
 cop = "LOKTA"
 level = 150
 ades = ["EDNY", "LSZR"]
-vertical = false
 fromSector = "ed/BAD"
 toSector = "ls/SZE"
-remarks = "Flights may be cleared DCT GARMO."
+remarks = "flights may be cleared DCT ARFAS"
 
 [[agreements]]
 cop = "EMKIL"
 level = 90
 ades = ["EDTD"]
-vertical = false
 fromSector = "ed/REU"
 toSector = "ls/ZAE"
-remarks = ""
 
 [[agreements]]
 cop = "NATOR"
 level = 90
 ades = ["EDTD"]
-vertical = false
 fromSector = "ed/REU"
 toSector = "ls/ZAE"
-remarks = ""
 
 [[agreements]]
 cop = "ARSUT"
 level = 90
 ades = ["EDTM"]
-vertical = false
 fromSector = "ed/REU"
 toSector = "ls/ARFA"
-remarks = ""
+

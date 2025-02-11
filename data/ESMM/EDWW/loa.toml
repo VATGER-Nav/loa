@@ -1,0 +1,35 @@
+[[agreements]]
+cop = "SALLO"
+level = 270
+ades = ["EDAH", "EDBH", "ETNL"]
+releases = "T"
+fromSector = "es/ESML"
+toSector = "ed/MRZ"
+
+[[agreements]]
+cop = "UNGAV"
+level = 280
+ades = ["EDAH", "EDBH", "ETNL"]
+releases = "T"
+fromSector = "es/ESML"
+toSector = "ed/MRZ"
+
+[[agreements]]
+cop = "SALLO"
+level = 250
+adep = ["ESMS", "EKCH", "EKRK"]
+transferType = "C"
+releases = "F"
+fromSector = "es/ESML"
+toSector = "ed/MRZ"
+remarks = "Released max. FL280"
+
+[[agreements]]
+cop = "SALLO"
+level = 90
+adep = ["EKRN"]
+transferType = "C"
+sfl = 40
+releases = "T"
+fromSector = "es/ESML"
+toSector = "ed/MRZ"

@@ -17,7 +17,7 @@ remarks = "released passing T159"
 
 [[agreements]]
 cop = "GOLMO"
-level = 240
+level = 220
 adep = ["EDDM"]
 fromSector = "ed/ALB"
 toSector = "ed/WLD"

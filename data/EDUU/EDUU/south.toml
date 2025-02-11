@@ -162,6 +162,13 @@ fromSector = "ed/ISA1"
 toSector = "ed/CHI1"
 
 [[agreements]]
+level = 350
+cop = "MIQ"
+adep = ["EDDF"]
+fromSector = "ed/ISA1"
+toSector = "ed/DON1"
+
+[[agreements]]
 level = 320
 ades = [
         "EDDF",
@@ -208,6 +215,12 @@ level = 360
 adep = ["LKPR"]
 fromSector = "ed/DON2"
 toSector = "ed/CHI2"
+
+[[agreements]]
+level = 360
+ades = ["EDDC"]
+fromSector = "ed/DON2"
+toSector = "ed/ERL1"
 
 [[agreements]]
 level = 360

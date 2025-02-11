@@ -2,57 +2,56 @@
 cop = "RIMET"
 level = 250
 ades = ["EDDF", "EDFE"]
-transferType = "D"
-vertical = false
-fromSector = "ed/SOL"
+levelAt = [0, "RIMET"]
+fromSector = "ed/SL"
 toSector = "ed/GED"
-remarks = ""
 
 [[agreements]]
-cop = "LIPMI"
+cop = "DF400"
 level = 260
-ades = ["EDDF", "EDFE"]
-vertical = false
-fromSector = "ed/RHR"
+ades = ["EDDF"]
+releases = "D"
+fromSector = "ed/RL"
 toSector = "ed/TAU"
-remarks = "EDDF arrivals have to be cleared via DIXAT#A (25) / DIXAT#D (07) STAR. Released for descent after passing abeam DIXAT."
+remarks = "via STAR; must be cleared for DIXAT#A (25)/DIXAT#D (07); released for descent after passing abeam DIXAT"
 
 [[agreements]]
 cop = "DENOL"
 level = 250
 ades = ["EDDL", "EDL*", "EHEH", "EHBK"]
-transferType = "D"
-vertical = false
-fromSector = "ed/CEL"
+levelAt = [0, "DENOL"]
+fromSector = "ed/CL"
 toSector = "ed/HMM"
-remarks = ""
 
 [[agreements]]
 cop = "HMM"
 level = 250
 ades = ["EDDL", "EDL*", "EHEH", "EHBK"]
-transferType = "D"
 levelAt = [-20, "HMM"]
-vertical = false
-fromSector = "ed/MNS"
+fromSector = "ed/ML"
 toSector = "ed/HMM"
 
 [[agreements]]
 cop = "PODER"
 level = 250
 ades = ["EDDK"]
-transferType = "D"
-vertical = false
-fromSector = "ed/SOL"
+levelAt = [0, "PODER"]
+fromSector = "ed/SL"
 toSector = "ed/PADH"
-remarks = ""
 
 [[agreements]]
 cop = "ABAMI"
 level = 250
 ades = ["EBBR", "EBMB", "EBCI", "EBLG", "EBAW", "ELLX"]
-transferType = "D"
-vertical = false
-fromSector = "ed/RHR"
+levelAt = [0, "ABAMI"]
+fromSector = "ed/RL"
 toSector = "ed/BOT"
-remarks = ""
+
+[[agreements]]
+cop = "LIPMI"
+level = 250
+ades = ["EDFE", "ETAR"]
+levelAt = [0, "LIPMI"]
+fromSector = "ed/RL"
+toSector = "ed/TAU"
+

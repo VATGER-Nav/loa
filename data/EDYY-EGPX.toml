@@ -1,8 +1,0 @@
-[[agreements]]
-cop = "LONAM"
-level = 320
-adep = ["EHAM"]
-vertical = false
-fromSector = "ed/JEV"
-toSector = "eg/SCE"
-remarks = "Released for climb to FL350 and released for turn"

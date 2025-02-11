@@ -1,0 +1,55 @@
+[[agreements]]
+cop = "ALASA"
+level = 230
+ades = ["EDDH", "EDHI", "EDHL"]
+fromSector = "ek/EKDD"
+toSector = "ed/EIDE"
+
+[[agreements]]
+cop = "ATTUS"
+level = 230
+ades = ["EDDH", "EDHI", "EDHL"]
+fromSector = "ek/EKDD"
+toSector = "ed/EIDE"
+
+[[agreements]]
+cop = "MICOS"
+level = 230
+ades = ["EDDH", "EDHI"]
+fromSector = "ek/EKDI"
+toSector = "ed/HEI"
+
+[[agreements]]
+cop = "ALASA"
+level = 160
+ades = ["EDHL"]
+fromSector = "ek/EKDI"
+toSector = "ed/HEI"
+
+[[agreements]]
+cop = "ATTUS"
+level = 80
+ades = ["EDXW", "EDXF", "EDHK", "ETNS", "ETNH"]
+fromSector = "ek/EKDD"
+toSector = "ed/EIDE"
+
+[[agreements]]
+cop = "DOSUR"
+level = 80
+ades = ["EDXW", "EDXF", "EDHK", "ETNS", "ETNH"]
+fromSector = "ek/EKDD"
+toSector = "ed/EIDE"
+
+[[agreements]]
+cop = "ALASA"
+level = 80
+ades = ["EDXW", "EDXF", "EDHK", "ETNS", "ETNH"]
+fromSector = "ek/EKDD"
+toSector = "ed/EIDE"
+
+[[agreements]]
+cop = "SONAL"
+level = 190
+adep = ["EKCH"]
+fromSector = "ek/EKDB"
+toSector = "ed/MRZ"

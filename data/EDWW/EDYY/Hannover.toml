@@ -1,0 +1,253 @@
+[[agreements]]
+cop = "NIE"
+level = 240
+adep = ["EDDH", "EDHI", "EDHL"]
+transferType = "C"
+fromSector = "ed/ALR"
+toSector = "ed/CL"
+
+[[agreements]]
+cop = "BASUM"
+level = 240
+adep = ["EDDH", "EDHI", "EDHL"]
+transferType = "C"
+fromSector = "ed/ALR"
+toSector = "ed/ML"
+
+[[agreements]]
+cop = "HLZ"
+adep = ["EDDB"]
+fromSector = "ed/BOR"
+toSector = "ed/CL"
+remarks = "ANY EVEN FL"
+
+[[agreements]]
+cop = "POVEL"
+adep = ["EDDB"]
+fromSector = "ed/BOR"
+toSector = "ed/SL"
+remarks = "ANY EVEN FL"
+
+[[agreements]]
+cop = "ABGUS"
+adep = ["EDDB"]
+fromSector = "ed/BOR"
+toSector = "ed/SL"
+remarks = "ANY EVEN FL"
+
+[[agreements]]
+cop = "POVEL"
+level = 260
+adep = ["EDDE", "EDDP", "ETSH", "EDAC"]
+fromSector = "ed/BOR"
+toSector = "ed/SL"
+
+[[agreements]]
+cop = "TOLGI"
+level = 240
+adep = ["EDDF"]
+transferType = "C"
+fromSector = "ed/DST"
+toSector = "ed/SL"
+
+[[agreements]]
+cop = "WRB"
+level = 240
+adep = ["EDDV"]
+transferType = "C"
+fromSector = "ed/DST"
+toSector = "ed/SL"
+remarks = "Transfer of Communications shall take place before EDGG FIR"
+
+[[agreements]]
+cop = "WRB"
+level = 240
+adep = ["EDLW"]
+transferType = "C"
+fromSector = "ed/DST"
+toSector = "ed/SL"
+
+[[agreements]]
+cop = "BUSEP"
+level = 240
+adep = ["EDDW", "ETND"]
+transferType = "C"
+fromSector = "ed/EMS"
+toSector = "ed/CL"
+
+[[agreements]]
+cop = "ROBEG"
+level = 240
+adep = ["EDLP", "EDFQ", "EDLI", "EDVK"]
+transferType = "C"
+fromSector = "ed/EMS"
+toSector = "ed/CL"
+
+[[agreements]]
+cop = "MOBSA"
+level = 240
+adep = ["EDDG", "EDLW", "EDLA"]
+transferType = "C"
+fromSector = "ed/EMS"
+toSector = "ed/CL"
+
+[[agreements]]
+cop = "SAS"
+level = 240
+adep = ["EDDW", "ETND"]
+transferType = "C"
+fromSector = "ed/HRZ"
+toSector = "ed/CL"
+
+[[agreements]]
+cop = "DLE"
+level = 240
+adep = ["EDVE"]
+transferType = "C"
+fromSector = "ed/HRZ"
+toSector = "ed/CL"
+
+[[agreements]]
+cop = "NORTA"
+level = 240
+adep = ["EDVE"]
+transferType = "C"
+fromSector = "ed/HRZ"
+toSector = "ed/SL"
+remarks = "Clear of HILFE Window"
+
+[[agreements]]
+cop = "NORTA"
+level = 240
+adep = ["EDLP", "EDVK", "EDFQ"]
+transferType = "C"
+fromSector = "ed/HRZ"
+toSector = "ed/SL"
+
+[[agreements]]
+cop = "WERRA"
+level = 240
+adep = ["EDDV"]
+transferType = "C"
+fromSector = "ed/HRZ"
+toSector = "ed/SL"
+remarks = "Clear of HILFE Window"
+
+[[agreements]]
+cop = "POVEL"
+level = 240
+adep = ["EDBM", "EDBC"]
+transferType = "C"
+fromSector = "ed/HRZ"
+toSector = "ed/SL"
+
+[[agreements]]
+cop = "LUGEG"
+level = 240
+adep = ["EDDH", "EDHI"]
+transferType = "C"
+fromSector = "ed/HEI"
+toSector = "ed/SL"
+
+[[agreements]]
+cop = "DENIX"
+level = 240
+adep = ["EDDH", "EDHI", "EDHL", "ETMN"]
+transferType = "C"
+fromSector = "ed/HEI"
+toSector = "ed/CL"
+
+[[agreements]]
+cop = "RIDNI"
+level = 240
+adep = ["EDDW", "ETND"]
+transferType = "C"
+fromSector = "ed/HEI"
+toSector = "ed/CL"
+remarks = "If RFL at or above FL290, not for destinations inside EDWW FIR"
+
+[[agreements]]
+cop = "IRKIS"
+level = 240
+adep = ["EDDV", "ETNW", "EDVE"]
+transferType = "C"
+fromSector = "ed/HEI"
+toSector = "ed/CL"
+
+[[agreements]]
+cop = "IRKIS"
+level = 240
+adep = ["EDHL"]
+transferType = "C"
+fromSector = "ed/HEI"
+toSector = "ed/CL"
+
+[[agreements]]
+cop = "IRKIS"
+level = 240
+adep = ["EDHK"]
+transferType = "C"
+fromSector = "ed/HEI"
+toSector = "ed/CL"
+
+[[agreements]]
+cop = "BUMIL"
+level = 260
+adep = ["EDBM", "EDBC"]
+transferType = "C"
+fromSector = "ed/MAR"
+toSector = "ed/CL"
+
+[[agreements]]
+cop = "GARLU"
+level = 260
+adep = ["EDBH", "ETNL", "EDBN"]
+transferType = "C"
+fromSector = "ed/MAR"
+toSector = "ed/CL"
+
+[[agreements]]
+cop = "OSN"
+level = 240
+adep = ["EDDW", "ETND"]
+transferType = "C"
+fromSector = "ed/EMS"
+toSector = "ed/ML"
+
+[[agreements]]
+cop = "OSN"
+level = 240
+adep = ["EDDV", "ETNW"]
+transferType = "C"
+fromSector = "ed/EMS"
+toSector = "ed/ML"
+
+[[agreements]]
+cop = "RORUS"
+level = 240
+adep = ["EDDV", "ETNW"]
+transferType = "C"
+fromSector = "ed/EMS"
+toSector = "ed/ML"
+
+[[agreements]]
+cop = "OSN"
+level = 240
+adep = ["EDDG", "EDLW", "EDLA"]
+transferType = "C"
+fromSector = "ed/EMS"
+toSector = "ed/ML"
+
+[[agreements]]
+cop = "LUWIL"
+level = 260
+adep = ["ETNL"]
+fromSector = "ed/MAR"
+toSector = "ed/CL"
+
+[[agreements]]
+cop = "RISOK"
+level = 260
+adep = ["ETSH"]
+fromSector = "ed/BOR"
+toSector = "ed/SL"

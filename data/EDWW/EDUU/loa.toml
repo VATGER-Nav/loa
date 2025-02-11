@@ -2,349 +2,336 @@
 cop = "PEROM"
 level = 280
 adep = ["EKCH", "EKRK", "ESMS"]
-vertical = false
 fromSector = "ed/MRZ"
 toSector = "ed/OSE1"
-remarks = ""
 
 [[agreements]]
 cop = "ARGAD"
 level = 280
 adep = ["EKCH", "EKRK", "ESMS"]
-vertical = false
 fromSector = "ed/MRZ"
 toSector = "ed/OSE1"
-remarks = ""
+
+[[agreements]]
+cop = "USEDU"
+level = 280
+adep = ["EKCH", "EKRK", "ESMS"]
+fromSector = "ed/MRZ"
+toSector = "ed/OSE1"
+
+[[agreements]]
+cop = "NONSA"
+level = 280
+adep = ["EKCH", "EKRK"]
+fromSector = "ed/MRZ"
+toSector = "ed/OSE1"
 
 [[agreements]]
 cop = "NONSA"
 level = 280
 adep = ["EKRN"]
-vertical = false
 fromSector = "ed/MRZ"
 toSector = "ed/OSE1"
-remarks = ""
 
 [[agreements]]
-cop = "GASBO"
+cop = "EBAWE"
 level = 280
-adep = ["EDDH", "EDHI", "EDHK"]
-vertical = false
+adep = ["ETNL"]
 fromSector = "ed/MRZ"
 toSector = "ed/OSE1"
-remarks = ""
+
+[[agreements]]
+cop = "ROSOK"
+level = 280
+adep = ["EDDH", "EDHI", "EDHL"]
+fromSector = "ed/MRZ"
+toSector = "ed/OSE1"
 
 [[agreements]]
 cop = "KUBAB"
 level = 280
-adep = ["EDDH", "EDHI", "EDHK"]
-vertical = false
+adep = ["EDDH", "EDHI", "EDHL", "EDHK"]
 fromSector = "ed/MRZ"
 toSector = "ed/OSE1"
-remarks = ""
-
-[[agreements]]
-cop = "NONSA"
-level = 280
-adep = ["EDHL"]
-vertical = false
-fromSector = "ed/MRZ"
-toSector = "ed/OSE1"
-remarks = ""
-
-[[agreements]]
-cop = "GEVNI"
-level = 280
-adep = ["EDHL"]
-vertical = false
-fromSector = "ed/MRZ"
-toSector = "ed/OSE1"
-remarks = ""
 
 [[agreements]]
 cop = "TAGOB"
 level = 280
 adep = ["EDDV", "EDVE", "ETNW"]
-vertical = false
 fromSector = "ed/MRZ"
 toSector = "ed/OSE1"
-remarks = ""
 
 [[agreements]]
 cop = "KUBAB"
 level = 280
 adep = ["EDDV", "EDVE", "ETNW"]
-vertical = false
 fromSector = "ed/MRZ"
 toSector = "ed/OSE1"
-remarks = ""
 
 [[agreements]]
-cop = "MASOR"
+cop = "RODEP"
+level = 280
+adep = ["EDDB"]
+fromSector = "ed/MRZ"
+toSector = "ed/OSE1"
+
+[[agreements]]
+cop = "TIRMI"
+level = 280
+adep = ["EDDB"]
+fromSector = "ed/MRZ"
+toSector = "ed/OSE1"
+
+[[agreements]]
+cop = "ITZEG"
+level = 280
+adep = ["EDDB"]
+fromSector = "ed/MRZ"
+toSector = "ed/OSE1"
+
+[[agreements]]
+cop = "RODEP"
 level = 280
 adep = ["EDAY"]
-vertical = false
 fromSector = "ed/MRZ"
 toSector = "ed/OSE1"
-remarks = ""
 
 [[agreements]]
-cop = "KUBAB"
+cop = "PENET"
 level = 280
 adep = ["EPSC"]
-vertical = false
 fromSector = "ed/MRZ"
 toSector = "ed/OSE1"
-remarks = ""
 
 [[agreements]]
-cop = "NONSA"
+cop = "LEGSA"
 level = 280
 adep = ["EPSC"]
-vertical = false
 fromSector = "ed/MRZ"
 toSector = "ed/OSE1"
-remarks = ""
-
-[[agreements]]
-cop = "ARGAD"
-level = 280
-adep = ["EPSC"]
-vertical = false
-fromSector = "ed/MRZ"
-toSector = "ed/OSE1"
-remarks = ""
 
 [[agreements]]
 cop = "PODUS"
 level = 280
 adep = ["EPSC"]
-vertical = false
 fromSector = "ed/MAR"
 toSector = "ed/OSE1"
-remarks = ""
 
 [[agreements]]
-cop = "BEKBA"
+cop = "KETAP"
 level = 280
-adep = ["EDDB"]
-vertical = false
+adep = ["EPSC", "EDAH"]
 fromSector = "ed/MAR"
 toSector = "ed/OSE1"
-remarks = ""
 
 [[agreements]]
-cop = "RAKIT"
+cop = "PODUS"
 level = 280
-adep = ["EDDB"]
-vertical = false
+adep = ["EDAH"]
 fromSector = "ed/MAR"
 toSector = "ed/OSE1"
-remarks = ""
+
+[[agreements]]
+cop = "LASLU"
+level = 280
+adep = ["EDAH"]
+fromSector = "ed/MAR"
+toSector = "ed/OSE1"
+
+[[agreements]]
+cop = "VIBIS"
+level = 280
+adep = ["EDDH", "EDHI", "EDHL", "EDHK"]
+fromSector = "ed/MAR"
+toSector = "ed/OSE1"
+
+[[agreements]]
+cop = "PABMI"
+level = 280
+adep = ["EDDH", "EDHI", "EDHL"]
+fromSector = "ed/MAR"
+toSector = "ed/OSE1"
 
 [[agreements]]
 cop = "ERNUD"
 level = 280
 adep = ["EDDB"]
-vertical = false
 fromSector = "ed/MAR"
 toSector = "ed/OSE1"
-remarks = ""
 
 [[agreements]]
 cop = "VIBIS"
 level = 280
 adep = ["EDAY"]
-vertical = false
 fromSector = "ed/MAR"
 toSector = "ed/OSE1"
-remarks = ""
 
 [[agreements]]
-cop = "RAKIT"
+cop = "RENKI"
 level = 280
 adep = ["EDAZ"]
-vertical = false
 fromSector = "ed/MAR"
 toSector = "ed/OSE1"
-remarks = ""
+
+[[agreements]]
+cop = "ABIKA"
+level = 280
+adep = ["EDAZ"]
+fromSector = "ed/MAR"
+toSector = "ed/OSE1"
+
+[[agreements]]
+cop = "VIBIS"
+level = 280
+adep = ["EDDV", "EDVE", "ETNW"]
+fromSector = "ed/MAR"
+toSector = "ed/OSE1"
+
+[[agreements]]
+cop = "SOGMA"
+level = 280
+adep = ["EDDP", "EDAC", "EDAZ"]
+fromSector = "ed/MAR"
+toSector = "ed/HVL1"
 
 [[agreements]]
 cop = "OSROC"
 level = 280
-adep = ["EPSC"]
-vertical = false
+adep = ["EPSC", "ETNL", "EDAH", "EDBH"]
 fromSector = "ed/MAR"
 toSector = "ed/HVL1"
-remarks = ""
 
 [[agreements]]
 cop = "BIRMO"
 level = 280
 adep = ["EDDH", "EDHI", "EDHL", "EDHK"]
-vertical = false
 fromSector = "ed/MAR"
 toSector = "ed/HVL1"
-remarks = ""
-
-[[agreements]]
-cop = "RUPIR"
-level = 280
-adep = ["ETNL", "EDAH", "EDBH", "EDBN"]
-vertical = false
-fromSector = "ed/MAR"
-toSector = "ed/HVL1"
-remarks = ""
 
 [[agreements]]
 cop = "IDOWO"
 level = 280
-adep = ["ETNL", "EDAH", "EDBH", "EDBN"]
-vertical = false
+adep = ["EDBN", "ETNL"]
 fromSector = "ed/MAR"
 toSector = "ed/HVL1"
-remarks = ""
 
 [[agreements]]
-cop = "OSROC"
+cop = "BIRMO"
 level = 280
-adep = ["ETNL", "EDAH", "EDBH", "EDBN"]
-vertical = false
+adep = ["ETNL", "EDBN", "EDBH"]
 fromSector = "ed/MAR"
 toSector = "ed/HVL1"
-remarks = ""
-
-[[agreements]]
-cop = "SOGMA"
-level = 280
-adep = ["ETNL", "EDAH", "EDBH", "EDBN"]
-vertical = false
-fromSector = "ed/MAR"
-toSector = "ed/HVL1"
-remarks = ""
-
-[[agreements]]
-cop = "ADLIR"
-level = 280
-adep = ["EPPO", "EPZG"]
-vertical = false
-fromSector = "ed/FLG"
-toSector = "ed/HVL1"
-remarks = ""
 
 [[agreements]]
 cop = "SONUD"
 level = 280
-adep = ["EPPO", "EPZG"]
-vertical = false
+adep = ["EDBM", "EDBC"]
 fromSector = "ed/FLG"
 toSector = "ed/HVL1"
-remarks = ""
 
 [[agreements]]
 cop = "OBANI"
 level = 280
 adep = ["EDDP"]
-vertical = false
 fromSector = "ed/FLG"
 toSector = "ed/HVL1"
-remarks = ""
 
 [[agreements]]
-cop = "GERGA"
+cop = "KLF"
 level = 280
-adep = ["EDDC", "EDAB"]
-vertical = false
+adep = ["EDDP"]
 fromSector = "ed/FLG"
 toSector = "ed/HVL1"
-remarks = ""
+
+[[agreements]]
+cop = "PEPOL"
+level = 280
+adep = ["EDAC"]
+fromSector = "ed/FLG"
+toSector = "ed/HVL1"
+
+[[agreements]]
+cop = "IDOBA"
+level = 280
+adep = ["EDDC", "EDAB"]
+fromSector = "ed/FLG"
+toSector = "ed/HVL1"
+
+[[agreements]]
+cop = "BOLBO"
+level = 280
+adep = ["EDDC", "EDAB"]
+fromSector = "ed/FLG"
+toSector = "ed/HVL1"
 
 [[agreements]]
 cop = "MAG"
 level = 280
-adep = ["EDDC"]
-vertical = false
+adep = ["EDAZ"]
 fromSector = "ed/BOR"
 toSector = "ed/HVL1"
-remarks = ""
 
 [[agreements]]
 cop = "MAG"
 level = 280
 adep = ["EDDV", "EDVK", "ETNW"]
-vertical = false
 fromSector = "ed/BOR"
 toSector = "ed/HVL1"
-remarks = ""
 
 [[agreements]]
-cop = "KOSIX"
+cop = "ESIKA"
 level = 280
 adep = ["EDVE"]
-vertical = false
 fromSector = "ed/BOR"
 toSector = "ed/HVL1"
-remarks = ""
 
 [[agreements]]
-cop = "LULUL"
-level = 280
-adep = ["EDVE"]
-vertical = false
-fromSector = "ed/BOR"
-toSector = "ed/HVL1"
-remarks = ""
-
-[[agreements]]
-cop = "BUREL"
+cop = "PENEK"
 level = 280
 adep = ["EDDE"]
-vertical = false
 fromSector = "ed/BOR"
 toSector = "ed/HVL1"
-remarks = ""
 
 [[agreements]]
-cop = "LEGDA"
+cop = "MAG"
 level = 280
 adep = ["EDDE"]
-vertical = false
 fromSector = "ed/BOR"
 toSector = "ed/HVL1"
-remarks = ""
 
 [[agreements]]
 cop = "PENEK"
 level = 280
 adep = ["EDDP"]
-vertical = false
 fromSector = "ed/BOR"
 toSector = "ed/HVL1"
-remarks = ""
 
 [[agreements]]
-cop = "HLZ"
+cop = "BUREL"
 level = 280
 adep = ["EDDB", "EDAY"]
-vertical = false
 fromSector = "ed/BOR"
 toSector = "ed/HVL1"
-remarks = "Departures EDDB via HLZ or POVEL abeam BUREL at FL240. Otherwise, ACC Bremen sector BOR shall coordinate immediately with UAC sector HVL, due to suspended silent transfer procedure."
+remarks = "Coordination required unless TFC at/abeam BUREL at FL240 or higher"
 
 [[agreements]]
-cop = "POVEL"
+cop = "MAG"
 level = 280
 adep = ["EDDB", "EDAY"]
-vertical = false
 fromSector = "ed/BOR"
 toSector = "ed/HVL1"
-remarks = "Departures EDDB via HLZ or POVEL abeam BUREL at FL240. Otherwise, ACC Bremen sector BOR shall coordinate immediately with UAC sector HVL, due to suspended silent transfer procedure."
+remarks = "Coordination required unless TFC at/abeam BUREL at FL240 or higher"
 
 [[agreements]]
-cop = "ABGUS"
+cop = "LUPAK"
 level = 280
-adep = ["EDDB", "EDAY"]
-vertical = false
+adep = ["ETSH"]
 fromSector = "ed/BOR"
 toSector = "ed/HVL1"
-remarks = ""
+
+[[agreements]]
+cop = "PENEK"
+level = 280
+adep = ["ETSH"]
+fromSector = "ed/BOR"
+toSector = "ed/HVL1"

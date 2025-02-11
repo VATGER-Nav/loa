@@ -1,7 +1,7 @@
 # BBG
 [[agreements]]
-cop = "VELIS"
-level = 280
+cop = "PILAM"
+level = 300
 ades = ["EDDK", "EDLW", "EDLA", "EDKZ", "EDLP", "EDLI", "EDFQ", "EDDL"]
 fromSector = "ed/BBG"
 toSector = "ed/FUL1"
@@ -32,9 +32,24 @@ fromSector = "ed/BBG"
 toSector = "ed/ERL1"
 
 [[agreements]]
-cop = "ALAXA"
+cop = "ERETO"
 level = 310
 vertical = true
+adep = ["EDJA"]
+fromSector = "ed/BBG"
+toSector = "ed/ERL1"
+
+[[agreements]]
+cop = "LONLI"
+level = 310
+vertical = true
+adep = ["EDJA"]
+fromSector = "ed/BBG"
+toSector = "ed/ERL1"
+
+[[agreements]]
+cop = "ALAXA"
+level = 310
 adep = ["EDDP", "EDAC", "EDDE"]
 fromSector = "ed/BBG"
 toSector = "ed/WUR1"

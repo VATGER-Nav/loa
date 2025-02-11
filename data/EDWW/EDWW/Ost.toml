@@ -1,0 +1,569 @@
+[[agreements]]
+cop = "KOSIX"
+level = 110
+ades = ["ETSH"]
+fromSector = "ed/BOR"
+toSector = "ed/DBAS"
+
+[[agreements]]
+cop = "KOSIX"
+level = 90
+ades = ["EDAZ"]
+fromSector = "ed/BOR"
+toSector = "ed/DBAS"
+
+[[agreements]]
+cop = "LOGDO"
+level = 170
+ades = ["EDAE", "EDAV", "EDAY", "EDBW", "EDON"]
+fromSector = "ed/BOR"
+toSector = "ed/DBDS"
+
+[[agreements]]
+cop = "NISGA"
+level = 210
+ades = ["EDDC", "EDAC", "EDAB"]
+fromSector = "ed/BOR"
+toSector = "ed/FLG"
+
+[[agreements]]
+cop = "ESIKA"
+level = 210
+ades = ["EDAB"]
+fromSector = "ed/BOR"
+toSector = "ed/FLG"
+
+[[agreements]]
+cop = "MAG"
+level = 230
+ades = ["EDDB"]
+routeAfter = "KLF"
+fromSector = "ed/BOR"
+toSector = "ed/FLG"
+
+[[agreements]]
+cop = "HLZ"
+level = 80
+ades = ["EDVE"]
+fromSector = "ed/BOR"
+toSector = "ed/HAN"
+
+[[agreements]]
+cop = "POVEL"
+level = 80
+ades = ["EDVE"]
+fromSector = "ed/BOR"
+toSector = "ed/HAN"
+
+[[agreements]]
+cop = "POVEL"
+level = 240
+ades = ["EDDW", "ETNW", "EDDG", "EDLI"]
+fromSector = "ed/BOR"
+toSector = "ed/HRZ"
+
+[[agreements]]
+cop = "ABGUS"
+level = 240
+ades = ["EDVK", "EDLP", "EDLI", "EDFQ", "EDDF", "EDGS"]
+fromSector = "ed/BOR"
+toSector = "ed/HRZ"
+
+[[agreements]]
+cop = "HLZ"
+level = 240
+ades = ["EDDV"]
+runway = ["09L", "09R"]
+fromSector = "ed/BOR"
+toSector = "ed/HRZ"
+
+[[agreements]]
+cop = "HLZ"
+level = 180
+ades = ["EDDV"]
+runway = ["27L", "27R"]
+fromSector = "ed/BOR"
+toSector = "ed/HRZ"
+
+[[agreements]]
+cop = "PENEK"
+level = 270
+ades = ["ETNL", "EDAH", "EDBH", "EDBN"]
+fromSector = "ed/BOR"
+toSector = "ed/MAR"
+
+[[agreements]]
+cop = "BUROK"
+level = 90
+adep = ["EDBM", "EDBC"]
+fromSector = "ed/BOR"
+toSector = "ed/DBAS"
+remarks = "EDDB RWYs 06"
+
+[[agreements]]
+cop = "BUROK"
+level = 90
+adep = ["EDBM", "EDBC"]
+fromSector = "ed/BOR"
+toSector = "ed/DBDS"
+remarks = "EDDB RWYs 24"
+
+[[agreements]]
+cop = "BUREL"
+level = 160
+adep = ["EDBM", "EDBC"]
+fromSector = "ed/BOR"
+toSector = "ed/MAR"
+
+[[agreements]]
+cop = "ABGUS"
+level = 100
+adep = ["EDBM"]
+transferType = "C"
+fromSector = "ed/BOR"
+toSector = "ed/HRZ"
+
+[[agreements]]
+cop = "POVEL"
+level = 120
+adep = ["EDBM", "EDBC"]
+fromSector = "ed/BOR"
+toSector = "ed/HRZ"
+
+[[agreements]]
+cop = "ABGUS"
+level = 70
+adep = ["EDBC"]
+transferType = "C"
+fromSector = "ed/BOR"
+toSector = "ed/HRZ"
+
+[[agreements]]
+cop = "KOSIX"
+level = 230
+adep = ["EDBC"]
+fromSector = "ed/BOR"
+toSector = "ed/FLG"
+
+[[agreements]]
+cop = "BUREL"
+level = 240
+adep = ["EDDP", "EDAC", "EDAZ"]
+fromSector = "ed/BOR"
+toSector = "ed/MAR"
+
+[[agreements]]
+cop = "SONUD"
+level = 280
+ades = ["EDVE", "EDBM", "EDBC"]
+fromSector = "ed/FLG"
+toSector = "ed/BOR"
+
+[[agreements]]
+cop = "KLF"
+level = 140
+ades = ["EDDB"]
+transferType = "D"
+fromSector = "ed/FLG"
+toSector = "ed/DBAS"
+
+[[agreements]]
+cop = "ATGUP"
+level = 140
+ades = ["EDDB"]
+transferType = "D"
+fromSector = "ed/FLG"
+toSector = "ed/DBAS"
+
+[[agreements]]
+cop = "NUKRO"
+level = 140
+ades = ["EDDB"]
+transferType = "D"
+fromSector = "ed/FLG"
+toSector = "ed/DBAS"
+
+[[agreements]]
+cop = "ATGUP"
+level = 140
+ades = ["EDAY"]
+transferType = "D"
+fromSector = "ed/FLG"
+toSector = "ed/DBAS"
+
+[[agreements]]
+cop = "LUROS"
+level = 140
+ades = ["EDAY"]
+transferType = "D"
+fromSector = "ed/FLG"
+toSector = "ed/DBAS"
+
+[[agreements]]
+cop = "ANEBO"
+level = 200
+ades = ["EPSC"]
+fromSector = "ed/FLG"
+toSector = "ed/MAR"
+
+[[agreements]]
+cop = "GERGA"
+level = 200
+ades = ["EPSC"]
+fromSector = "ed/FLG"
+toSector = "ed/MAR"
+
+[[agreements]]
+cop = "KOSIX"
+level = 180
+adep = ["EDAZ"]
+fromSector = "ed/FLG"
+toSector = "ed/BOR"
+
+[[agreements]]
+cop = "GERGA"
+level = 200
+adep = ["EDAZ"]
+fromSector = "ed/FLG"
+toSector = "ed/MAR"
+
+[[agreements]]
+cop = "SOGMA"
+level = 170
+ades = ["EDBM", "EDBC"]
+fromSector = "ed/MAR"
+toSector = "ed/BOR"
+
+[[agreements]]
+cop = "SOGMA"
+level = 230
+ades = ["EDDP", "EDAC", "EDAZ"]
+fromSector = "ed/MAR"
+toSector = "ed/BOR"
+
+[[agreements]]
+cop = "SOBLU"
+level = 280
+ades = ["EDDE"]
+fromSector = "ed/MAR"
+toSector = "ed/BOR"
+
+[[agreements]]
+cop = "OGBER"
+level = 140
+ades = ["EDDB"]
+transferType = "D"
+fromSector = "ed/MAR"
+toSector = "ed/DBAN"
+
+[[agreements]]
+cop = "KETAP"
+level = 140
+ades = ["EDDB"]
+transferType = "D"
+fromSector = "ed/MAR"
+toSector = "ed/DBAN"
+
+[[agreements]]
+cop = "RADEL"
+level = 140
+ades = ["EDAE", "EDAV", "EDAY", "EDBW", "EDON"]
+transferType = "D"
+fromSector = "ed/MAR"
+toSector = "ed/DBAN"
+
+[[agreements]]
+cop = "RENKI"
+level = 140
+ades = ["EDAY"]
+transferType = "D"
+fromSector = "ed/MAR"
+toSector = "ed/DBAN"
+
+[[agreements]]
+cop = "RENKI"
+level = 230
+ades = ["EDAZ"]
+fromSector = "ed/MAR"
+toSector = "ed/FLG"
+
+[[agreements]]
+cop = "BKD"
+level = 80
+ades = ["EDVE"]
+runway = ["26"]
+fromSector = "ed/MAR"
+toSector = "ed/HAN"
+
+[[agreements]]
+cop = "BUMIL"
+level = 240
+ades = ["EDDH", "EDHI", "EDHL"]
+fromSector = "ed/MAR"
+toSector = "ed/HEI"
+
+[[agreements]]
+cop = "BUMIL"
+level = 240
+ades = ["EDHK", "ETMN"]
+fromSector = "ed/MAR"
+toSector = "ed/HEI"
+
+[[agreements]]
+cop = "BKD"
+level = 240
+ades = ["EDHK", "ETMN"]
+fromSector = "ed/MAR"
+toSector = "ed/HEI"
+
+[[agreements]]
+cop = "GURLO"
+level = 240
+ades = ["EDDW", "EDWE", "EDWI"]
+fromSector = "ed/MAR"
+toSector = "ed/HEI"
+
+[[agreements]]
+cop = "BKD"
+level = 200
+ades = ["EDDV", "ETNW"]
+fromSector = "ed/MAR"
+toSector = "ed/HEI"
+
+[[agreements]]
+cop = "BKD"
+level = 200
+ades = ["EDVE"]
+runway = ["08"]
+fromSector = "ed/MAR"
+toSector = "ed/HEI"
+
+[[agreements]]
+cop = "RODEP"
+level = 180
+ades = ["ETNL", "EDAH", "EDBH", "EDBN"]
+transferType = "D"
+fromSector = "ed/MAR"
+toSector = "ed/MRZ"
+
+[[agreements]]
+cop = "ABIKA"
+level = 180
+ades = ["ETNL", "EDBN"]
+transferType = "D"
+fromSector = "ed/MAR"
+toSector = "ed/MRZ"
+
+[[agreements]]
+cop = "BKD"
+level = 110
+ades = ["ETNL", "EDBH", "EDBN"]
+transferType = "D"
+fromSector = "ed/MAR"
+toSector = "ed/MRZ"
+
+[[agreements]]
+cop = "BKD"
+level = 250
+adep = ["EDDV", "ETNW", "EDVE"]
+fromSector = "ed/MAR"
+toSector = "ed/MRZ"
+
+[[agreements]]
+cop = "BUMIL"
+level = 230
+adep = ["EDDV", "ETNW", "EDVE"]
+fromSector = "ed/MAR"
+toSector = "ed/MRZ"
+
+[[agreements]]
+cop = "RAKIT"
+level = 160
+adep = ["EDAY"]
+transferType = "C"
+fromSector = "ed/MAR"
+toSector = "ed/MRZ"
+
+[[agreements]]
+cop = "RAKIT"
+level = 260
+adep = ["EDDB"]
+fromSector = "ed/MAR"
+toSector = "ed/MRZ"
+remarks = "TFC via EKDK/ESMM ACC may be cleared DCT last fix EDWW FIR"
+
+[[agreements]]
+cop = "ABIKA"
+level = 260
+adep = ["EDDB"]
+fromSector = "ed/MAR"
+toSector = "ed/MRZ"
+remarks = "TFC via EKDK/ESMM ACC may be cleared DCT last fix EDWW FIR"
+
+[[agreements]]
+cop = "ITZEG"
+level = 260
+adep = ["EDDB"]
+fromSector = "ed/MAR"
+toSector = "ed/MRZ"
+remarks = "TFC via EKDK/ESMM ACC may be cleared DCT last fix EDWW FIR"
+
+[[agreements]]
+cop = "ROSOK"
+level = 100
+ades = ["EDHL"]
+fromSector = "ed/MRZ"
+toSector = "ed/HAME"
+
+[[agreements]]
+cop = "BERIM"
+level = 100
+ades = ["EDHL"]
+fromSector = "ed/MRZ"
+toSector = "ed/HAME"
+
+[[agreements]]
+cop = "ROSOK"
+level = 200
+ades = ["EDDH", "EDHI"]
+fromSector = "ed/MRZ"
+toSector = "ed/HEI"
+
+[[agreements]]
+cop = "BERIM"
+level = 200
+ades = ["EDDH", "EDHI"]
+fromSector = "ed/MRZ"
+toSector = "ed/HEI"
+
+[[agreements]]
+cop = "BERIM"
+level = 240
+ades = ["EDHK", "EDDW", "EDWE", "EDWI"]
+fromSector = "ed/MRZ"
+toSector = "ed/HEI"
+
+[[agreements]]
+cop = "RODEP"
+level = 210
+ades = ["EDDB"]
+transferType = "D"
+fromSector = "ed/MRZ"
+toSector = "ed/MAR"
+
+[[agreements]]
+cop = "LEGSA"
+level = 210
+ades = ["EDDB"]
+transferType = "D"
+fromSector = "ed/MRZ"
+toSector = "ed/MAR"
+
+[[agreements]]
+cop = "ADEPO"
+level = 210
+ades = ["EDDB"]
+transferType = "D"
+fromSector = "ed/MRZ"
+toSector = "ed/MAR"
+
+[[agreements]]
+cop = "RODEP"
+level = 170
+ades = ["EDAY"]
+fromSector = "ed/MRZ"
+toSector = "ed/MAR"
+
+[[agreements]]
+cop = "BKD"
+level = 260
+ades = ["EDDV", "ETNW", "EDVE"]
+fromSector = "ed/MRZ"
+toSector = "ed/MAR"
+
+[[agreements]]
+cop = "BERIM"
+level = 240
+adep = ["ETNL"]
+fromSector = "ed/MRZ"
+toSector = "ed/HEI"
+
+[[agreements]]
+cop = "LINVO"
+level = 230
+adep = ["ETNL"]
+transferType = "C"
+fromSector = "ed/MRZ"
+toSector = "ed/MAR"
+
+[[agreements]]
+cop = "TIRMI"
+level = 230
+adep = ["ETNL"]
+transferType = "C"
+fromSector = "ed/MRZ"
+toSector = "ed/MAR"
+
+[[agreements]]
+cop = "RODEP"
+level = 230
+adep = ["EDBH", "ETNL"]
+transferType = "C"
+fromSector = "ed/MRZ"
+toSector = "ed/MAR"
+
+[[agreements]]
+cop = "INDOK"
+level = 240
+adep = ["EDBH", "ETNL"]
+transferType = "C"
+fromSector = "ed/MRZ"
+toSector = "ed/MAR"
+
+[[agreements]]
+cop = "PABMI"
+level = 160
+adep = ["EDBH", "ETNL"]
+transferType = "C"
+fromSector = "ed/MRZ"
+toSector = "ed/MAR"
+
+[[agreements]]
+cop = "BKD"
+level = 240
+adep = ["EDBN", "EDAH"]
+transferType = "C"
+fromSector = "ed/MRZ"
+toSector = "ed/MAR"
+
+[[agreements]]
+cop = "INDOK"
+level = 240
+adep = ["EDBN", "EDAH"]
+transferType = "C"
+fromSector = "ed/MRZ"
+toSector = "ed/MAR"
+
+[[agreements]]
+cop = "TIRMI"
+level = 170
+adep = ["EDBN", "EDAH"]
+transferType = "C"
+fromSector = "ed/MRZ"
+toSector = "ed/MAR"
+
+[[agreements]]
+cop = "LINVO"
+level = 170
+adep = ["EDBN", "EDAH"]
+transferType = "C"
+fromSector = "ed/MRZ"
+toSector = "ed/MAR"
+
+[[agreements]]
+cop = "RODEP"
+level = 170
+adep = ["EDBN", "EDAH"]
+transferType = "C"
+fromSector = "ed/MRZ"
+toSector = "ed/MAR"

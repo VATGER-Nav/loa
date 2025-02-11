@@ -2,87 +2,58 @@
 cop = "OBOKA"
 level = 260
 adep = ["EDDF", "EDFE"]
-transferType = "C"
-vertical = false
 fromSector = "ed/NOR"
-toSector = "ed/RHR"
+toSector = "ed/RL"
 remarks = "NOR sector responsible for separation between this flow and outbounds Brussels FIR"
 
 [[agreements]]
 cop = "OSN"
 level = 240
 adep = ["EDLP"]
-transferType = "C"
-vertical = false
 fromSector = "ed/HMM"
-toSector = "ed/MNS"
-remarks = ""
+toSector = "ed/ML"
 
 [[agreements]]
 cop = "MEVEL"
 level = 240
 adep = ["EDDL", "EDL*"]
-transferType = "C"
-vertical = false
 fromSector = "ed/HMM"
-toSector = "ed/MNS"
-remarks = ""
+toSector = "ed/ML"
 
 [[agreements]]
 cop = "ELDAR"
 level = 240
-adep = ["EBBR", "EB*"]
-transferType = "C"
-vertical = false
+adep = ["EBBU"]
 fromSector = "ed/NOR"
-toSector = "ed/RHR"
+toSector = "ed/RL"
 remarks = "NOR sector responsible for separation between this flow and outbound EDDF, EDFE"
 
 [[agreements]]
 cop = "LUSIX"
 level = 240
 adep = ["EHEH", "EHBK"]
-transferType = "C"
-vertical = false
 fromSector = "ed/BOT"
-toSector = "ed/RHR"
-remarks = ""
+toSector = "ed/RL"
+remarks = "released DCT GMH/HMM/OSDIK (clear of other sectors)"
 
 [[agreements]]
 cop = "AMOSU"
 level = 240
 adep = ["EDLP", "EDDG", "ELDS"]
-transferType = "C"
-vertical = false
 fromSector = "ed/BOT"
-toSector = "ed/RHR"
-remarks = ""
+toSector = "ed/RL"
 
 [[agreements]]
-cop = "WRB"
+cop = "PELUN"
 level = 240
 adep = ["EDDK"]
-transferType = "C"
-vertical = false
 fromSector = "ed/PADH"
-toSector = "ed/SOL"
-remarks = "If RFL above FL240 | RLSD by MUN for climb FL270"
+toSector = "ed/SL"
+remarks = "Only applicable to flights with a RFL above FL245;  traffic may be cleared DCT WRB by EDGG"
 
 [[agreements]]
 cop = "BAGDO"
 level = 240
 adep = ["EDDF", "EDFE"]
-vertical = false
 fromSector = "ed/PADH"
-toSector = "ed/MNS"
-remarks = ""
-
-[[agreements]]
-cop = "BADGO"
-level = 240
-adep = ["EDDF", "EDFE"]
-transferType = "C"
-vertical = false
-fromSector = "ed/PADH"
-toSector = "ed/MNS"
-remarks = ""
+toSector = "ed/ML"

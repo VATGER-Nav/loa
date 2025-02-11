@@ -9,7 +9,7 @@ toSector = "ed/MEI"
 [[agreements]]
 cop = "BEFRE"
 level = 260
-adep = ["EDDP"]
+ades = ["EDDP"]
 fromSector = "lk/N1L"
 toSector = "ed/MEI"
 remarks = "May be cleared direct YAWOY, released for turns and descent to FL200 after transfer of communication"

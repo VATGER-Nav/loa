@@ -99,6 +99,12 @@ ades = ["EDDS", "EDSB", "EDTY", "EDTL", "EDTM", "EDMA", "EDMO", "ETSI", "ETSL", 
 fromSector = "ed/FUL1"
 toSector = "ed/WUR1"
 
+[[agreements]]
+level = 370
+ades = ["LKPR", "LKKB", "LKVO", "LKCV", "LKHK", "LKMH", "LKPD", "LKCS"]
+fromSector = "ed/FUL2"
+toSector = "ed/ERL2"
+
 # WUR
 [[agreements]]
 level = 370

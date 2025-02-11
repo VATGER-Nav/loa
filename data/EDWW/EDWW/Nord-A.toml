@@ -1,0 +1,375 @@
+[[agreements]]
+cop = "ELSOB"
+level = 110
+ades = ["EDHK", "EDXR"]
+transferType = "D"
+fromSector = "ed/ALR"
+toSector = "ed/EIDE"
+
+[[agreements]]
+cop = "ELSOB"
+level = 110
+ades = ["ETNH", "ETNS"]
+transferType = "D"
+fromSector = "ed/ALR"
+toSector = "ed/EIDE"
+remarks = "ALR may clear DCT HN/SWG"
+
+[[agreements]]
+cop = "ELSOB"
+level = 0
+ades = ["EDXF"]
+fromSector = "ed/ALR"
+toSector = "ed/EIDE"
+
+[[agreements]]
+cop = "WSN"
+level = 110
+ades = ["ETMN", "ETNH", "ETNS"]
+transferType = "D"
+fromSector = "ed/ALR"
+toSector = "ed/EIDW"
+remarks = "ALR may clear DCT HN/SWG"
+
+[[agreements]]
+cop = "OTEXE"
+level = 110
+ades = ["EDWE", "EDWI"]
+transferType = "D"
+fromSector = "ed/ALR"
+toSector = "ed/FRI"
+
+[[agreements]]
+cop = "EKROV"
+level = 110
+ades = ["EDDW"]
+transferType = "D"
+fromSector = "ed/ALR"
+toSector = "ed/FRI"
+
+[[agreements]]
+cop = "WSN"
+level = 110
+ades = ["EDDW"]
+transferType = "D"
+fromSector = "ed/ALR"
+toSector = "ed/FRI"
+
+[[agreements]]
+cop = "OTEXE"
+level = 0
+ades = ["EHGG"]
+fromSector = "ed/ALR"
+toSector = "ed/FRI"
+
+[[agreements]]
+cop = "IDEKO"
+level = 0
+ades = ["EDDV", "ETNW", "ETHB", "ETHC"]
+fromSector = "ed/ALR"
+toSector = "ed/FRI"
+
+[[agreements]]
+cop = "RIBSO"
+level = 110
+ades = ["EDDH", "EDHI"]
+transferType = "D"
+fromSector = "ed/ALR"
+toSector = "ed/HAMW"
+
+[[agreements]]
+cop = "RIBSO"
+level = 110
+ades = ["EDHL"]
+transferType = "D"
+fromSector = "ed/ALR"
+toSector = "ed/HAME"
+
+[[agreements]]
+cop = "ELSOB"
+level = 0
+ades = ["EDVE"]
+fromSector = "ed/ALR"
+toSector = "ed/HEI"
+
+[[agreements]]
+cop = "HAM"
+level = 240
+adep = ["EDDW"]
+fromSector = "ed/ALR"
+toSector = "ed/HEI"
+
+[[agreements]]
+cop = "GESTO"
+level = 150
+adep = ["EDDW"]
+fromSector = "ed/ALR"
+toSector = "ed/HEI"
+
+[[agreements]]
+cop = "EKERN"
+level = 100
+adep = ["EDDH", "EDHL"]
+transferType = "C"
+fromSector = "ed/HAME"
+toSector = "ed/EIDE"
+
+[[agreements]]
+cop = "AMLUH"
+level = 100
+adep = ["EDDH", "EDHI", "EDHL"]
+transferType = "C"
+fromSector = "ed/HAME"
+toSector = "ed/HEI"
+
+[[agreements]]
+cop = "LUGEG"
+level = 100
+adep = ["EDDH", "EDHI", "EDHL"]
+transferType = "C"
+fromSector = "ed/HAME"
+toSector = "ed/HEI"
+
+[[agreements]]
+cop = "RAMAR"
+level = 100
+adep = ["EDDH", "EDHI", "EDHL"]
+transferType = "C"
+fromSector = "ed/HAME"
+toSector = "ed/HEI"
+
+[[agreements]]
+cop = "OLUBI"
+level = 100
+adep = ["EDHL"]
+fromSector = "ed/HAME"
+toSector = "ed/MRZ"
+
+[[agreements]]
+cop = "BERIM"
+level = 100
+adep = ["EDHL"]
+fromSector = "ed/HAME"
+toSector = "ed/MRZ"
+
+[[agreements]]
+cop = "EDHL"
+level = 0
+ades = ["EDHL"]
+fromSector = "ed/HAMW"
+toSector = "ed/HAME"
+
+[[agreements]]
+cop = "WSN"
+level = 100
+adep = ["EDDH", "EDHI"]
+transferType = "C"
+fromSector = "ed/HAMW"
+toSector = "ed/ALR"
+
+[[agreements]]
+cop = "BASUM"
+level = 100
+adep = ["EDDH", "EDHI"]
+transferType = "C"
+fromSector = "ed/HAMW"
+toSector = "ed/ALR"
+
+[[agreements]]
+cop = "IDEKO"
+level = 100
+adep = ["EDDH", "EDHI"]
+transferType = "C"
+fromSector = "ed/HAMW"
+toSector = "ed/ALR"
+
+[[agreements]]
+cop = "ELSOB"
+level = 100
+adep = ["EDDH", "EDHI"]
+transferType = "C"
+fromSector = "ed/HAMW"
+toSector = "ed/ALR"
+
+[[agreements]]
+cop = "OSTOR"
+level = 100
+adep = ["EDDH", "EDHI"]
+transferType = "C"
+fromSector = "ed/HAMW"
+toSector = "ed/EIDW"
+
+[[agreements]]
+cop = "HAM"
+level = 240
+ades = ["EDWE", "EDWI", "ETMN"]
+fromSector = "ed/HEI"
+toSector = "ed/ALR"
+
+[[agreements]]
+cop = "GESTO"
+level = 160
+ades = ["EDDW"]
+transferType = "D"
+fromSector = "ed/HEI"
+toSector = "ed/ALR"
+
+[[agreements]]
+cop = "AMLUH"
+level = 240
+ades = ["EDWE", "EDWI", "ETMN"]
+fromSector = "ed/HEI"
+toSector = "ed/ALR"
+
+[[agreements]]
+cop = "NIGAD"
+level = 110
+ades = ["EDHK"]
+transferType = "D"
+fromSector = "ed/HEI"
+toSector = "ed/EIDE"
+
+[[agreements]]
+cop = "HAM"
+level = 110
+ades = ["EDHK", "EDXR"]
+transferType = "D"
+fromSector = "ed/HEI"
+toSector = "ed/EIDE"
+
+[[agreements]]
+cop = "HAM"
+level = 110
+ades = ["ETNH", "ETNS"]
+transferType = "D"
+fromSector = "ed/HEI"
+toSector = "ed/EIDE"
+remarks = "HEI may clear DCT HN/SWG"
+
+[[agreements]]
+cop = "HAM"
+level = 0
+ades = ["EDXF"]
+fromSector = "ed/HEI"
+toSector = "ed/EIDE"
+
+[[agreements]]
+cop = "NOLGO"
+level = 110
+ades = ["EDDH", "EDHI", "EDHL"]
+transferType = "D"
+fromSector = "ed/HEI"
+toSector = "ed/HAME"
+
+[[agreements]]
+cop = "BOGMU"
+level = 110
+ades = ["EDDH", "EDHI", "EDHL"]
+transferType = "D"
+fromSector = "ed/HEI"
+toSector = "ed/HAME"
+
+[[agreements]]
+cop = "RARUP"
+level = 110
+ades = ["EDDH", "EDHI", "EDHL"]
+transferType = "D"
+fromSector = "ed/HEI"
+toSector = "ed/HAME"
+
+[[agreements]]
+cop = "HAM"
+level = 110
+ades = ["EDDH", "EDHI"]
+transferType = "D"
+fromSector = "ed/HEI"
+toSector = "ed/HAME"
+
+[[agreements]]
+cop = "LYE"
+level = 110
+ades = ["EDHL"]
+transferType = "D"
+fromSector = "ed/HEI"
+toSector = "ed/HAME"
+
+[[agreements]]
+cop = "CEL"
+level = 110
+ades = ["EDDV", "ETNW"]
+transferType = "D"
+fromSector = "ed/HEI"
+toSector = "ed/HAN"
+
+[[agreements]]
+cop = "DIRBO"
+level = 110
+ades = ["EDVE"]
+transferType = "D"
+fromSector = "ed/HEI"
+toSector = "ed/HAN"
+
+[[agreements]]
+cop = "ULSEN"
+level = 110
+ades = ["EDVE"]
+transferType = "D"
+fromSector = "ed/HEI"
+toSector = "ed/HAN"
+
+[[agreements]]
+cop = "NUSGU"
+level = 230
+adep = ["EDDH", "EDHI", "EDHL", "EDHK"]
+transferType = "C"
+sfl = 170
+fromSector = "ed/HEI"
+toSector = "ed/MAR"
+
+[[agreements]]
+cop = "PABMI"
+level = 230
+adep = ["EDDH", "EDHI", "EDHL", "EDHK"]
+transferType = "C"
+sfl = 170
+fromSector = "ed/HEI"
+toSector = "ed/MAR"
+
+[[agreements]]
+cop = "DIRBO"
+level = 230
+adep = ["EDDV", "ETNW"]
+transferType = "C"
+fromSector = "ed/HEI"
+toSector = "ed/MAR"
+
+[[agreements]]
+cop = "NEBUN"
+level = 230
+adep = ["EDDW"]
+fromSector = "ed/HEI"
+toSector = "ed/MAR"
+remarks = "If RFL 290 | ADES inside EDWW FIR"
+
+[[agreements]]
+cop = "OLUBI"
+level = 230
+adep = ["EDDH", "EDHI", "EDHK"]
+transferType = "C"
+fromSector = "ed/HEI"
+toSector = "ed/MRZ"
+
+[[agreements]]
+cop = "BERIM"
+level = 230
+adep = ["EDDH", "EDHI", "EDHK"]
+transferType = "C"
+fromSector = "ed/HEI"
+toSector = "ed/MRZ"
+
+[[agreements]]
+cop = "LUGEG"
+level = 230
+adep = ["ETNS", "ETNH"]
+fromSector = "ed/HEI"
+toSector = "ed/MRZ"

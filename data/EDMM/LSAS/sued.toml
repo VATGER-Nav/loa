@@ -83,7 +83,7 @@ ades = ["EDNY", "LSZR"]
 transferType = "D"
 fromSector = "ed/FUE"
 toSector = "ls/ARFA"
-remarks = "Clear STAR"
+remarks = "Clear STAR, released for descent and left turn"
 
 # ZUG
 [[agreements]]
