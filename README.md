@@ -33,7 +33,6 @@ releases = "C" | "D" | "T" | "F" | null
 remarks = string | null
 vertical = boolean | null
 remarks = string | null
-remarks = string | null
 from_sector = string
 to_sector = string
 ```
