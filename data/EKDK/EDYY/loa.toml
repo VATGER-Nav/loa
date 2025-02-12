@@ -2,43 +2,41 @@
 cop = "TUSKA"
 level = 340
 ades = ["EDDW", "EDDV", "EDVE"]
-fromSector = "ek/EKDS"
-toSector = "ed/JL"
+from_sector = "ek/EKDS"
+to_sector = "ed/JL"
 
 [[agreements]]
 cop = "ALASA"
 level = 340
 ades = ["EDDW", "EDDV", "EDVE"]
-fromSector = "ek/EKDC"
-toSector = "ed/HL"
+from_sector = "ek/EKDC"
+to_sector = "ed/HL"
 
 [[agreements]]
 cop = "MICOS"
 level = 340
 ades = ["EDDW", "EDDV", "EDVE"]
-fromSector = "ek/EKDC"
-toSector = "ed/HL"
+from_sector = "ek/EKDC"
+to_sector = "ed/HL"
 
 [[agreements]]
 cop = "MICOS"
 level = 340
 adep = ["EKCH", "ESMS"]
-fromSector = "ek/EKDC"
-toSector = "ed/HL"
+from_sector = "ek/EKDC"
+to_sector = "ed/HL"
 
 [[agreements]]
 cop = "ALASA"
 level = 250
-adep = ["EKBI""]
-fromSector = "ek/EKDD"
-toSector = "ed/HL"
+adep = ["EKBI"]
+from_sector = "ek/EKDD"
+to_sector = "ed/HL"
 
 [[agreements]]
 cop = "TUSKA"
 level = 250
-adep = ["EKBI""]
-fromSector = "ek/EKDS"
-toSector = "ed/JL"
-
-
+adep = ["EKBI"]
+from_sector = "ek/EKDS"
+to_sector = "ed/JL"
 

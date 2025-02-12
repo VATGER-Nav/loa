@@ -3,38 +3,38 @@
 cop = "DKB"
 level = 250
 ades = ["EDDM"]
-fromSector = "ed/WUR1"
-toSector = "ed/WLD"
+from_sector = "ed/WUR1"
+to_sector = "ed/WLD"
 
 [[agreements]]
 cop = "IBAGA"
 level = 310
 ades = ["EDDP"]
-fromSector = "ed/WUR1"
-toSector = "ed/BBG"
+from_sector = "ed/WUR1"
+to_sector = "ed/BBG"
 
 [[agreements]]
 cop = "DKB"
 level = 310
 ades = ["LOWI", "LOWS"]
-fromSector = "ed/WUR1"
-toSector = "ed/WLD"
+from_sector = "ed/WUR1"
+to_sector = "ed/WLD"
 
 [[agreements]]
 cop = "KOMIB"
 level = 250
 ades = ["LKKV", "EDMS"]
-fromSector = "ed/WUR1"
-toSector = "ed/BBG"
+from_sector = "ed/WUR1"
+to_sector = "ed/BBG"
 
 [[agreements]]
 cop = "DINKU"
 level = 290
 sfl = 230
 adep = ["EDDF"]
-transferType = "C"
-fromSector = "ed/WUR1"
-toSector = "ed/WLD"
+transfer_type = "C"
+from_sector = "ed/WUR1"
+to_sector = "ed/WLD"
 remarks = "Released for climb to FL310"
 
 [[agreements]]
@@ -42,74 +42,74 @@ cop = "ELVAG"
 level = 310
 sfl = 240
 adep = ["EDDF", "EDFB", "EDFE", "EDFZ", "ETOU"]
-transferType = "C"
-fromSector = "ed/WUR1"
-toSector = "ed/NDG"
+transfer_type = "C"
+from_sector = "ed/WUR1"
+to_sector = "ed/NDG"
 
 [[agreements]]
 cop = "BARSU"
 level = 270
 adep = ["ETAR", "ETOU"]
-fromSector = "ed/WUR1"
-toSector = "ed/BBG"
+from_sector = "ed/WUR1"
+to_sector = "ed/BBG"
 
 # FUL
 [[agreements]]
 cop = "TAMEB"
 level = 250
-levelAt = [-5, "TAMEB"]
+level_at = [-5, "TAMEB"]
 ades = ["EDAC", "EDDP"]
-fromSector = "ed/FUL1"
-toSector = "ed/GER"
+from_sector = "ed/FUL1"
+to_sector = "ed/GER"
 
 [[agreements]]
 cop = "MAGES"
 level = 290
 adep = ["EDDF"]
-fromSector = "ed/FUL1"
-toSector = "ed/GER"
+from_sector = "ed/FUL1"
+to_sector = "ed/GER"
 remarks = "Released for climb to FL310"
 
 [[agreements]]
 cop = "TAMEB"
 level = 290
 adep = ["EDDF", "EDFB", "EDFE", "EDFZ", "ETOU"]
-fromSector = "ed/FUL1"
-toSector = "ed/GER"
+from_sector = "ed/FUL1"
+to_sector = "ed/GER"
 remarks = "Released for climb to FL310"
 
 [[agreements]]
 cop = "FEDZA"
 level = 260
 ades = ["EDDP"]
-fromSector = "ed/FUL1"
-toSector = "ed/HAL"
+from_sector = "ed/FUL1"
+to_sector = "ed/HAL"
 
 [[agreements]]
 cop = "FEDZA"
 level = 290
 adep = ["EDDF", "EDFB", "EDFE", "EDFZ", "ETOU"]
-fromSector = "ed/FUL1"
-toSector = "ed/HAL"
+from_sector = "ed/FUL1"
+to_sector = "ed/HAL"
 remarks = "Released for climb to FL310"
 
 [[agreements]]
 cop = "FEDZA"
 level = 250
 ades = ["EDBM"]
-fromSector = "ed/FUL1"
-toSector = "ed/HAL"
+from_sector = "ed/FUL1"
+to_sector = "ed/HAL"
 
 [[agreements]]
 cop = "GASKA"
 level = 250
 ades = ["LKKV", "EDMS"]
-fromSector = "ed/FUL1"
-toSector = "ed/BBG"
+from_sector = "ed/FUL1"
+to_sector = "ed/BBG"
 
 [[agreements]]
 cop = "GASKA"
 level = 270
 adep = ["EDVK"]
-fromSector = "ed/FUL1"
-toSector = "ed/BBG"
+from_sector = "ed/FUL1"
+to_sector = "ed/BBG"

@@ -3,153 +3,153 @@
 cop = "GOGEM"
 level = 310
 adep = ["EDDM"]
-fromSector = "ed/TEG"
-toSector = "li/LIPP-NE6"
+from_sector = "ed/TEG"
+to_sector = "li/LIPP-NE6"
 
 [[agreements]]
 cop = "LIKDA"
 level = 230
 ades = ["LIPB"]
-fromSector = "ed/TEG"
-toSector = "li/LIPP-NE4"
+from_sector = "ed/TEG"
+to_sector = "li/LIPP-NE4"
 
 [[agreements]]
 cop = "LIKDA"
 level = 270
 adep = ["EDMO", "EDJA", "EDNY", "LSZR"]
-fromSector = "ed/TEG"
-toSector = "li/LIPP-NE5"
+from_sector = "ed/TEG"
+to_sector = "li/LIPP-NE5"
 
 [[agreements]]
 cop = "LIKDA"
 level = 290
 ades = ["LIPA", "LIPH", "LIPZ", "LIPO", "LIPX"]
-fromSector = "ed/TEG"
-toSector = "li/LIPP-NE5"
+from_sector = "ed/TEG"
+to_sector = "li/LIPP-NE5"
 
 [[agreements]]
 cop = "LIKDA"
 level = 310
 adep = ["EDDM", "LOWS", "EDMA"]
-fromSector = "ed/TEG"
-toSector = "li/LIPP-NE6"
+from_sector = "ed/TEG"
+to_sector = "li/LIPP-NE6"
 
 [[agreements]]
 cop = "OLPIX"
 level = 230
 ades = ["LIPB"]
-fromSector = "ed/TEG"
-toSector = "li/LIPP-NE4"
+from_sector = "ed/TEG"
+to_sector = "li/LIPP-NE4"
 
 [[agreements]]
 cop = "OLPIX"
 level = 270
 adep = ["EDMO", "EDJA", "EDNY", "LSZR"]
-fromSector = "ed/TEG"
-toSector = "li/LIPP-NE5"
+from_sector = "ed/TEG"
+to_sector = "li/LIPP-NE5"
 
 [[agreements]]
 cop = "OLPIX"
 level = 290
 ades = ["LSZS", "LIPA", "LIPH", "LIPZ", "LIPO", "LIPX"]
-fromSector = "ed/TEG"
-toSector = "li/LIPP-NE5"
+from_sector = "ed/TEG"
+to_sector = "li/LIPP-NE5"
 
 [[agreements]]
 cop = "OLPIX"
 level = 310
 adep = ["LOWS", "EDMA"]
-fromSector = "ed/TEG"
-toSector = "li/LIPP-NE6"
+from_sector = "ed/TEG"
+to_sector = "li/LIPP-NE6"
 
 [[agreements]]
 cop = "TOBSO"
 level = 230
 ades = ["LIPB"]
-fromSector = "ed/TEG"
-toSector = "li/LIPP-NE4"
+from_sector = "ed/TEG"
+to_sector = "li/LIPP-NE4"
 
 [[agreements]]
 cop = "TOBSO"
 level = 290
 ades = ["LIPA", "LIPH", "LIPZ", "LIPO", "LIPX"]
-fromSector = "ed/TEG"
-toSector = "li/LIPP-NE5"
+from_sector = "ed/TEG"
+to_sector = "li/LIPP-NE5"
 
 [[agreements]]
 cop = "TOBSO"
 level = 310
 adep = ["EDDM"]
-fromSector = "ed/TEG"
-toSector = "li/LIPP-NE6"
+from_sector = "ed/TEG"
+to_sector = "li/LIPP-NE6"
 
 # ZUG
 [[agreements]]
 cop = "DIRAB"
 level = 290
 adep = ["LSZH", "LSMD"]
-fromSector = "ed/ZUG"
-toSector = "li/LIPP-NE5"
+from_sector = "ed/ZUG"
+to_sector = "li/LIPP-NE5"
 
 [[agreements]]
 cop = "GIRIS"
 level = 230
 ades = ["LIPB"]
-fromSector = "ed/ZUG"
-toSector = "li/LIPP-NE4"
+from_sector = "ed/ZUG"
+to_sector = "li/LIPP-NE4"
 
 [[agreements]]
 cop = "GIRIS"
 level = 270
 adep = ["EDMO", "EDJA", "EDNY", "LSZR"]
-fromSector = "ed/ZUG"
-toSector = "li/LIPP-NE5"
+from_sector = "ed/ZUG"
+to_sector = "li/LIPP-NE5"
 
 [[agreements]]
 cop = "GIRIS"
 level = 290
 adep = ["LSZH", "LSMD"]
-fromSector = "ed/ZUG"
-toSector = "li/LIPP-NE5"
+from_sector = "ed/ZUG"
+to_sector = "li/LIPP-NE5"
 
 [[agreements]]
 cop = "NATAG"
 level = 230
 ades = ["LIPB"]
-fromSector = "ed/ZUG"
-toSector = "li/LIPP-NE4"
+from_sector = "ed/ZUG"
+to_sector = "li/LIPP-NE4"
 
 [[agreements]]
 cop = "NATAG"
 level = 270
 adep = ["EDMO", "EDJA", "EDNY", "LSZR"]
-fromSector = "ed/ZUG"
-toSector = "li/LIPP-NE5"
+from_sector = "ed/ZUG"
+to_sector = "li/LIPP-NE5"
 
 [[agreements]]
 cop = "NATAG"
 level = 290
 adep = ["LSZH", "LSMD"]
-fromSector = "ed/ZUG"
-toSector = "li/LIPP-NE5"
+from_sector = "ed/ZUG"
+to_sector = "li/LIPP-NE5"
 
 [[agreements]]
 cop = "NATAG"
 level = 290
 ades = ["LIME", "LIPA", "LIPH", "LIPZ", "LIPO", "LIPX"]
-fromSector = "ed/ZUG"
-toSector = "li/LIPP-NE5"
+from_sector = "ed/ZUG"
+to_sector = "li/LIPP-NE5"
 
 [[agreements]]
 cop = "NATAG"
 level = 310
 ades = ["LIML", "LIMC"]
-fromSector = "ed/ZUG"
-toSector = "li/LIPP-NE6"
+from_sector = "ed/ZUG"
+to_sector = "li/LIPP-NE6"
 
 [[agreements]]
 cop = "NATAG"
 level = 310
 adep = ["EDDM"]
-fromSector = "ed/ZUG"
-toSector = "li/LIPP-NE6"
+from_sector = "ed/ZUG"
+to_sector = "li/LIPP-NE6"

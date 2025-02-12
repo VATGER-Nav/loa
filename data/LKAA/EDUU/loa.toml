@@ -2,26 +2,26 @@
 cop = "RAPET"
 level = 340
 ades = ["EDDF"]
-fromSector = "lk/WM"
-toSector = "ed/ERL1"
+from_sector = "lk/WM"
+to_sector = "ed/ERL1"
 
 [[agreements]]
 cop = "RAPET"
 level = 360
 ades = ["ETAR"]
-fromSector = "lk/WH"
-toSector = "ed/ERL1"
+from_sector = "lk/WH"
+to_sector = "ed/ERL1"
 
 [[agreements]]
 cop = "KILNU"
 level = 340
 adep = ["EDDM"]
-fromSector = "lk/WM"
-toSector = "ed/SPE1"
+from_sector = "lk/WM"
+to_sector = "ed/SPE1"
 
 [[agreements]]
 cop = "RUDAP"
 level = 340
 adep = ["EDDC", "EDAB"]
-fromSector = "lk/WM"
-toSector = "ed/DON1"
+from_sector = "lk/WM"
+to_sector = "ed/DON1"

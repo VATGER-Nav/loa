@@ -2,29 +2,29 @@
 cop = "KORUP"
 level = 240
 ades = ["EDDE", "EDBM", "EDVE", "EDAC"]
-fromSector = "ep/EPWWT"
-toSector = "ed/MEI"
+from_sector = "ep/EPWWT"
+to_sector = "ed/MEI"
 remarks = "Flights from EPWW to EDMM via KORUP and GOVEN are released for turns 15 NM\nprior reaching sector boundary"
 
 [[agreements]]
 cop = "KORUP"
 level = 220
 ades = ["EDDP"]
-fromSector = "ep/EPWWT"
-toSector = "ed/MEI"
+from_sector = "ep/EPWWT"
+to_sector = "ed/MEI"
 remarks = "Flights from EPWW to EDMM via KORUP and GOVEN are released for turns 15 NM\nprior reaching sector boundary"
 
 [[agreements]]
 cop = "KORUP"
 level = 160
 ades = ["EDDC", "EDAB"]
-fromSector = "ep/CTA05"
-toSector = "ed/SAS"
+from_sector = "ep/CTA05"
+to_sector = "ed/SAS"
 remarks = "Flights from EPWW to EDMM via KORUP and GOVEN are released for turns 15 NM\nprior reaching sector boundary"
 
 [[agreements]]
 cop = "NAROX"
 level = 280
 adep = ["EPWR"]
-fromSector = "ep/EPWWT"
-toSector = "ed/MEI"
+from_sector = "ep/EPWWT"
+to_sector = "ed/MEI"

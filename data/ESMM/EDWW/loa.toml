@@ -3,33 +3,33 @@ cop = "SALLO"
 level = 270
 ades = ["EDAH", "EDBH", "ETNL"]
 releases = "T"
-fromSector = "es/ESML"
-toSector = "ed/MRZ"
+from_sector = "es/ESML"
+to_sector = "ed/MRZ"
 
 [[agreements]]
 cop = "UNGAV"
 level = 280
 ades = ["EDAH", "EDBH", "ETNL"]
 releases = "T"
-fromSector = "es/ESML"
-toSector = "ed/MRZ"
+from_sector = "es/ESML"
+to_sector = "ed/MRZ"
 
 [[agreements]]
 cop = "SALLO"
 level = 250
 adep = ["ESMS", "EKCH", "EKRK"]
-transferType = "C"
+transfer_type = "C"
 releases = "F"
-fromSector = "es/ESML"
-toSector = "ed/MRZ"
+from_sector = "es/ESML"
+to_sector = "ed/MRZ"
 remarks = "Released max. FL280"
 
 [[agreements]]
 cop = "SALLO"
 level = 90
 adep = ["EKRN"]
-transferType = "C"
+transfer_type = "C"
 sfl = 40
 releases = "T"
-fromSector = "es/ESML"
-toSector = "ed/MRZ"
+from_sector = "es/ESML"
+to_sector = "ed/MRZ"

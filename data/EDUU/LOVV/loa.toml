@@ -1,8 +1,8 @@
 [[agreements]]
 level = 350
 ades = ["LOWW"]
-fromSector = "ed/ALP1"
-toSector = "lo/W3"
+from_sector = "ed/ALP1"
+to_sector = "lo/W3"
 
 [[agreements]]
 level = 350
@@ -25,28 +25,28 @@ ades = [
         "LIPY",
         "LIPZ",
 ]
-fromSector = "ed/ALP1"
-toSector = "lo/W3"
+from_sector = "ed/ALP1"
+to_sector = "lo/W3"
 
 [[agreements]]
 level = 330
 sfl = 310
 adep = ["LSZH", "LSZS", "LSMD"]
-transferType = "C"
-fromSector = "ed/ALP1"
-toSector = "lo/W2"
+transfer_type = "C"
+from_sector = "ed/ALP1"
+to_sector = "lo/W2"
 
 [[agreements]]
 level = 330
 ades = ["LOWG", "LOWK", "LOXZ", "LJLJ", "LIPQ"]
-fromSector = "ed/ALP1"
-toSector = "lo/W2"
+from_sector = "ed/ALP1"
+to_sector = "lo/W2"
 
 [[agreements]]
 level = 330
 ades = ["LOWG", "LOWK", "LOXZ", "LJLJ", "LIPQ"]
-fromSector = "ed/CHI1"
-toSector = "lo/W2"
+from_sector = "ed/CHI1"
+to_sector = "lo/W2"
 
 [[agreements]]
 level = 350
@@ -69,41 +69,41 @@ ades = [
         "LIPY",
         "LIPZ",
 ]
-fromSector = "ed/CHI1"
-toSector = "lo/W3"
+from_sector = "ed/CHI1"
+to_sector = "lo/W3"
 
 [[agreements]]
 level = 330
 ades = ["LOWG", "LOWK", "LOXZ"]
-fromSector = "ed/CHI1"
-toSector = "lo/B2"
+from_sector = "ed/CHI1"
+to_sector = "lo/B2"
 
 [[agreements]]
 level = 350
 ades = ["LDZA", "LJMB"]
-fromSector = "ed/CHI1"
-toSector = "lo/B3"
+from_sector = "ed/CHI1"
+to_sector = "lo/B3"
 
 [[agreements]]
 level = 330
 ades = ["LOWW"]
-fromSector = "ed/CHI1"
-toSector = "lo/B2"
+from_sector = "ed/CHI1"
+to_sector = "lo/B2"
 
 [[agreements]]
 level = 350
 ades = ["LOWW"]
-fromSector = "ed/CHI1"
-toSector = "lo/W3"
+from_sector = "ed/CHI1"
+to_sector = "lo/W3"
 
 [[agreements]]
 level = 330
 ades = ["LOWW", "LOWG", "LOWK", "LOXZ"]
-fromSector = "ed/DON1"
-toSector = "lo/N2"
+from_sector = "ed/DON1"
+to_sector = "lo/N2"
 
 [[agreements]]
 level = 350
 ades = ["LOWW"]
-fromSector = "ed/ALP1"
-toSector = "lo/W3"
+from_sector = "ed/ALP1"
+to_sector = "lo/W3"

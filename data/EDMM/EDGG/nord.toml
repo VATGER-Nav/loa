@@ -2,40 +2,40 @@
 [[agreements]]
 cop = "ASPAT"
 level = 240
-levelAt = [0, "DEBHI"]
+level_at = [0, "DEBHI"]
 ades = ["EDDF"]
-fromSector = "ed/ALB"
-toSector = "ed/KTG"
+from_sector = "ed/ALB"
+to_sector = "ed/KTG"
 
 [[agreements]]
 cop = "DAMJA"
 level = 240
 ades = ["EDDF"]
-fromSector = "ed/ALB"
-toSector = "ed/KTG"
+from_sector = "ed/ALB"
+to_sector = "ed/KTG"
 
 [[agreements]]
 cop = "PETIX"
 level = 240
 ades = ["EDDF"]
-fromSector = "ed/ALB"
-toSector = "ed/KTG"
+from_sector = "ed/ALB"
+to_sector = "ed/KTG"
 
 # NDG
 [[agreements]]
 cop = "TEKSI"
 level = 110
 ades = ["EDDS"]
-fromSector = "ed/NDG"
-toSector = "ed/STG"
+from_sector = "ed/NDG"
+to_sector = "ed/STG"
 remarks = "May be cleared direct TEKSI south of T127/T129"
 
 [[agreements]]
 cop = "GUPIN"
 level = 220
 ades = ["EDDF"]
-fromSector = "ed/NDG"
-toSector = "ed/LBU"
+from_sector = "ed/NDG"
+to_sector = "ed/LBU"
 remarks = "Flights via UQ863, released ↔ passing TEKSI"
 
 [[agreements]]
@@ -43,44 +43,44 @@ cop = "HAFUN"
 level = 220
 ades = ["EDDF"]
 releases = "T"
-fromSector = "ed/NDG"
-toSector = "ed/LBU"
+from_sector = "ed/NDG"
+to_sector = "ed/LBU"
 remarks = "Flights via UQ163, released ↔ passing TEKSI"
 
 [[agreements]]
 cop = "RIXED"
 level = 200
 ades = ["EDFM", "EDSB", "ETAR"]
-fromSector = "ed/NDG"
-toSector = "ed/LBU"
+from_sector = "ed/NDG"
+to_sector = "ed/LBU"
 
 [[agreements]]
 cop = "ABTAL"
 level = 200
 adep = ["EDDM", "EDMA", "EDME", "EDMO", "EDMS", "ETSI", "ETSL", "ETSN"]
-fromSector = "ed/NDG"
-toSector = "ed/LBU"
+from_sector = "ed/NDG"
+to_sector = "ed/LBU"
 
 [[agreements]]
 cop = "NOMBO"
 level = 200
 adep = ["EDMM"]
-fromSector = "ed/NDG"
-toSector = "ed/DKB"
+from_sector = "ed/NDG"
+to_sector = "ed/DKB"
 
 [[agreements]]
 cop = "ELVAG"
 level = 200
 adep = ["EDJA", "EDM*"]
-fromSector = "ed/NDG"
-toSector = "ed/DKB"
+from_sector = "ed/NDG"
+to_sector = "ed/DKB"
 
 # WLD
 [[agreements]]
 cop = "BEMBO"
 level = 220
 ades = ["EDDK", "ELLX"]
-fromSector = "ed/WLD"
-toSector = "ed/DKB"
+from_sector = "ed/WLD"
+to_sector = "ed/DKB"
 releases = "C"
 remarks = "may be revised FL240"

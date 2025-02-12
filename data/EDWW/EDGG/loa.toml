@@ -2,140 +2,140 @@
 cop = "XAROL"
 level = 190
 ades = ["EDDR", "EDFH", "EDFM", "EDGS", "EDRY", "ETAR", "ETAD", "EDFZ", "EDRV"]
-fromSector = "ed/DST"
-toSector = "ed/GIN"
+from_sector = "ed/DST"
+to_sector = "ed/GIN"
 
 [[agreements]]
 cop = "ROBAR"
 level = 190
 ades = ["EDDF"]
-fromSector = "ed/DST"
-toSector = "ed/HEF"
+from_sector = "ed/DST"
+to_sector = "ed/HEF"
 
 [[agreements]]
 cop = "ESADU"
 level = 160
 ades = ["EDLW"]
-fromSector = "ed/DST"
-toSector = "ed/PADH"
+from_sector = "ed/DST"
+to_sector = "ed/PADH"
 
 [[agreements]]
 cop = "ESADU"
 level = 200
 ades = ["EDDK"]
-fromSector = "ed/DST"
-toSector = "ed/PADH"
+from_sector = "ed/DST"
+to_sector = "ed/PADH"
 
 [[agreements]]
 cop = "OSN"
 level = 70
 ades = ["EDDG", "EDLI"]
-fromSector = "ed/EMS"
-toSector = "ed/HMM"
+from_sector = "ed/EMS"
+to_sector = "ed/HMM"
 
 [[agreements]]
 cop = "OSN"
 level = 200
 ades = ["EHTW", "EHLE"]
-fromSector = "ed/EMS"
-toSector = "ed/HMM"
+from_sector = "ed/EMS"
+to_sector = "ed/HMM"
 
 [[agreements]]
 cop = "OSN"
 level = 160
 ades = ["EDLW"]
-transferType = "D"
-fromSector = "ed/EMS"
-toSector = "ed/HMM"
+transfer_type = "D"
+from_sector = "ed/EMS"
+to_sector = "ed/HMM"
 remarks = "out of FL200"
 
 [[agreements]]
 cop = "MOBSA"
 level = 200
 ades = ["EDDL", "EDDK", "EDL*", "EDK*"]
-fromSector = "ed/EMS"
-toSector = "ed/HMM"
+from_sector = "ed/EMS"
+to_sector = "ed/HMM"
 
 [[agreements]]
 cop = "RORUS"
 level = 200
 ades = ["EDDL", "EDLE"]
-fromSector = "ed/EMS"
-toSector = "ed/HMM"
+from_sector = "ed/EMS"
+to_sector = "ed/HMM"
 
 [[agreements]]
 cop = "XAROL"
 level = 90
 ades = ["EDFQ"]
-fromSector = "ed/HRZ"
-toSector = "ed/GIN"
+from_sector = "ed/HRZ"
+to_sector = "ed/GIN"
 
 [[agreements]]
 cop = "FTZ"
 level = 70
 ades = ["ETFH"]
-fromSector = "ed/HRZ"
-toSector = "ed/HEF"
+from_sector = "ed/HRZ"
+to_sector = "ed/HEF"
 
 [[agreements]]
 cop = "WRB"
 level = 80
 ades = ["EDLP"]
-fromSector = "ed/HRZ"
-toSector = "ed/PADL"
+from_sector = "ed/HRZ"
+to_sector = "ed/PADL"
 
 [[agreements]]
 cop = "XAROL"
 level = 90
 adep = ["EDVK"]
-fromSector = "ed/HRZ"
-toSector = "ed/GIN"
+from_sector = "ed/HRZ"
+to_sector = "ed/GIN"
 
 [[agreements]]
 cop = "ELNAT"
 level = 90
 adep = ["EDVK"]
-fromSector = "ed/HRZ"
-toSector = "ed/HEF"
+from_sector = "ed/HRZ"
+to_sector = "ed/HEF"
 
 [[agreements]]
 cop = "EMBAD"
 level = 90
 adep = ["EDVK"]
-fromSector = "ed/HRZ"
-toSector = "ed/HEF"
+from_sector = "ed/HRZ"
+to_sector = "ed/HEF"
 
 [[agreements]]
 cop = "WRB"
 level = 70
 adep = ["EDVK"]
-fromSector = "ed/HRZ"
-toSector = "ed/PADL"
+from_sector = "ed/HRZ"
+to_sector = "ed/PADL"
 
 [[agreements]]
 cop = "ESADU"
 level = 90
 adep = ["EDVK"]
-fromSector = "ed/HRZ"
-toSector = "ed/PADL"
+from_sector = "ed/HRZ"
+to_sector = "ed/PADL"
 
 [[agreements]]
 cop = "XAROL"
 level = 150
 adep = ["EDLP"]
-fromSector = "ed/HRZ"
-toSector = "ed/GIN"
+from_sector = "ed/HRZ"
+to_sector = "ed/GIN"
 
 [[agreements]]
 cop = "EMBAD"
 level = 150
 adep = ["EDLP"]
-fromSector = "ed/HRZ"
-toSector = "ed/HEF"
+from_sector = "ed/HRZ"
+to_sector = "ed/HEF"
 
 [[agreements]]
 cop = "ELNAT"
 level = 150
 adep = ["EDLP"]
-fromSector = "ed/HRZ"
-toSector = "ed/HEF"
+from_sector = "ed/HRZ"
+to_sector = "ed/HEF"

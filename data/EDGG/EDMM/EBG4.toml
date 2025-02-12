@@ -4,43 +4,43 @@ cop = "ELVAG"
 level = 110
 sfl = 150
 ades = ["EDMA", "EDMO", "EDJA", "ETSN", "ETSI", "ETSL"]
-transferType = "D"
-fromSector = "ed/DKB"
-toSector = "ed/NDG"
+transfer_type = "D"
+from_sector = "ed/DKB"
+to_sector = "ed/NDG"
 
 [[agreements]]
 cop = "LEVBU"
 level = 110
 sfl = 150
 ades = ["EDMA", "EDMO", "EDJA", "ETSN", "ETSI", "ETSL"]
-transferType = "D"
-fromSector = "ed/DKB"
-toSector = "ed/WLD"
+transfer_type = "D"
+from_sector = "ed/DKB"
+to_sector = "ed/WLD"
 
 [[agreements]]
 cop = "LETKU"
 level = 110
 sfl = 130
 ades = ["EDDN"]
-transferType = "D"
+transfer_type = "D"
 releases = "F"
-fromSector = "ed/DKB"
-toSector = "ed/FRK"
+from_sector = "ed/DKB"
+to_sector = "ed/FRK"
 
 [[agreements]]
 cop = "ELVAG"
 level = 240
 adep = ["EDDF"]
 rfl = "240-"
-fromSector = "ed/DKB"
-toSector = "ed/NDG"
+from_sector = "ed/DKB"
+to_sector = "ed/NDG"
 
 [[agreements]]
 cop = "ELVAG"
 adep = ["EDDF"]
 rfl = "250+"
-fromSector = "ed/DKB"
-toSector = "ed/NDG"
+from_sector = "ed/DKB"
+to_sector = "ed/NDG"
 remarks = "not able to cross NOMBO FL240A"
 
 [[agreements]]
@@ -48,37 +48,37 @@ cop = "BEMBO"
 level = 230
 adep = ["EDDF"]
 rfl = "240-"
-fromSector = "ed/DKB"
-toSector = "ed/WLD"
+from_sector = "ed/DKB"
+to_sector = "ed/WLD"
 
 [[agreements]]
 cop = "BEMBO"
 adep = ["EDDF"]
 rfl = "250+"
-fromSector = "ed/DKB"
-toSector = "ed/NDG"
+from_sector = "ed/DKB"
+to_sector = "ed/NDG"
 remarks = "not able to cross DINKU FL230A"
 
 [[agreements]]
 cop = "AKANU"
 level = 110
 adep = ["EDTY"]
-fromSector = "ed/DKB"
-toSector = "ed/WLD"
+from_sector = "ed/DKB"
+to_sector = "ed/WLD"
 
 [[agreements]]
 cop = "LEVBU"
 level = 110
 adep = ["EDTY"]
-fromSector = "ed/DKB"
-toSector = "ed/WLD"
+from_sector = "ed/DKB"
+to_sector = "ed/WLD"
 
 [[agreements]]
 cop = "RIXED"
 level = 110
 adep = ["EDTY"]
-fromSector = "ed/DKB"
-toSector = "ed/NDG"
+from_sector = "ed/DKB"
+to_sector = "ed/NDG"
 
 # HAB
 [[agreements]]
@@ -86,67 +86,67 @@ cop = "ERTES"
 level = 130
 sfl = 160
 ades = ["EDDN"]
-transferType = "D"
+transfer_type = "D"
 releases = "F"
-fromSector = "ed/HAB"
-toSector = "ed/FRK"
+from_sector = "ed/HAB"
+to_sector = "ed/FRK"
 remarks = "approved to cross KTG"
 
 [[agreements]]
 cop = "RASPU"
 level = 180
 ades = ["EDDE"]
-fromSector = "ed/HAB"
-toSector = "ed/FRK"
+from_sector = "ed/HAB"
+to_sector = "ed/FRK"
 
 [[agreements]]
 cop = "SULUS"
 level = 170
 ades = ["EDQD", "EDQM"]
-fromSector = "ed/HAB"
-toSector = "ed/FRK"
+from_sector = "ed/HAB"
+to_sector = "ed/FRK"
 
 [[agreements]]
 cop = "SULUS"
 level = 230
 adep = ["EDDF"]
-fromSector = "ed/HAB"
-toSector = "ed/BBG"
+from_sector = "ed/HAB"
+to_sector = "ed/BBG"
 releases = "C"
 
 [[agreements]]
 cop = "SULUS"
 level = 130
 ades = ["EDQC", "EDQT", "EDQA"]
-fromSector = "ed/HAB"
-toSector = "ed/FRK"
+from_sector = "ed/HAB"
+to_sector = "ed/FRK"
 
 # KTG
 [[agreements]]
 cop = "AMOSA"
 level = 230
 adep = ["EDDS", "EDSB", "EDTY"]
-fromSector = "ed/KTG"
-toSector = "ed/BBG"
+from_sector = "ed/KTG"
+to_sector = "ed/BBG"
 
 [[agreements]]
 cop = "SULUS"
 level = 230
 adep = ["EDDF"]
 releases = "C"
-fromSector = "ed/KTG"
-toSector = "ed/BBG"
+from_sector = "ed/KTG"
+to_sector = "ed/BBG"
 
 [[agreements]]
 cop = "KEGOS"
 level = 190
 ades = ["EDQC", "EDQD", "EDQM"]
-fromSector = "ed/KTG"
-toSector = "ed/FRK"
+from_sector = "ed/KTG"
+to_sector = "ed/FRK"
 
 [[agreements]]
 cop = "KEGOS"
 level = 140
 ades = ["EDQA", "EDQT"]
-fromSector = "ed/KTG"
-toSector = "ed/FRK"
+from_sector = "ed/KTG"
+to_sector = "ed/FRK"

@@ -4,26 +4,26 @@ cop = "LASGA"
 level = 320
 ades = ["EDDW", "EDDV", "EDVE", "EDBM", "ETNW"]
 vertical = true
-fromSector = "ed/ERL1"
-toSector = "ed/HOF"
+from_sector = "ed/ERL1"
+to_sector = "ed/HOF"
 
 [[agreements]]
 cop = "KULOK"
 level = 320
-levelAt = [-10, "KULOK"]
+level_at = [-10, "KULOK"]
 ades = ["EDDC", "EDAB"]
 vertical = true
-fromSector = "ed/ERL1"
-toSector = "ed/HOF"
+from_sector = "ed/ERL1"
+to_sector = "ed/HOF"
 
 [[agreements]]
 cop = "BAROB"
 level = 320
-levelAt = [0, "TONSU"]
+level_at = [0, "TONSU"]
 ades = ["LKPR", "LKKB", "LKVO", "LKPD", "LKCV", "LKHK", "LKMH"]
 vertical = true
-fromSector = "ed/ERL1"
-toSector = "ed/HOF"
+from_sector = "ed/ERL1"
+to_sector = "ed/HOF"
 remarks = "Arrivals LKPR group may be cleared direct ODOMO."
 
 [[agreements]]
@@ -31,24 +31,24 @@ cop = "NURGO"
 level = 320
 ades = ["EDDF"]
 vertical = true
-fromSector = "ed/ERL1"
-toSector = "ed/HOF"
+from_sector = "ed/ERL1"
+to_sector = "ed/HOF"
 
 [[agreements]]
 cop = "SODRO"
 level = 320
 ades = ["EDDF"]
 vertical = true
-fromSector = "ed/ERL1"
-toSector = "ed/BBG"
+from_sector = "ed/ERL1"
+to_sector = "ed/BBG"
 
 [[agreements]]
 cop = "UNAVI"
 level = 320
 ades = ["EDDF", "ETAR"]
 vertical = true
-fromSector = "ed/ERL1"
-toSector = "ed/HOF"
+from_sector = "ed/ERL1"
+to_sector = "ed/HOF"
 
 # SPE
 [[agreements]]
@@ -56,16 +56,16 @@ cop = "BEBKU"
 level = 320
 ades = ["EDQD", "EDQM", "EDQC", "EDQK", "EDQT", "EDQG", "EDQA", "ETIC", "ETIN", "ETHN", "LKKV", "LKCS", "LKPM"]
 vertical = true
-fromSector = "ed/SPE1"
-toSector = "ed/MEI"
+from_sector = "ed/SPE1"
+to_sector = "ed/MEI"
 
 [[agreements]]
 cop = "BEBKU"
 level = 320
 ades = ["EPWR"]
 vertical = true
-fromSector = "ed/SPE1"
-toSector = "ed/MEI"
+from_sector = "ed/SPE1"
+to_sector = "ed/MEI"
 remarks = "KOBUS at FL320"
 
 [[agreements]]
@@ -73,32 +73,32 @@ cop = "KOBUS"
 level = 320
 ades = ["EPWR", "EPPO"]
 vertical = true
-fromSector = "ed/SPE1"
-toSector = "ed/MEI"
+from_sector = "ed/SPE1"
+to_sector = "ed/MEI"
 
 [[agreements]]
 cop = "EBASA"
 level = 320
 ades = ["LKPR", "LKKB", "LKCS", "LKVO", "LKPD", "LKCV", "LKHK", "LKMH"]
 vertical = true
-fromSector = "ed/SPE1"
-toSector = "ed/MEI"
+from_sector = "ed/SPE1"
+to_sector = "ed/MEI"
 
 [[agreements]]
 cop = "OSKAN"
 level = 320
 ades = ["LKPR", "LKKB", "LKCS", "LKVO", "LKPD", "LKCV", "LKHK", "LKMH"]
 vertical = true
-fromSector = "ed/SPE1"
-toSector = "ed/MEI"
+from_sector = "ed/SPE1"
+to_sector = "ed/MEI"
 
 [[agreements]]
 cop = "OSTRA"
 level = 320
 ades = ["LKPR", "LKKB", "LKCS", "LKVO", "LKPD", "LKCV", "LKHK", "LKMH"]
 vertical = true
-fromSector = "ed/SPE1"
-toSector = "ed/GER"
+from_sector = "ed/SPE1"
+to_sector = "ed/GER"
 remarks = "Latest at boundary SAL/SPE"
 
 [[agreements]]
@@ -106,26 +106,26 @@ cop = "TALEG"
 level = 320
 ades = ["LKPR", "LKKB", "LKCS", "LKVO", "LKPD", "LKCV", "LKHK", "LKMH"]
 vertical = true
-fromSector = "ed/SPE1"
-toSector = "ed/GER"
+from_sector = "ed/SPE1"
+to_sector = "ed/GER"
 remarks = "Latest at boundary SAL/SPE"
 
 [[agreements]]
 cop = "NOKSI"
 level = 320
-levelAt = [-20, "NOKSI"]
+level_at = [-20, "NOKSI"]
 ades = ["EDDN", "EDDS", "EDJA"]
 vertical = true
-fromSector = "ed/SPE1"
-toSector = "ed/MEI"
+from_sector = "ed/SPE1"
+to_sector = "ed/MEI"
 
 [[agreements]]
 cop = "KOBUS"
 level = 320
 ades = ["EDQD", "EDQM", "EDQC", "EDQK", "EDQT", "EDQG", "EDQA", "ETIC", "ETIN", "ETHN", "LKKV", "LKCS"]
 vertical = true
-fromSector = "ed/SPE1"
-toSector = "ed/MEI"
+from_sector = "ed/SPE1"
+to_sector = "ed/MEI"
 
 # SAL
 [[agreements]]
@@ -133,123 +133,123 @@ cop = "GOLAT"
 level = 320
 ades = ["EDDB", "EDAY", "EDAZ"]
 vertical = true
-fromSector = "ed/SAL1"
-toSector = "ed/GER"
+from_sector = "ed/SAL1"
+to_sector = "ed/GER"
 
 [[agreements]]
 cop = "RELKO"
 level = 320
 ades = ["EDDB", "EDAY", "EDAZ"]
 vertical = true
-fromSector = "ed/SAL1"
-toSector = "ed/GER"
+from_sector = "ed/SAL1"
+to_sector = "ed/GER"
 
 [[agreements]]
 cop = "TOGRO"
 level = 320
 ades = ["EDDN", "EDQD", "EDQM", "EDQC", "EDQK", "EDQT", "EDQG", "EDQA", "ETIC"]
 vertical = true
-fromSector = "ed/SAL1"
-toSector = "ed/GER"
+from_sector = "ed/SAL1"
+to_sector = "ed/GER"
 
 [[agreements]]
 cop = "NIMAB"
 level = 320
 ades = ["EDDF", "ETOU", "EDFE", "EDFZ", "EDFQ"]
 vertical = true
-fromSector = "ed/SAL1"
-toSector = "ed/HAL"
+from_sector = "ed/SAL1"
+to_sector = "ed/HAL"
 
 [[agreements]]
 cop = "OSKAT"
 level = 320
 ades = ["EDDF", "ETOU", "EDFE", "EDFZ", "EDFQ"]
 vertical = true
-fromSector = "ed/SAL1"
-toSector = "ed/HAL"
+from_sector = "ed/SAL1"
+to_sector = "ed/HAL"
 
 [[agreements]]
 cop = "SULED"
 level = 320
-levelAt = [0, "NAMUB"]
+level_at = [0, "NAMUB"]
 ades = ["EDDF", "ETOU", "EDFE", "EDFZ", "EDFQ"]
 vertical = true
-fromSector = "ed/SAL1"
-toSector = "ed/GER"
+from_sector = "ed/SAL1"
+to_sector = "ed/GER"
 
 [[agreements]]
 cop = "GALMA"
 level = 320
 ades = ["EDMS", "ETHN", "ETIN", "LKKV"]
 vertical = true
-fromSector = "ed/SAL1"
-toSector = "ed/HAL"
+from_sector = "ed/SAL1"
+to_sector = "ed/HAL"
 
 [[agreements]]
 cop = "RELKO"
 level = 320
 ades = ["ETSI", "ETSN"]
 vertical = true
-fromSector = "ed/SAL1"
-toSector = "ed/GER"
+from_sector = "ed/SAL1"
+to_sector = "ed/GER"
 
 [[agreements]]
 cop = "SULED"
 level = 320
 ades = ["ETSI", "ETSN"]
 vertical = true
-fromSector = "ed/SAL1"
-toSector = "ed/GER"
+from_sector = "ed/SAL1"
+to_sector = "ed/GER"
 
 [[agreements]]
 cop = "SULED"
 level = 320
 ades = ["EDDR", "EDDS", "EDFM", "EDFV", "EDJA", "EDRY", "EDRZ", "EDTL", "EDTY", "EDSB", "EDTM", "ETAR"]
 vertical = true
-fromSector = "ed/SAL1"
-toSector = "ed/GER"
+from_sector = "ed/SAL1"
+to_sector = "ed/GER"
 
 [[agreements]]
 cop = "SODRO"
 level = 320
-levelAt = [-15, "SODRO"]
+level_at = [-15, "SODRO"]
 ades = ["EDDM", "EDMA", "EDMO"]
 vertical = true
-fromSector = "ed/SAL1"
-toSector = "ed/HOF"
+from_sector = "ed/SAL1"
+to_sector = "ed/HOF"
 
 # HVL
 [[agreements]]
 cop = "VEVAS"
 level = 300
 ades = ["EDDN", "EDQD", "EDQM", "EDQC", "EDQK", "EDQT", "EDQG", "EDQA", "ETIC"]
-fromSector = "ed/HVL1"
-toSector = "ed/GER"
+from_sector = "ed/HVL1"
+to_sector = "ed/GER"
 
 [[agreements]]
 cop = "MAG"
 level = 300
 ades = ["EDDN", "EDQD", "EDQM", "EDQC", "EDQK", "EDQT", "EDQG", "EDQA", "ETIC", "EDDE"]
-fromSector = "ed/HVL1"
-toSector = "ed/HAL"
+from_sector = "ed/HVL1"
+to_sector = "ed/HAL"
 
 [[agreements]]
 cop = "MAG"
 level = 300
 ades = ["ELLX"]
-fromSector = "ed/HVL1"
-toSector = "ed/HAL"
+from_sector = "ed/HVL1"
+to_sector = "ed/HAL"
 
 [[agreements]]
 cop = "TOPDI"
 level = 300
 ades = ["EDDF", "ETOU", "EDFE", "EDFZ", "EDFQ"]
-fromSector = "ed/HVL1"
-toSector = "ed/HAL"
+from_sector = "ed/HVL1"
+to_sector = "ed/HAL"
 
 [[agreements]]
 cop = "DIDGI"
 level = 300
 ades = ["EDDF", "ETOU", "EDFE", "EDFZ", "EDFQ"]
-fromSector = "ed/HVL1"
-toSector = "ed/HAL"
+from_sector = "ed/HVL1"
+to_sector = "ed/HAL"

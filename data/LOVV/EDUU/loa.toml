@@ -2,47 +2,47 @@
 cop = "ERKIR"
 level = 340
 ades = ["EDDS", "LSMD", "LSZS"]
-fromSector = "lo/W2"
-toSector = "ed/CHI1"
+from_sector = "lo/W2"
+to_sector = "ed/CHI1"
 
 [[agreements]]
 cop = "SIMBA"
 level = 360
 ades = ["EDDF"]
-fromSector = "lo/B3"
-toSector = "ed/DON2"
+from_sector = "lo/B3"
+to_sector = "ed/DON2"
 
 [[agreements]]
 cop = "SUBEN"
 level = 360
 ades = ["EDDF"]
-fromSector = "lo/N3"
-toSector = "ed/DON2"
+from_sector = "lo/N3"
+to_sector = "ed/DON2"
 
 [[agreements]]
 cop = "TITIG"
 level = 340
 ades = ["EDDR", "EDFM", "EDSB"]
-fromSector = "lo/B2"
-toSector = "ed/CHI1"
+from_sector = "lo/B2"
+to_sector = "ed/CHI1"
 
 [[agreements]]
 cop = "KIRDI"
 level = 340
 ades = ["EDDR", "EDFM", "EDSB"]
-fromSector = "lo/B2"
-toSector = "ed/CHI1"
+from_sector = "lo/B2"
+to_sector = "ed/CHI1"
 
 [[agreements]]
 cop = "ERKIR"
 level = 360
 ades = ["LSZH"]
-fromSector = "lo/W3"
-toSector = "ed/CHI2"
+from_sector = "lo/W3"
+to_sector = "ed/CHI2"
 
 [[agreements]]
 cop = "SIMBA"
 level = 320
 ades = ["LKPR"]
-fromSector = "lo/B2"
-toSector = "ed/DON1"
+from_sector = "lo/B2"
+to_sector = "ed/DON1"

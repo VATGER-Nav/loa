@@ -2,120 +2,120 @@
 cop = "GAMSA"
 level = 310
 adep = ["LFSB", "LFGA", "LFGB", "LFSM", "LSZS"]
-fromSector = "ls/SZU"
-toSector = "ed/ZUG"
+from_sector = "ls/SZU"
+to_sector = "ed/ZUG"
 remarks = "Flights may be cleared DCT MADEB"
 
 [[agreements]]
 cop = "GAMSA"
 level = 310
 ades = ["LOWS", "EDDN", "LIPB"]
-fromSector = "ls/SZU"
-toSector = "ed/ZUG"
+from_sector = "ls/SZU"
+to_sector = "ed/ZUG"
 remarks = "Flights may be cleared DCT MADEB"
 
 [[agreements]]
 cop = "GAMSA"
 level = 250
 ades = ["LOWI"]
-fromSector = "ls/SZU"
-toSector = "ed/ZUG"
+from_sector = "ls/SZU"
+to_sector = "ed/ZUG"
 remarks = "Minimum FL120, Flights may be cleared DCT MADEB"
 
 [[agreements]]
 cop = "DORAP"
 level = 240
 adep = ["LSZH", "LSMD", "ETDT"]
-transferType = "C"
-fromSector = "ls/SZE"
-toSector = "ed/ZUG"
+transfer_type = "C"
+from_sector = "ls/SZE"
+to_sector = "ed/ZUG"
 remarks = "DCT XEBIX / TIRUL / OTRES; RLSD CLIMB FL280 in DORAP AREA"
 
 [[agreements]]
 cop = "DORAP"
 level = 150
 ades = ["EDTM", "LOIH"]
-fromSector = "ls/SZE"
-toSector = "ed/ZUG"
+from_sector = "ls/SZE"
+to_sector = "ed/ZUG"
 
 [[agreements]]
 cop = "RONAG"
 level = 210
 adep = ["LSZS"]
-fromSector = "ls/SZS"
-toSector = "ed/ZUG"
+from_sector = "ls/SZS"
+to_sector = "ed/ZUG"
 
 [[agreements]]
 cop = "NUNRI"
 level = 270
 releases = "T"
 ades = ["EDDM", "ETSI"]
-fromSector = "ls/SZU"
-toSector = "ed/FUE"
+from_sector = "ls/SZU"
+to_sector = "ed/FUE"
 
 [[agreements]]
 cop = "NUNRI"
 level = 240
 adep = ["LSZH", "LSMD", "EDTD"]
-transferType = "C"
-fromSector = "ls/SZE"
-toSector = "ed/FUE"
+transfer_type = "C"
+from_sector = "ls/SZE"
+to_sector = "ed/FUE"
 
 [[agreements]]
 cop = "NUNRI"
 level = 190
 ades = ["EDMA", "EDMO"]
-fromSector = "ls/SZE"
-toSector = "ed/FUE"
+from_sector = "ls/SZE"
+to_sector = "ed/FUE"
 
 [[agreements]]
 cop = "NUNRI"
 level = 170
 ades = ["ETSL"]
-fromSector = "ls/SZE"
-toSector = "ed/FUE"
+from_sector = "ls/SZE"
+to_sector = "ed/FUE"
 
 [[agreements]]
 cop = "NUNRI"
 level = 150
 adep = ["EDTM", "LOIH"]
-fromSector = "ls/SZE"
-toSector = "ed/FUE"
+from_sector = "ls/SZE"
+to_sector = "ed/FUE"
 
 [[agreements]]
 cop = "NUNRI"
 level = 90
 ades = ["EDJA", "EDMA", "EDMO", "EDNL", "ETHL", "ETSL"]
-fromSector = "ls/ARFA"
-toSector = "ed/ILR"
+from_sector = "ls/ARFA"
+to_sector = "ed/ILR"
 remarks = "via ALOXO, Flights are released"
 
 [[agreements]]
 cop = "KPT"
 level = 110
 adep = ["LSZH", "LSMD", "EDTD", "EDTM", "LOIH"]
-fromSector = "ls/ARFA"
-toSector = "ed/FUE"
+from_sector = "ls/ARFA"
+to_sector = "ed/FUE"
 
 [[agreements]]
 cop = "KPT"
 level = 90
 ades = ["EDJA", "EDNL", "ETHL", "ETSL"]
-fromSector = "ls/ARFA"
-toSector = "ed/ILR"
+from_sector = "ls/ARFA"
+to_sector = "ed/ILR"
 
 [[agreements]]
 cop = "BEMKI"
 level = 150
-transferType = "C"
+transfer_type = "C"
 adep = ["EDNY", "LSZR"]
-fromSector = "ls/SZE"
-toSector = "ed/FUE"
+from_sector = "ls/SZE"
+to_sector = "ed/FUE"
 
 [[agreements]]
 cop = "KPT"
 level = 150
-transferType = "C"
+transfer_type = "C"
 adep = ["EDNY", "LSZR"]
-fromSector = "ls/SZE"
-toSector = "ed/FUE"
+from_sector = "ls/SZE"
+to_sector = "ed/FUE"

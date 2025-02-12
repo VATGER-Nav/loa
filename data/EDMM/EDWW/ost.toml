@@ -3,203 +3,203 @@
 cop = "BOKSO"
 level = 220
 ades = ["EDDV", "ETNW"]
-fromSector = "ed/HAL"
-toSector = "ed/HRZ"
+from_sector = "ed/HAL"
+to_sector = "ed/HRZ"
 remarks = "TFC may be cleared DCT BOKSO"
 
 [[agreements]]
 cop = "LORBO"
 level = 220
 ades = ["EDDW", "EDDV", "EDVE", "ETNW"]
-fromSector = "ed/HAL"
-toSector = "ed/BOR"
+from_sector = "ed/HAL"
+to_sector = "ed/BOR"
 remarks = "TFC may be cleared DCT HLZ"
 
 [[agreements]]
 cop = "ZUCKA"
 level = 240
 ades = ["EDDW"]
-fromSector = "ed/HAL"
-toSector = "ed/HRZ"
+from_sector = "ed/HAL"
+to_sector = "ed/HRZ"
 
 [[agreements]]
 cop = "ZUCKA"
 level = 200
 adep = ["EDDE"]
-fromSector = "ed/HAL"
-toSector = "ed/HRZ"
+from_sector = "ed/HAL"
+to_sector = "ed/HRZ"
 
 [[agreements]]
 cop = "BOKSO"
 level = 200
 adep = ["EDDE"]
 ades = ["EDDV", "ETNW"]
-fromSector = "ed/HAL"
-toSector = "ed/HRZ"
+from_sector = "ed/HAL"
+to_sector = "ed/HRZ"
 
 [[agreements]]
 cop = "KENIG"
 level = 250
 adep = ["EDDE"]
-fromSector = "ed/HAL"
-toSector = "ed/BOR"
+from_sector = "ed/HAL"
+to_sector = "ed/BOR"
 
 # GER
 [[agreements]]
 cop = "RUDAK"
 level = 210
 ades = ["EDDB"]
-fromSector = "ed/GER"
-toSector = "ed/FLG"
+from_sector = "ed/GER"
+to_sector = "ed/FLG"
 remarks = "TFC may be cleared DCT KLF"
 
 [[agreements]]
 cop = "RUDAK"
 level = 230
 ades = ["EDAY"]
-fromSector = "ed/GER"
-toSector = "ed/FLG"
+from_sector = "ed/GER"
+to_sector = "ed/FLG"
 
 [[agreements]]
 cop = "ZABEL"
 level = 210
 ades = ["EDDB"]
-fromSector = "ed/GER"
-toSector = "ed/FLG"
+from_sector = "ed/GER"
+to_sector = "ed/FLG"
 remarks = "TFC may be cleared DCT ATGUP"
 
 [[agreements]]
 cop = "ZABEL"
 level = 240
 ades = ["EDAY"]
-fromSector = "ed/GER"
-toSector = "ed/FLG"
+from_sector = "ed/GER"
+to_sector = "ed/FLG"
 
 # TRN
 [[agreements]]
 cop = "ZUCKA"
 level = 180
 ades = ["EDVE"]
-fromSector = "ed/TRN"
-toSector = "ed/HRZ"
+from_sector = "ed/TRN"
+to_sector = "ed/HRZ"
 remarks = "TFC may be cleared DCT LARET"
 
 [[agreements]]
 cop = "KUMER"
 level = 180
 ades = ["EDVK"]
-fromSector = "ed/TRN"
-toSector = "ed/HRZ"
+from_sector = "ed/TRN"
+to_sector = "ed/HRZ"
 
 [[agreements]]
 cop = "KENIG"
 level = 90
 ades = ["EDBM", "EDBC"]
-fromSector = "ed/TRN"
-toSector = "ed/BOR"
+from_sector = "ed/TRN"
+to_sector = "ed/BOR"
 
 [[agreements]]
 cop = "ODLUN"
 level = 180
 ades = ["EDVE"]
-fromSector = "ed/TRN"
-toSector = "ed/BOR"
+from_sector = "ed/TRN"
+to_sector = "ed/BOR"
 
 [[agreements]]
 cop = "LORBO"
 level = 80
 ades = ["EDBM", "EDBC"]
-fromSector = "ed/TRN"
-toSector = "ed/BOR"
+from_sector = "ed/TRN"
+to_sector = "ed/BOR"
 
 [[agreements]]
 cop = "DIDGI"
 level = 110
 ades = ["EDAZ"]
-fromSector = "ed/TRN"
-toSector = "ed/DBAS"
+from_sector = "ed/TRN"
+to_sector = "ed/DBAS"
 
 [[agreements]]
 cop = "RUDAK"
 level = 110
 ades = ["EDAZ"]
-fromSector = "ed/TRN"
-toSector = "ed/DBAS"
+from_sector = "ed/TRN"
+to_sector = "ed/DBAS"
 remarks = "TFC may be cleared DCT MOSEX"
 
 [[agreements]]
 cop = "ZABEL"
 level = 110
 ades = ["EDAZ"]
-fromSector = "ed/TRN"
-toSector = "ed/DBAS"
+from_sector = "ed/TRN"
+to_sector = "ed/DBAS"
 remarks = "TFC may be cleared DCT MOSEX"
 
 [[agreements]]
 cop = "VATUP"
 level = 110
 ades = ["ETSH"]
-fromSector = "ed/TRN"
-toSector = "ed/DBAS"
+from_sector = "ed/TRN"
+to_sector = "ed/DBAS"
 
 [[agreements]]
 cop = "MILGU"
 level = 110
 ades = ["ETSH"]
-fromSector = "ed/TRN"
-toSector = "ed/DBAS"
+from_sector = "ed/TRN"
+to_sector = "ed/DBAS"
 
 [[agreements]]
 cop = "KUMER"
 level = 180
 adep = ["EDDE"]
-fromSector = "ed/TRN"
-toSector = "ed/HRZ"
+from_sector = "ed/TRN"
+to_sector = "ed/HRZ"
 
 [[agreements]]
 cop = "ODLUN"
 level = 80
 adep = ["EDDP"]
 ades = ["EDBM", "EDBC"]
-fromSector = "ed/TRN"
-toSector = "ed/BOR"
+from_sector = "ed/TRN"
+to_sector = "ed/BOR"
 
 [[agreements]]
 cop = "ODLUN"
 level = 120
 adep = ["EDDP"]
-fromSector = "ed/TRN"
-toSector = "ed/BOR"
+from_sector = "ed/TRN"
+to_sector = "ed/BOR"
 
 [[agreements]]
 cop = "ODLUN"
 level = 190
 adep = ["EDAC"]
-routeAfter = "Z207"
-fromSector = "ed/TRN"
-toSector = "ed/BOR"
+route_after = "Z207"
+from_sector = "ed/TRN"
+to_sector = "ed/BOR"
 
 [[agreements]]
 cop = "ODLUN"
 level = 180
 adep = ["EDAC"]
-routeAfter = "Y233"
-fromSector = "ed/TRN"
-toSector = "ed/BOR"
+route_after = "Y233"
+from_sector = "ed/TRN"
+to_sector = "ed/BOR"
 
 [[agreements]]
 cop = "UMBAL"
 level = 120
 adep = ["EDDP"]
-fromSector = "ed/TRN"
-toSector = "ed/BOR"
+from_sector = "ed/TRN"
+to_sector = "ed/BOR"
 
 [[agreements]]
 cop = "RUDAK"
 level = 140
 adep = ["EDDP"]
-fromSector = "ed/TRN"
-toSector = "ed/FLG"
+from_sector = "ed/TRN"
+to_sector = "ed/FLG"
 remarks = "Released by DBAS, TFC may be cleared DCT OLBIK, KLF"
 
 # MEI
@@ -207,96 +207,96 @@ remarks = "Released by DBAS, TFC may be cleared DCT OLBIK, KLF"
 cop = "AKUDI"
 level = 200
 ades = ["EDDB"]
-fromSector = "ed/MEI"
-toSector = "ed/FLG"
+from_sector = "ed/MEI"
+to_sector = "ed/FLG"
 remarks = "TFC may be cleared DCT ATGUP"
 
 [[agreements]]
 cop = "AKUDI"
 level = 220
 ades = ["EDAY"]
-fromSector = "ed/MEI"
-toSector = "ed/FLG"
+from_sector = "ed/MEI"
+to_sector = "ed/FLG"
 
 [[agreements]]
 cop = "ABLOX"
 level = 200
 ades = ["EDDB"]
-fromSector = "ed/MEI"
-toSector = "ed/FLG"
+from_sector = "ed/MEI"
+to_sector = "ed/FLG"
 
 [[agreements]]
 cop = "KOBUS"
 level = 290
 ades = ["EPKS", "EPPO", "EPPW"]
 vertical = true
-fromSector = "ed/MEI"
-toSector = "ed/FLG"
+from_sector = "ed/MEI"
+to_sector = "ed/FLG"
 
 [[agreements]]
 cop = "ABLOX"
 level = 230
 ades = ["EDAY"]
-fromSector = "ed/MEI"
-toSector = "ed/FLG"
+from_sector = "ed/MEI"
+to_sector = "ed/FLG"
 
 # SAS
 [[agreements]]
 cop = "OGSEN"
 level = 160
 adep = ["EDAC"]
-fromSector = "ed/SAS"
-toSector = "ed/FLG"
+from_sector = "ed/SAS"
+to_sector = "ed/FLG"
 
 [[agreements]]
 cop = "OLBIK"
 level = 140
 adep = ["EDDC", "EDAB"]
-fromSector = "ed/SAS"
-toSector = "ed/FLG"
+from_sector = "ed/SAS"
+to_sector = "ed/FLG"
 
 [[agreements]]
 cop = "KOBUS"
 level = 150
 adep = ["EDDC", "EDAB"]
-fromSector = "ed/SAS"
-toSector = "ed/FLG"
-routeAfter = "P31"
+from_sector = "ed/SAS"
+to_sector = "ed/FLG"
+route_after = "P31"
 
 [[agreements]]
 cop = "KOBUS"
 level = 140
 adep = ["EDDC", "EDAB"]
-fromSector = "ed/SAS"
-toSector = "ed/FLG"
-routeAfter = "M725"
+from_sector = "ed/SAS"
+to_sector = "ed/FLG"
+route_after = "M725"
 
 [[agreements]]
 cop = "KOBUS"
 level = 150
 adep = ["EDDC", "EDAB"]
-fromSector = "ed/SAS"
-toSector = "ed/FLG"
+from_sector = "ed/SAS"
+to_sector = "ed/FLG"
 
 [[agreements]]
 cop = "ABLOX"
 level = 130
 adep = ["EDAB"]
-fromSector = "ed/SAS"
-toSector = "ed/FLG"
+from_sector = "ed/SAS"
+to_sector = "ed/FLG"
 
 [[agreements]]
 cop = "AKUDI"
 level = 120
 adep = ["EDDC"]
 ades = ["EDDB"]
-fromSector = "ed/SAS"
-toSector = "ed/DBAS"
+from_sector = "ed/SAS"
+to_sector = "ed/DBAS"
 
 [[agreements]]
 cop = "OLBIK"
 level = 100
 ades = ["EDAZ"]
-fromSector = "ed/SAS"
-toSector = "ed/DBAS"
+from_sector = "ed/SAS"
+to_sector = "ed/DBAS"
 remarks = "TFC may be cleared DCT MOSEX"

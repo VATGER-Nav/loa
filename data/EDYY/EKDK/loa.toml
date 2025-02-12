@@ -2,26 +2,26 @@
 cop = "GESKA"
 level = 280
 ades = ["EKCH", "EKRK"]
-fromSector = "ed/HL"
-toSector = "ek/EKDB"
+from_sector = "ed/HL"
+to_sector = "ek/EKDB"
 
 [[agreements]]
 cop = "MEGAR"
 level = 270
 adep = ["EDDH", "EDHI", "EDHL"]
-fromSector = "ed/HL"
-toSector = "ek/EKDB"
+from_sector = "ed/HL"
+to_sector = "ek/EKDB"
 
 [[agreements]]
 cop = "ALS"
 level = 270
 adep = ["EDDH", "EDHI", "EDHL"]
-fromSector = "ed/HL"
-toSector = "ek/EKDS"
+from_sector = "ed/HL"
+to_sector = "ek/EKDS"
 
 [[agreements]]
 cop = "ATTUS"
 level = 270
 adep = ["EDDH", "EDHI", "EDHL"]
-fromSector = "ed/HL"
-toSector = "ek/EKDS"
+from_sector = "ed/HL"
+to_sector = "ek/EKDS"

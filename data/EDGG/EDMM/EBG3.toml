@@ -2,28 +2,28 @@
 cop = "BOKNI"
 level = 170
 ades = ["EDQM", "EDQD", "EDQC", "EDQA", "ETIC"]
-fromSector = "ed/HEF"
-toSector = "ed/FRK"
+from_sector = "ed/HEF"
+to_sector = "ed/FRK"
 
 [[agreements]]
 cop = "VELIS"
 level = 170
 ades = ["EDDN"]
-fromSector = "ed/HEF"
-toSector = "ed/FRK"
+from_sector = "ed/HEF"
+to_sector = "ed/FRK"
 
 [[agreements]]
 cop = "MADET"
 level = 110
 ades = ["EDDE", "EDBA", "EDGE", "EDOU"]
-fromSector = "ed/HEF"
-toSector = "ed/TRS"
+from_sector = "ed/HEF"
+to_sector = "ed/TRS"
 releases = "F"
 
 [[agreements]]
 cop = "ROBEL"
 level = 110
 ades = ["EDDE", "EDBA", "EDGE", "EDOU"]
-fromSector = "ed/HEF"
-toSector = "ed/TRS"
+from_sector = "ed/HEF"
+to_sector = "ed/TRS"
 releases = "F"

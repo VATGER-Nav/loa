@@ -2,181 +2,181 @@
 cop = "BOGMU"
 level = 0
 ades = ["EDDH", "EDHI", "EDHL"]
-fromSector = "ed/EIDE"
-toSector = "ed/HAME"
+from_sector = "ed/EIDE"
+to_sector = "ed/HAME"
 
 [[agreements]]
 cop = "ELSOB"
 level = 0
 adep = ["EDHK", "ETNH"]
-fromSector = "ed/EIDE"
-toSector = "ed/ALR"
+from_sector = "ed/EIDE"
+to_sector = "ed/ALR"
 
 [[agreements]]
 cop = "DHE"
 level = 0
 adep = ["EDXW"]
-fromSector = "ed/EIDE"
-toSector = "ed/EIDW"
+from_sector = "ed/EIDE"
+to_sector = "ed/EIDW"
 
 [[agreements]]
 cop = "GOLEN"
 level = 0
 adep = ["EDXW"]
-fromSector = "ed/EIDE"
-toSector = "ed/EIDW"
+from_sector = "ed/EIDE"
+to_sector = "ed/EIDW"
 
 [[agreements]]
 cop = "LUGEG"
 level = 0
 adep = ["EDHK", "ETNH", "ETNS"]
-fromSector = "ed/EIDE"
-toSector = "ed/HEI"
+from_sector = "ed/EIDE"
+to_sector = "ed/HEI"
 
 [[agreements]]
 cop = "HAM"
 level = 0
 adep = ["EDHK", "ETNH", "ETNS"]
-fromSector = "ed/EIDE"
-toSector = "ed/HEI"
+from_sector = "ed/EIDE"
+to_sector = "ed/HEI"
 
 [[agreements]]
 cop = "DHE"
 level = 0
 ades = ["EDXW"]
-fromSector = "ed/EIDW"
-toSector = "ed/EIDE"
+from_sector = "ed/EIDW"
+to_sector = "ed/EIDE"
 
 [[agreements]]
 cop = "GOLEN"
 level = 0
 ades = ["EDXW"]
-fromSector = "ed/EIDW"
-toSector = "ed/EIDE"
+from_sector = "ed/EIDW"
+to_sector = "ed/EIDE"
 [[agreements]]
 cop = "DHE"
 level = 0
 ades = ["EDXF"]
-fromSector = "ed/EIDW"
-toSector = "ed/EIDE"
+from_sector = "ed/EIDW"
+to_sector = "ed/EIDE"
 
 [[agreements]]
 cop = "RIBSO"
 level = 0
 ades = ["EDDH", "EDHI"]
-fromSector = "ed/EIDW"
-toSector = "ed/HAMW"
+from_sector = "ed/EIDW"
+to_sector = "ed/HAMW"
 
 [[agreements]]
 cop = "KUCMI"
 level = 50
 adep = ["EDWE"]
 qnh = "EDWE"
-fromSector = "ed/EIDW"
-toSector = "ed/FRI"
+from_sector = "ed/EIDW"
+to_sector = "ed/FRI"
 
 [[agreements]]
 cop = "POBZU"
 level = 40
 adep = ["EDWI"]
 qnh = "EDWI"
-fromSector = "ed/EIDW"
-toSector = "ed/FRI"
+from_sector = "ed/EIDW"
+to_sector = "ed/FRI"
 
 [[agreements]]
 cop = "IGREF"
 level = 50
 adep = ["EDWI"]
 qnh = "EDWI"
-fromSector = "ed/EIDW"
-toSector = "ed/FRI"
+from_sector = "ed/EIDW"
+to_sector = "ed/FRI"
 
 [[agreements]]
 cop = "NDO"
 level = 0
 adep = ["ETMN", "ETNT"]
-fromSector = "ed/EIDW"
-toSector = "ed/FRI"
+from_sector = "ed/EIDW"
+to_sector = "ed/FRI"
 
 [[agreements]]
 cop = "WTM"
 level = 0
 adep = ["ETMN", "ETNT"]
-fromSector = "ed/EIDW"
-toSector = "ed/FRI"
+from_sector = "ed/EIDW"
+to_sector = "ed/FRI"
 
 [[agreements]]
 cop = "KUCMI"
 level = 50
 ades = ["EDWI", "EDWE"]
 qnh = "EDWI, EDWE"
-fromSector = "ed/FRI"
-toSector = "ed/EIDW"
+from_sector = "ed/FRI"
+to_sector = "ed/EIDW"
 
 [[agreements]]
 cop = "NDO"
 level = 0
 ades = ["ETMN", "ETNT"]
-fromSector = "ed/FRI"
-toSector = "ed/EIDW"
+from_sector = "ed/FRI"
+to_sector = "ed/EIDW"
 
 [[agreements]]
 cop = "WTM"
 level = 0
 ades = ["ETMN", "ETNT"]
-fromSector = "ed/FRI"
-toSector = "ed/EIDW"
+from_sector = "ed/FRI"
+to_sector = "ed/EIDW"
 
 [[agreements]]
 cop = "NIE"
 level = 0
 ades = ["EDDV", "ETNW", "ETHB", "ETHC"]
-fromSector = "ed/FRI"
-toSector = "ed/HAN"
+from_sector = "ed/FRI"
+to_sector = "ed/HAN"
 
 [[agreements]]
 cop = "GESTO"
 level = 100
 adep = ["EDDW"]
-transferType = "C"
-fromSector = "ed/FRI"
-toSector = "ed/ALR"
+transfer_type = "C"
+from_sector = "ed/FRI"
+to_sector = "ed/ALR"
 
 [[agreements]]
 cop = "WSN"
 level = 100
 adep = ["EDDW"]
-transferType = "C"
-fromSector = "ed/FRI"
-toSector = "ed/ALR"
+transfer_type = "C"
+from_sector = "ed/FRI"
+to_sector = "ed/ALR"
 
 [[agreements]]
 cop = "POBZU"
 level = 0
 adep = ["EDWE", "EDWF", "EDWI"]
-fromSector = "ed/FRI"
-toSector = "ed/ALR"
+from_sector = "ed/FRI"
+to_sector = "ed/ALR"
 
 [[agreements]]
 cop = "BASUM"
 level = 100
 adep = ["EDDW"]
-transferType = "C"
-fromSector = "ed/FRI"
-toSector = "ed/EMS"
+transfer_type = "C"
+from_sector = "ed/FRI"
+to_sector = "ed/EMS"
 
 [[agreements]]
 cop = "NIE"
 level = 100
 adep = ["EDDW"]
-transferType = "C"
-fromSector = "ed/FRI"
-toSector = "ed/EMS"
+transfer_type = "C"
+from_sector = "ed/FRI"
+to_sector = "ed/EMS"
 
 [[agreements]]
 cop = "ERLAD"
 level = 100
 adep = ["EDDW"]
-transferType = "C"
-fromSector = "ed/FRI"
-toSector = "ed/EMS"
+transfer_type = "C"
+from_sector = "ed/FRI"
+to_sector = "ed/EMS"

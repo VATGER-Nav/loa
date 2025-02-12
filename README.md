@@ -11,17 +11,20 @@ adep = string[] | null
 ades = string[] | null
 runway = string[] | null
 cop = string | null
-routeBefore = string | null
-routeAfter = string | null
+route_before = string | null
+route_after = string | null
 level = int | null
-transferType = "C" | "D" | null
+transfer_type = "C" | "D" | null
 sfl = int | null
-levelAt = [int, string] | null
+level_at = [int, string] | null
 qnh = string | null
 releases = "C" | "D" | "T" | "F" | null
 remarks = string | null
-fromSector = string
-toSector = string
+vertical = boolean | null
+remarks = string | null
+remarks = string | null
+from_sector = string
+to_sector = string
 ```
 
 ## `adep`
@@ -41,9 +44,9 @@ Active runway of one of the airports in `ades` or `adep`.
 ## `cop`
 
 Coordination point of the agreement, `null` if the agreement shall apply to any
-traffic from `fromSector` to `toSector`.
+traffic from `from_sector` to `to_sector`.
 
-## `routeBefore`/`routeAfter`
+## `route_before`/`route_after`
 
 Route elements prior to or after the `cop`. This can be an airway or IFPS compatible
 route elements: i.e. `"T161"`, `"KOSIX L986 MAG"`
@@ -53,7 +56,7 @@ route elements: i.e. `"T161"`, `"KOSIX L986 MAG"`
 Flight level at which the traffic is to be transferred. `null` for traffic that
 needs individual coordination.
 
-## `transferType`
+## `transfer_type`
 
 `"C"` for transfer of traffic climbing to the specified `level`, `"D"` for descending,
 `ǹull` for traffic to be at `level`.
@@ -61,9 +64,9 @@ needs individual coordination.
 ## `sfl`
 
 Supplementary flight level, the level out of which the traffic has to be climbing,
-descending. (`transferType`)
+descending. (`transfer_type`)
 
-## `levelAt`
+## `level_at`
 
 Additional specification for the location where the traffic has to meet the transfer
 conditions:
@@ -86,8 +89,8 @@ sfl = 120
 ades = ["LOWS"]
 transferType = "D"
 qnh = "EDDM"
-fromSector = "ed/DMSL"
-toSector = "lo/LOWS_APP"
+from_sector = "ed/DMSL"
+to_sector = "lo/LOWS_APP"
 ```
 
 ## `releases`
@@ -104,7 +107,11 @@ If traffic is:
 
 Further remarks for more specific releases or conditions.
 
-## `fromSector`/`toSector`
+## `vertical`
+
+Boolean value if the agreement specifies a silent vertical transfer.
+
+## `from_sector`/`to_sector`
 
 Sectors from and to which traffic is transferred, identified by vatglasses file
 and key `"file/ID"`, i.e. `"ed/ZUG"`.

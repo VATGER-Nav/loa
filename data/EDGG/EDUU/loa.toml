@@ -2,107 +2,123 @@
 cop = "NEGIX"
 level = 250
 adep = ["EDDK", "EDDG", "EDLN", "EDDL", "EDLW"]
-fromSector = "ed/SIG"
-toSector = "ed/FFM1"
+vertical = true
+from_sector = "ed/SIG"
+to_sector = "ed/FFM1"
 
 [[agreements]]
 cop = "TESGA"
 level = 250
 adep = ["EDDK", "EDDG", "EDLN", "EDDL", "EDLW"]
-fromSector = "ed/SIG"
-toSector = "ed/FFM1"
+vertical = true
+from_sector = "ed/SIG"
+to_sector = "ed/FFM1"
 
 [[agreements]]
 cop = "DODEN"
 level = 250
 adep = ["EDDL"]
-fromSector = "ed/TAU"
-toSector = "ed/FFM1"
+vertical = true
+from_sector = "ed/TAU"
+to_sector = "ed/FFM1"
 
 [[agreements]]
 cop = "GMH"
 level = 240
 adep = ["EDDG", "EDLV"]
-fromSector = "ed/PADH"
-toSector = "ed/FFM1"
+vertical = true
+from_sector = "ed/PADH"
+to_sector = "ed/FFM1"
 
 [[agreements]]
 cop = "MARUN"
 level = 240
 adep = ["EDDF"]
-fromSector = "ed/GIN"
-toSector = "ed/FFM1"
+vertical = true
+from_sector = "ed/GIN"
+to_sector = "ed/FFM1"
 remarks = "only flights routing via Y150/Y153 to the North"
 
 [[agreements]]
 cop = "SWALM"
 level = 240
 adep = ["EDDF"]
-fromSector = "ed/HEF"
-toSector = "ed/FUL1"
+vertical = true
+from_sector = "ed/HEF"
+to_sector = "ed/FUL1"
 
 [[agreements]]
 cop = "RUDOT"
 level = 240
 adep = ["EDDF"]
-fromSector = "ed/KIR"
-toSector = "ed/NTM1"
+vertical = true
+from_sector = "ed/KIR"
+to_sector = "ed/NTM1"
 
 [[agreements]]
 cop = "LAMPU"
 level = 240
 adep = ["EDDF"]
-fromSector = "ed/DKB"
-toSector = "ed/WUR1"
+vertical = true
+from_sector = "ed/DKB"
+to_sector = "ed/WUR1"
 
 [[agreements]]
 cop = "RIMKI"
 level = 240
 adep = ["EDDS"]
-fromSector = "ed/DKB"
-toSector = "ed/WUR1"
+vertical = true
+from_sector = "ed/DKB"
+to_sector = "ed/WUR1"
 
 [[agreements]]
 cop = "TAGIK"
 level = 240
 adep = ["EDDS"]
-fromSector = "ed/NKRH"
-toSector = "ed/SLN1"
+vertical = true
+from_sector = "ed/NKRH"
+to_sector = "ed/SLN1"
 
 [[agreements]]
 cop = "HERBI"
 level = 240
 adep = ["EDDF"]
-fromSector = "ed/NKRH"
-toSector = "ed/SLN1"
+vertical = true
+from_sector = "ed/NKRH"
+to_sector = "ed/SLN1"
 remarks = "Flights are approved to cross BAD FL200+, Langen may clear flights direct LUTIX,\nTRA and DITON, all to stay west of TRA and clear of LFEE"
 
 [[agreements]]
 cop = "BADLI"
 level = 240
 adep = ["EDFH"]
-fromSector = "ed/PFA"
-toSector = "ed/SLN1"
+vertical = true
+from_sector = "ed/PFA"
+to_sector = "ed/SLN1"
 
 [[agreements]]
 cop = "LBU"
 level = 230
 adep = ["EDSB"]
-fromSector = "ed/LBU"
-toSector = "ed/TGO1"
+vertical = true
+from_sector = "ed/LBU"
+to_sector = "ed/TGO1"
 
 [[agreements]]
 cop = "GUPIN"
 level = 230
 adep = ["EDDN"]
-fromSector = "ed/LBU"
-toSector = "ed/TGO1"
-remarks = "released; May be transferred directly from DKB to EDUU"
+vertical = true
+releases = "F"
+from_sector = "ed/LBU"
+to_sector = "ed/TGO1"
+remarks = "May be transferred directly from DKB to EDUU"
 
 [[agreements]]
 cop = "MINGA"
 level = 230
 adep = ["EDNY"]
-fromSector = "ed/BAD"
-toSector = "ed/TGO1"
+vertical = true
+from_sector = "ed/BAD"
+to_sector = "ed/TGO1"
 remarks = "May be transferred directly from LSAS to EDUU"

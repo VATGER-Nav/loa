@@ -2,19 +2,19 @@
 cop = "GUPIN"
 level = 170
 ades = ["EDJA", "EDNY", "EDMA", "EDMO", "ETSI", "ETSN", "ETSL"]
-fromSector = "ed/LBU"
-toSector = "ed/NDG"
+from_sector = "ed/LBU"
+to_sector = "ed/NDG"
 
 [[agreements]]
 cop = "GUPIN"
 level = 230
 adep = ["EDDR", "EDRZ", "EDSB"]
-fromSector = "ed/LBU"
-toSector = "ed/NDG"
+from_sector = "ed/LBU"
+to_sector = "ed/NDG"
 
 [[agreements]]
 cop = "GUPIN"
 level = 210
 ades = ["EDDM", "EDME", "EDMS"]
-fromSector = "ed/LBU"
-toSector = "ed/NDG"
+from_sector = "ed/LBU"
+to_sector = "ed/NDG"

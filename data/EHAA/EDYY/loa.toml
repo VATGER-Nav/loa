@@ -2,63 +2,63 @@
 cop = "NAPRO"
 level = 250
 adep = ["EH*"]
-transferType = "C"
+transfer_type = "C"
 releases = "C"
-fromSector = "eh/EHAE"
-toSector = "ed/RL"
+from_sector = "eh/EHAE"
+to_sector = "ed/RL"
 remarks = "Note: Flights with RFL 250+ should must the following conditions:DEPAD at or above FL210 AMOSU at or above FL250"
 
 [[agreements]]
 cop = "SONEB"
 level = 250
 adep = ["EH*"]
-transferType = "C"
+transfer_type = "C"
 releases = "C"
-fromSector = "eh/EHAE"
-toSector = "ed/ML"
+from_sector = "eh/EHAE"
+to_sector = "ed/ML"
 remarks = "Note: Flights with RFL 250+ should must the following conditions: SONEB at or above FL210 OLDOD at or above FL250"
 
 [[agreements]]
 cop = "ODASI"
 level = 250
 adep = ["EHAM"]
-transferType = "C"
+transfer_type = "C"
 releases = "C"
-fromSector = "eh/EHAE"
-toSector = "ed/JL"
+from_sector = "eh/EHAE"
+to_sector = "ed/JL"
 
 [[agreements]]
 cop = "BEDUM"
 level = 250
 adep = ["EHAM", "EHRD"]
-transferType = "C"
+transfer_type = "C"
 releases = "C"
-fromSector = "eh/EHAE"
-toSector = "ed/JL"
+from_sector = "eh/EHAE"
+to_sector = "ed/JL"
 
 [[agreements]]
 cop = "EEL"
 level = 250
 adep = ["EHAM", "EHRD"]
-transferType = "C"
+transfer_type = "C"
 releases = "C"
-fromSector = "eh/EHAE"
-toSector = "ed/JL"
+from_sector = "eh/EHAE"
+to_sector = "ed/JL"
 
 [[agreements]]
 cop = "AGISU"
 level = 250
 adep = ["EHAM"]
-transferType = "C"
+transfer_type = "C"
 releases = "C"
-fromSector = "eh/EHAE"
-toSector = "ed/JL"
+from_sector = "eh/EHAE"
+to_sector = "ed/JL"
 
 [[agreements]]
 cop = "KONOM"
 level = 250
 adep = ["EHAM"]
-transferType = "C"
+transfer_type = "C"
 releases = "C"
-fromSector = "eh/EHAE"
-toSector = "ed/JL"
+from_sector = "eh/EHAE"
+to_sector = "ed/JL"

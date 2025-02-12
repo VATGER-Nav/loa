@@ -3,15 +3,15 @@
 cop = "KUNOD"
 level = 280
 ades = ["LFST", "LFGA", "LFSB", "LFJL"]
-fromSector = "ed/FUE"
-toSector = "ed/TGO1"
+from_sector = "ed/FUE"
+to_sector = "ed/TGO1"
 
 [[agreements]]
 cop = "PELOG"
 level = 260
 adep = ["EDDM"]
-fromSector = "ed/FUE"
-toSector = "ed/TGO1"
+from_sector = "ed/FUE"
+to_sector = "ed/TGO1"
 remarks = "may transfer at higher FL, whenever possible"
 
 [[agreements]]
@@ -19,16 +19,16 @@ cop = "KPT"
 level = 310
 vertical = true
 adep = ["LOWI", "LOWS", "LIPB"]
-fromSector = "ed/FUE"
-toSector = "ed/ALP1"
+from_sector = "ed/FUE"
+to_sector = "ed/ALP1"
 
 [[agreements]]
 cop = "BEMKI"
 level = 310
 vertical = true
 adep = ["EDDS", "ETAR", "EDSB", "LFST"]
-fromSector = "ed/FUE"
-toSector = "ed/ALP1"
+from_sector = "ed/FUE"
+to_sector = "ed/ALP1"
 
 # ZUG
 [[agreements]]
@@ -36,16 +36,16 @@ cop = "XEBIX"
 level = 310
 vertical = true
 adep = ["EDDS"]
-fromSector = "ed/ZUG"
-toSector = "ed/ALP1"
+from_sector = "ed/ZUG"
+to_sector = "ed/ALP1"
 
 [[agreements]]
 cop = "MADEB"
 level = 310
 vertical = true
 adep = ["EDDS", "ETAR", "EDSB", "LFST", "LFSB", "LSZB", "LSZC", "LSZG", "LSZS", "LSMA", "LSME"]
-fromSector = "ed/ZUG"
-toSector = "ed/ALP1"
+from_sector = "ed/ZUG"
+to_sector = "ed/ALP1"
 
 # STA
 [[agreements]]
@@ -53,24 +53,24 @@ cop = "KOGOL"
 level = 310
 vertical = true
 adep = ["LIPB"]
-fromSector = "ed/STA"
-toSector = "ed/CHI1"
+from_sector = "ed/STA"
+to_sector = "ed/CHI1"
 
 [[agreements]]
 cop = "KONIN"
 level = 310
 vertical = true
 adep = ["LOWL"]
-fromSector = "ed/STA"
-toSector = "ed/CHI1"
+from_sector = "ed/STA"
+to_sector = "ed/CHI1"
 
 [[agreements]]
 cop = "SUGIB"
 level = 310
 vertical = true
 adep = ["LSZH"]
-fromSector = "ed/STA"
-toSector = "ed/ALP1"
+from_sector = "ed/STA"
+to_sector = "ed/ALP1"
 
 # TEG
 [[agreements]]
@@ -78,16 +78,16 @@ cop = "MANAL"
 level = 310
 vertical = true
 adep = ["EDDS", "EDDN", "EDTY", "EDQD", "EDQM", "EDQC", "EDQK", "EDQT", "EDQG", "EDQA"]
-fromSector = "ed/TEG"
-toSector = "ed/CHI1"
+from_sector = "ed/TEG"
+to_sector = "ed/CHI1"
 
 [[agreements]]
 cop = "TUNUM"
 level = 310
 vertical = true
 adep = ["LSZH"]
-fromSector = "ed/TEG"
-toSector = "ed/ALP1"
+from_sector = "ed/TEG"
+to_sector = "ed/ALP1"
 
 # TRU
 [[agreements]]
@@ -95,29 +95,29 @@ cop = "TAKEX"
 level = 310
 vertical = true
 adep = ["EDDS", "EDDN", "EDTY", "EDQD", "EDQM", "EDQC", "EDQK", "EDQT", "EDQG", "EDQA"]
-fromSector = "ed/TRU"
-toSector = "ed/CHI1"
+from_sector = "ed/TRU"
+to_sector = "ed/CHI1"
 
 [[agreements]]
 cop = "ZUREX"
 level = 310
 vertical = true
 adep = ["LSZH", "EDNY", "LSZR", "EDJA"]
-fromSector = "ed/TRU"
-toSector = "ed/CHI1"
+from_sector = "ed/TRU"
+to_sector = "ed/CHI1"
 
 [[agreements]]
 cop = "ATLOL"
 level = 310
 vertical = true
 adep = ["LSZH", "EDNY", "LSZR", "EDJA"]
-fromSector = "ed/TRU"
-toSector = "ed/CHI1"
+from_sector = "ed/TRU"
+to_sector = "ed/CHI1"
 
 [[agreements]]
 cop = "ROTAX"
 level = 310
 vertical = true
 adep = ["EDDS", "EDDN", "EDTY", "EDQD", "EDQM", "EDQC", "EDQK", "EDQT", "EDQG", "EDQA"]
-fromSector = "ed/TRU"
-toSector = "ed/CHI1"
+from_sector = "ed/TRU"
+to_sector = "ed/CHI1"

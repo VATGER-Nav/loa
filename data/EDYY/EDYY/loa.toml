@@ -1,90 +1,90 @@
 [[agreements]]
 level = 330
 ades = ["EDDC", "EDDP EDDN", "EDAB", "EDAC", "EDQ*", "ETIC"]
-fromSector = "ed/CL"
-toSector = "ed/SL"
+from_sector = "ed/CL"
+to_sector = "ed/SL"
 
 [[agreements]]
 level = 320
 ades = ["EDDK"]
-fromSector = "ed/CL"
-toSector = "ed/SL"
+from_sector = "ed/CL"
+to_sector = "ed/SL"
 
 [[agreements]]
 level = 300
 ades = ["EDDR", "EDFH", "EDFM", "EDFV", "EDGS", "EDRY", "EDRZ", "ETAR"]
-fromSector = "ed/CL"
-toSector = "ed/SL"
+from_sector = "ed/CL"
+to_sector = "ed/SL"
 
 [[agreements]]
 level = 320
 ades = ["EDDL", "EDDG", "EDLA", "EDLD", "EDLW", "EDLV", "ETNG", "EHTW", "EHBD", "EHEH", "EHBK"]
-fromSector = "ed/HL"
-toSector = "ed/CL"
+from_sector = "ed/HL"
+to_sector = "ed/CL"
 
 [[agreements]]
 level = 320
 ades = ["EDDL", "EDDG", "EDLA", "EDLD", "EDLW", "EDLV", "ETNG", "EHTW", "EHBD", "EHEH", "EHBK"]
-fromSector = "ed/HL"
-toSector = "ed/CL"
+from_sector = "ed/HL"
+to_sector = "ed/CL"
 
 [[agreements]]
 level = 320
 ades = ["EDDB", "EDDP", "EDAE", "EDAV", "EDAY", "EDAZ", "EDBW", "EDON", "EDBC"]
-fromSector = "ed/HL"
-toSector = "ed/CL"
+from_sector = "ed/HL"
+to_sector = "ed/CL"
 
 [[agreements]]
 level = 330
 ades = ["EDVK", "EDLP", "EDFQ"]
-fromSector = "ed/HL"
-toSector = "ed/CL"
+from_sector = "ed/HL"
+to_sector = "ed/CL"
 
 [[agreements]]
 level = 320
 ades = ["EDDG", "EDLW", "EDLA"]
-fromSector = "ed/HL"
-toSector = "ed/ML"
+from_sector = "ed/HL"
+to_sector = "ed/ML"
 remarks = "Or Below"
 
 [[agreements]]
 level = 350
 ades = ["EDDC", "EDDP EDDN", "EDAB", "EDAC", "EDQ*", "ETIC"]
-fromSector = "ed/ML"
-toSector = "ed/CL"
+from_sector = "ed/ML"
+to_sector = "ed/CL"
 
 [[agreements]]
 level = 350
 ades = ["EDDC", "EDDP EDDN", "EDAB", "EDAC", "EDQ*", "ETIC"]
-fromSector = "ed/ML"
-toSector = "ed/SL"
+from_sector = "ed/ML"
+to_sector = "ed/SL"
 
 [[agreements]]
 level = 330
 ades = ["EDDV", "EDDW", "EDVK", "EDWE", "EDWF", "EDWI", "ETND", "ETNW"]
-fromSector = "ed/RL"
-toSector = "ed/ML"
+from_sector = "ed/RL"
+to_sector = "ed/ML"
 
 [[agreements]]
 level = 280
 ades = ["EBBR", "EBAW", "EBCI", "EBCV", "EBLG", "EBMB", "ELLX"]
-fromSector = "ed/ML"
-toSector = "ed/RL"
+from_sector = "ed/ML"
+to_sector = "ed/RL"
 
 [[agreements]]
 level = 330
 ades = ["EDDH", "EDHI", "EDHK", "EDHL", "EDXR"]
-fromSector = "ed/SL"
-toSector = "ed/CL"
+from_sector = "ed/SL"
+to_sector = "ed/CL"
 
 [[agreements]]
 level = 340
 ades = ["EBBR", "EBAW", "EBCI", "EBCV", "EBLG", "EBMB", "ELLX"]
-fromSector = "ed/SL"
-toSector = "ed/ML"
+from_sector = "ed/SL"
+to_sector = "ed/ML"
 
 [[agreements]]
 level = 280
 ades = ["EHBK", "EHEH", "EHTE", "EHBD", "EHLE"]
-fromSector = "ed/SL"
-toSector = "ed/ML"
+from_sector = "ed/SL"
+to_sector = "ed/ML"

@@ -2,54 +2,54 @@
 cop = "SONEB"
 level = 210
 ades = ["EDDK", "EDLP", "EDLW"]
-fromSector = "eh/EHAAE"
-toSector = "ed/HMM"
+from_sector = "eh/EHAAE"
+to_sector = "ed/HMM"
 remarks = "released to FL180"
 
 [[agreements]]
 cop = "SONEB"
 level = 110
 ades = ["EDDG"]
-fromSector = "eh/EHAAE"
-toSector = "ed/BOT"
+from_sector = "eh/EHAAE"
+to_sector = "ed/BOT"
 remarks = "Released for descend and turns"
 
 [[agreements]]
 cop = "TEBRO"
 level = 170
 ades = ["EDDL", "EDLN", "EDLV", "ETNG", "ETNN"]
-fromSector = "eh/EHAAE"
-toSector = "ed/BOT"
+from_sector = "eh/EHAAE"
+to_sector = "ed/BOT"
 remarks = "Released for descend and turns"
 
 [[agreements]]
 cop = "TEBRO"
 level = 210
 ades = ["ETAD", "ETOU"]
-fromSector = "eh/EHAAE"
-toSector = "ed/BOT"
-remarks = "Released for turns"
+releases = "T"
+from_sector = "eh/EHAAE"
+to_sector = "ed/BOT"
 
 [[agreements]]
 cop = "NVO"
 level = 60
 ades = ["EDDK"]
-fromSector = "eh/EHBK"
-toSector = "ed/DKA"
+from_sector = "eh/EHBK"
+to_sector = "ed/DKA"
 remarks = "ADEP EHBK via ELBED released for climb"
 
 [[agreements]]
 cop = "VELNI"
 level = 160
 adep = ["EHEH"]
-fromSector = "eh/EHMC"
-toSector = "ed/BOT"
-remarks = "Released for climb"
+releases = "C"
+from_sector = "eh/EHMC"
+to_sector = "ed/BOT"
 
 [[agreements]]
 cop = "PIMIP"
 level = 60
 adep = ["EHBK"]
-fromSector = "eh/EHBK"
-toSector = "ed/BOT"
-remarks = "Released for climb"
+releases = "C"
+from_sector = "eh/EHBK"
+to_sector = "ed/BOT"

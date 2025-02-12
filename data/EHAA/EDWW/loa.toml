@@ -2,19 +2,19 @@
 cop = "TEMLU"
 level = 60
 ades = ["EHGG"]
-fromSector = "eh/EHGG APP"
-toSector = "ed/EIDW"
+from_sector = "eh/EHGG APP"
+to_sector = "ed/EIDW"
 
 [[agreements]]
 cop = "OLWOF"
 level = 60
 ades = ["EHGG"]
-fromSector = "eh/EHGG APP"
-toSector = "ed/EIDW"
+from_sector = "eh/EHGG APP"
+to_sector = "ed/EIDW"
 
 [[agreements]]
 cop = "DOBAK"
 level = 60
 ades = ["EHGG"]
-fromSector = "eh/EHGG APP"
-toSector = "ed/FRI"
+from_sector = "eh/EHGG APP"
+to_sector = "ed/FRI"

@@ -2,41 +2,41 @@
 cop = "BAKLI"
 level = 100
 ades = ["ESMS", "EKCH", "EKRK"]
-transferType = "D"
+transfer_type = "D"
 sfl = 160
 releases = "T"
-fromSector = "ed/MRZ"
-toSector = "es/ESML"
+from_sector = "ed/MRZ"
+to_sector = "es/ESML"
 
 [[agreements]]
 cop = "DETNI"
 level = 100
 ades = ["EKRN"]
-transferType = "D"
+transfer_type = "D"
 releases = "T"
-fromSector = "ed/MRZ"
-toSector = "es/ESML"
+from_sector = "ed/MRZ"
+to_sector = "es/ESML"
 
 [[agreements]]
 cop = "BAKLI"
 level = 280
 adep = ["EDAH", "EDBH", "EDOP", "ETNL"]
 releases = "T"
-fromSector = "ed/MRZ"
-toSector = "es/ESML"
+from_sector = "ed/MRZ"
+to_sector = "es/ESML"
 
 [[agreements]]
 cop = "SALLO"
 level = 280
 adep = ["EDAH", "EDBH", "EDOP", "ETNL"]
 releases = "T"
-fromSector = "ed/MRZ"
-toSector = "es/ESML"
+from_sector = "ed/MRZ"
+to_sector = "es/ESML"
 
 [[agreements]]
 cop = "DETNI"
 level = 270
 ades = ["EDAH", "EDBH", "EDOP", "ETNL"]
 releases = "T"
-fromSector = "ed/MRZ"
-toSector = "es/ESML"
+from_sector = "ed/MRZ"
+to_sector = "es/ESML"

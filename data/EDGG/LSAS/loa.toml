@@ -2,90 +2,90 @@
 cop = "NATOR"
 level = 190
 adep = ["LFST", "LFGA", "LFJL", "EDTL"]
-fromSector = "ed/BAD"
-toSector = "ls/SZN"
+from_sector = "ed/BAD"
+to_sector = "ls/SZN"
 remarks = "released for climb FL240 (remain clear of EDUU) South of HERBI; flights may be cleared DCT LUTIX/ROTOS when passing or remaining West of TRA"
 
 [[agreements]]
 cop = "NATOR"
 level = 240
 adep = ["EDDS", "EDSB"]
-fromSector = "ed/BAD"
-toSector = "ls/SZN"
+from_sector = "ed/BAD"
+to_sector = "ls/SZN"
 remarks = "flights may be cleared DCT LUTIX/ROTOS/TRA/WIL when passing or remaining West of TRA"
 
 [[agreements]]
 cop = "MOPAN"
 level = 150
 ades = [""]
-fromSector = "ed/BAD"
-toSector = "ls/LSASZ"
+from_sector = "ed/BAD"
+to_sector = "ls/LSASZ"
 remarks = "or higher (odd levels); flights may be cleared DCT LUTIX/ROTOS when passing or remaining West of TRA"
 
 [[agreements]]
 cop = "NATOR"
 level = 180
 ades = ["LSZH", "LSMD"]
-fromSector = "ed/BAD"
-toSector = "ls/SZN"
+from_sector = "ed/BAD"
+to_sector = "ls/SZN"
 remarks = "flights may be cleared DCT RILAX; EDGG shall ensure separation between arrivals via NATOR, IBINI, and EMKIL; in case of subsequent arrivals, higher FL (odd/even) may be used; flights shall be transferred to LSAS at SUL or as soon as possible; released in SULZ area (descent not below FL130)"
 
 [[agreements]]
 cop = "IBINI"
 level = 180
 ades = ["LSZH", "LSMD"]
-fromSector = "ed/BAD"
-toSector = "ls/SZN"
+from_sector = "ed/BAD"
+to_sector = "ls/SZN"
 remarks = "flights may be cleared DCT RILAX; EDGG shall ensure separation between arrivals via NATOR, IBINI, and EMKIL; in case of subsequent arrivals, higher FL (odd/even) may be used; flights shall be transferred to LSAS at SUL or as soon as possible; released in SULZ area (descent not below FL130)"
 
 [[agreements]]
 cop = "EMKIL"
 level = 180
 ades = ["LSZH", "LSMD"]
-fromSector = "ed/BAD"
-toSector = "ls/SZN"
+from_sector = "ed/BAD"
+to_sector = "ls/SZN"
 remarks = "flights may be cleared DCT RILAX; EDGG shall ensure separation between arrivals via NATOR, IBINI, and EMKIL; in case of subsequent arrivals, higher FL (odd/even) may be used; flights shall be transferred to LSAS at SUL or as soon as possible; released in SULZ area (descent not below FL130)"
 
 [[agreements]]
 cop = "EMKIL"
 level = 150
 ades = ["EDNY", "LSZR"]
-fromSector = "ed/BAD"
-toSector = "ls/SZN"
+from_sector = "ed/BAD"
+to_sector = "ls/SZN"
 
 [[agreements]]
 cop = "NATOR"
 level = 150
 ades = ["EDNY", "LSZR"]
-fromSector = "ed/BAD"
-toSector = "ls/SZN"
+from_sector = "ed/BAD"
+to_sector = "ls/SZN"
 
 [[agreements]]
 cop = "LOKTA"
 level = 150
 ades = ["EDNY", "LSZR"]
-fromSector = "ed/BAD"
-toSector = "ls/SZE"
+from_sector = "ed/BAD"
+to_sector = "ls/SZE"
 remarks = "flights may be cleared DCT ARFAS"
 
 [[agreements]]
 cop = "EMKIL"
 level = 90
 ades = ["EDTD"]
-fromSector = "ed/REU"
-toSector = "ls/ZAE"
+from_sector = "ed/REU"
+to_sector = "ls/ZAE"
 
 [[agreements]]
 cop = "NATOR"
 level = 90
 ades = ["EDTD"]
-fromSector = "ed/REU"
-toSector = "ls/ZAE"
+from_sector = "ed/REU"
+to_sector = "ls/ZAE"
 
 [[agreements]]
 cop = "ARSUT"
 level = 90
 ades = ["EDTM"]
-fromSector = "ed/REU"
-toSector = "ls/ARFA"
+from_sector = "ed/REU"
+to_sector = "ls/ARFA"
 

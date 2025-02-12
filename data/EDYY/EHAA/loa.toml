@@ -2,24 +2,24 @@
 cop = "EEL"
 level = 260
 ades = ["EHAM", "EHRD", "EHEH", "EH*"]
-levelAt = [0, "EEL"]
-fromSector = "ed/JL"
-toSector = "eh/EHAE"
+level_at = [0, "EEL"]
+from_sector = "ed/JL"
+to_sector = "eh/EHAE"
 
 [[agreements]]
 cop = "RKN"
 level = 260
 ades = ["EHAA", "EH*"]
-levelAt = [0, "RKN"]
+level_at = [0, "RKN"]
 releases = "F"
-fromSector = "ed/ML"
-toSector = "eh/EHAAE"
+from_sector = "ed/ML"
+to_sector = "eh/EHAAE"
 
 [[agreements]]
 cop = "NORKU"
 level = 260
 ades = ["EHAM"]
-levelAt = [0, "RKN"]
+level_at = [0, "RKN"]
 releases = "F"
-fromSector = "ed/ML"
-toSector = "eh/EHAAE"
+from_sector = "ed/ML"
+to_sector = "eh/EHAAE"

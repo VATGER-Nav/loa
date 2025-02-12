@@ -3,86 +3,86 @@
 cop = "UMTEX"
 level = 310
 adep = ["EDDM"]
-fromSector = "ed/FUE"
-toSector = "ls/SZU"
+from_sector = "ed/FUE"
+to_sector = "ls/SZU"
 remarks = "released direct TRA"
 
 [[agreements]]
 cop = "UMTEX"
 level = 160
 adep = ["EDDM"]
-transferType = "C"
-fromSector = "ed/FUE"
-toSector = "ls/SZE"
+transfer_type = "C"
+from_sector = "ed/FUE"
+to_sector = "ls/SZE"
 remarks = "released climbing FL240 in RAVED AREA"
 
 [[agreements]]
 cop = "RAVED"
 level = 310
 adep = ["EDMA", "ETSI", "LOWI"]
-fromSector = "ed/FUE"
-toSector = "ls/SZU"
+from_sector = "ed/FUE"
+to_sector = "ls/SZU"
 remarks = "released direct TRA"
 
 [[agreements]]
 cop = "RAVED"
 level = 280
 ades = ["LSZB", "LSZC", "LSZG", "LSGC", "LSMA", "LSME", "LSMM", "LSMP", "EDTG"]
-fromSector = "ed/FUE"
-toSector = "ls/SZU"
+from_sector = "ed/FUE"
+to_sector = "ls/SZU"
 
 [[agreements]]
 cop = "RAVED"
 level = 260
 adep = ["EDMO"]
-fromSector = "ed/FUE"
-toSector = "ls/SZU"
+from_sector = "ed/FUE"
+to_sector = "ls/SZU"
 
 [[agreements]]
 cop = "RAVED"
 level = 240
 adep = ["EDDM"]
-fromSector = "ed/FUE"
-toSector = "ls/SZE"
+from_sector = "ed/FUE"
+to_sector = "ls/SZE"
 
 [[agreements]]
 cop = "RAVED"
 level = 240
 ades = ["EDDS", "EDSB", "EDFM", "EDTD", "EDRY", "EDTL", "ETAR", "LFST", "LSZS"]
-fromSector = "ed/FUE"
-toSector = "ls/SZE"
+from_sector = "ed/FUE"
+to_sector = "ls/SZE"
 
 [[agreements]]
 cop = "RAVED"
 level = 200
 ades = ["LSZH", "LSMD"]
-fromSector = "ed/FUE"
-toSector = "ls/SZE"
+from_sector = "ed/FUE"
+to_sector = "ls/SZE"
 
 [[agreements]]
 cop = "RAVED"
 level = 160
 adep = ["EDJA"]
-transferType = "C"
-fromSector = "ed/FUE"
-toSector = "ls/SZE"
+transfer_type = "C"
+from_sector = "ed/FUE"
+to_sector = "ls/SZE"
 remarks = "released climbing FL240 in RAVED AREA"
 
 [[agreements]]
 cop = "RAVED"
 level = 100
 ades = ["EDTM"]
-fromSector = "ed/FUE"
-toSector = "ls/ARFA"
+from_sector = "ed/FUE"
+to_sector = "ls/ARFA"
 
 [[agreements]]
 cop = "KPT"
 level = 80
 sfl = 100
 ades = ["EDNY", "LSZR"]
-transferType = "D"
-fromSector = "ed/FUE"
-toSector = "ls/ARFA"
+transfer_type = "D"
+from_sector = "ed/FUE"
+to_sector = "ls/ARFA"
 remarks = "Clear STAR, released for descent and left turn"
 
 # ZUG
@@ -90,5 +90,5 @@ remarks = "Clear STAR, released for descent and left turn"
 cop = "TIRUL"
 level = 190
 ades = ["LSZS"]
-fromSector = "ed/ZUG"
-toSector = "ls/SZS"
+from_sector = "ed/ZUG"
+to_sector = "ls/SZS"

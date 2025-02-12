@@ -2,40 +2,40 @@
 cop = "BRENO"
 level = 360
 ades = ["EDSB"]
-fromSector = "li/LIPP-NE6"
-toSector = "ed/ALP2"
+from_sector = "li/LIPP-NE6"
+to_sector = "ed/ALP2"
 
 [[agreements]]
 cop = "UNIMI"
 level = 360
 ades = ["EDSB", "LFSB"]
-fromSector = "li/LIPP-NE6"
-toSector = "ed/ALP2"
+from_sector = "li/LIPP-NE6"
+to_sector = "ed/ALP2"
 
 [[agreements]]
 cop = "SOTOV"
 level = 360
 ades = ["EDSB", "LFSB"]
-fromSector = "li/LIPP-NE6"
-toSector = "ed/ALP2"
+from_sector = "li/LIPP-NE6"
+to_sector = "ed/ALP2"
 
 [[agreements]]
 cop = "BRENO"
 level = 340
 ades = ["EDDS", "EDTY"]
-fromSector = "li/LIPP-NE6"
-toSector = "ed/ALP1"
+from_sector = "li/LIPP-NE6"
+to_sector = "ed/ALP1"
 
 [[agreements]]
 cop = "UNIMI"
 level = 340
 ades = ["EDDS"]
-fromSector = "li/LIPP-NE6"
-toSector = "ed/ALP1"
+from_sector = "li/LIPP-NE6"
+to_sector = "ed/ALP1"
 
 [[agreements]]
 cop = "SOTOV"
 level = 340
 ades = ["EDDS"]
-fromSector = "li/LIPP-NE6"
-toSector = "ed/ALP1"
+from_sector = "li/LIPP-NE6"
+to_sector = "ed/ALP1"

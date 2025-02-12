@@ -2,42 +2,42 @@
 cop = "EEL"
 level = 180
 ades = ["EHLE"]
-transferType = "D"
-fromSector = "ed/EIDW"
-toSector = "eh/EHAE"
+transfer_type = "D"
+from_sector = "ed/EIDW"
+to_sector = "eh/EHAE"
 
 [[agreements]]
 cop = "EEL"
 level = 180
 ades = ["EHLE"]
-transferType = "D"
-fromSector = "ed/FRI"
-toSector = "eh/EHAE"
+transfer_type = "D"
+from_sector = "ed/FRI"
+to_sector = "eh/EHAE"
 
 [[agreements]]
 cop = "TEMLU"
 level = 70
 ades = ["EHGG"]
-fromSector = "ed/EIDW"
-toSector = "eh/EHGG APP"
+from_sector = "ed/EIDW"
+to_sector = "eh/EHGG APP"
 
 [[agreements]]
 cop = "OLWOF"
 level = 70
 ades = ["EHGG"]
-fromSector = "ed/EIDW"
-toSector = "eh/EHGG APP"
+from_sector = "ed/EIDW"
+to_sector = "eh/EHGG APP"
 
 [[agreements]]
 cop = "KUBAT"
 level = 70
 ades = ["EHGG"]
-fromSector = "ed/EIDW"
-toSector = "eh/EHGG APP"
+from_sector = "ed/EIDW"
+to_sector = "eh/EHGG APP"
 
 [[agreements]]
 cop = "DOBAK"
 level = 70
 ades = ["EHGG"]
-fromSector = "ed/FRI"
-toSector = "eh/EHGG APP"
+from_sector = "ed/FRI"
+to_sector = "eh/EHGG APP"

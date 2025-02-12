@@ -2,55 +2,55 @@
 cop = "NIKDA"
 level = 200
 ades = ["EKCH", "EKRK"]
-fromSector = "ed/MRZ"
-toSector = "ek/EKDB"
+from_sector = "ed/MRZ"
+to_sector = "ek/EKDB"
 remarks = "TFC may be cleared DCT MONAK"
 
 [[agreements]]
 cop = "KOSEB"
 level = 200
 ades = ["EKCH", "EKRK"]
-fromSector = "ed/MRZ"
-toSector = "ek/EKDB"
+from_sector = "ed/MRZ"
+to_sector = "ek/EKDB"
 remarks = "TFC may be cleared DCT MONAK"
 
 [[agreements]]
 cop = "ATTUS"
 level = 170
 ades = ["EKBI", "EKEB", "EKSP"]
-fromSector = "ed/EIDE"
-toSector = "ek/EKDD"
+from_sector = "ed/EIDE"
+to_sector = "ek/EKDD"
 remarks = "EKBI Inbounds are released direct LOKSA RWY 27 or GELBA RWY 09"
 
 [[agreements]]
 cop = "ALS"
 level = 170
 ades = ["EKBI", "EKEB", "EKSP"]
-fromSector = "ed/EIDE"
-toSector = "ek/EKDD"
+from_sector = "ed/EIDE"
+to_sector = "ek/EKDD"
 remarks = "EKBI Inbounds are released direct LOKSA RWY 27 or GELBA RWY 09"
 
 [[agreements]]
 cop = "TUSKA"
 level = 170
 ades = ["EKBI", "EKEB", "EKSP"]
-fromSector = "ed/EIDW"
-toSector = "ek/EKDS"
+from_sector = "ed/EIDW"
+to_sector = "ek/EKDS"
 remarks = "EKBI Inbounds are released direct LOKSA RWY 27 or GELBA RWY 09"
 
 [[agreements]]
 cop = "ALS"
 level = 70
 ades = ["EKSB"]
-transferType = "D"
-fromSector = "ed/EIDE"
-toSector = "ek/EKDD"
+transfer_type = "D"
+from_sector = "ed/EIDE"
+to_sector = "ek/EKDD"
 releases = "D"
 
 [[agreements]]
 cop = "ATTUS, DOSUR, ALS"
 level = 60
 adep = ["EDXW", "EDXF", "EDHK", "ETNS", "ETNH"]
-fromSector = "ed/EIDE"
-toSector = "ek/EKDD/E"
+from_sector = "ed/EIDE"
+to_sector = "ek/EKDD/E"
 remarks = "Coordinate a higher FL with EKDK. MAX FL240"

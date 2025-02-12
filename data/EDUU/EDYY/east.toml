@@ -2,113 +2,113 @@
 [[agreements]]
 cop = "BUMIL"
 adep = ["EDDB"]
-fromSector = "ed/OSE1"
-toSector = "ed/CEL"
+from_sector = "ed/OSE1"
+to_sector = "ed/CEL"
 remarks = "ANY EVEN FL, released for climb FL360 and left turns"
 
 [[agreements]]
 cop = "NEBUN"
 adep = ["EDDB"]
-fromSector = "ed/OSE1"
-toSector = "ed/CEL"
+from_sector = "ed/OSE1"
+to_sector = "ed/CEL"
 remarks = "ANY EVEN FL, released for climb FL360 and left turns"
 
 [[agreements]]
 cop = "BUMIL"
 level = 300
 ades = ["EDLP", "EDVK", "EDFQ", "EDLI"]
-fromSector = "ed/OSE1"
-toSector = "ed/CEL"
+from_sector = "ed/OSE1"
+to_sector = "ed/CEL"
 
 [[agreements]]
 cop = "GARLU"
 level = 300
 ades = ["EDLP", "EDVK", "EDFQ", "EDLI"]
-fromSector = "ed/OSE1"
-toSector = "ed/CEL"
+from_sector = "ed/OSE1"
+to_sector = "ed/CEL"
 
 [[agreements]]
 cop = "GARLU"
 level = 360
 ades = ["EDLW", "EDLA"]
-fromSector = "ed/OSE1"
-toSector = "ed/CEL"
+from_sector = "ed/OSE1"
+to_sector = "ed/CEL"
 
 [[agreements]]
 cop = "BUMIL"
 level = 360
 ades = ["EDLW", "EDLA"]
-fromSector = "ed/OSE1"
-toSector = "ed/HOL"
+from_sector = "ed/OSE1"
+to_sector = "ed/HOL"
 
 # HVL
 [[agreements]]
 cop = "HLZ"
 adep = ["EDDB"]
-fromSector = "ed/HVL1"
-toSector = "ed/CEL"
+from_sector = "ed/HVL1"
+to_sector = "ed/CEL"
 remarks = "ANY EVEN FL, released for climb FL360 and left turns"
 
 [[agreements]]
 cop = "POVEL"
 adep = ["EDDB"]
-fromSector = "ed/HVL1"
-toSector = "ed/SOL"
+from_sector = "ed/HVL1"
+to_sector = "ed/SOL"
 remarks = "ANY EVEN FL, released for climb FL360"
 
 [[agreements]]
 cop = "ABGUS"
 adep = ["EDDB"]
-fromSector = "ed/HVL1"
-toSector = "ed/SOL"
+from_sector = "ed/HVL1"
+to_sector = "ed/SOL"
 remarks = "ANY EVEN FL, released for climb FL360"
 
 [[agreements]]
 cop = "HLZ"
 level = 300
 ades = ["EDLP", "EDVK", "EDFQ", "EDLI"]
-fromSector = "ed/HVL1"
-toSector = "ed/CEL"
+from_sector = "ed/HVL1"
+to_sector = "ed/CEL"
 
 [[agreements]]
 cop = "HLZ"
 level = 340
 ades = ["EDDF"]
-fromSector = "ed/HVL1"
-toSector = "ed/CEL"
+from_sector = "ed/HVL1"
+to_sector = "ed/CEL"
 
 [[agreements]]
 cop = "POVEL"
 level = 340
 ades = ["EDDF"]
-fromSector = "ed/HVL1"
-toSector = "ed/SOL"
+from_sector = "ed/HVL1"
+to_sector = "ed/SOL"
 
 [[agreements]]
 cop = "HLZ"
 level = 360
 ades = ["EDLW", "EDLA"]
-fromSector = "ed/HVL1"
-toSector = "ed/CEL"
+from_sector = "ed/HVL1"
+to_sector = "ed/CEL"
 
 [[agreements]]
 cop = "POVEL"
 level = 360
 ades = ["EDLW", "EDLA"]
-fromSector = "ed/HVL1"
-toSector = "ed/SOL"
+from_sector = "ed/HVL1"
+to_sector = "ed/SOL"
 
 # SAL
 [[agreements]]
 cop = "KUMER"
 level = 360
 ades = ["EDLW", "EDLA"]
-fromSector = "ed/SAL1"
-toSector = "ed/SOL"
+from_sector = "ed/SAL1"
+to_sector = "ed/SOL"
 
 [[agreements]]
 cop = "ZUCKA"
 level = 360
 ades = ["EDLW", "EDLA"]
-fromSector = "ed/SAL1"
-toSector = "ed/SOL"
+from_sector = "ed/SAL1"
+to_sector = "ed/SOL"

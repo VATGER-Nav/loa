@@ -2,460 +2,460 @@
 cop = "TAGOB"
 level = 290
 ades = ["EKCH", "EKRK"]
-levelAt = [0, "TAGOB"]
-fromSector = "ed/OSE1"
-toSector = "ed/MRZ"
+level_at = [0, "TAGOB"]
+from_sector = "ed/OSE1"
+to_sector = "ed/MRZ"
 
 [[agreements]]
 cop = "BAKDO"
 level = 290
 ades = ["EKCH"]
-levelAt = [0, "BAKDO"]
-fromSector = "ed/OSE1"
-toSector = "ed/MRZ"
+level_at = [0, "BAKDO"]
+from_sector = "ed/OSE1"
+to_sector = "ed/MRZ"
 
 [[agreements]]
 cop = "GEVNI"
 level = 290
 ades = ["EKCH"]
-levelAt = [0, "GEVNI"]
-fromSector = "ed/OSE1"
-toSector = "ed/MRZ"
+level_at = [0, "GEVNI"]
+from_sector = "ed/OSE1"
+to_sector = "ed/MRZ"
 
 [[agreements]]
 cop = "BINZE"
 level = 290
 ades = ["EKCH"]
-fromSector = "ed/OSE1"
-toSector = "ed/MRZ"
+from_sector = "ed/OSE1"
+to_sector = "ed/MRZ"
 remarks = "Level before reaching BINZE"
 
 [[agreements]]
 cop = "LABES"
 level = 290
 ades = ["EKCH"]
-levelAt = [0, "LABES"]
-fromSector = "ed/OSE1"
-toSector = "ed/MRZ"
+level_at = [0, "LABES"]
+from_sector = "ed/OSE1"
+to_sector = "ed/MRZ"
 
 [[agreements]]
 cop = "ROSOK"
 level = 290
 ades = ["EKCH", "ESMK"]
-levelAt = [0, "ROSOK"]
-fromSector = "ed/OSE1"
-toSector = "ed/MRZ"
+level_at = [0, "ROSOK"]
+from_sector = "ed/OSE1"
+to_sector = "ed/MRZ"
 
 [[agreements]]
 cop = "PENET"
 level = 290
 ades = ["EKRK"]
-levelAt = [0, "PENET"]
-fromSector = "ed/OSE1"
-toSector = "ed/MRZ"
+level_at = [0, "PENET"]
+from_sector = "ed/OSE1"
+to_sector = "ed/MRZ"
 
 [[agreements]]
 cop = "USEDU"
 level = 290
 ades = ["ESMS", "ESMK", "EKRK", "EKRN"]
-levelAt = [0, "USEDU"]
-fromSector = "ed/OSE1"
-toSector = "ed/MRZ"
+level_at = [0, "USEDU"]
+from_sector = "ed/OSE1"
+to_sector = "ed/MRZ"
 
 [[agreements]]
 cop = "MASOR"
 level = 290
 ades = ["ESMS", "ESMK", "EKRN"]
-levelAt = [0, "MASOR"]
-fromSector = "ed/OSE1"
-toSector = "ed/MRZ"
+level_at = [0, "MASOR"]
+from_sector = "ed/OSE1"
+to_sector = "ed/MRZ"
 
 [[agreements]]
 cop = "ADUKI"
 level = 290
 ades = ["ESMS", "ESMK", "EKRN"]
-levelAt = [0, "ADUKI"]
-fromSector = "ed/OSE1"
-toSector = "ed/MRZ"
+level_at = [0, "ADUKI"]
+from_sector = "ed/OSE1"
+to_sector = "ed/MRZ"
 
 [[agreements]]
 cop = "KUBAB"
 level = 290
 ades = ["ESMS"]
-levelAt = [0, "KUBAB"]
-fromSector = "ed/OSE1"
-toSector = "ed/MRZ"
+level_at = [0, "KUBAB"]
+from_sector = "ed/OSE1"
+to_sector = "ed/MRZ"
 
 [[agreements]]
 cop = "GASBO"
 level = 290
 ades = ["EKRN"]
-levelAt = [0, "GASBO"]
-fromSector = "ed/OSE1"
-toSector = "ed/MRZ"
+level_at = [0, "GASBO"]
+from_sector = "ed/OSE1"
+to_sector = "ed/MRZ"
 
 [[agreements]]
 cop = "SULIV"
 level = 290
 ades = ["EKRN"]
-levelAt = [0, "SULIV"]
-fromSector = "ed/OSE1"
-toSector = "ed/MRZ"
+level_at = [0, "SULIV"]
+from_sector = "ed/OSE1"
+to_sector = "ed/MRZ"
 
 [[agreements]]
 cop = "NUVEN"
 level = 290
 ades = ["EDDV", "EDVE", "ETNW"]
-levelAt = [0, "NUVEN"]
-fromSector = "ed/OSE1"
-toSector = "ed/MRZ"
+level_at = [0, "NUVEN"]
+from_sector = "ed/OSE1"
+to_sector = "ed/MRZ"
 
 [[agreements]]
 cop = "TAGOB"
 level = 290
 ades = ["EDDV", "EDVE", "ETNW"]
-levelAt = [0, "TAGOB"]
-fromSector = "ed/OSE1"
-toSector = "ed/MRZ"
+level_at = [0, "TAGOB"]
+from_sector = "ed/OSE1"
+to_sector = "ed/MRZ"
 
 [[agreements]]
 cop = "EBAWE"
 level = 290
 ades = ["ETNL"]
-levelAt = [0, "EBAWE"]
-fromSector = "ed/OSE1"
-toSector = "ed/MRZ"
+level_at = [0, "EBAWE"]
+from_sector = "ed/OSE1"
+to_sector = "ed/MRZ"
 
 [[agreements]]
 cop = "ROSOK"
 level = 290
 ades = ["EDDH", "EDHI", "EDHL"]
-levelAt = [-15, "ROSOK"]
-fromSector = "ed/OSE1"
-toSector = "ed/MRZ"
+level_at = [-15, "ROSOK"]
+from_sector = "ed/OSE1"
+to_sector = "ed/MRZ"
 
 [[agreements]]
 cop = "LEGSA"
 level = 290
 ades = ["EDDH", "EDHI", "EDHL", "EDHK", "EDDW", "EDWE", "EDWI"]
-levelAt = [0, "LEGSA"]
-fromSector = "ed/OSE1"
-toSector = "ed/MRZ"
+level_at = [0, "LEGSA"]
+from_sector = "ed/OSE1"
+to_sector = "ed/MRZ"
 
 [[agreements]]
 cop = "RODEP"
 level = 290
 ades = ["EDDB", "EDAY"]
-levelAt = [0, "RODEP"]
-fromSector = "ed/OSE1"
-toSector = "ed/MRZ"
+level_at = [0, "RODEP"]
+from_sector = "ed/OSE1"
+to_sector = "ed/MRZ"
 remarks = "Level latest RODEP"
 
 [[agreements]]
 cop = "ADEPO"
 level = 290
-ades = ["EDDB""]
-levelAt = [0, "ADEPO"]
-fromSector = "ed/OSE1"
-toSector = "ed/MRZ"
+ades = ["EDDB"]
+level_at = [0, "ADEPO"]
+from_sector = "ed/OSE1"
+to_sector = "ed/MRZ"
 
 [[agreements]]
 cop = "LEGSA"
 level = 290
 ades = ["EDDB"]
-levelAt = [0, "LEGSA"]
-fromSector = "ed/OSE1"
-toSector = "ed/MRZ"
+level_at = [0, "LEGSA"]
+from_sector = "ed/OSE1"
+to_sector = "ed/MRZ"
 
 [[agreements]]
 cop = "KOGIM"
 level = 290
 ades = ["EPSC"]
-levelAt = [0, "KOGIM"]
-fromSector = "ed/OSE1"
-toSector = "ed/MRZ"
+level_at = [0, "KOGIM"]
+from_sector = "ed/OSE1"
+to_sector = "ed/MRZ"
 remarks = "Level latest KOGIM"
 
 [[agreements]]
 cop = "BEBEB"
 level = 290
 ades = ["EPSC"]
-levelAt = [0, "BEBEB"]
-fromSector = "ed/OSE1"
-toSector = "ed/MRZ"
+level_at = [0, "BEBEB"]
+from_sector = "ed/OSE1"
+to_sector = "ed/MRZ"
 
 [[agreements]]
 cop = "KUBAB"
 level = 290
 ades = ["EDAH"]
-levelAt = [-30, "KUBAB"]
-fromSector = "ed/OSE1"
-toSector = "ed/MRZ"
+level_at = [-30, "KUBAB"]
+from_sector = "ed/OSE1"
+to_sector = "ed/MRZ"
 
 [[agreements]]
 cop = "KUBAB"
 level = 290
 ades = ["EPSC"]
-levelAt = [0, "KUBAB"]
-fromSector = "ed/OSE1"
-toSector = "ed/MRZ"
+level_at = [0, "KUBAB"]
+from_sector = "ed/OSE1"
+to_sector = "ed/MRZ"
 
 [[agreements]]
 cop = "ABIKA"
 level = 290
 ades = ["ETNL", "EDBN"]
-levelAt = [0, "ABIKA"]
-fromSector = "ed/OSE1"
-toSector = "ed/MAR"
+level_at = [0, "ABIKA"]
+from_sector = "ed/OSE1"
+to_sector = "ed/MAR"
 remarks = "Level latest abeam RENKI"
 
 [[agreements]]
 cop = "RENKI"
 level = 290
 ades = ["ETNL", "EDBN", "EDAH", "EDBH"]
-fromSector = "ed/OSE1"
-toSector = "ed/MAR"
+from_sector = "ed/OSE1"
+to_sector = "ed/MAR"
 remarks = "Level before RENKI"
 
 [[agreements]]
 cop = "PODUS"
 level = 290
 ades = ["EPSC", "EDAH"]
-levelAt = [-15, "PODUS"]
-fromSector = "ed/OSE1"
-toSector = "ed/MAR"
+level_at = [-15, "PODUS"]
+from_sector = "ed/OSE1"
+to_sector = "ed/MAR"
 
 [[agreements]]
 cop = "VIBIS"
 level = 290
 ades = ["EDDV", "ETNW"]
-levelAt = [0, "VIBIS"]
-fromSector = "ed/OSE1"
-toSector = "ed/MAR"
+level_at = [0, "VIBIS"]
+from_sector = "ed/OSE1"
+to_sector = "ed/MAR"
 
 [[agreements]]
 cop = "PODUS"
 level = 290
 ades = ["EDVE"]
-levelAt = [0, "PODUS"]
-fromSector = "ed/OSE1"
-toSector = "ed/MAR"
+level_at = [0, "PODUS"]
+from_sector = "ed/OSE1"
+to_sector = "ed/MAR"
 
 [[agreements]]
 cop = "RAKIT"
 level = 290
 ades = ["EDAZ"]
-levelAt = [0, "RAKIT"]
-fromSector = "ed/OSE1"
-toSector = "ed/MAR"
+level_at = [0, "RAKIT"]
+from_sector = "ed/OSE1"
+to_sector = "ed/MAR"
 
 [[agreements]]
 cop = "VIBIS"
 level = 290
 ades = ["EDDH", "EDHI", "EDHL", "EDHK", "EDDW", "EDWE", "EDWI"]
-levelAt = [0, "VIBIS"]
-fromSector = "ed/OSE1"
-toSector = "ed/MAR"
+level_at = [0, "VIBIS"]
+from_sector = "ed/OSE1"
+to_sector = "ed/MAR"
 
 [[agreements]]
 cop = "RADEL"
 level = 290
 ades = ["EPPW", "EPKS"]
-levelAt = [0, "RADEL"]
-fromSector = "ed/OSE1"
-toSector = "ed/MAR"
+level_at = [0, "RADEL"]
+from_sector = "ed/OSE1"
+to_sector = "ed/MAR"
 
 [[agreements]]
 cop = "SOGMA"
 level = 290
 ades = ["ETNL", "EDBN", "EDAH", "EDBH"]
-levelAt = [0, "SOGMA"]
-fromSector = "ed/HVL1"
-toSector = "ed/MAR"
+level_at = [0, "SOGMA"]
+from_sector = "ed/HVL1"
+to_sector = "ed/MAR"
 
 [[agreements]]
 cop = "GARGU"
 level = 290
 ades = ["ETNL", "EDBN", "EDAH", "EDBH"]
-levelAt = [0, "GARGU"]
-fromSector = "ed/HVL1"
-toSector = "ed/MAR"
+level_at = [0, "GARGU"]
+from_sector = "ed/HVL1"
+to_sector = "ed/MAR"
 remarks = "Level latest GARGU"
 
 [[agreements]]
 cop = "RIMKO"
 level = 290
 ades = ["EDAH", "EDBN"]
-levelAt = [0, "RIMKO"]
-fromSector = "ed/HVL1"
-toSector = "ed/MAR"
+level_at = [0, "RIMKO"]
+from_sector = "ed/HVL1"
+to_sector = "ed/MAR"
 
 [[agreements]]
 cop = "EVOKI"
 level = 290
 ades = ["EPSC"]
-fromSector = "ed/HVL1"
-toSector = "ed/MAR"
+from_sector = "ed/HVL1"
+to_sector = "ed/MAR"
 remarks = "Level before EVOKI"
 
 [[agreements]]
 cop = "GARGU"
 level = 290
 ades = ["EDDH", "EDHI", "EDHL", "EDHK", "EDDW", "EDWE", "EDWI"]
-levelAt = [0, "GARGU"]
-fromSector = "ed/HVL1"
-toSector = "ed/MAR"
+level_at = [0, "GARGU"]
+from_sector = "ed/HVL1"
+to_sector = "ed/MAR"
 remarks = "Level latest GARGU"
 
 [[agreements]]
 cop = "SOGMA"
 level = 290
 ades = ["EDDH", "EDHI", "EDHL", "EDHK"]
-levelAt = [0, "SOGMA"]
-fromSector = "ed/HVL1"
-toSector = "ed/MAR"
+level_at = [0, "SOGMA"]
+from_sector = "ed/HVL1"
+to_sector = "ed/MAR"
 
 [[agreements]]
 cop = "SUVAL"
 level = 290
 ades = ["EDDP", "EDAC"]
-levelAt = [0, "SUVAL"]
-fromSector = "ed/HVL1"
-toSector = "ed/MAR"
+level_at = [0, "SUVAL"]
+from_sector = "ed/HVL1"
+to_sector = "ed/MAR"
 
 [[agreements]]
 cop = "IDOBA"
 level = 290
 ades = ["EDDP", "EDDC", "EDAC"]
-levelAt = [0, "IDOBA"]
-fromSector = "ed/HVL1"
-toSector = "ed/FLG"
+level_at = [0, "IDOBA"]
+from_sector = "ed/HVL1"
+to_sector = "ed/FLG"
 
 [[agreements]]
 cop = "IDOBA"
 level = 290
 ades = ["EPSC"]
-levelAt = [0, "IDOBA"]
-fromSector = "ed/HVL1"
-toSector = "ed/FLG"
+level_at = [0, "IDOBA"]
+from_sector = "ed/HVL1"
+to_sector = "ed/FLG"
 
 [[agreements]]
 cop = "SONUD"
 level = 290
 ades = ["EPSC"]
-levelAt = [0, "SONUD"]
-fromSector = "ed/HVL1"
-toSector = "ed/FLG"
+level_at = [0, "SONUD"]
+from_sector = "ed/HVL1"
+to_sector = "ed/FLG"
 
 [[agreements]]
 cop = "SONUD"
 level = 290
 ades = ["EPPW", "EPZG", "EPKS"]
-levelAt = [0, "SONUD"]
-fromSector = "ed/HVL1"
-toSector = "ed/FLG"
+level_at = [0, "SONUD"]
+from_sector = "ed/HVL1"
+to_sector = "ed/FLG"
 
 [[agreements]]
 cop = "PEPOL"
 level = 290
 ades = ["EPPW", "EPZG", "EPKS"]
-levelAt = [0, "PEPOL"]
-fromSector = "ed/HVL1"
-toSector = "ed/FLG"
+level_at = [0, "PEPOL"]
+from_sector = "ed/HVL1"
+to_sector = "ed/FLG"
 
 [[agreements]]
 cop = "IDOBA"
 level = 290
 ades = ["EDBM", "EDBC"]
-levelAt = [0, "SONUD"]
-fromSector = "ed/HVL1"
-toSector = "ed/FLG"
+level_at = [0, "SONUD"]
+from_sector = "ed/HVL1"
+to_sector = "ed/FLG"
 remarks = "Level latest SONUD"
 
 [[agreements]]
 cop = "HOZ"
 level = 290
 ades = ["EPKS", "EPPW"]
-levelAt = [0, "HOZ"]
-fromSector = "ed/HVL1"
-toSector = "ed/FLG"
+level_at = [0, "HOZ"]
+from_sector = "ed/HVL1"
+to_sector = "ed/FLG"
 
 [[agreements]]
 cop = "BUREL"
 level = 290
 ades = ["EDDV", "ETNW"]
-fromSector = "ed/HVL1"
-toSector = "ed/BOR"
+from_sector = "ed/HVL1"
+to_sector = "ed/BOR"
 remarks = "Level abeam ESIKA"
 
 [[agreements]]
 cop = "ESIKA"
 level = 290
 ades = ["EDVK", "EDLP", "EDLI", "EDFQ", "EDDE", "EDGS"]
-levelAt = [0, "ESIKA"]
-fromSector = "ed/HVL1"
-toSector = "ed/BOR"
+level_at = [0, "ESIKA"]
+from_sector = "ed/HVL1"
+to_sector = "ed/BOR"
 
 [[agreements]]
 cop = "SONUD"
 level = 290
 ades = ["EDVE"]
-levelAt = [0, "SONUD"]
-fromSector = "ed/HVL1"
-toSector = "ed/BOR"
+level_at = [0, "SONUD"]
+from_sector = "ed/HVL1"
+to_sector = "ed/BOR"
 
 [[agreements]]
 cop = "KOSIX"
 level = 290
 ades = ["EDVK", "EDLI", "EDLP"]
-levelAt = [0, "KOSIX"]
-fromSector = "ed/HVL1"
-toSector = "ed/BOR"
+level_at = [0, "KOSIX"]
+from_sector = "ed/HVL1"
+to_sector = "ed/BOR"
 
 [[agreements]]
 cop = "MAG"
 level = 290
 ades = ["EDDW"]
-levelAt = [0, "MAG"]
-fromSector = "ed/HVL1"
-toSector = "ed/BOR"
+level_at = [0, "MAG"]
+from_sector = "ed/HVL1"
+to_sector = "ed/BOR"
 
 [[agreements]]
 cop = "KOSIX"
 level = 290
 ades = ["EDDV", "ETNW"]
-levelAt = [0, "KOSIX"]
-fromSector = "ed/HVL1"
-toSector = "ed/BOR"
+level_at = [0, "KOSIX"]
+from_sector = "ed/HVL1"
+to_sector = "ed/BOR"
 
 [[agreements]]
 cop = "SOBLU"
 level = 290
 ades = ["EDDC", "EDAB", "EDAC"]
-levelAt = [0, "SOBLU"]
-fromSector = "ed/HVL1"
-toSector = "ed/BOR"
+level_at = [0, "SOBLU"]
+from_sector = "ed/HVL1"
+to_sector = "ed/BOR"
 
 [[agreements]]
 cop = "NISGA"
 level = 290
 ades = ["EDDC", "EDAB", "EDAC"]
-fromSector = "ed/HVL1"
-toSector = "ed/BOR"
+from_sector = "ed/HVL1"
+to_sector = "ed/BOR"
 remarks = "Level latest abeam SOBLU"
 
 [[agreements]]
 cop = "LUPAK"
 level = 290
 ades = ["ETSH"]
-fromSector = "ed/HVL1"
-toSector = "ed/BOR"
+from_sector = "ed/HVL1"
+to_sector = "ed/BOR"
 remarks = "Level before LUPAK"
 
 [[agreements]]
 cop = "PENEK"
 level = 290
 ades = ["ETSH"]
-levelAt = [0, "PENEK"]
-fromSector = "ed/HVL1"
-toSector = "ed/BOR"
+level_at = [0, "PENEK"]
+from_sector = "ed/HVL1"
+to_sector = "ed/BOR"

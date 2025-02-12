@@ -3,76 +3,76 @@
 cop = "RIDAR"
 level = 80
 adep = ["EDMA"]
-transferType = "C"
-fromSector = "ed/DMNL"
-toSector = "ed/SWA"
+transfer_type = "C"
+from_sector = "ed/DMNL"
+to_sector = "ed/SWA"
 
 [[agreements]]
 cop = "AKINI"
 level = 190
 adep = ["EDDM"]
-transferType = "C"
-fromSector = "ed/DMNL"
-toSector = "ed/RDG"
+transfer_type = "C"
+from_sector = "ed/DMNL"
+to_sector = "ed/RDG"
 remarks = "released direct AKINI if RWY26 and active: ED-R 170,  inactive: ED-R 138;\nreleased direct RUDNO if RWY26 and inactive: ED-R 170,  ED-R 138"
 
 [[agreements]]
 cop = "ANKER"
 level = 190
 adep = ["EDDM"]
-transferType = "C"
-fromSector = "ed/DMNL"
-toSector = "ed/RDG"
+transfer_type = "C"
+from_sector = "ed/DMNL"
+to_sector = "ed/RDG"
 remarks = "released direct AKINI if RWY26 and active: ED-R 170,  inactive: ED-R 138;\nreleased direct RUDNO if RWY26 and inactive: ED-R 170,  ED-R 138"
 
 [[agreements]]
 cop = "EVIVA"
 level = 190
 adep = ["EDDM"]
-transferType = "C"
-fromSector = "ed/DMNL"
-toSector = "ed/ALB"
+transfer_type = "C"
+from_sector = "ed/DMNL"
+to_sector = "ed/ALB"
 
 [[agreements]]
 cop = "GIVMI"
 level = 190
 adep = ["EDDM"]
-transferType = "C"
-fromSector = "ed/DMNL"
-toSector = "ed/ALB"
+transfer_type = "C"
+from_sector = "ed/DMNL"
+to_sector = "ed/ALB"
 
 [[agreements]]
 cop = "INPUD"
 level = 190
 adep = ["EDDM"]
-transferType = "C"
-fromSector = "ed/DMNL"
-toSector = "ed/ALB"
+transfer_type = "C"
+from_sector = "ed/DMNL"
+to_sector = "ed/ALB"
 remarks = "released direct UPALA"
 
 [[agreements]]
 cop = "MIQ"
 level = 190
 adep = ["EDDM"]
-transferType = "C"
-fromSector = "ed/DMNL"
-toSector = "ed/ALB"
+transfer_type = "C"
+from_sector = "ed/DMNL"
+to_sector = "ed/ALB"
 
 ## DMNH
 [[agreements]]
 cop = "RIDAR"
 level = 180
 adep = ["EDDM"]
-fromSector = "ed/DMNH"
-toSector = "ed/NDG"
+from_sector = "ed/DMNH"
+to_sector = "ed/NDG"
 runway = ["08L", "08R"]
 
 [[agreements]]
 cop = "RIDAR"
 level = 140
 adep = ["EDDM"]
-fromSector = "ed/DMNH"
-toSector = "ed/NDG"
+from_sector = "ed/DMNH"
+to_sector = "ed/NDG"
 runway = ["26L", "26R"]
 
 ## DMSL
@@ -80,143 +80,143 @@ runway = ["26L", "26R"]
 cop = "VAVOR"
 level = 150
 adep = ["EDDM"]
-transferType = "C"
-fromSector = "ed/DMSL"
-toSector = "ed/TRU"
+transfer_type = "C"
+from_sector = "ed/DMSL"
+to_sector = "ed/TRU"
 
 [[agreements]]
 cop = "TURBU"
 level = 150
 adep = ["EDDM"]
-transferType = "C"
-fromSector = "ed/DMSL"
-toSector = "ed/TEG"
+transfer_type = "C"
+from_sector = "ed/DMSL"
+to_sector = "ed/TEG"
 
 [[agreements]]
 cop = "OBAXA"
 level = 150
 adep = ["EDDM"]
-transferType = "C"
-fromSector = "ed/DMSL"
-toSector = "ed/TEG"
+transfer_type = "C"
+from_sector = "ed/DMSL"
+to_sector = "ed/TEG"
 
 ## DMSH
 [[agreements]]
 cop = "ROTAX"
 level = 150
 adep = ["EDDM"]
-transferType = "C"
-fromSector = "ed/DMSH"
-toSector = "ed/TRU"
+transfer_type = "C"
+from_sector = "ed/DMSH"
+to_sector = "ed/TRU"
 
 [[agreements]]
 cop = "TULSI"
 level = 150
 adep = ["EDMM"]
-transferType = "C"
-fromSector = "ed/DMSH"
-toSector = "ed/TEG"
+transfer_type = "C"
+from_sector = "ed/DMSH"
+to_sector = "ed/TEG"
 
 [[agreements]]
 cop = "OLASO"
 level = 190
 adep = ["EDDM"]
-transferType = "C"
-fromSector = "ed/DMSH"
-toSector = "ed/FUE"
+transfer_type = "C"
+from_sector = "ed/DMSH"
+to_sector = "ed/FUE"
 
 [[agreements]]
 cop = "ALG"
 level = 190
 adep = ["EDDM"]
-transferType = "C"
-fromSector = "ed/DMSH"
-toSector = "ed/FUE"
+transfer_type = "C"
+from_sector = "ed/DMSH"
+to_sector = "ed/FUE"
 
 [[agreements]]
 cop = "MERSI"
 level = 190
 adep = ["EDDM"]
-transferType = "C"
-fromSector = "ed/DMSH"
-toSector = "ed/FUE"
+transfer_type = "C"
+from_sector = "ed/DMSH"
+to_sector = "ed/FUE"
 remarks = "released direct UMTEX/RAVED if inactive: TRA Allgäu"
 
 [[agreements]]
 cop = "BIBAG"
 level = 190
 adep = ["EDDM"]
-transferType = "C"
-fromSector = "ed/DMSH"
-toSector = "ed/EGG"
+transfer_type = "C"
+from_sector = "ed/DMSH"
+to_sector = "ed/EGG"
 
 ## ILR
 [[agreements]]
 cop = "KPT"
 level = 90
 adep = ["EDJA"]
-fromSector = "ed/ILR"
-toSector = "ed/FUE"
+from_sector = "ed/ILR"
+to_sector = "ed/FUE"
 remarks = "hold, advise \"ready for departure\""
 
 [[agreements]]
 cop = "UMTEX"
 level = 90
 adep = ["EDJA"]
-fromSector = "ed/ILR"
-toSector = "ed/FUE"
+from_sector = "ed/ILR"
+to_sector = "ed/FUE"
 
 [[agreements]]
 cop = "PELOG"
 level = 90
 adep = ["EDJA"]
-fromSector = "ed/ILR"
-toSector = "ed/FUE"
+from_sector = "ed/ILR"
+to_sector = "ed/FUE"
 
 [[agreements]]
 cop = "SUDEN"
 level = 90
 adep = ["EDJA"]
-fromSector = "ed/ILR"
-toSector = "ed/FUE"
+from_sector = "ed/ILR"
+to_sector = "ed/FUE"
 
 [[agreements]]
 cop = "LUPOL"
 level = 90
 adep = ["EDJA"]
-fromSector = "ed/ILR"
-toSector = "ed/FUE"
+from_sector = "ed/ILR"
+to_sector = "ed/FUE"
 
 ## SWA
 [[agreements]]
 level = 90
 adep = ["ETSL"]
-fromSector = "ed/SWA"
-toSector = "ed/NDG"
+from_sector = "ed/SWA"
+to_sector = "ed/NDG"
 
 [[agreements]]
 level = 80
 adep = ["ETSL"]
-fromSector = "ed/SWA"
-toSector = "ed/FUE"
+from_sector = "ed/SWA"
+to_sector = "ed/FUE"
 
 [[agreements]]
 cop = "BURAM"
 level = 80
 ades = ["EDMA"]
-fromSector = "ed/SWA"
-toSector = "ed/DMNL"
+from_sector = "ed/SWA"
+to_sector = "ed/DMNL"
 
 [[agreements]]
 cop = "RIDAR"
 level = 80
 ades = ["EDMA"]
-fromSector = "ed/SWA"
-toSector = "ed/DMNL"
+from_sector = "ed/SWA"
+to_sector = "ed/DMNL"
 
 [[agreements]]
 cop = "RIDAR"
 level = 90
 ades = ["EDMO"]
-fromSector = "ed/SWA"
-toSector = "ed/DMNL"
+from_sector = "ed/SWA"
+to_sector = "ed/DMNL"

@@ -3,14 +3,14 @@ cop = "KUMER"
 level = 280
 sfl = 250
 adep = ["EDDP"]
-transferType = "C"
+transfer_type = "C"
 releases = "F"
-fromSector = "ed/HAL"
-toSector = "ed/SOL"
+from_sector = "ed/HAL"
+to_sector = "ed/SOL"
 
 [[agreements]]
 cop = "ZUCKA"
 ades = ["EDDW", "EDDV"]
-fromSector = "ed/HAL"
-toSector = "ed/SOL"
+from_sector = "ed/HAL"
+to_sector = "ed/SOL"
 remarks = "Not accepted by MUAC"

@@ -3,22 +3,22 @@
 cop = "AKIMA"
 level = 160
 ades = ["LOWL"]
-fromSector = "ed/EGG"
-toSector = "lo/LOWL_APP"
+from_sector = "ed/EGG"
+to_sector = "lo/LOWL_APP"
 
 [[agreements]]
 cop = "DEXIT"
 level = 160
 ades = ["LOWL"]
-fromSector = "ed/EGG"
-toSector = "lo/LOWL_APP"
+from_sector = "ed/EGG"
+to_sector = "lo/LOWL_APP"
 
 [[agreements]]
 cop = "BIBAG"
 level = 100
 ades = ["LOWS"]
-fromSector = "ed/EGG"
-toSector = "lo/LOWS_APP"
+from_sector = "ed/EGG"
+to_sector = "lo/LOWS_APP"
 remarks = "Released for descent to lowest 7000 ft and turns after passing BIBAG"
 
 [[agreements]]
@@ -26,13 +26,13 @@ cop = "AKIMA"
 level = 290
 sfl = 170
 adep = ["EDDM"]
-transferType = "C"
-fromSector = "ed/EGG"
-toSector = "lo/N1"
+transfer_type = "C"
+from_sector = "ed/EGG"
+to_sector = "lo/N1"
 
 [[agreements]]
 cop = "LAMSI"
 level = 310
 adep = ["EDDN"]
-fromSector = "ed/EGG"
-toSector = "lo/N2"
+from_sector = "ed/EGG"
+to_sector = "lo/N2"

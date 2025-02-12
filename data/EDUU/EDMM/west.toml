@@ -1,16 +1,16 @@
 [[agreements]]
 cop = "GESLU"
 level = 250
-levelAt = [-5, "GESLU"]
-transferType = "D"
+level_at = [-5, "GESLU"]
+transfer_type = "D"
 ades = ["EDDM"]
-fromSector = "ed/TGO1"
-toSector = "ed/NDG"
+from_sector = "ed/TGO1"
+to_sector = "ed/NDG"
 remarks = "Released for descent to FL240"
 
 [[agreements]]
 cop = "BATUB"
 level = 310
 ades = ["LOWI", "LSZS", "LSZA", "LSZL", "LIPB"]
-fromSector = "ed/TGO1"
-toSector = "ed/FUE"
+from_sector = "ed/TGO1"
+to_sector = "ed/FUE"

@@ -2,160 +2,160 @@
 [[agreements]]
 level = 350
 ades = ["EDDP", "EDAC", "EDBC", "EDBM"]
-fromSector = "ed/FFM2"
-toSector = "ed/FUL1"
+from_sector = "ed/FFM2"
+to_sector = "ed/FUL1"
 
 [[agreements]]
 level = 290
 ades = ["EDDV", "EDVE", "ETNW"]
-fromSector = "ed/FFM1"
-toSector = "ed/FUL1"
+from_sector = "ed/FFM1"
+to_sector = "ed/FUL1"
 
 [[agreements]]
 level = 320
 ades = ["EBBR", "EBMB", "EBAW", "EBCV", "EBCI", "EHEH", "EHWO", "EHGR", "EHVK"]
-fromSector = "ed/FFM1"
-toSector = "ed/NTM1"
+from_sector = "ed/FFM1"
+to_sector = "ed/NTM1"
 
 [[agreements]]
 level = 300
 ades = ["EBLG", "EBZW", "EHBK", "LFJL", "LFSN"]
-fromSector = "ed/FFM1"
-toSector = "ed/NTM1"
+from_sector = "ed/FFM1"
+to_sector = "ed/NTM1"
 
 [[agreements]]
 level = 350
 ades = ["EDTF", "EDTD", "LSZH", "LFSB", "LSZR", "LSMD", "EDNY", "EDTM", "EDJA"]
-fromSector = "ed/FFM2"
-toSector = "ed/SLN1"
+from_sector = "ed/FFM2"
+to_sector = "ed/SLN1"
 
 [[agreements]]
 level = 350
 adep = ["EDDL", "EDDG", "EDDK", "EDGS", "EDKB", "EDKL", "EDLA", "EDLE", "EDLM", "EDLN", "EDLP", "EDLW", "ETNG", "ETNN"]
-fromSector = "ed/FFM2"
-toSector = "ed/SLN1"
+from_sector = "ed/FFM2"
+to_sector = "ed/SLN1"
 
 [[agreements]]
 level = 310
 ades = ["EDTL", "EDTO"]
-fromSector = "ed/FFM1"
-toSector = "ed/SLN1"
+from_sector = "ed/FFM1"
+to_sector = "ed/SLN1"
 
 [[agreements]]
 level = 270
 ades = ["EDMA", "EDMO", "ETSI", "ETSL", "EDJA", "ETSN"]
-fromSector = "ed/FFM1"
-toSector = "ed/WUR1"
+from_sector = "ed/FFM1"
+to_sector = "ed/WUR1"
 
 [[agreements]]
 level = 350
 ades = ["EDDM"]
-fromSector = "ed/FFM2"
-toSector = "ed/WUR2"
+from_sector = "ed/FFM2"
+to_sector = "ed/WUR2"
 
 [[agreements]]
 level = 350
 adep = ["EDDL", "EDDG", "EDDK", "EDGS", "EDKB", "EDKL", "EDLA", "EDLE", "EDLM", "EDLN", "EDLP", "EDLW", "ETNG", "ETNN"]
-fromSector = "ed/FFM2"
-toSector = "ed/WUR2"
+from_sector = "ed/FFM2"
+to_sector = "ed/WUR2"
 
 [[agreements]]
 level = 290
 ades = ["LKKV", "EDMS"]
-fromSector = "ed/FFM1"
-toSector = "ed/WUR1"
+from_sector = "ed/FFM1"
+to_sector = "ed/WUR1"
 
 [[agreements]]
 level = 250
 ades = ["EDDM", "EDQC", "EDQD", "EDQK", "EDQM", "EDQT", "EDTY", "EDQA"]
-fromSector = "ed/FFM1"
-toSector = "ed/WUR1"
+from_sector = "ed/FFM1"
+to_sector = "ed/WUR1"
 
 # FUL
 [[agreements]]
 cop = "MAPOX"
 level = 360
 ades = ["EHEH", "EHBD", "EHBK", "EHTE", "EHLE"]
-fromSector = "ed/FUL2"
-toSector = "ed/FFM3"
+from_sector = "ed/FUL2"
+to_sector = "ed/FFM3"
 
 [[agreements]]
 cop = "EKSAK"
 level = 320
 ades = ["EDDL", "EDDG", "EDWO", "EDLN", "EDLS", "EDLV", "EHTW", "EHEH", "EHBD", "EHLE"]
-fromSector = "ed/FUL1"
-toSector = "ed/FFM1"
+from_sector = "ed/FUL1"
+to_sector = "ed/FFM1"
 
 [[agreements]]
 level = 360
 ades = ["EDDB"]
-fromSector = "ed/FUL2"
-toSector = "ed/SAL1"
+from_sector = "ed/FUL2"
+to_sector = "ed/SAL1"
 remarks = "Even and odd"
 
 [[agreements]]
 level = 250
 ades = ["EDDS", "EDSB", "EDTY", "EDTL", "EDTM", "EDMA", "EDMO", "ETSI", "ETSL", "ETSN", "EDJA"]
-fromSector = "ed/FUL1"
-toSector = "ed/WUR1"
+from_sector = "ed/FUL1"
+to_sector = "ed/WUR1"
 
 [[agreements]]
 level = 370
 ades = ["LKPR", "LKKB", "LKVO", "LKCV", "LKHK", "LKMH", "LKPD", "LKCS"]
-fromSector = "ed/FUL2"
-toSector = "ed/ERL2"
+from_sector = "ed/FUL2"
+to_sector = "ed/ERL2"
 
 # WUR
 [[agreements]]
 level = 370
 ades = ["LKPR", "LKKB", "LKVO", "LKCV", "LKHK", "LKMH", "LKPD", "LKCS", "EDDC"]
-fromSector = "ed/WUR3"
-toSector = "ed/ERL2"
+from_sector = "ed/WUR3"
+to_sector = "ed/ERL2"
 
 [[agreements]]
 level = 340
 ades = ["ETNG", "EBLG", "EBZW", "EHBK", "LFJL", "LFSN"]
-fromSector = "ed/WUR2"
-toSector = "ed/FFM2"
+from_sector = "ed/WUR2"
+to_sector = "ed/FFM2"
 
 [[agreements]]
 level = 380
 ades = ["EBBR", "EBMB", "EBAW", "EBCV", "EBCI", "EHEH", "EHWO", "EHGR", "EHVK"]
-fromSector = "ed/WUR4"
-toSector = "ed/FFM4"
+from_sector = "ed/WUR4"
+to_sector = "ed/FFM4"
 
 [[agreements]]
 level = 280
 ades = ["EDLA", "EDLW", "EDLE", "EDLM", "EDLD", "EDKZ", "EDLP", "EDLI", "EDVK"]
-fromSector = "ed/WUR1"
-toSector = "ed/FUL1"
+from_sector = "ed/WUR1"
+to_sector = "ed/FUL1"
 
 [[agreements]]
 level = 330
 ades = ["EDDP", "EDAC"]
-fromSector = "ed/WUR2"
-toSector = "ed/FUL1"
+from_sector = "ed/WUR2"
+to_sector = "ed/FUL1"
 
 [[agreements]]
 level = 360
 ades = ["EDDV", "EDVE", "ETNW"]
-fromSector = "ed/WUR3"
-toSector = "ed/FUL2"
+from_sector = "ed/WUR3"
+to_sector = "ed/FUL2"
 
 [[agreements]]
 level = 370
 ades = ["LOWL"]
-fromSector = "ed/WUR3"
-toSector = "ed/ISA3"
+from_sector = "ed/WUR3"
+to_sector = "ed/ISA3"
 
 [[agreements]]
 level = 320
 ades = ["LSZH", "LSZR", "LSMD", "EDNY", "EDTO", "EDTF", "EDTL", "LFJL", "LFSB", "LFST", "LFGA"]
-fromSector = "ed/WUR1"
-toSector = "ed/TGO1"
+from_sector = "ed/WUR1"
+to_sector = "ed/TGO1"
 
 [[agreements]]
 level = 280
 ades = ["EDTM", "EDTD"]
-fromSector = "ed/WUR1"
-toSector = "ed/TGO1"
+from_sector = "ed/WUR1"
+to_sector = "ed/TGO1"

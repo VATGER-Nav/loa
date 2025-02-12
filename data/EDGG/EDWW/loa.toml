@@ -2,83 +2,83 @@
 cop = "XAROL"
 level = 100
 ades = ["EDVK"]
-fromSector = "ed/GIN"
-toSector = "ed/HRZ"
+from_sector = "ed/GIN"
+to_sector = "ed/HRZ"
 
 [[agreements]]
 cop = "ELNAT"
 level = 100
 ades = ["EDVK"]
-fromSector = "ed/HEF"
-toSector = "ed/HRZ"
+from_sector = "ed/HEF"
+to_sector = "ed/HRZ"
 
 [[agreements]]
 cop = "ELNAT"
 level = 140
 ades = ["EDLP"]
-fromSector = "ed/HEF"
-toSector = "ed/HRZ"
+from_sector = "ed/HEF"
+to_sector = "ed/HRZ"
 
 [[agreements]]
 cop = "ELNAT"
 level = 240
 ades = ["EDDV", "EDVE", "ETNW"]
-fromSector = "ed/HEF"
-toSector = "ed/HRZ"
+from_sector = "ed/HEF"
+to_sector = "ed/HRZ"
 
 [[agreements]]
 cop = "PELUN"
 level = 100
 ades = ["EDVK"]
-fromSector = "ed/PADL"
-toSector = "ed/HRZ"
+from_sector = "ed/PADL"
+to_sector = "ed/HRZ"
 
 [[agreements]]
 cop = "ESADU"
 level = 100
 ades = ["EDVK"]
-fromSector = "ed/PADL"
-toSector = "ed/HRZ"
+from_sector = "ed/PADL"
+to_sector = "ed/HRZ"
 
 [[agreements]]
 cop = "WRB"
 level = 70
 adep = ["EDFQ"]
-fromSector = "ed/GIN"
-toSector = "ed/HRZ"
+from_sector = "ed/GIN"
+to_sector = "ed/HRZ"
 
 [[agreements]]
 cop = "OSN"
 level = 150
 adep = ["EDDG"]
-fromSector = "ed/HMM"
-toSector = "ed/EMS"
+from_sector = "ed/HMM"
+to_sector = "ed/EMS"
 
 [[agreements]]
 cop = "PELUN"
 level = 210
 adep = ["EDDK"]
-fromSector = "ed/PADH"
-toSector = "ed/DST"
+from_sector = "ed/PADH"
+to_sector = "ed/DST"
 remarks = "Only applicable to flights with a RFL below FL245"
 
 [[agreements]]
 cop = "ESADU"
 level = 210
 adep = ["EDDL"]
-fromSector = "ed/PADH"
-toSector = "ed/DST"
+from_sector = "ed/PADH"
+to_sector = "ed/DST"
 
 [[agreements]]
 cop = "ESADU"
 level = 190
 adep = ["EDLW"]
-fromSector = "ed/PADH"
-toSector = "ed/DST"
+from_sector = "ed/PADH"
+to_sector = "ed/DST"
 
 [[agreements]]
 cop = "WRB"
 level = 130
 adep = ["EDLP"]
-fromSector = "ed/PADL"
-toSector = "ed/HRZ"
+from_sector = "ed/PADL"
+to_sector = "ed/HRZ"

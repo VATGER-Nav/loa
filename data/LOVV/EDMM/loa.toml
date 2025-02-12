@@ -2,196 +2,196 @@
 cop = "AMADI"
 level = 130
 ades = ["EDDM"]
-fromSector = "lo/B1"
-toSector = "ed/DMSH"
+from_sector = "lo/B1"
+to_sector = "ed/DMSH"
 remarks = "If traffic permits and with approval of EDDM_APP entry condition may be altered to “descending, FL190 or below at COP”. ACC Wien shall assure separation between involved flights until passing NAPSA"
 
 [[agreements]]
 cop = "REDBU"
 level = 140
 ades = ["EDDM"]
-fromSector = "lo/B1"
-toSector = "ed/DMSH"
+from_sector = "lo/B1"
+to_sector = "ed/DMSH"
 remarks = "If traffic permits and with approval of DMSH entry condition may be altered to “descending, FL190 or below at COP”. ACC Wien shall assure separation between involved flights until passing NAPSA"
 
 [[agreements]]
 cop = "SIMBA"
 level = 300
 ades = ["EDDN"]
-fromSector = "lo/N1"
-toSector = "ed/EGG"
+from_sector = "lo/N1"
+to_sector = "ed/EGG"
 
 [[agreements]]
 cop = "SUBEN"
 level = 300
 ades = ["EDDN"]
-fromSector = "lo/N1"
-toSector = "ed/EGG"
+from_sector = "lo/N1"
+to_sector = "ed/EGG"
 
 [[agreements]]
 cop = "TRAUN"
 level = 150
 ades = ["EDMA", "EDMO"]
-fromSector = "lo/B1"
-toSector = "ed/DMSH"
+from_sector = "lo/B1"
+to_sector = "ed/DMSH"
 
 [[agreements]]
 cop = "TITIG"
 level = 150
 ades = ["EDMA", "EDMO"]
-fromSector = "lo/B1"
-toSector = "ed/DMSH"
+from_sector = "lo/B1"
+to_sector = "ed/DMSH"
 
 [[agreements]]
 cop = "TITIG"
 level = 300
 ades = ["EDDS"]
-fromSector = "lo/B1"
-toSector = "ed/TRU"
+from_sector = "lo/B1"
+to_sector = "ed/TRU"
 
 [[agreements]]
 cop = "KIRDI"
 level = 300
 ades = ["EDDS"]
-fromSector = "lo/B1"
-toSector = "ed/TRU"
+from_sector = "lo/B1"
+to_sector = "ed/TRU"
 
 [[agreements]]
 cop = "TRAUN"
 level = 300
 ades = ["EDNY", "EDJA", "LSZR"]
-fromSector = "lo/B1"
-toSector = "ed/TRU"
+from_sector = "lo/B1"
+to_sector = "ed/TRU"
 
 [[agreements]]
 cop = "ERKIR"
 level = 260
 ades = ["EDNY", "EDJA", "LSZR"]
-fromSector = "lo/W1"
-toSector = "ed/TEG"
+from_sector = "lo/W1"
+to_sector = "ed/TEG"
 
 [[agreements]]
 cop = "GEDSO"
 level = 300
 ades = ["LSZS"]
-fromSector = "lo/W1"
-toSector = "ed/TEG"
+from_sector = "lo/W1"
+to_sector = "ed/TEG"
 
 [[agreements]]
 cop = "DEXIT"
 level = 300
 ades = ["LKPR", "LKKB", "LKKV", "LKVO", "LKPD", "LKCS", "LKCV", "LKHK", "LKMH"]
-fromSector = "lo/N1"
-toSector = "ed/EGG"
+from_sector = "lo/N1"
+to_sector = "ed/EGG"
 
 [[agreements]]
 cop = "LAMSI"
 level = 300
 ades = ["LKPR", "LKKB", "LKKV", "LKVO", "LKPD", "LKCS", "LKCV", "LKHK", "LKMH"]
-fromSector = "lo/N1"
-toSector = "ed/EGG"
+from_sector = "lo/N1"
+to_sector = "ed/EGG"
 
 [[agreements]]
 cop = "UNKEN"
 level = 160
 adep = ["LOWI"]
-transferType = "C"
+transfer_type = "C"
 vertical = true
-fromSector = "lo/LOWI_APP"
-toSector = "ed/TRU"
+from_sector = "lo/LOWI_APP"
+to_sector = "ed/TRU"
 
 [[agreements]]
 cop = "KOGOL"
 level = 160
 adep = ["LOWI"]
-transferType = "C"
+transfer_type = "C"
 vertical = true
-fromSector = "lo/LOWI_APP"
-toSector = "ed/STA"
+from_sector = "lo/LOWI_APP"
+to_sector = "ed/STA"
 
 [[agreements]]
 cop = "RTT"
 level = 160
 adep = ["LOWI"]
-transferType = "C"
+transfer_type = "C"
 vertical = true
-fromSector = "lo/LOWI_APP"
-toSector = "ed/TEG"
+from_sector = "lo/LOWI_APP"
+to_sector = "ed/TEG"
 
 [[agreements]]
 cop = "ADILO"
 level = 160
 adep = ["LOWI"]
-transferType = "C"
+transfer_type = "C"
 vertical = true
-fromSector = "lo/LOWI_APP"
-toSector = "ed/ZUG"
+from_sector = "lo/LOWI_APP"
+to_sector = "ed/ZUG"
 
 [[agreements]]
 cop = "MOGTI"
 level = 160
 adep = ["LOWI"]
-transferType = "C"
+transfer_type = "C"
 vertical = true
-fromSector = "lo/LOWI_APP"
-toSector = "ed/ZUG"
+from_sector = "lo/LOWI_APP"
+to_sector = "ed/ZUG"
 
 [[agreements]]
 cop = "KPT"
 level = 160
 adep = ["LOWI"]
-transferType = "C"
+transfer_type = "C"
 vertical = true
-fromSector = "lo/LOWI_APP"
-toSector = "ed/ZUG"
+from_sector = "lo/LOWI_APP"
+to_sector = "ed/ZUG"
 
 [[agreements]]
 cop = "RENKA"
 level = 160
 adep = ["LOWL"]
-transferType = "C"
+transfer_type = "C"
 vertical = true
-fromSector = "lo/LOWL_APP"
-toSector = "ed/EGG"
+from_sector = "lo/LOWL_APP"
+to_sector = "ed/EGG"
 
 [[agreements]]
 cop = "LAMSI"
 level = 160
 adep = ["LOWL"]
-transferType = "C"
-fromSector = "lo/LOWL_APP"
-toSector = "ed/EGG"
+transfer_type = "C"
+from_sector = "lo/LOWL_APP"
+to_sector = "ed/EGG"
 
 [[agreements]]
 cop = "SUBEN"
 level = 140
 adep = ["LOWL"]
-transferType = "C"
-fromSector = "lo/LOWL_APP"
-toSector = "ed/EGG"
+transfer_type = "C"
+from_sector = "lo/LOWL_APP"
+to_sector = "ed/EGG"
 remarks = "Released FL160 20NM from SUBEN"
 
 [[agreements]]
 cop = "TRAUN"
 level = 120
 adep = ["LOWS"]
-transferType = "C"
-fromSector = "lo/LOWS_APP"
-toSector = "ed/TRU"
+transfer_type = "C"
+from_sector = "lo/LOWS_APP"
+to_sector = "ed/TRU"
 
 [[agreements]]
 cop = "SIMBA"
 level = 120
 adep = ["LOWS"]
-transferType = "C"
-fromSector = "lo/LOWS_APP"
-toSector = "ed/EGG"
+transfer_type = "C"
+from_sector = "lo/LOWS_APP"
+to_sector = "ed/EGG"
 
 [[agreements]]
 cop = "TITIG"
 level = 90
 adep = ["LOWS"]
-transferType = "C"
-fromSector = "lo/LOWS_APP"
-toSector = "ed/DMSL"
+transfer_type = "C"
+from_sector = "lo/LOWS_APP"
+to_sector = "ed/DMSL"
 remarks = "Released FL120"

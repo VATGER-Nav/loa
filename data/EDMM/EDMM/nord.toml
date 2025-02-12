@@ -3,418 +3,418 @@
 cop = "UPALA"
 level = 250
 adep = ["EDDM"]
-fromSector = "ed/ALB"
-toSector = "ed/BBG"
+from_sector = "ed/ALB"
+to_sector = "ed/BBG"
 remarks = "released passing T159"
 
 [[agreements]]
 cop = "DOSIS"
 level = 250
 adep = ["EDDM"]
-fromSector = "ed/ALB"
-toSector = "ed/BBG"
+from_sector = "ed/ALB"
+to_sector = "ed/BBG"
 remarks = "released passing T159"
 
 [[agreements]]
 cop = "GOLMO"
 level = 220
 adep = ["EDDM"]
-fromSector = "ed/ALB"
-toSector = "ed/WLD"
+from_sector = "ed/ALB"
+to_sector = "ed/WLD"
 
 [[agreements]]
 cop = "UPALA"
 level = 200
 adep = ["ETSI"]
-fromSector = "ed/ALB"
-toSector = "ed/BBG"
+from_sector = "ed/ALB"
+to_sector = "ed/BBG"
 
 [[agreements]]
 cop = "UPALA"
 level = 140
 ades = ["EDDN", "EDQA", "EDQC", "EDQD", "EDQM", "ETIC"]
-transferType = "D"
+transfer_type = "D"
 releases = "F"
 vertical = true
-fromSector = "ed/ALB"
-toSector = "ed/FRK"
+from_sector = "ed/ALB"
+to_sector = "ed/FRK"
 
 [[agreements]]
 cop = "UPALA"
 level = 250
 ades = ["EDDE"]
-fromSector = "ed/ALB"
-toSector = "ed/BBG"
+from_sector = "ed/ALB"
+to_sector = "ed/BBG"
 
 [[agreements]]
 cop = "UPALA"
 level = 290
 ades = ["EDDP", "EDAC"]
-fromSector = "ed/ALB"
-toSector = "ed/BBG"
+from_sector = "ed/ALB"
+to_sector = "ed/BBG"
 
 [[agreements]]
 cop = "MIQ"
 level = 80
 ades = ["EDMA"]
-fromSector = "ed/ALB"
-toSector = "ed/DMNL"
+from_sector = "ed/ALB"
+to_sector = "ed/DMNL"
 
 ## RDG
 [[agreements]]
 cop = "RUDNO"
 level = 270
 adep = ["EDDN"]
-fromSector = "ed/RDG"
-toSector = "ed/EGG"
+from_sector = "ed/RDG"
+to_sector = "ed/EGG"
 
 [[agreements]]
 cop = "RUDNO"
 level = 230
 adep = ["EDQA", "EDQC", "EDQD", "EDQM", "ETIC"]
-fromSector = "ed/RDG"
-toSector = "ed/EGG"
+from_sector = "ed/RDG"
+to_sector = "ed/EGG"
 
 [[agreements]]
 cop = "AKINI"
 level = 300
 adep = ["LOWL", "LOWS"]
-fromSector = "ed/RDG"
-toSector = "ed/ALB"
+from_sector = "ed/RDG"
+to_sector = "ed/ALB"
 
 [[agreements]]
 cop = "GOMAX"
 level = 170
 ades = ["EDDM"]
-fromSector = "ed/RDG"
-toSector = "ed/DMNH"
+from_sector = "ed/RDG"
+to_sector = "ed/DMNH"
 runway = ["08L", "08R"]
 
 [[agreements]]
 cop = "KUFAZ"
 level = 170
 ades = ["EDDM"]
-fromSector = "ed/RDG"
-toSector = "ed/DMNH"
+from_sector = "ed/RDG"
+to_sector = "ed/DMNH"
 runway = ["08L", "08R"]
 
 [[agreements]]
 cop = "OSTES"
 level = 170
 ades = ["EDDM"]
-fromSector = "ed/RDG"
-toSector = "ed/DMNH"
+from_sector = "ed/RDG"
+to_sector = "ed/DMNH"
 runway = ["08L", "08R"]
 
 [[agreements]]
 cop = "GOMAX"
 level = 110
 ades = ["EDDM"]
-fromSector = "ed/RDG"
-toSector = "ed/DMNH"
+from_sector = "ed/RDG"
+to_sector = "ed/DMNH"
 runway = ["26L", "26R"]
 
 [[agreements]]
 cop = "KUFAZ"
 level = 110
 ades = ["EDDM"]
-fromSector = "ed/RDG"
-toSector = "ed/DMNH"
+from_sector = "ed/RDG"
+to_sector = "ed/DMNH"
 runway = ["26L", "26R"]
 
 [[agreements]]
 cop = "OSTES"
 level = 110
 ades = ["EDDM"]
-fromSector = "ed/RDG"
-toSector = "ed/DMNH"
+from_sector = "ed/RDG"
+to_sector = "ed/DMNH"
 runway = ["26L", "26R"]
 
 [[agreements]]
 cop = "VESIX"
 level = 90
 ades = ["EDMA", "EDMO"]
-fromSector = "ed/RDG"
-toSector = "ed/DMNL"
+from_sector = "ed/RDG"
+to_sector = "ed/DMNL"
 
 [[agreements]]
 cop = "KUFAZ"
 level = 90
 ades = ["EDMA", "EDMO"]
-fromSector = "ed/RDG"
-toSector = "ed/DMNL"
+from_sector = "ed/RDG"
+to_sector = "ed/DMNL"
 
 [[agreements]]
 cop = "OSTES"
 level = 90
 ades = ["EDMA", "EDMO"]
-fromSector = "ed/RDG"
-toSector = "ed/DMNL"
+from_sector = "ed/RDG"
+to_sector = "ed/DMNL"
 
 [[agreements]]
 cop = "RUDNO"
 level = 90
 ades = ["ETSI"]
-fromSector = "ed/RDG"
-toSector = "ed/SWA"
+from_sector = "ed/RDG"
+to_sector = "ed/SWA"
 
 [[agreements]]
 cop = "STAUB"
 level = 100
 ades = ["ETSI"]
-fromSector = "ed/RDG"
-toSector = "ed/SWA"
+from_sector = "ed/RDG"
+to_sector = "ed/SWA"
 
 [[agreements]]
 cop = "AKINI"
 level = 210
 ades = ["EDDN"]
-fromSector = "ed/RDG"
-toSector = "ed/ALB"
+from_sector = "ed/RDG"
+to_sector = "ed/ALB"
 
 [[agreements]]
 cop = "RODIS"
 level = 140
 ades = ["EDDN", "EDQA", "EDQC", "EDQD", "EDQM", "ETIC"]
-transferType = "D"
-fromSector = "ed/RDG"
-toSector = "ed/FRK"
+transfer_type = "D"
+from_sector = "ed/RDG"
+to_sector = "ed/FRK"
 
 [[agreements]]
 cop = "RODIS"
 level = 300
 ades = ["EDDP"]
-fromSector = "ed/RDG"
-toSector = "ed/BBG"
+from_sector = "ed/RDG"
+to_sector = "ed/BBG"
 
 [[agreements]]
 cop = "RODIS"
 level = 260
 ades = ["EDDE"]
-fromSector = "ed/RDG"
-toSector = "ed/BBG"
+from_sector = "ed/RDG"
+to_sector = "ed/BBG"
 
 [[agreements]]
 cop = "RDG"
 level = 250
 ades = ["LOWI"]
-fromSector = "ed/RDG"
-toSector = "ed/EGG"
+from_sector = "ed/RDG"
+to_sector = "ed/EGG"
 
 [[agreements]]
 cop = "ARBAX"
 level = 260
 ades = ["LOWL"]
-fromSector = "ed/RDG"
-toSector = "ed/EGG"
+from_sector = "ed/RDG"
+to_sector = "ed/EGG"
 
 [[agreements]]
 cop = "OSTES"
 level = 200
 ades = ["LOWS"]
-fromSector = "ed/RDG"
-toSector = "ed/EGG"
+from_sector = "ed/RDG"
+to_sector = "ed/EGG"
 
 ## EGG
 [[agreements]]
 level = 260
 adep = ["LOWL"]
-fromSector = "ed/EGG"
-toSector = "ed/RDG"
+from_sector = "ed/EGG"
+to_sector = "ed/RDG"
 
 [[agreements]]
 cop = "NENUM"
 level = 240
 sfl = 210
 adep = ["LOWS"]
-transferType = "C"
-fromSector = "ed/EGG"
-toSector = "ed/RDG"
+transfer_type = "C"
+from_sector = "ed/EGG"
+to_sector = "ed/RDG"
 
 [[agreements]]
 cop = "ROSAB"
 level = 170
 ades = ["EDDM"]
-fromSector = "ed/EGG"
-toSector = "ed/DMNH"
+from_sector = "ed/EGG"
+to_sector = "ed/DMNH"
 runway = ["08L", "08R"]
 
 [[agreements]]
 cop = "ROSAB"
 level = 110
 ades = ["EDDM"]
-fromSector = "ed/EGG"
-toSector = "ed/DMNH"
+from_sector = "ed/EGG"
+to_sector = "ed/DMNH"
 runway = ["26L", "26R"]
 
 [[agreements]]
 cop = "GONBA"
 level = 100
 ades = ["ETSI"]
-fromSector = "ed/EGG"
-toSector = "ed/RDG"
+from_sector = "ed/EGG"
+to_sector = "ed/RDG"
 
 [[agreements]]
 cop = "NENUM"
 level = 280
 ades = ["EDDN"]
-fromSector = "ed/EGG"
-toSector = "ed/RDG"
+from_sector = "ed/EGG"
+to_sector = "ed/RDG"
 
 [[agreements]]
 cop = "GONBA"
 level = 240
 ades = ["EDQA", "EDQC", "EDQD", "EDQM", "ETIC"]
-fromSector = "ed/EGG"
-toSector = "ed/RDG"
+from_sector = "ed/EGG"
+to_sector = "ed/RDG"
 
 [[agreements]]
 cop = "DOSEL"
 level = 240
 ades = ["LOWI"]
-fromSector = "ed/EGG"
-toSector = "ed/TRU"
+from_sector = "ed/EGG"
+to_sector = "ed/TRU"
 
 ## NDG
 [[agreements]]
 cop = "BESNI"
 level = 200
 adep = ["EDMO"]
-transferType = "C"
-fromSector = "ed/NDG"
-toSector = "ed/EGG"
+transfer_type = "C"
+from_sector = "ed/NDG"
+to_sector = "ed/EGG"
 
 [[agreements]]
 cop = "LASMI"
 level = 200
 adep = ["EDMO"]
-transferType = "C"
-fromSector = "ed/NDG"
-toSector = "ed/EGG"
+transfer_type = "C"
+from_sector = "ed/NDG"
+to_sector = "ed/EGG"
 
 [[agreements]]
 cop = "BESNI"
 level = 200
 adep = ["EDMO"]
-fromSector = "ed/NDG"
-toSector = "ed/ALB"
+from_sector = "ed/NDG"
+to_sector = "ed/ALB"
 
 [[agreements]]
 cop = "LASMI"
 level = 200
 adep = ["EDMO"]
-fromSector = "ed/NDG"
-toSector = "ed/RDG"
+from_sector = "ed/NDG"
+to_sector = "ed/RDG"
 
 [[agreements]]
 cop = "BESNI"
 level = 310
 adep = ["EDDN"]
-fromSector = "ed/NDG"
-toSector = "ed/TEG"
+from_sector = "ed/NDG"
+to_sector = "ed/TEG"
 
 [[agreements]]
 cop = "BESNI"
 level = 310
 adep = ["EDDN"]
-fromSector = "ed/NDG"
-toSector = "ed/TRU"
+from_sector = "ed/NDG"
+to_sector = "ed/TRU"
 
 [[agreements]]
 cop = "LURER"
 level = 140
 ades = ["EDDM"]
-fromSector = "ed/NDG"
-toSector = "ed/DMNH"
+from_sector = "ed/NDG"
+to_sector = "ed/DMNH"
 runway = ["08L", "08R"]
 
 [[agreements]]
 cop = "LURER"
 level = 160
 ades = ["EDDM"]
-fromSector = "ed/NDG"
-toSector = "ed/DMNH"
+from_sector = "ed/NDG"
+to_sector = "ed/DMNH"
 runway = ["26L", "26R"]
 
 [[agreements]]
 cop = "RIDAR"
 level = 140
 ades = ["EDDM"]
-fromSector = "ed/NDG"
-toSector = "ed/DMNH"
+from_sector = "ed/NDG"
+to_sector = "ed/DMNH"
 runway = ["08L", "08R"]
 
 [[agreements]]
 cop = "RIDAR"
 level = 160
 ades = ["EDDM"]
-fromSector = "ed/NDG"
-toSector = "ed/DMNH"
+from_sector = "ed/NDG"
+to_sector = "ed/DMNH"
 runway = ["26L", "26R"]
 
 [[agreements]]
 level = 110
 ades = ["EDMA", "EDMO"]
-fromSector = "ed/NDG"
-toSector = "ed/SWA"
+from_sector = "ed/NDG"
+to_sector = "ed/SWA"
 
 [[agreements]]
 cop = "RIXED"
 level = 110
 ades = ["ETSL"]
-fromSector = "ed/NDG"
-toSector = "ed/SWA"
+from_sector = "ed/NDG"
+to_sector = "ed/SWA"
 
 [[agreements]]
 cop = "ELVAG"
 level = 110
 ades = ["EDJA"]
-fromSector = "ed/NDG"
-toSector = "ed/SWA"
+from_sector = "ed/NDG"
+to_sector = "ed/SWA"
 
 [[agreements]]
 cop = "MAH"
 level = 200
 ades = ["EDDN"]
-fromSector = "ed/NDG"
-toSector = "ed/ALB"
+from_sector = "ed/NDG"
+to_sector = "ed/ALB"
 
 [[agreements]]
 cop = "BESNI"
 level = 200
 ades = ["LOWI"]
-fromSector = "ed/NDG"
-toSector = "ed/TEG"
+from_sector = "ed/NDG"
+to_sector = "ed/TEG"
 
 [[agreements]]
 cop = "WLD"
 level = 200
 ades = ["LOWI"]
-fromSector = "ed/NDG"
-toSector = "ed/TEG"
+from_sector = "ed/NDG"
+to_sector = "ed/TEG"
 
 [[agreements]]
 cop = "BESNI"
 level = 200
 ades = ["LOWS"]
-fromSector = "ed/NDG"
-toSector = "ed/DMSH"
+from_sector = "ed/NDG"
+to_sector = "ed/DMSH"
 remarks = "OLETU @FL200"
 
 [[agreements]]
 cop = "WLD"
 level = 200
 ades = ["LOWS"]
-fromSector = "ed/NDG"
-toSector = "ed/DMSH"
+from_sector = "ed/NDG"
+to_sector = "ed/DMSH"
 remarks = "OLETU @FL200"
 
 [[agreements]]
 cop = "BESNI"
 level = 310
 ades = ["LOWL"]
-fromSector = "ed/NDG"
-toSector = "ed/EGG"
+from_sector = "ed/NDG"
+to_sector = "ed/EGG"
 remarks = "released after/abeam MIQ"
 
 ## WLD
@@ -422,36 +422,36 @@ remarks = "released after/abeam MIQ"
 cop = "BURAM"
 level = 130
 ades = ["EDDM"]
-fromSector = "ed/WLD"
-toSector = "ed/DMNH"
+from_sector = "ed/WLD"
+to_sector = "ed/DMNH"
 runway = ["08L", "08R"]
 
 [[agreements]]
 cop = "BURAM"
 level = 150
 ades = ["EDDM"]
-fromSector = "ed/WLD"
-toSector = "ed/DMNH"
+from_sector = "ed/WLD"
+to_sector = "ed/DMNH"
 runway = ["26L", "26R"]
 
 [[agreements]]
 cop = "RENLO"
 level = 130
 ades = ["EDDM"]
-fromSector = "ed/WLD"
-toSector = "ed/DMNH"
+from_sector = "ed/WLD"
+to_sector = "ed/DMNH"
 runway = ["08L", "08R"]
 
 [[agreements]]
 cop = "RENLO"
 level = 150
 ades = ["EDDM"]
-fromSector = "ed/WLD"
-toSector = "ed/DMNH"
+from_sector = "ed/WLD"
+to_sector = "ed/DMNH"
 runway = ["26L", "26R"]
 
 [[agreements]]
 level = 270
 ades = ["LOWI"]
-fromSector = "ed/WLD"
-toSector = "ed/NDG"
+from_sector = "ed/WLD"
+to_sector = "ed/NDG"

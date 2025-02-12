@@ -2,68 +2,68 @@
 cop = "BINKA"
 level = 330
 ades = ["EPZG", "EPPO"]
-fromSector = "ed/OSE1"
-toSector = "ep/EPWB"
+from_sector = "ed/OSE1"
+to_sector = "ep/EPWB"
 
 [[agreements]]
 cop = "ALUKA"
 level = 330
 ades = ["EPBY"]
-fromSector = "ed/OSE1"
-toSector = "ep/EPWB"
+from_sector = "ed/OSE1"
+to_sector = "ep/EPWB"
 
 [[agreements]]
 cop = "ALUKA"
 level = 290
 ades = ["EPPO"]
-fromSector = "ed/OSE1"
-toSector = "ep/EPWB"
+from_sector = "ed/OSE1"
+to_sector = "ep/EPWB"
 
 [[agreements]]
 cop = "GILAS"
 level = 330
 ades = ["EPWR", "EPBY"]
-fromSector = "ed/HVL1"
-toSector = "ep/EPWD"
+from_sector = "ed/HVL1"
+to_sector = "ep/EPWD"
 
 [[agreements]]
 cop = "SUBIX"
 level = 330
 ades = ["EPWR", "EPBY"]
-fromSector = "ed/HVL1"
-toSector = "ep/EPWD"
+from_sector = "ed/HVL1"
+to_sector = "ep/EPWD"
 
 [[agreements]]
 cop = "SUBIX"
 level = 290
 ades = ["EPPO"]
-fromSector = "ed/HVL1"
-toSector = "ep/EPWD"
+from_sector = "ed/HVL1"
+to_sector = "ep/EPWD"
 
 [[agreements]]
 cop = "GOVEN"
 level = 330
 ades = ["EPWR", "EPBY"]
-fromSector = "ed/HVL1"
-toSector = "ep/EPWD"
+from_sector = "ed/HVL1"
+to_sector = "ep/EPWD"
 
 [[agreements]]
 cop = "BINKA"
 level = 350
 adep = ["EKCH", "EKRK", "ESMS"]
-fromSector = "ed/OSE1"
-toSector = "ep/EPWB"
+from_sector = "ed/OSE1"
+to_sector = "ep/EPWB"
 
 [[agreements]]
 cop = "BODLA"
 level = 330
 adep = ["EDAZ"]
-fromSector = "ed/OSE1"
-toSector = "ep/EPWB"
+from_sector = "ed/OSE1"
+to_sector = "ep/EPWB"
 
 [[agreements]]
 cop = "SUBIX"
 level = 330
 adep = ["EDDP"]
-fromSector = "ed/HVL1"
-toSector = "ep/EPWD"
+from_sector = "ed/HVL1"
+to_sector = "ep/EPWD"

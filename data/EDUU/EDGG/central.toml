@@ -4,8 +4,8 @@ cop = "OSBIT"
 level = 250
 vertical = true
 ades = ["EDDS", "EDSB", "EDTY", "EDTL"]
-fromSector = "ed/FUL1"
-toSector = "ed/HAB"
+from_sector = "ed/FUL1"
+to_sector = "ed/HAB"
 remarks = "HAB responsible for separation to EDDN inbounds from FFM, approved by WUR"
 
 [[agreements]]
@@ -13,8 +13,8 @@ cop = "ELLUM"
 level = 250
 vertical = true
 ades = ["EDDV"]
-fromSector = "ed/FUL1"
-toSector = "ed/HEF"
+from_sector = "ed/FUL1"
+to_sector = "ed/HEF"
 remarks = "Flights have to be handed over to Langen asap"
 
 [[agreements]]
@@ -22,16 +22,16 @@ cop = "DEMAB"
 level = 250
 vertical = true
 ades = ["EDDK", "EDLP", "EDLW "]
-fromSector = "ed/FUL1"
-toSector = "ed/HEF"
+from_sector = "ed/FUL1"
+to_sector = "ed/HEF"
 
 [[agreements]]
 cop = "ARNIX"
 level = 250
 vertical = true
 ades = ["EDLP"]
-fromSector = "ed/FUL1"
-toSector = "ed/HEF"
+from_sector = "ed/FUL1"
+to_sector = "ed/HEF"
 remarks = "Flights have to be handed over to Langen asap"
 
 # FFM
@@ -39,51 +39,51 @@ remarks = "Flights have to be handed over to Langen asap"
 cop = "ARPEG"
 level = 250
 ades = ["EDDG", "EDDL", "EDLN", "EDLS", "EDLV", "EDWO", "EHBD", "EHEH", "EHLE", "EHTW"]
-fromSector = "ed/FFM1"
-toSector = "ed/PADH"
+from_sector = "ed/FFM1"
+to_sector = "ed/PADH"
 remarks = "Transfer asap, not later than ARPEG, PADH shall stay clear of MUAC"
 
 [[agreements]]
 cop = "EKSAK"
 level = 260
 ades = ["EDDG", "EDDL", "EDLN", "EDLS", "EDLV", "EDWO", "EHBD", "EHEH", "EHLE", "EHTW"]
-fromSector = "ed/FFM1"
-toSector = "ed/PADH"
+from_sector = "ed/FFM1"
+to_sector = "ed/PADH"
 remarks = "Transfer asap, not later than EKSAK, Released for FL250 after passing AMETU, PADH shall stay clear of MUAC"
 
 [[agreements]]
 cop = "BOMBI"
 level = 250
 ades = ["EDDS", "EDSB", "EDTY", "EDTL"]
-fromSector = "ed/FFM1"
-toSector = "ed/MAN"
+from_sector = "ed/FFM1"
+to_sector = "ed/MAN"
 
 [[agreements]]
 cop = "KONAP"
 level = 250
 ades = ["EDDN"]
-fromSector = "ed/FFM1"
-toSector = "ed/HAB"
+from_sector = "ed/FFM1"
+to_sector = "ed/HAB"
 remarks = "HAB responsible for separation to EDDS inbounds from FUL, approved by WUR"
 
 [[agreements]]
 cop = "SOGMI"
 level = 250
 ades = ["EDDE"]
-fromSector = "ed/FFM1"
-toSector = "ed/GIN"
+from_sector = "ed/FFM1"
+to_sector = "ed/GIN"
 
 # WUR
 [[agreements]]
 cop = "COSJE"
 level = 250
 ades = ["EDFH", "ELLX", "EBLG"]
-fromSector = "ed/WUR1"
-toSector = "ed/HAB"
+from_sector = "ed/WUR1"
+to_sector = "ed/HAB"
 
 [[agreements]]
 cop = "HAREM"
 level = 250
 ades = ["EDMA", "EDMO", "EDJA", "ETSN", "ETSI", "ETSA", "ETSL"]
-fromSector = "ed/WUR1"
-toSector = "ed/KNG"
+from_sector = "ed/WUR1"
+to_sector = "ed/KNG"

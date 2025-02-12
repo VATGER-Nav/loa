@@ -4,30 +4,30 @@ cop = "TRAUN"
 level = 80
 sfl = 120
 ades = ["LOWS"]
-transferType = "D"
+transfer_type = "D"
 qnh = "EDDM"
-fromSector = "ed/DMSL"
-toSector = "lo/LOWS_APP"
+from_sector = "ed/DMSL"
+to_sector = "lo/LOWS_APP"
 
 [[agreements]]
 cop = "MEBEK"
 level = 80
 sfl = 120
 ades = ["LOWS"]
-transferType = "D"
+transfer_type = "D"
 qnh = "EDDM"
-fromSector = "ed/DMSL"
-toSector = "lo/LOWS_APP"
+from_sector = "ed/DMSL"
+to_sector = "lo/LOWS_APP"
 
 [[agreements]]
 cop = "TITIG"
 level = 80
 sfl = 120
 ades = ["LOWS"]
-transferType = "D"
+transfer_type = "D"
 qnh = "EDDM"
-fromSector = "ed/DMSL"
-toSector = "lo/LOWS_APP"
+from_sector = "ed/DMSL"
+to_sector = "lo/LOWS_APP"
 
 # DMSH
 [[agreements]]
@@ -35,6 +35,6 @@ cop = "MEBEK"
 level = 190
 sfl = 100
 adep = ["EDDM"]
-transferType = "C"
-fromSector = "ed/DMSH"
-toSector = "lo/B1"
+transfer_type = "C"
+from_sector = "ed/DMSH"
+to_sector = "lo/B1"

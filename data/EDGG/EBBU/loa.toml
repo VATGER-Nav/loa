@@ -2,155 +2,158 @@
 cop = "ROMIN"
 level = 120
 ades = ["EBAW"]
-fromSector = "ed/BOT"
-toSector = "eb-el/ELS"
+from_sector = "ed/BOT"
+to_sector = "eb-el/ELS"
 
 [[agreements]]
 cop = "MODRU"
 level = 100
 adep = ["EDLN"]
-fromSector = "ed/BOT"
-toSector = "eb-el/ELS"
+from_sector = "ed/BOT"
+to_sector = "eb-el/ELS"
 remarks = "released for climb and right turns"
 
 [[agreements]]
 cop = "NETEX"
 level = 100
 adep = ["EDLN"]
-fromSector = "ed/BOT"
-toSector = "eb-el/ELS"
+from_sector = "ed/BOT"
+to_sector = "eb-el/ELS"
 remarks = "released for climb and right turns"
 
 [[agreements]]
 cop = "MODRU"
 level = 210
 adep = ["EDDL", "EDLV"]
-fromSector = "ed/BOT"
-toSector = "eb-el/ELS"
+from_sector = "ed/BOT"
+to_sector = "eb-el/ELS"
 remarks = "if able, else ↑FL180, released for climb and right turns"
 
 [[agreements]]
 cop = "NETEX"
 level = 210
 adep = ["EDDL", "EDLV"]
-fromSector = "ed/BOT"
-toSector = "eb-el/ELS"
+from_sector = "ed/BOT"
+to_sector = "eb-el/ELS"
 remarks = "if able, else ↑FL180, released for climb and right turns"
 
 [[agreements]]
 cop = "TIPUT"
 level = 220
 ades = ["EBBR", "EBMB", "EBAW", "EBCV", "EBCI", "EBLG", "EHBK", "EHEH"]
-fromSector = "ed/KIR"
-toSector = "eb-el/LUS"
-remarks = "TIPUT at level, released for descend and right turns"
+from_sector = "ed/KIR"
+to_sector = "eb-el/LUS"
+level_at = [0, "TIPUT"]
+remarks = "released for descend and right turns"
 
 [[agreements]]
 cop = "BITBU"
 level = 220
 ades = ["EBBR", "EBMB", "EBAW", "EBCV", "EBCI", "EBLG", "EHBK", "EHEH"]
-fromSector = "ed/KIR"
-toSector = "eb-el/LUS"
-remarks = "BITBU at level, released for descend and right turns"
+from_sector = "ed/KIR"
+to_sector = "eb-el/LUS"
+level_at = [0, "BIBTU"]
+remarks = "released for descend and right turns"
 
 [[agreements]]
 cop = "LIRSU"
 level = 220
 ades = ["EBBR", "EBMB", "EBAW", "EBCV", "EBCI", "EBLG", "EHBK", "EHEH"]
-fromSector = "ed/RUD"
-toSector = "eb-el/ELS"
-remarks = "LIRSU at level"
+from_sector = "ed/RUD"
+to_sector = "eb-el/ELS"
+level_at = [0, "LIRSU"]
 
 [[agreements]]
 cop = "LIRSU"
 level = 220
 ades = ["EBBR", "EBMB", "EBAW", "EBCV", "EBCI", "EBLG", "EHBK", "EHEH"]
-fromSector = "ed/RUD"
-toSector = "eb-el/ELS"
-remarks = "LIRSU at level"
+from_sector = "ed/RUD"
+to_sector = "eb-el/ELS"
+level_at = [0, "LIRSU"]
 
 [[agreements]]
 cop = "STAR"
 level = 90
 ades = ["ELLX"]
-fromSector = "ed/EIF"
-toSector = "eb-el/XA"
+from_sector = "ed/EIF"
+to_sector = "eb-el/XA"
 remarks = "See EDGG - EBBU 4.2 “Flexible use of airspace for ELLX arrivals"
 
 [[agreements]]
 cop = "STAR"
 level = 90
 ades = ["ELLX"]
-fromSector = "ed/PFA"
-toSector = "eb-el/XA"
+from_sector = "ed/PFA"
+to_sector = "eb-el/XA"
 remarks = "See EDGG - EBBU 4.2 “Flexible use of airspace for ELLX arrivals"
 
 [[agreements]]
 cop = "BITBU"
 level = 180
 adep = ["EDFH"]
-transferType = "C"
-fromSector = "ed/KIR"
-toSector = "eb-el/LUS"
+transfer_type = "C"
+from_sector = "ed/KIR"
+to_sector = "eb-el/LUS"
 remarks = "released for climb"
 
 [[agreements]]
 cop = "AGENI"
 level = 160
+sfl = 180
 ades = ["EBBR", "EBMB", "EBCI", "EBAW", "ELLX", "EHEH", "EHGR"]
-transferType = "D"
-fromSector = "ed/NOR"
-toSector = "eb-el/ELS"
-remarks = "out of FL180, released for descend to FL110"
+transfer_type = "D"
+from_sector = "ed/NOR"
+to_sector = "eb-el/ELS"
+remarks = "released for descend to FL110"
 
 [[agreements]]
 cop = "GEBSO"
 level = 220
 ades = ["EBBR", "EBMB", "EBCI", "EBAW", "ELLX", "EHEH", "EHGR"]
-fromSector = "ed/NOR"
-toSector = "eb-el/ELS"
+from_sector = "ed/NOR"
+to_sector = "eb-el/ELS"
 remarks = "released for turns and descend to FL200"
 
 [[agreements]]
 cop = "AGENI"
 level = 120
 ades = ["EBLG"]
-fromSector = "ed/NOR"
-toSector = "eb-el/ELS"
+from_sector = "ed/NOR"
+to_sector = "eb-el/ELS"
 remarks = "released for descend to FL110"
 
 [[agreements]]
 cop = "KENUM"
 level = 200
 adep = ["EDDK"]
-transferType = "C"
-fromSector = "ed/NOR"
-toSector = "eb-el/ELS"
-remarks = "released for turns"
+transfer_type = "C"
+releases = "T"
+from_sector = "ed/NOR"
+to_sector = "eb-el/ELS"
 
 [[agreements]]
 cop = "NAVAK"
 level = 200
 adep = ["EDDK"]
-transferType = "C"
-fromSector = "ed/NOR"
-toSector = "eb-el/ELS"
-remarks = "released for turns"
+transfer_type = "C"
+releases = "T"
+from_sector = "ed/NOR"
+to_sector = "eb-el/ELS"
 
 [[agreements]]
 cop = "KENUM"
 level = 200
 adep = ["EDLW"]
-transferType = "C"
-fromSector = "ed/NOR"
-toSector = "eb-el/ELS"
-remarks = "released for turns"
+transfer_type = "C"
+releases = "T"
+from_sector = "ed/NOR"
+to_sector = "eb-el/ELS"
 
 [[agreements]]
 cop = "NAVAK"
 level = 200
 adep = ["EDLW"]
-transferType = "C"
-fromSector = "ed/NOR"
-toSector = "eb-el/ELS"
-remarks = "released for turns"
+transfer_type = "C"
+releases = "T"
+from_sector = "ed/NOR"
+to_sector = "eb-el/ELS"
