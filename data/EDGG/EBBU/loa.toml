@@ -127,33 +127,37 @@ cop = "KENUM"
 level = 200
 adep = ["EDDK"]
 transfer_type = "C"
-releases = "T"
+releases = "C"
 from_sector = "ed/NOR"
 to_sector = "eb-el/ELS"
+remarks = "released for right turns"
 
 [[agreements]]
 cop = "NAVAK"
 level = 200
 adep = ["EDDK"]
 transfer_type = "C"
-releases = "T"
+releases = "C"
 from_sector = "ed/NOR"
 to_sector = "eb-el/ELS"
+remarks = "released for right turns"
 
 [[agreements]]
 cop = "KENUM"
 level = 200
 adep = ["EDLW"]
 transfer_type = "C"
-releases = "T"
+releases = "C"
 from_sector = "ed/NOR"
 to_sector = "eb-el/ELS"
+remarks = "released for right turns, for flights with RFL245+ a higher level request can be done with EDYY OLNO"
 
 [[agreements]]
 cop = "NAVAK"
 level = 200
 adep = ["EDLW"]
 transfer_type = "C"
-releases = "T"
+releases = "C"
 from_sector = "ed/NOR"
 to_sector = "eb-el/ELS"
+remarks = "released for right turns, for flights with RFL245+ a higher level request can be done with EDYY OLNO"

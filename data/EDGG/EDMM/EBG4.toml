@@ -20,7 +20,7 @@ to_sector = "ed/WLD"
 [[agreements]]
 cop = "LETKU"
 level = 110
-sfl = 130
+sfl = 135
 ades = ["EDDN"]
 transfer_type = "D"
 releases = "F"
