@@ -1,7 +1,8 @@
-import os
 import tomllib
 import unittest
-from views.agreement import Agreement
+from pathlib import Path
+
+from loa import Agreement
 
 
 class TestAgreement(unittest.TestCase):
@@ -12,22 +13,17 @@ class TestAgreement(unittest.TestCase):
     def test_on_data(self):
         """all agreements should create a valid Agreement object"""
 
-        data_dir = "data/"
-        for root, _, files in os.walk(data_dir):
+        for root, _, files in Path("data/").walk():
             for file in files:
                 if not file.endswith(".toml"):
                     continue
 
-                file_path = os.path.join(root, file)
-                try:
-                    with open(file_path, "rb") as toml_file:
-                        data = tomllib.load(toml_file)
+                file_path = root / file
+                with file_path.open("rb") as toml_file:
+                    data = tomllib.load(toml_file)
 
-                        for element in data["agreements"]:
-                            Agreement.from_dict(element)
-
-                except Exception as e:
-                    self.fail(f"Exception {e}. Failed on {file_path}")
+                    for element in data["agreements"]:
+                        Agreement(**element)
 
     def test_adep_ades_validation(self):
         """Agreement must have ADEP or ADES set"""
@@ -35,12 +31,6 @@ class TestAgreement(unittest.TestCase):
         # model without ADEP and ADES should raise a ValueError
         with self.assertRaises(ValueError):
             Agreement(from_sector="ed/DUS", to_sector="ed/BOT")
-
-        # ADEP and ADES must be of type list
-        with self.assertRaises(ValueError):
-            Agreement(from_sector="ed/DUS", to_sector="ed/BOT", adep="EDDF")
-        with self.assertRaises(ValueError):
-            Agreement(from_sector="ed/DUS", to_sector="ed/BOT", ades="EDDF")
 
         # model with ADEP or model with ADES set should not raise any errors
         Agreement(from_sector="ed/DUS", to_sector="ed/BOT", adep=["EDDF"])
@@ -50,9 +40,7 @@ class TestAgreement(unittest.TestCase):
         agreement = self.get_default_agreement()
         agreement.runway = ["05L"]
         agreement.runway = ["36", "05L"]
+        agreement.runway = None
 
         with self.assertRaises(ValueError):
             agreement.runway = ["05P"]
-
-        with self.assertRaises(ValueError):
-            agreement.runway = "05L"

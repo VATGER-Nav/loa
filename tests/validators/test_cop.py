@@ -1,6 +1,6 @@
 import unittest
 
-from validators.cop import validate_cop
+from loa.validators.cop import validate_cop
 
 
 class TestCopValidator(unittest.TestCase):

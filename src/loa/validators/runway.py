@@ -1,28 +1,29 @@
-from typing import List
-
-
 def validate_runway(runway: str):
     runway = runway.strip().upper()
 
     if len(runway) < 2 or len(runway) > 3:
-        raise ValueError(f"Invalid ruwnay format: '{runway}'")
+        msg = f"Invalid ruwnay format: '{runway}'"
+        raise ValueError(msg)
 
     if not runway[:2].isdigit():
-        raise ValueError(f"Invalid runway number: '{runway}'")
+        msg = f"Invalid runway number: '{runway}'"
+        raise ValueError(msg)
 
     runway_number = int(runway[:2])
     if not 1 <= runway_number <= 36:
-        raise ValueError(f"Runway number out of range: '{runway}'")
+        msg = f"Runway number out of range: '{runway}'"
+        raise ValueError(msg)
 
     if len(runway) == 3:
         suffix = runway[2]
         if suffix not in {"L", "C", "R"}:
-            raise ValueError(f"Invalid runway suffix: '{runway}'")
+            msg = f"Invalid runway suffix: '{runway}'"
+            raise ValueError(msg)
 
     return runway
 
 
-def validate_runways(runways: List[str]):
+def validate_runways(runways: list[str]):
     for i in range(len(runways)):
         runways[i] = validate_runway(runways[i])
 

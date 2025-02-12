@@ -1,6 +1,6 @@
 import unittest
 
-from validators.runway import validate_runway
+from loa.validators.runway import validate_runway
 
 
 class TestRunwayValidator(unittest.TestCase):

@@ -1,0 +1,71 @@
+[project]
+name = "loa"
+version = "0.1.0"
+description = "Library for interacting with VATSIM LoA data"
+authors = [{ name = "Robin Gloster", email = "mail@glob.in" }, { name = "Leon Kleinschmidt" }]
+license = { file = "LICENSE-code" }
+readme = "README.md"
+requires-python = ">=3.12"
+classifiers = [
+        "Programming Language :: Python :: 3",
+        "License :: OSI Approved :: MIT License",
+        "Operating System :: OS Independent",
+        "Development Status :: 3 - Alpha",
+        "Intended Audience :: Developers",
+        "Topic :: Games/Entertainment :: Simulation",
+        "Topic :: Software Development :: Libraries :: Python Modules",
+]
+
+dependencies = ["pydantic>=2.10.2", "regex>=2024.11.6", "requests>=2.32.3"]
+
+[project.scripts]
+loa_combine = "loa:combine"
+loa_check = "loa:check"
+
+[dependency-groups]
+dev = ["pyright>=1.1.389", "pytest>=8.3.3", "pytest-cov>=6.0.0", "ruff>=0.8.0"]
+
+[tool.pytest.ini_options]
+addopts = ["--cov-report=term", "--cov-report=xml:cov.xml", "--cov=loa"]
+testpaths = ["tests"]
+
+[tool.ruff]
+line-length = 100
+target-version = "py312"
+preview = true
+
+[tool.ruff.lint]
+select = [
+        "E",     # pycodestyle errors
+        "W",     # pycodestyle warnings
+        "F",     # pyflakes
+        "C90",   # mccabe
+        "I",     # isort
+        "ASYNC", # flake8-async
+        "B",     # flake8-bugbear
+        "BLE",   # flake8-blind-except
+        "COM",   # flake8-commas
+        "C4",    # flake8-comprehensions
+        "DTZ",   # flake8-datetimez
+        "EM",    # flake8-errmsg
+        "ICN",   # flake8-import-conventions
+        "PYI",   # flake8-pyi
+        "Q",     # flake8-quotes
+        "SIM",   # flake8-simplify
+        "TCH",   # flake8-typechecking
+        "PTH",   # flake8-use-pathlib
+        "UP",    # pyupgrade
+        "RUF",   # ruff-specific
+        "TRY",   # tryceratops
+        "FURB",  # refurb
+]
+ignore = ["COM812"]
+
+[tool.pyright]
+include = ["src/loa", "tests"]
+pythonVersion = "3.12"
+typeCheckingMode = "strict"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"

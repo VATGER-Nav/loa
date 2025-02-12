@@ -1,6 +1,6 @@
 import unittest
 
-from validators.icao import validate_icao, validate_icaos
+from loa.validators.icao import validate_icao, validate_icaos
 
 
 class TestIcaoValidator(unittest.TestCase):
@@ -34,5 +34,5 @@ class TestIcaoValidator(unittest.TestCase):
 
         self.assertEqual(len(icaos), len(validated_icaos))
 
-        for icao, validated_icao in zip(icaos, validated_icaos):
+        for icao, validated_icao in zip(icaos, validated_icaos, strict=True):
             self.assertEqual(validated_icao, validate_icao(icao))
