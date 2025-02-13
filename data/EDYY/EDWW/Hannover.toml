@@ -41,14 +41,6 @@ from_sector = "ed/CL"
 to_sector = "ed/EMS"
 
 [[agreements]]
-cop = "ENUGA"
-level = 250
-ades = ["EDDL", "EDDG", "EDLA", "EDLW", "EDLD", "EDLV", "ETNG", "EHBK", "EHEH", "EHTW", "EHBD"]
-level_at = [0, "ENUGA"]
-from_sector = "ed/CL"
-to_sector = "ed/EMS"
-
-[[agreements]]
 cop = "ROBEG"
 level = 250
 ades = ["EDVK", "EDLI"]
@@ -259,4 +251,3 @@ ades = ["EDDV", "ETNW"]
 level_at = [0, "GEPKO"]
 from_sector = "ed/ML"
 to_sector = "ed/EMS"
-

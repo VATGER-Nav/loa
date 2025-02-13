@@ -2,56 +2,70 @@
 cop = "XAROL"
 level = 290
 ades = ["LFJL", "ELLX", "EDQG"]
-from_sector = "ed/SOL"
-to_sector = "ed/FFM1"
+from_sector = "ed/SL"
+to_sector = "ed/FUL1"
 
 [[agreements]]
 cop = "XAROL"
 level = 330
 ades = ["EDSB", "LFST", "LFGA"]
-from_sector = "ed/SOL"
-to_sector = "ed/FFM2"
+from_sector = "ed/SL"
+to_sector = "ed/FUL2"
 
 [[agreements]]
 cop = "OTMON"
 level = 330
 ades = ["LFST", "LFGA"]
-from_sector = "ed/SOL"
-to_sector = "ed/FFM2"
+from_sector = "ed/SL"
+to_sector = "ed/FUL2"
+
+[[agreements]]
+cop = "WERRA"
+level = 350
+ades = ["EDDS", "EDTY", "EDTM", "EDTL", "EDSB", "EDJA", "EDMA", "EDMO", "ETSI", "ETSL", "ETSN"]
+from_sector = "ed/SL"
+to_sector = "ed/FUL1"
 
 [[agreements]]
 cop = "BERXO"
 level = 350
 ades = ["EDDS", "EDTY", "EDTM", "EDTL", "EDSB", "EDJA", "EDMA", "EDMO", "ETSI", "ETSL", "ETSN"]
-from_sector = "ed/SOL"
+from_sector = "ed/SL"
 to_sector = "ed/FUL1"
 
 [[agreements]]
 cop = "BERXO"
 level = 290
 ades = ["EDQG"]
-from_sector = "ed/SOL"
+from_sector = "ed/SL"
+to_sector = "ed/FUL1"
+
+[[agreements]]
+cop = "WERRA"
+level = 290
+ades = ["EDQG"]
+from_sector = "ed/SL"
 to_sector = "ed/FUL1"
 
 [[agreements]]
 cop = "TIVUN"
 level = 350
 ades = ["EDDN", "EDMA", "EDMO", "EDJA", "EDTY"]
-from_sector = "ed/RHR"
+from_sector = "ed/RL"
 to_sector = "ed/FFM2"
 
 [[agreements]]
 cop = "DOJOH"
 level = 350
 ades = ["EDDN", "EDMA", "EDMO", "EDJA", "EDTY"]
-from_sector = "ed/RHR"
+from_sector = "ed/RL"
 to_sector = "ed/FFM2"
 
 [[agreements]]
 cop = "TIVUN"
 level = 290
 ades = ["EDFM", "EDFV", "EDRY"]
-from_sector = "ed/RHR"
+from_sector = "ed/RL"
 to_sector = "ed/FFM1"
 remarks = "To be FL290 prior to the ARPEG Area"
 
@@ -59,107 +73,94 @@ remarks = "To be FL290 prior to the ARPEG Area"
 cop = "TIVUN"
 level = 310
 ades = ["EDDR", "EDRZ"]
-from_sector = "ed/RHR"
+from_sector = "ed/RL"
 to_sector = "ed/FFM1"
 
 [[agreements]]
 cop = "TIVUN"
 level = 310
 ades = ["EDDS", "EDSB", "LFST", "LFGA"]
-from_sector = "ed/RHR"
+from_sector = "ed/RL"
 to_sector = "ed/FFM1"
 
 [[agreements]]
 cop = "DOJOH"
 level = 310
 ades = ["EDDS", "EDSB", "LFST", "LFGA"]
-from_sector = "ed/RHR"
+from_sector = "ed/RL"
 to_sector = "ed/FFM1"
 
 [[agreements]]
 cop = "GARLU"
 level = 350
 ades = ["EDAH"]
-from_sector = "ed/CEL"
+from_sector = "ed/CL"
 to_sector = "ed/OSE1"
 
 [[agreements]]
 cop = "NEBUN"
 level = 350
 ades = ["EDAH"]
-from_sector = "ed/HOL"
+from_sector = "ed/HL"
 to_sector = "ed/OSE1"
 
 [[agreements]]
 cop = "BUMIL"
 level = 350
 ades = ["EDAH"]
-from_sector = "ed/HOL"
+from_sector = "ed/HL"
 to_sector = "ed/OSE1"
 
 [[agreements]]
-cop = "XAROL"
-level = 270
-adep = ["EDDV"]
-from_sector = "ed/SOL"
-to_sector = "ed/FFM1"
-
-[[agreements]]
-cop = "ELNAT"
-level = 270
+cop = "WERRA"
+level = 290
 sfl = 260
 adep = ["EDDV"]
 transfer_type = "C"
-from_sector = "ed/SOL"
+from_sector = "ed/SL"
 to_sector = "ed/FUL1"
 
 [[agreements]]
-cop = "ELNAT"
+cop = "WERRA"
 level = 290
 adep = ["EDVE"]
-from_sector = "ed/SOL"
+from_sector = "ed/SL"
 to_sector = "ed/FUL1"
-
-[[agreements]]
-cop = "XAROL"
-level = 310
-adep = ["EDVE"]
-from_sector = "ed/SOL"
-to_sector = "ed/FFM1"
 
 [[agreements]]
 cop = "NEBUN"
 level = 290
 adep = ["EDDW"]
-from_sector = "ed/CEL"
+from_sector = "ed/CL"
 to_sector = "ed/OSE1"
+
 
 [[agreements]]
 cop = "POVEL"
 level = 330
 adep = ["EDDW"]
-from_sector = "ed/SOL"
+from_sector = "ed/SL"
 to_sector = "ed/SAL1"
 
 [[agreements]]
 cop = "ZUCKA"
 level = 330
 adep = ["EDDW"]
-from_sector = "ed/SOL"
+from_sector = "ed/SL"
 to_sector = "ed/SAL1"
 
 [[agreements]]
 cop = "ABGUS"
 level = 330
 adep = ["EDDW"]
-from_sector = "ed/SOL"
+from_sector = "ed/SL"
 to_sector = "ed/SAL1"
 
 [[agreements]]
 cop = "KUMER"
 level = 330
 adep = ["EDDW"]
-from_sector = "ed/SOL"
+from_sector = "ed/SL"
 to_sector = "ed/SAL1"
 
 [[agreements]]
@@ -173,7 +174,7 @@ to_sector = "ed/SAL1"
 cop = "ZUCKA"
 level = 350
 adep = ["EDDH"]
-from_sector = "ed/SOL"
+from_sector = "ed/SL"
 to_sector = "ed/SAL1"
 remarks = "Higher odd level after system coordination"
 

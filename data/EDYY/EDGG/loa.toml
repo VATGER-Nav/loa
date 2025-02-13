@@ -55,3 +55,10 @@ level_at = [0, "LIPMI"]
 from_sector = "ed/RL"
 to_sector = "ed/TAU"
 
+[[agreements]]
+cop = "APEBE"
+level = 250
+ades = ["EDDL", "EDL*", "EHTW"]
+level_at = [0, "APEBE"]
+from_sector = "ed/SL"
+to_sector = "ed/HMM"

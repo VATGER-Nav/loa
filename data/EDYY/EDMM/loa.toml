@@ -2,12 +2,12 @@
 cop = "ABGUS"
 level = 250
 ades = ["EDDN", "EDQA", "EDQC", "EDQD", "EDQM"]
-from_sector = "ed/SOL"
+from_sector = "ed/SL"
 to_sector = "ed/HAL"
 
 [[agreements]]
 cop = "NOMKA"
 level = 250
 ades = ["EDDC", "EDDN", "EDAB", "EDAC", "EDQA", "EDQC", "EDQD", "EDQM", "ETIC"]
-from_sector = "ed/SOL"
+from_sector = "ed/SL"
 to_sector = "ed/HAL"
