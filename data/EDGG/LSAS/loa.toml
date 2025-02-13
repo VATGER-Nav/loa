@@ -4,7 +4,7 @@ level = 190
 adep = ["LFST", "LFGA", "LFJL", "EDTL"]
 from_sector = "ed/BAD"
 to_sector = "ls/SZN"
-remarks = "released for climb FL240 (remain clear of EDUU) South of HERBI; flights may be cleared DCT LUTIX/ROTOS when passing or remaining West of TRA"
+remarks = "released for climb FL240 (remain clear of EDUU) south of HERBI; flights may be cleared DCT LUTIX/ROTOS when passing or remaining West of TRA"
 
 [[agreements]]
 cop = "NATOR"
@@ -88,4 +88,3 @@ level = 90
 ades = ["EDTM"]
 from_sector = "ed/REU"
 to_sector = "ls/ARFA"
-

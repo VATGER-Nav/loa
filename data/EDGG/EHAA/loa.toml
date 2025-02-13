@@ -5,7 +5,7 @@ ades = ["EHAM"]
 transfer_type = "D"
 from_sector = "ed/HMM"
 to_sector = "eh/EHAAE"
-remarks = "from lower airspace\nFL200-240\n"
+remarks = "from lower airspace FL200-240"
 
 [[agreements]]
 cop = "RKN"
@@ -48,7 +48,7 @@ level = 80
 ades = ["EHBK"]
 from_sector = "ed/BOT"
 to_sector = "eh/EHBK"
-remarks = "NETEX arrivals\nFlights with routes excluding the mentioned COPs require manual coordination"
+remarks = "NETEX arrivals, flights with routes excluding the mentioned COPs require manual coordination"
 
 [[agreements]]
 cop = "MAS"
@@ -56,7 +56,7 @@ level = 80
 ades = ["EHBK"]
 from_sector = "ed/BOT"
 to_sector = "eh/EHBK"
-remarks = "NVO arrivals\nFlights with routes excluding the mentioned COPs require manual coordination"
+remarks = "NVO arrivals, flights with routes excluding the mentioned COPs require manual coordination"
 
 [[agreements]]
 cop = "RKN"

@@ -184,7 +184,6 @@ to_sector = "ed/STG"
 
 # FIXME
 [[agreements]]
-cop = "-"
 level = 150
 ades = ["EDDS", "EDTY", "EDSB", "EDJA", "EDRY", "EDTD", "EDTM"]
 from_sector = "ed/LBU/BAD"
@@ -504,13 +503,14 @@ from_sector = "ed/STG"
 to_sector = "ed/LBU"
 
 [[agreements]]
-cop = "KERAX (B)"
+cop = "KERAX"
 level = 100
 ades = ["EDDF"]
 transfer_type = "D"
 level_at = [0, "EBIPA"]
 from_sector = "ed/GED"
 to_sector = "ed/DFAS"
+remarks = "KERAX#B"
 
 [[agreements]]
 cop = "OSPUL"
@@ -540,7 +540,7 @@ to_sector = "ed/DFAS"
 remarks = "KERAX#C"
 
 [[agreements]]
-cop = "KERAX(D)"
+cop = "KERAX"
 level = 130
 ades = ["EDDF"]
 transfer_type = "D"
@@ -596,26 +596,26 @@ to_sector = "ed/DKA"
 [[agreements]]
 cop = "BATEB"
 level = 130
+releases = "F"
 ades = ["EDDK"]
 from_sector = "ed/GIN"
 to_sector = "ed/PADL"
-remarks = "released"
 
 [[agreements]]
 cop = "ARPEG"
 level = 110
+releases = "F"
 ades = ["EDLW", "EDLP"]
 from_sector = "ed/GIN"
 to_sector = "ed/PADL"
-remarks = "released"
 
 [[agreements]]
 cop = "SODNA"
 level = 110
+releases = "F"
 ades = ["EDLW", "EDLP"]
 from_sector = "ed/GIN"
 to_sector = "ed/PADL"
-remarks = "released"
 
 [[agreements]]
 cop = "DITAM"
@@ -735,9 +735,10 @@ from_sector = "ed/HAB"
 to_sector = "ed/MAN"
 
 [[agreements]]
-cop = "Z93 KOSEK"
+cop = "KOSEK"
 level = 200
 ades = ["EDFH", "EDSB", "EDTL"]
+route_before = "Z93"
 from_sector = "ed/HAB"
 to_sector = "ed/MAN"
 
@@ -767,9 +768,10 @@ to_sector = "ed/NKRH"
 cop = "GIBSA"
 level = 170
 adep = ["EDDF"]
+releases = "T"
 from_sector = "ed/KNG"
 to_sector = "ed/KTG"
-remarks = "SULUS-Dep, released for turns and climbs up FL190"
+remarks = "SULUS-Dep, released for climbs up FL190"
 
 [[agreements]]
 cop = "TOSTU"
@@ -786,7 +788,7 @@ from_sector = "ed/RUD"
 to_sector = "ed/NOR"
 
 [[agreements]]
-cop = "NIIVNU"
+cop = "NIVNU"
 level = 180
 ades = ["EDDK"]
 from_sector = "ed/RUD"
@@ -939,9 +941,10 @@ cop = "DOMUX"
 level = 140
 ades = ["EDDL"]
 transfer_type = "D"
+releases = "T"
 from_sector = "ed/PADH"
 to_sector = "ed/DLA"
-remarks = "Released by PADH for turn and descend to FL100"
+remarks = "released for descend to FL100, PADH may clear traffic DCT DOMUX as long as new track remains Northeast of PADBA"
 
 [[agreements]]
 cop = "HALME"
@@ -1069,7 +1072,14 @@ from_sector = "ed/PADH"
 to_sector = "ed/SIG"
 
 [[agreements]]
-cop = "HMM, DOMEG"
+cop = "DOMEG"
+adep = ["EDDG"]
+from_sector = "ed/HMM"
+to_sector = "ed/PADH"
+remarks = "flights via HMM and DOMEG into PADH are subject to coordination"
+
+[[agreements]]
+cop = "HMM"
 adep = ["EDDG"]
 from_sector = "ed/HMM"
 to_sector = "ed/PADH"
@@ -1109,22 +1119,24 @@ from_sector = "ed/DKA"
 to_sector = "ed/DLA"
 
 [[agreements]]
-cop = "NVO(06/14)"
+cop = "NVO"
 level = 140
 adep = ["EDDK"]
 transfer_type = "C"
 releases = "F"
 from_sector = "ed/DKA"
 to_sector = "ed/NOR"
+remarks = "06/13 Ops in EDDK"
 
 [[agreements]]
-cop = "NVO(23/32)"
+cop = "NVO"
 level = 100
 adep = ["EDDK"]
 transfer_type = "C"
 releases = "F"
 from_sector = "ed/DKA"
 to_sector = "ed/NOR"
+remarks = "24/31 Ops in EDDK"
 
 [[agreements]]
 cop = "COL"
@@ -1140,9 +1152,10 @@ cop = "KUMIK"
 level = 140
 adep = ["EDDK"]
 transfer_type = "C"
+releases = "C"
 from_sector = "ed/DKA"
 to_sector = "ed/SIG"
-remarks = "released for climb and turns to the south"
+remarks = "released for turns to the south"
 
 [[agreements]]
 cop = "PODIP"

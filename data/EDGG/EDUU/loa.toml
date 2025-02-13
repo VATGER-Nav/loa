@@ -62,6 +62,7 @@ adep = ["EDDF"]
 vertical = true
 from_sector = "ed/DKB"
 to_sector = "ed/WUR1"
+remarks = "Flights must be able to cross border between DKB and NDG at FL240+, otherwise individual verbal coordination between ACCs Langen and München is required"
 
 [[agreements]]
 cop = "RIMKI"
