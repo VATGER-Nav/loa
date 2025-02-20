@@ -24,12 +24,6 @@ to_sector = "ed/CL"
 
 [[agreements]]
 level = 320
-ades = ["EDDL", "EDDG", "EDLA", "EDLD", "EDLW", "EDLV", "ETNG", "EHTW", "EHBD", "EHEH", "EHBK"]
-from_sector = "ed/HL"
-to_sector = "ed/CL"
-
-[[agreements]]
-level = 320
 ades = ["EDDB", "EDDP", "EDAE", "EDAV", "EDAY", "EDAZ", "EDBW", "EDON", "EDBC"]
 from_sector = "ed/HL"
 to_sector = "ed/CL"
