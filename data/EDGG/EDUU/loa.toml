@@ -36,7 +36,7 @@ level = 240
 adep = ["EDDF"]
 vertical = true
 from_sector = "ed/GIN"
-to_sector = "ed/FFM1"
+to_sector = "ed/FUL1"
 remarks = "only flights routing via Y150/Y153 to the North"
 
 [[agreements]]
