@@ -47,7 +47,7 @@ remarks = "Transfer asap, not later than ARPEG, PADH shall stay clear of MUAC"
 cop = "EKSAK"
 level = 260
 ades = ["EDDG", "EDDL", "EDLN", "EDLS", "EDLV", "EDWO", "EHBD", "EHEH", "EHLE", "EHTW"]
-from_sector = "ed/FFM1"
+from_sector = "ed/FUL1"
 to_sector = "ed/PADH"
 remarks = "Transfer asap, not later than EKSAK, Released for FL250 after passing AMETU, PADH shall stay clear of MUAC"
 
