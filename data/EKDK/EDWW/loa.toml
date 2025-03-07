@@ -3,14 +3,14 @@ cop = "ALASA"
 level = 230
 ades = ["EDDH", "EDHI", "EDHL"]
 from_sector = "ek/EKDD"
-to_sector = "ed/EIDE"
+to_sector = "ed/EID"
 
 [[agreements]]
 cop = "ATTUS"
 level = 230
 ades = ["EDDH", "EDHI", "EDHL"]
-from_sector = "ek/EKDD"
-to_sector = "ed/EIDE"
+from_sector = "ek/EKDN"
+to_sector = "ed/EID"
 
 [[agreements]]
 cop = "MICOS"
@@ -20,7 +20,7 @@ from_sector = "ek/EKDI"
 to_sector = "ed/HEI"
 
 [[agreements]]
-cop = "ALASA"
+cop = "MICOS"
 level = 160
 ades = ["EDHL"]
 from_sector = "ek/EKDI"
@@ -31,21 +31,21 @@ cop = "ATTUS"
 level = 80
 ades = ["EDXW", "EDXF", "EDHK", "ETNS", "ETNH"]
 from_sector = "ek/EKDD"
-to_sector = "ed/EIDE"
+to_sector = "ed/EID"
 
 [[agreements]]
 cop = "DOSUR"
 level = 80
 ades = ["EDXW", "EDXF", "EDHK", "ETNS", "ETNH"]
 from_sector = "ek/EKDD"
-to_sector = "ed/EIDE"
+to_sector = "ed/EID"
 
 [[agreements]]
 cop = "ALASA"
 level = 80
 ades = ["EDXW", "EDXF", "EDHK", "ETNS", "ETNH"]
 from_sector = "ek/EKDD"
-to_sector = "ed/EIDE"
+to_sector = "ed/EID"
 
 [[agreements]]
 cop = "SONAL"

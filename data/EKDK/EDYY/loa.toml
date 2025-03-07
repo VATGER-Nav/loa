@@ -1,12 +1,12 @@
 [[agreements]]
-cop = "TUSKA"
+cop = "ALASA"
 level = 340
 ades = ["EDDW", "EDDV", "EDVE"]
-from_sector = "ek/EKDS"
-to_sector = "ed/JL"
+from_sector = "ek/EKDC"
+to_sector = "ed/HL"
 
 [[agreements]]
-cop = "ALASA"
+cop = "ATTUS"
 level = 340
 ades = ["EDDW", "EDDV", "EDVE"]
 from_sector = "ek/EKDC"
@@ -16,27 +16,33 @@ to_sector = "ed/HL"
 cop = "MICOS"
 level = 340
 ades = ["EDDW", "EDDV", "EDVE"]
-from_sector = "ek/EKDC"
+from_sector = "ek/EKDA"
 to_sector = "ed/HL"
 
 [[agreements]]
 cop = "MICOS"
 level = 340
-adep = ["EKCH", "ESMS"]
-from_sector = "ek/EKDC"
+adep = ["EKCH", "EKRK", "ESMS"]
+from_sector = "ek/EKDA"
 to_sector = "ed/HL"
 
 [[agreements]]
 cop = "ALASA"
-level = 250
+level = 280
 adep = ["EKBI"]
 from_sector = "ek/EKDD"
 to_sector = "ed/HL"
 
 [[agreements]]
-cop = "TUSKA"
-level = 250
+cop = "ISPUB"
+level = 280
 adep = ["EKBI"]
-from_sector = "ek/EKDS"
+from_sector = "ek/EKDN"
 to_sector = "ed/JL"
 
+[[agreements]]
+cop = "OMIMA"
+level = 280
+adep = ["EKBI"]
+from_sector = "ek/EKDN"
+to_sector = "ed/JL"
