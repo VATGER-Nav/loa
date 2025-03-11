@@ -3,19 +3,19 @@
 cop = "AKIMA"
 level = 160
 ades = ["LOWL"]
-releases = "TD"
+releases = "T"
 from_sector = "ed/EGG"
 to_sector = "lo/LOWL_APP"
-remarks = "Released FL110"
+remarks = "Released descent to FL110"
 
 [[agreements]]
 cop = "DEXIT"
 level = 160
 ades = ["LOWL"]
-releases = "TD"
+releases = "T"
 from_sector = "ed/EGG"
 to_sector = "lo/LOWL_APP"
-remarks = "Released FL110"
+remarks = "Released descent to FL110"
 
 [[agreements]]
 cop = "BIBAG"
