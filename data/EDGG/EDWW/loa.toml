@@ -4,6 +4,7 @@ level = 100
 ades = ["EDVK"]
 from_sector = "ed/GIN"
 to_sector = "ed/HRZ"
+remarks = "Transfer of Communications latest 10 NM prior to XAROL"
 
 [[agreements]]
 cop = "ELNAT"
@@ -11,6 +12,7 @@ level = 100
 ades = ["EDVK"]
 from_sector = "ed/HEF"
 to_sector = "ed/HRZ"
+remarks = "Transfer of Communications latest 10 NM prior to ELNAT"
 
 [[agreements]]
 cop = "ELNAT"
@@ -42,6 +44,14 @@ to_sector = "ed/HRZ"
 
 [[agreements]]
 cop = "WRB"
+level = 100
+adep = ["EDLP"]
+ades = ["EDVK"]
+from_sector = "ed/PADL"
+to_sector = "ed/HRZ"
+
+[[agreements]]
+cop = "WRB"
 level = 70
 adep = ["EDFQ"]
 from_sector = "ed/GIN"
@@ -51,34 +61,92 @@ to_sector = "ed/HRZ"
 cop = "OSN"
 level = 150
 adep = ["EDDG"]
+transfer_type = "D"
+from_sector = "ed/HMM"
+to_sector = "ed/EMS"
+remarks = "Out of 5000 ft"
+
+[[agreements]]
+cop = "JUWGI"
+level = 150
+adep = ["EDDG"]
+transfer_type = "D"
+from_sector = "ed/HMM"
+to_sector = "ed/EMS"
+remarks = "Out of 5000 ft"
+
+[[agreements]]
+cop = "OSN"
+level = 230
+adep = ["EDLW"]
 from_sector = "ed/HMM"
 to_sector = "ed/EMS"
 
 [[agreements]]
+cop = "JUWGI"
+level = 230
+adep = ["EDLW"]
+from_sector = "ed/HMM"
+to_sector = "ed/EMS"
+
+[[agreements]]
+cop = "OSDIK"
+level = 230
+adep = ["EDLW"]
+from_sector = "ed/HMM"
+to_sector = "ed/EMS"
+
+[[agreements]]
+cop = "WRB"
+level = 80
+adep = ["ETHF"]
+from_sector = "ed/HEF"
+to_sector = "ed/HRZ"
+
+[[agreements]]
+cop = "XAROL"
+level = 80
+adep = ["ETHF"]
+from_sector = "ed/HEF"
+to_sector = "ed/HRZ"
+
+[[agreements]]
+cop = "ELNAT"
+level = 80
+adep = ["ETHF"]
+from_sector = "ed/HEF"
+to_sector = "ed/HRZ"
+
+[[agreements]]
 cop = "PELUN"
-level = 210
+level = 230
 adep = ["EDDK"]
 from_sector = "ed/PADH"
-to_sector = "ed/DST"
-remarks = "Only applicable to flights with a RFL below FL245"
+to_sector = "ed/HRZ"
+remarks = "If RFL is below FL245"
+
+[[agreements]]
+cop = "ESADU"
+level = 230
+adep = ["EDDL"]
+from_sector = "ed/PADH"
+to_sector = "ed/hrz"
+remarks = "If RFL is below FL245"
 
 [[agreements]]
 cop = "ESADU"
 level = 210
-adep = ["EDDL"]
-from_sector = "ed/PADH"
-to_sector = "ed/DST"
-
-[[agreements]]
-cop = "ESADU"
-level = 190
 adep = ["EDLW"]
+transfer_type = "C"
 from_sector = "ed/PADH"
-to_sector = "ed/DST"
+to_sector = "ed/HRZ"
+remarks = "Out of FL190"
 
 [[agreements]]
 cop = "WRB"
 level = 130
 adep = ["EDLP"]
+transfer_type = "C"
 from_sector = "ed/PADL"
 to_sector = "ed/HRZ"
+remarks = "Transfer at 5000 ft during activity of ED-R 203A"
