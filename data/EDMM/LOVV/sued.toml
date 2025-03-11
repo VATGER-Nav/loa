@@ -2,20 +2,22 @@
 [[agreements]]
 cop = "BADVI"
 level = 130
+sfl = 160
 ades = ["LOWI"]
 transfer_type = "D"
 from_sector = "ed/TEG"
 to_sector = "lo/LOWI_APP"
-remarks = "Clear of Wien ACC sectors, accepted direct RTT"
+remarks = "Accepted direct RTT"
 
 [[agreements]]
 cop = "TULSI"
 level = 130
+sfl = 160
 ades = ["LOWI"]
 transfer_type = "D"
 from_sector = "ed/TEG"
 to_sector = "lo/LOWI_APP"
-remarks = "Clear of Wien ACC sector, accepted direct RTT"
+remarks = "Accepted direct RTT"
 
 [[agreements]]
 cop = "BIRGI"
@@ -58,6 +60,16 @@ to_sector = "lo/LOWI_APP"
 remarks = "Accepted direct ELMEM"
 
 # TRU
+[[agreements]]
+cop = "TRAUN"
+level = 80
+sfl = 120
+ades = ["LOWS"]
+transfer_type = "D"
+qnh = "EDDM"
+from_sector = "ed/TRU"
+to_sector = "lo/LOWS_APP"
+
 [[agreements]]
 cop = "INPUL"
 level = 270

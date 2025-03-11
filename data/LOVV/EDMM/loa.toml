@@ -2,6 +2,7 @@
 cop = "AMADI"
 level = 130
 ades = ["EDDM"]
+level_at = [0, "AMADI"]
 from_sector = "lo/B1"
 to_sector = "ed/DMSH"
 remarks = "If traffic permits and with approval of EDDM_APP entry condition may be altered to “descending, FL190 or below at COP”. ACC Wien shall assure separation between involved flights until passing NAPSA"
@@ -10,6 +11,7 @@ remarks = "If traffic permits and with approval of EDDM_APP entry condition may 
 cop = "REDBU"
 level = 140
 ades = ["EDDM"]
+level_at = [0, "REDBU"]
 from_sector = "lo/B1"
 to_sector = "ed/DMSH"
 remarks = "If traffic permits and with approval of DMSH entry condition may be altered to “descending, FL190 or below at COP”. ACC Wien shall assure separation between involved flights until passing NAPSA"
@@ -30,15 +32,19 @@ to_sector = "ed/EGG"
 
 [[agreements]]
 cop = "TRAUN"
-level = 150
-ades = ["EDMA", "EDMO"]
+level = 160
+transfer_type = "D"
+sfl = 190
+ades = ["EDMA", "EDMO", "ETSI"]
 from_sector = "lo/B1"
 to_sector = "ed/DMSH"
 
 [[agreements]]
 cop = "TITIG"
-level = 150
-ades = ["EDMA", "EDMO"]
+level = 160
+transfer_type = "D"
+sfl = 190
+ades = ["EDMA", "EDMO", "ETSI"]
 from_sector = "lo/B1"
 to_sector = "ed/DMSH"
 
@@ -46,22 +52,28 @@ to_sector = "ed/DMSH"
 cop = "TITIG"
 level = 300
 ades = ["EDDS"]
+releases = "D"
 from_sector = "lo/B1"
 to_sector = "ed/TRU"
+remarks = "Released FL280"
 
 [[agreements]]
 cop = "KIRDI"
 level = 300
 ades = ["EDDS"]
+releases = "D"
 from_sector = "lo/B1"
 to_sector = "ed/TRU"
+remarks = "Released FL280"
 
 [[agreements]]
 cop = "TRAUN"
 level = 300
 ades = ["EDNY", "EDJA", "LSZR"]
+releases = "D"
 from_sector = "lo/B1"
 to_sector = "ed/TRU"
+remarks = "Released FL280"
 
 [[agreements]]
 cop = "ERKIR"
@@ -189,6 +201,15 @@ to_sector = "ed/EGG"
 
 [[agreements]]
 cop = "TITIG"
+level = 90
+adep = ["LOWS"]
+transfer_type = "C"
+from_sector = "lo/LOWS_APP"
+to_sector = "ed/DMSL"
+remarks = "Released FL120"
+
+[[agreements]]
+cop = "NAPSA"
 level = 90
 adep = ["LOWS"]
 transfer_type = "C"

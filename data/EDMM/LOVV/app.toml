@@ -1,15 +1,5 @@
 # DMSL
 [[agreements]]
-cop = "TRAUN"
-level = 80
-sfl = 120
-ades = ["LOWS"]
-transfer_type = "D"
-qnh = "EDDM"
-from_sector = "ed/DMSL"
-to_sector = "lo/LOWS_APP"
-
-[[agreements]]
 cop = "MEBEK"
 level = 80
 sfl = 120

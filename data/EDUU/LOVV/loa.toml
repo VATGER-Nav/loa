@@ -24,13 +24,15 @@ ades = [
         "LIPX",
         "LIPY",
         "LIPZ",
+        "LDPL",
+        "LDLO",
 ]
 from_sector = "ed/ALP1"
 to_sector = "lo/W3"
 
 [[agreements]]
 level = 330
-sfl = 310
+sfl = 320
 adep = ["LSZH", "LSZS", "LSMD"]
 transfer_type = "C"
 from_sector = "ed/ALP1"
@@ -68,6 +70,8 @@ ades = [
         "LIPX",
         "LIPY",
         "LIPZ",
+        "LDPL",
+        "LDLO",
 ]
 from_sector = "ed/CHI1"
 to_sector = "lo/W3"
