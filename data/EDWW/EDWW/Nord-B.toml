@@ -1,138 +1,122 @@
+## EID
 [[agreements]]
-cop = "BOGMU"
-level = 0
-ades = ["EDDH", "EDHI", "EDHL"]
-from_sector = "ed/EIDE"
-to_sector = "ed/HAME"
-
-[[agreements]]
-cop = "ELSOB"
-level = 0
-adep = ["EDHK", "ETNH"]
-from_sector = "ed/EIDE"
+cop = "REVLA"
+level = 150
+ades = ["EDDW"]
+transfer_type = "D"
+sfl = 200
+from_sector = "ed/EID"
 to_sector = "ed/ALR"
 
 [[agreements]]
-cop = "DHE"
 level = 0
-adep = ["EDXW"]
-from_sector = "ed/EIDE"
-to_sector = "ed/EIDW"
+ades = ["EDDH", "EDHI", "EDHL"]
+from_sector = "ed/EID"
+to_sector = "ed/HAM"
 
 [[agreements]]
-cop = "GOLEN"
 level = 0
-adep = ["EDXW"]
-from_sector = "ed/EIDE"
-to_sector = "ed/EIDW"
+ades = ["ETNT"]
+from_sector = "ed/EID"
+to_sector = "ed/FRI"
 
 [[agreements]]
-cop = "LUGEG"
+cop = "SUQIF"
+level = 110
+ades = ["EDWI"]
+transfer_type = "D"
+from_sector = "ed/EID"
+to_sector = "ed/FRI"
+
+[[agreements]]
+cop = "ABFAD"
+level = 110
+ades = ["EHGG"]
+transfer_type = "D"
+from_sector = "ed/EID"
+to_sector = "ed/FRI"
+
+[[agreements]]
+cop = "LAZOQ"
+level = 110
+ades = ["EHGG"]
+transfer_type = "D"
+from_sector = "ed/EID"
+to_sector = "ed/FRI"
+
+[[agreements]]
+cop = "AMCUB"
+level = 110
+ades = ["EHGG"]
+transfer_type = "D"
+from_sector = "ed/EID"
+to_sector = "ed/FRI"
+
+[[agreements]]
+cop = "GASTU"
+level = 110
+ades = ["EHGG"]
+transfer_type = "D"
+from_sector = "ed/EID"
+to_sector = "ed/FRI"
+
+[[agreements]]
+cop = "ITMIZ"
+level = 110
+ades = ["EHGG"]
+transfer_type = "D"
+from_sector = "ed/EID"
+to_sector = "ed/FRI"
+
+[[agreements]]
+cop = "REVLA"
+level = 230
+adep = ["EHGG"]
+transfer_type = "C"
+from_sector = "ed/EID"
+to_sector = "ed/ALR"
+
+[[agreements]]
+cop = "REVLA"
+level = 140
+adep = ["EDWE", "EDWI"]
+transfer_type = "C"
+from_sector = "ed/EID"
+to_sector = "ed/ALR"
+
+[[agreements]]
 level = 0
-adep = ["EDHK", "ETNH", "ETNS"]
-from_sector = "ed/EIDE"
+adep = ["EDXW"]
+from_sector = "ed/EID"
+to_sector = "ed/ALR"
+
+[[agreements]]
+level = 0
+adep = ["EDHK", "EDXF", "ETNH", "ETNS"]
+from_sector = "ed/EID"
+to_sector = "ed/ALR"
+
+[[agreements]]
+level = 0
+adep = ["EDHK", "EDXF", "ETNH", "ETNS"]
+from_sector = "ed/EID"
 to_sector = "ed/HEI"
 
 [[agreements]]
-cop = "HAM"
-level = 0
-adep = ["EDHK", "ETNH", "ETNS"]
-from_sector = "ed/EIDE"
-to_sector = "ed/HEI"
-
-[[agreements]]
-cop = "DHE"
-level = 0
-ades = ["EDXW"]
-from_sector = "ed/EIDW"
-to_sector = "ed/EIDE"
-
-[[agreements]]
-cop = "GOLEN"
-level = 0
-ades = ["EDXW"]
-from_sector = "ed/EIDW"
-to_sector = "ed/EIDE"
-[[agreements]]
-cop = "DHE"
-level = 0
-ades = ["EDXF"]
-from_sector = "ed/EIDW"
-to_sector = "ed/EIDE"
-
-[[agreements]]
-cop = "RIBSO"
-level = 0
-ades = ["EDDH", "EDHI"]
-from_sector = "ed/EIDW"
-to_sector = "ed/HAMW"
-
-[[agreements]]
-cop = "KUCMI"
-level = 50
-adep = ["EDWE"]
-qnh = "EDWE"
-from_sector = "ed/EIDW"
-to_sector = "ed/FRI"
-
-[[agreements]]
-cop = "POBZU"
-level = 40
+cop = "MALYK"
+level = 150
 adep = ["EDWI"]
-qnh = "EDWI"
-from_sector = "ed/EIDW"
-to_sector = "ed/FRI"
+transfer_type = "C"
+from_sector = "ed/EID"
+to_sector = "ed/EMS"
 
 [[agreements]]
-cop = "IGREF"
-level = 50
+cop = "OPWOT"
+level = 100
 adep = ["EDWI"]
-qnh = "EDWI"
-from_sector = "ed/EIDW"
-to_sector = "ed/FRI"
-
-[[agreements]]
-cop = "NDO"
-level = 0
-adep = ["ETMN", "ETNT"]
-from_sector = "ed/EIDW"
-to_sector = "ed/FRI"
-
-[[agreements]]
-cop = "WTM"
-level = 0
-adep = ["ETMN", "ETNT"]
-from_sector = "ed/EIDW"
-to_sector = "ed/FRI"
-
-[[agreements]]
-cop = "KUCMI"
-level = 50
-ades = ["EDWI", "EDWE"]
-qnh = "EDWI, EDWE"
+transfer_type = "C"
 from_sector = "ed/FRI"
-to_sector = "ed/EIDW"
-
-[[agreements]]
-cop = "NDO"
-level = 0
-ades = ["ETMN", "ETNT"]
-from_sector = "ed/FRI"
-to_sector = "ed/EIDW"
-
-[[agreements]]
-cop = "WTM"
-level = 0
-ades = ["ETMN", "ETNT"]
-from_sector = "ed/FRI"
-to_sector = "ed/EIDW"
-
-[[agreements]]
-cop = "NIE"
-level = 0
-ades = ["EDDV", "ETNW", "ETHB", "ETHC"]
-from_sector = "ed/FRI"
-to_sector = "ed/HAN"
+to_sector = "ed/ALR"
 
 [[agreements]]
 cop = "GESTO"
@@ -151,14 +135,61 @@ from_sector = "ed/FRI"
 to_sector = "ed/ALR"
 
 [[agreements]]
-cop = "POBZU"
-level = 0
-adep = ["EDWE", "EDWF", "EDWI"]
+cop = "OKWEL"
+level = 100
+adep = ["EDDW"]
+transfer_type = "C"
 from_sector = "ed/FRI"
-to_sector = "ed/ALR"
+to_sector = "ed/EID"
 
 [[agreements]]
-cop = "BASUM"
+cop = "ZUFFA"
+level = 100
+adep = ["EHGG"]
+transfer_type = "C"
+from_sector = "ed/FRI"
+to_sector = "ed/EID"
+
+[[agreements]]
+cop = "ABFAD"
+level = 100
+adep = ["EHGG"]
+transfer_type = "C"
+from_sector = "ed/FRI"
+to_sector = "ed/EID"
+
+[[agreements]]
+cop = "GASTU"
+level = 100
+adep = ["EHGG"]
+transfer_type = "C"
+from_sector = "ed/FRI"
+to_sector = "ed/EID"
+
+[[agreements]]
+cop = "SUQIF"
+level = 100
+adep = ["EHGG"]
+transfer_type = "C"
+from_sector = "ed/FRI"
+to_sector = "ed/EID"
+
+[[agreements]]
+cop = "OKWEL"
+level = 100
+adep = ["EDWI"]
+transfer_type = "C"
+from_sector = "ed/FRI"
+to_sector = "ed/EID"
+
+[[agreements]]
+level = 0
+adep = ["ETNT"]
+from_sector = "ed/FRI"
+to_sector = "ed/EID"
+
+[[agreements]]
+cop = "WIMCI"
 level = 100
 adep = ["EDDW"]
 transfer_type = "C"
@@ -174,9 +205,18 @@ from_sector = "ed/FRI"
 to_sector = "ed/EMS"
 
 [[agreements]]
-cop = "ERLAD"
+cop = "SOFED"
 level = 100
 adep = ["EDDW"]
+transfer_type = "C"
+from_sector = "ed/FRI"
+to_sector = "ed/EMS"
+remarks = "Leaving SOFED SIDs via ABDIM DCT ITMIZ"
+
+[[agreements]]
+cop = "MALYK"
+level = 100
+adep = ["EHGG", "EDWE", "EDWF"]
 transfer_type = "C"
 from_sector = "ed/FRI"
 to_sector = "ed/EMS"

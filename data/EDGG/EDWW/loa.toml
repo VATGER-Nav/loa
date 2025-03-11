@@ -62,18 +62,18 @@ cop = "OSN"
 level = 150
 adep = ["EDDG"]
 transfer_type = "D"
+sfl = 50
 from_sector = "ed/HMM"
 to_sector = "ed/EMS"
-remarks = "Out of 5000 ft"
 
 [[agreements]]
 cop = "JUWGI"
 level = 150
 adep = ["EDDG"]
 transfer_type = "D"
+sfl = 50
 from_sector = "ed/HMM"
 to_sector = "ed/EMS"
-remarks = "Out of 5000 ft"
 
 [[agreements]]
 cop = "OSN"
@@ -138,15 +138,16 @@ cop = "ESADU"
 level = 210
 adep = ["EDLW"]
 transfer_type = "C"
+sfl = 190
 from_sector = "ed/PADH"
 to_sector = "ed/HRZ"
-remarks = "Out of FL190"
 
 [[agreements]]
 cop = "WRB"
 level = 130
 adep = ["EDLP"]
 transfer_type = "C"
+sfl = 50
 from_sector = "ed/PADL"
 to_sector = "ed/HRZ"
 remarks = "Transfer at 5000 ft during activity of ED-R 203A"

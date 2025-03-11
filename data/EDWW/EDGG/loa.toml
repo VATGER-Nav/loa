@@ -12,9 +12,9 @@ cop = "OSN"
 level = 160
 ades = ["EDLW"]
 transfer_type = "D"
+sfl = 200
 from_sector = "ed/EMS"
 to_sector = "ed/HMM"
-remarks = "Out of FL200"
 
 [[agreements]]
 cop = "OSN"
@@ -37,9 +37,9 @@ cop = "ESADU"
 level = 160
 ades = ["EDLW"]
 transfer_type = "D"
+sfl = 200
 from_sector = "ed/HRZ"
 to_sector = "ed/PADH"
-remarks = "Out of FL200"
 
 [[agreements]]
 cop = "ESADU"
