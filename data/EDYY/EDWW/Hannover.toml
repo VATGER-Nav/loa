@@ -1,4 +1,12 @@
 [[agreements]]
+cop = "PIXUR"
+level = 250
+ades = ["EDXW", "EDHK", "EDXF", "EDXR"]
+level_at = [0, "PIXUR"]
+from_sector = "ed/ML"
+to_sector = "ed/EMS"
+
+[[agreements]]
 cop = "BASUM"
 level = 250
 ades = ["EDDH", "EDHI", "EDHL", "EDHK"]
@@ -9,16 +17,16 @@ to_sector = "ed/EMS"
 [[agreements]]
 cop = "HABFU"
 level = 250
-ades = ["EDDG", "EDLW"]
+ades = ["EDDG", "EDLW", "EDLA", "EDLS", "EHTE", "EDTW"]
 level_at = [0, "HABFU"]
 from_sector = "ed/ML"
 to_sector = "ed/EMS"
 
 [[agreements]]
-cop = "OSN"
+cop = "EXPUH"
 level = 250
 ades = ["EDDW", "EDWE", "EDWI", "EDWF", "ETND"]
-level_at = [0, "OSN"]
+level_at = [0, "EXPUH"]
 from_sector = "ed/ML"
 to_sector = "ed/EMS"
 
@@ -26,7 +34,7 @@ to_sector = "ed/EMS"
 cop = "OSN"
 level = 250
 ades = ["EDVK"]
-level_at = [0, "OSN"]
+level_at = [-10, "OSN"]
 from_sector = "ed/ML"
 to_sector = "ed/EMS"
 
@@ -42,7 +50,7 @@ to_sector = "ed/EMS"
 cop = "ATPAQ"
 level = 250
 ades = ["EDDV", "ETNW"]
-level_at = [0, "ATPAQ"]
+level_at = [0, "FUWUG"]
 from_sector = "ed/ML"
 to_sector = "ed/EMS"
 
@@ -146,7 +154,7 @@ to_sector = "ed/MAR"
 [[agreements]]
 cop = "BUMIL"
 level = 270
-ades = ["EDDP", "EDBC"]
+ades = ["EDDP", "EDBC", "EDBM"]
 from_sector = "ed/CL"
 to_sector = "ed/MAR"
 
@@ -172,6 +180,7 @@ level = 270
 ades = ["EDDP", "EDBC"]
 from_sector = "ed/CL"
 to_sector = "ed/MAR"
+remarks = "May be cleared DCT OGBER if new flight path stays north of BATEL"
 
 [[agreements]]
 cop = "NORTA"

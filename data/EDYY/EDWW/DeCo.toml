@@ -1,4 +1,12 @@
 [[agreements]]
+cop = "GASTU"
+level = 250
+ades = ["EDDH", "EDHI", "EDHL"]
+level_at = [0, "GASTU"]
+from_sector = "ed/JL"
+to_sector = "ed/EID"
+
+[[agreements]]
 cop = "ROCZO"
 level = 250
 ades = ["EDDH", "EDHI", "EDHL"]
@@ -7,18 +15,18 @@ from_sector = "ed/JL"
 to_sector = "ed/EID"
 
 [[agreements]]
-cop = "ROCZO"
+cop = "SUQIF"
 level = 250
 ades = ["EDXW", "EDXF"]
-level_at = [0, "ROCZO"]
+level_at = [0, "SUQIF"]
 from_sector = "ed/JL"
 to_sector = "ed/EID"
 
 [[agreements]]
-cop = "ABFAD"
+cop = "JUIST"
 level = 250
 ades = ["EDXW", "EDXF"]
-level_at = [0, "ABFAD"]
+level_at = [0, "JUIST"]
 from_sector = "ed/JL"
 to_sector = "ed/EID"
 
@@ -37,6 +45,7 @@ ades = ["EHGG", "EHLE"]
 level_at = [0, "AFPIN"]
 from_sector = "ed/JL"
 to_sector = "ed/EID"
+remarks = "May be cleared DCT KUBAT, clear of ED-R 201C/301C (regardless of activity)"
 
 [[agreements]]
 cop = "ROCZO"
@@ -45,28 +54,21 @@ ades = ["EHGG", "EHLE"]
 level_at = [0, "ROCZO"]
 from_sector = "ed/JL"
 to_sector = "ed/EID"
+remarks = "May be cleared DCT KUBAT, clear of ED-R 201C/301C (regardless of activity)"
 
 [[agreements]]
 cop = "ROCZO"
 level = 250
-ades = ["EKOD", "EKPB", "EKSB"]
-level_at = [0, "ROCZO"]
+ades = ["EKOD", "EKPB", "EKSB", "ETMN"]
+level_at = [+25, "ROCZO"]
 from_sector = "ed/JL"
 to_sector = "ed/EID"
 
 [[agreements]]
 cop = "PABCO"
 level = 250
-ades = ["EDDW", "ETND"]
-level_at = [0, "PABCO"]
-from_sector = "ed/JL"
-to_sector = "ed/EID"
-
-[[agreements]]
-cop = "GASTU"
-level = 250
-ades = ["EDDH", "EDHI", "EDHL"]
-level_at = [0, "GASTU"]
+ades = ["EDDW", "ETND", "Etmn"]
+level_at = [+15, "PABCO"]
 from_sector = "ed/JL"
 to_sector = "ed/EID"
 
@@ -74,6 +76,7 @@ to_sector = "ed/EID"
 cop = "REVLA"
 level = 260
 ades = ["EDDH", "EDHI", "EDHL", "EDHK"]
+releases = "F"
 level_at = [0, "REVLA"]
 from_sector = "ed/JL"
 to_sector = "ed/ALR"
@@ -87,25 +90,25 @@ from_sector = "ed/JL"
 to_sector = "ed/EMS"
 
 [[agreements]]
-cop = "EKERN"
+cop = "ABFAD"
 level = 250
-ades = ["EDXW"]
-level_at = [0, "EKERN"]
-from_sector = "ed/HL"
-to_sector = "ed/EID"
-
-[[agreements]]
-cop = "EXNEL"
-level = 250
-ades = ["EDXW"]
-level_at = [0, "EXNEL"]
+ades = ["EDXW", "EDXF]
+level_at = [0, "ABFAD"]
 from_sector = "ed/HL"
 to_sector = "ed/EID"
 
 [[agreements]]
 cop = "BADOS"
 level = 250
-ades = ["EDXW"]
+ades = ["EDXW", "EDXF]
+level_at = [0, "BADOS"]
+from_sector = "ed/HL"
+to_sector = "ed/EID"
+
+[[agreements]]
+cop = "BADOS"
+level = 250
+ades = ["EKBI", "EKEB", "EKOD", "EKSP", "EKVD", "EKVJ"]
 level_at = [0, "BADOS"]
 from_sector = "ed/HL"
 to_sector = "ed/EID"
@@ -119,15 +122,7 @@ from_sector = "ed/HL"
 to_sector = "ed/EID"
 
 [[agreements]]
-cop = "BADOS"
-level = 250
-ades = ["EKEB", "EKSP", "EKVD", "EKVJ"]
-level_at = [0, "BADOS"]
-from_sector = "ed/HL"
-to_sector = "ed/EID"
-
-[[agreements]]
-cop = "HINUH"
+cop = "OMWEG"
 level = 250
 ades = ["EKPB", "EKSB"]
 level_at = [0, "HINUH"]
@@ -135,9 +130,17 @@ from_sector = "ed/HL"
 to_sector = "ed/EID"
 
 [[agreements]]
+cop = "OMEPA"
+level = 250
+ades = ["EDWE", "EDWI", "EDWF", "EHGG", "EHLE"]
+level_at = [0, "OMEPA"]
+from_sector = "ed/HL"
+to_sector = "ed/ALR"
+
+[[agreements]]
 cop = "ELSOB"
 level = 250
-ades = ["EDDW", "ETND", "EDWE", "EDWI", "EDWF", "EHGG", "EHLE"]
+ades = ["EDDW", "ETND", "EDXF"]
 level_at = [0, "ELSOB"]
 from_sector = "ed/HL"
 to_sector = "ed/ALR"

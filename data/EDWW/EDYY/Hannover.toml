@@ -1,39 +1,26 @@
 [[agreements]]
-cop = "NIE"
-level = 240
-adep = ["EDDH", "EDHI", "EDHL"]
-transfer_type = "C"
-from_sector = "ed/ALR"
-to_sector = "ed/CL"
-
-[[agreements]]
-cop = "BASUM"
-level = 240
-adep = ["EDDH", "EDHI", "EDHL"]
-transfer_type = "C"
-from_sector = "ed/ALR"
-to_sector = "ed/ML"
-
-[[agreements]]
 cop = "HLZ"
+level = 0
 adep = ["EDDB"]
 from_sector = "ed/BOR"
 to_sector = "ed/CL"
-remarks = "ANY EVEN FL"
+remarks = "Transfer on any even FL"
 
 [[agreements]]
 cop = "POVEL"
+level = 0
 adep = ["EDDB"]
 from_sector = "ed/BOR"
 to_sector = "ed/SL"
-remarks = "ANY EVEN FL"
+remarks = "Transfer on any even FL"
 
 [[agreements]]
 cop = "ABGUS"
+level = 0
 adep = ["EDDB"]
 from_sector = "ed/BOR"
 to_sector = "ed/SL"
-remarks = "ANY EVEN FL"
+remarks = "Transfer on any even FL"
 
 [[agreements]]
 cop = "POVEL"
@@ -43,26 +30,58 @@ from_sector = "ed/BOR"
 to_sector = "ed/SL"
 
 [[agreements]]
-cop = "TOLGI"
-level = 240
-adep = ["EDDF"]
-transfer_type = "C"
-from_sector = "ed/DST"
+cop = "RISOK"
+level = 260
+adep = ["ETSH"]
+from_sector = "ed/BOR"
 to_sector = "ed/SL"
 
 [[agreements]]
-cop = "WRB"
+cop = "WIMCI"
 level = 240
-adep = ["EDLW"]
-transfer_type = "C"
-from_sector = "ed/DST"
-to_sector = "ed/SL"
+adep = ["EDDH", "EDHI", "EDHL"]
+from_sector = "ed/EMS"
+to_sector = "ed/ML"
 
 [[agreements]]
-cop = "BUSEP"
+cop = "BASUM"
+level = 240
+adep = ["EDDG", "EDLW", "EDLA"]
+from_sector = "ed/EMS"
+to_sector = "ed/ML"
+
+[[agreements]]
+cop = "ATPAQ"
+level = 240
+adep = ["EDWE", "EDWI", "EHGG"]
+from_sector = "ed/EMS"
+to_sector = "ed/ML"
+
+[[agreements]]
+cop = "MAWEQ"
 level = 240
 adep = ["EDDW", "ETND"]
-transfer_type = "C"
+from_sector = "ed/EMS"
+to_sector = "ed/MNS"
+
+[[agreements]]
+cop = "MAWEQ"
+level = 240
+adep = ["EDDV", "ETNW"]
+from_sector = "ed/EMS"
+to_sector = "ed/ML"
+
+[[agreements]]
+cop = "EDWOC"
+level = 240
+adep = ["EDDV", "ETNW"]
+from_sector = "ed/EMS"
+to_sector = "ed/ML"
+
+[[agreements]]
+cop = "NIE"
+level = 240
+adep = ["EDWE", "EDWI", "EHGG"]
 from_sector = "ed/EMS"
 to_sector = "ed/CL"
 
@@ -70,15 +89,13 @@ to_sector = "ed/CL"
 cop = "ROBEG"
 level = 240
 adep = ["EDLP", "EDFQ", "EDLI", "EDVK"]
-transfer_type = "C"
 from_sector = "ed/EMS"
 to_sector = "ed/CL"
 
 [[agreements]]
-cop = "MOBSA"
+cop = "ROBEG"
 level = 240
 adep = ["EDDG", "EDLW", "EDLA"]
-transfer_type = "C"
 from_sector = "ed/EMS"
 to_sector = "ed/CL"
 
@@ -86,7 +103,13 @@ to_sector = "ed/CL"
 cop = "SAS"
 level = 240
 adep = ["EDDW", "ETND"]
-transfer_type = "C"
+from_sector = "ed/HRZ"
+to_sector = "ed/CL"
+
+[[agreements]]
+cop = "PIROT"
+level = 240
+adep = ["EDDW", "ETND"]
 from_sector = "ed/HRZ"
 to_sector = "ed/CL"
 
@@ -94,7 +117,6 @@ to_sector = "ed/CL"
 cop = "DLE"
 level = 240
 adep = ["EDVE"]
-transfer_type = "C"
 from_sector = "ed/HRZ"
 to_sector = "ed/CL"
 
@@ -102,16 +124,13 @@ to_sector = "ed/CL"
 cop = "NORTA"
 level = 240
 adep = ["EDVE"]
-transfer_type = "C"
 from_sector = "ed/HRZ"
 to_sector = "ed/SL"
-remarks = "Clear of HILFE Window"
 
 [[agreements]]
 cop = "NORTA"
 level = 240
 adep = ["EDLP", "EDVK", "EDFQ"]
-transfer_type = "C"
 from_sector = "ed/HRZ"
 to_sector = "ed/SL"
 
@@ -119,32 +138,27 @@ to_sector = "ed/SL"
 cop = "WERRA"
 level = 240
 adep = ["EDDV"]
-transfer_type = "C"
 from_sector = "ed/HRZ"
 to_sector = "ed/SL"
-remarks = "Clear of HILFE Window"
 
 [[agreements]]
 cop = "POVEL"
 level = 240
-adep = ["EDBM", "EDBC"]
-transfer_type = "C"
+adep = ["EDBC", "EDBM"]
 from_sector = "ed/HRZ"
 to_sector = "ed/SL"
 
 [[agreements]]
-cop = "LUGEG"
+cop = "WRB"
 level = 240
-adep = ["EDDH", "EDHI"]
-transfer_type = "C"
-from_sector = "ed/HEI"
+adep = ["EDLW"]
+from_sector = "ed/HRZ"
 to_sector = "ed/SL"
 
 [[agreements]]
 cop = "DENIX"
 level = 240
-adep = ["EDDH", "EDHI", "EDHL", "ETMN"]
-transfer_type = "C"
+adep = ["EDDH", "EDHI", "EDHL"]
 from_sector = "ed/HEI"
 to_sector = "ed/CL"
 
@@ -152,16 +166,14 @@ to_sector = "ed/CL"
 cop = "RIDNI"
 level = 240
 adep = ["EDDW", "ETND"]
-transfer_type = "C"
 from_sector = "ed/HEI"
 to_sector = "ed/CL"
-remarks = "If RFL at or above FL290, not for destinations inside EDWW FIR"
+remarks = "If RFL is above FL285"
 
 [[agreements]]
 cop = "IRKIS"
 level = 240
-adep = ["EDDV", "ETNW", "EDVE"]
-transfer_type = "C"
+adep = ["EDDV", "EDVE", "ETNW"]
 from_sector = "ed/HEI"
 to_sector = "ed/CL"
 
@@ -169,7 +181,6 @@ to_sector = "ed/CL"
 cop = "IRKIS"
 level = 240
 adep = ["EDHL"]
-transfer_type = "C"
 from_sector = "ed/HEI"
 to_sector = "ed/CL"
 
@@ -177,15 +188,13 @@ to_sector = "ed/CL"
 cop = "IRKIS"
 level = 240
 adep = ["EDHK"]
-transfer_type = "C"
 from_sector = "ed/HEI"
 to_sector = "ed/CL"
 
 [[agreements]]
 cop = "BUMIL"
 level = 260
-adep = ["EDBM", "EDBC"]
-transfer_type = "C"
+adep = ["EDBC", "EDBM"]
 from_sector = "ed/MAR"
 to_sector = "ed/CL"
 
@@ -193,41 +202,8 @@ to_sector = "ed/CL"
 cop = "GARLU"
 level = 260
 adep = ["EDBH", "ETNL", "EDBN"]
-transfer_type = "C"
 from_sector = "ed/MAR"
 to_sector = "ed/CL"
-
-[[agreements]]
-cop = "OSN"
-level = 240
-adep = ["EDDW", "ETND"]
-transfer_type = "C"
-from_sector = "ed/EMS"
-to_sector = "ed/ML"
-
-[[agreements]]
-cop = "OSN"
-level = 240
-adep = ["EDDV", "ETNW"]
-transfer_type = "C"
-from_sector = "ed/EMS"
-to_sector = "ed/ML"
-
-[[agreements]]
-cop = "RORUS"
-level = 240
-adep = ["EDDV", "ETNW"]
-transfer_type = "C"
-from_sector = "ed/EMS"
-to_sector = "ed/ML"
-
-[[agreements]]
-cop = "OSN"
-level = 240
-adep = ["EDDG", "EDLW", "EDLA"]
-transfer_type = "C"
-from_sector = "ed/EMS"
-to_sector = "ed/ML"
 
 [[agreements]]
 cop = "LUWIL"
@@ -235,10 +211,3 @@ level = 260
 adep = ["ETNL"]
 from_sector = "ed/MAR"
 to_sector = "ed/CL"
-
-[[agreements]]
-cop = "RISOK"
-level = 260
-adep = ["ETSH"]
-from_sector = "ed/BOR"
-to_sector = "ed/SL"
