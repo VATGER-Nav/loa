@@ -2,22 +2,28 @@
 cop = "ALASA"
 level = 230
 ades = ["EDDH", "EDHI", "EDHL"]
+releases = "F"
 from_sector = "ek/EKDD"
 to_sector = "ed/EID"
+remarks = "Released FL180"
 
 [[agreements]]
 cop = "ATTUS"
 level = 230
 ades = ["EDDH", "EDHI", "EDHL"]
+releases = "F"
 from_sector = "ek/EKDN"
 to_sector = "ed/EID"
+remarks = "Released FL180"
 
 [[agreements]]
 cop = "MICOS"
 level = 230
 ades = ["EDDH", "EDHI"]
+releases = "F"
 from_sector = "ek/EKDI"
 to_sector = "ed/HEI"
+remarks = "Released FL180"
 
 [[agreements]]
 cop = "MICOS"
@@ -46,6 +52,20 @@ level = 80
 ades = ["EDXW", "EDXF", "EDHK", "ETNS", "ETNH"]
 from_sector = "ek/EKDD"
 to_sector = "ed/EID"
+
+[[agreements]]
+cop = "NEDIK"
+level = 150
+ades = ["ETNL", "EDBN"]
+from_sector = "ek/EKDB"
+to_sector = "ed/MRZ"
+
+[[agreements]]
+cop = "NEDIK"
+level = 70
+ades = ["EDBH"]
+from_sector = "ek/EKDB"
+to_sector = "ed/MRZ"
 
 [[agreements]]
 cop = "SONAL"

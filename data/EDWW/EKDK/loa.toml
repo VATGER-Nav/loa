@@ -62,3 +62,17 @@ adep = ["EDXW", "EDXF", "EDHK", "ETNS", "ETNH"]
 from_sector = "ed/EID"
 to_sector = "ek/EKDD"
 remarks = "Coordinate a higher FL with EKDK. MAX FL240"
+
+[[agreements]]
+cop = "MEGAR"
+level = 240
+adep = ["EDHL", "ETMN"]
+from_sector = "ed/HEI"
+to_sector = "ek/EKDB"
+
+[[agreements]]
+cop = "NEDIK"
+level = 140
+adep = ["ETNL", "EDBH", "EDBN"]
+from_sector = "ed/MRZ"
+to_sector = "ek/EKDB"
