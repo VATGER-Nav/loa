@@ -1,27 +1,41 @@
 [[agreements]]
 cop = "GESKA"
 level = 280
-ades = ["EKCH", "EKRK"]
+ades = ["EKCH", "EKRK", "ESMS"]
+releases = "D"
 from_sector = "ed/HL"
+to_sector = "ek/EKDB"
+remarks = "Released after crossing GESKA RLS Line"
+
+[[agreements]]
+cop = "OMIMA"
+level = 260
+ades = ["EKBI"]
+from_sector = "ed/JL"
 to_sector = "ek/EKDB"
 
 [[agreements]]
 cop = "MEGAR"
 level = 270
-adep = ["EDDH", "EDHI", "EDHL"]
+adep = ["EDDH", "EDHI"]
+transfer_type = "C"
+releases = "C"
 from_sector = "ed/HL"
 to_sector = "ek/EKDB"
+remarks = "Released after crossing GESKA RLS Line"
 
 [[agreements]]
-cop = "ALS"
+cop = "AMRAK"
 level = 270
 adep = ["EDDH", "EDHI", "EDHL"]
+transfer_type = "C"
 from_sector = "ed/HL"
-to_sector = "ek/EKDS"
+to_sector = "ek/EKDD"
 
 [[agreements]]
 cop = "ATTUS"
 level = 270
 adep = ["EDDH", "EDHI", "EDHL"]
+transfer_type = "D"
 from_sector = "ed/HL"
-to_sector = "ek/EKDS"
+to_sector = "ek/EKDD"

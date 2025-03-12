@@ -18,17 +18,17 @@ remarks = "via STAR; must be cleared for DIXAT#A (25)/DIXAT#D (07); released for
 [[agreements]]
 cop = "DENOL"
 level = 250
-ades = ["EDDL", "EDL*", "EHEH", "EHBK"]
+ades = ["EDDL", "EDL*"]
 level_at = [0, "DENOL"]
 from_sector = "ed/CL"
 to_sector = "ed/HMM"
 
 [[agreements]]
-cop = "HMM"
-level = 250
-ades = ["EDDL", "EDL*", "EHEH", "EHBK"]
-level_at = [-20, "HMM"]
-from_sector = "ed/ML"
+cop = "DENOL"
+level = 260
+ades = ["EHEH", "EHBK"]
+level_at = [-10, "DENOL"]
+from_sector = "ed/CL"
 to_sector = "ed/HMM"
 
 [[agreements]]

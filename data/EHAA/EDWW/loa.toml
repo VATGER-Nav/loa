@@ -3,14 +3,14 @@ cop = "TEMLU"
 level = 60
 ades = ["EHGG"]
 from_sector = "eh/EHGG APP"
-to_sector = "ed/EIDW"
+to_sector = "ed/FRI"
 
 [[agreements]]
 cop = "OLWOF"
 level = 60
 ades = ["EHGG"]
 from_sector = "eh/EHGG APP"
-to_sector = "ed/EIDW"
+to_sector = "ed/FRI"
 
 [[agreements]]
 cop = "DOBAK"

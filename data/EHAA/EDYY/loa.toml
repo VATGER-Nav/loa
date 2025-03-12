@@ -23,42 +23,47 @@ cop = "ODASI"
 level = 250
 adep = ["EHAM"]
 transfer_type = "C"
-releases = "C"
+releases = "F"
 from_sector = "eh/EHAE"
 to_sector = "ed/JL"
+remarks = "Released by MUAC Delta"
 
 [[agreements]]
 cop = "BEDUM"
 level = 250
-adep = ["EHAM", "EHRD"]
+adep = ["EHAM", "EHRD", "EHLE"]
 transfer_type = "C"
-releases = "C"
+releases = "F"
 from_sector = "eh/EHAE"
 to_sector = "ed/JL"
+remarks = "Released by MUAC Delta"
 
 [[agreements]]
-cop = "EEL"
+cop = "PABCO"
 level = 250
-adep = ["EHAM", "EHRD"]
+adep = ["EHAM", "EHRD", "EHLE"]
 transfer_type = "C"
-releases = "C"
+releases = "F"
 from_sector = "eh/EHAE"
 to_sector = "ed/JL"
+remarks = "Released by MUAC Delta"
 
 [[agreements]]
 cop = "AGISU"
 level = 250
-adep = ["EHAM"]
+adep = ["EHAM", "EHRD"]
 transfer_type = "C"
-releases = "C"
+releases = "F"
 from_sector = "eh/EHAE"
 to_sector = "ed/JL"
+remarks = "Released by MUAC Delta"
 
 [[agreements]]
 cop = "KONOM"
 level = 250
-adep = ["EHAM"]
+adep = ["EHAM", "EHRD"]
 transfer_type = "C"
-releases = "C"
+releases = "F"
 from_sector = "eh/EHAE"
 to_sector = "ed/JL"
+remarks = "Released by MUAC Delta"

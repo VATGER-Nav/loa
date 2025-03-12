@@ -1,38 +1,36 @@
 [[agreements]]
-cop = "EEL"
+cop = "KUBAT"
 level = 180
 ades = ["EHLE"]
-transfer_type = "D"
-from_sector = "ed/EIDW"
+from_sector = "ed/EID"
 to_sector = "eh/EHAE"
 
 [[agreements]]
-cop = "EEL"
+cop = "ONTAZ"
 level = 180
 ades = ["EHLE"]
-transfer_type = "D"
-from_sector = "ed/FRI"
+from_sector = "ed/EID"
 to_sector = "eh/EHAE"
 
 [[agreements]]
 cop = "TEMLU"
 level = 70
 ades = ["EHGG"]
-from_sector = "ed/EIDW"
+from_sector = "ed/FRI"
 to_sector = "eh/EHGG APP"
 
 [[agreements]]
 cop = "OLWOF"
 level = 70
 ades = ["EHGG"]
-from_sector = "ed/EIDW"
+from_sector = "ed/FRI"
 to_sector = "eh/EHGG APP"
 
 [[agreements]]
 cop = "KUBAT"
 level = 70
 ades = ["EHGG"]
-from_sector = "ed/EIDW"
+from_sector = "ed/FRI"
 to_sector = "eh/EHGG APP"
 
 [[agreements]]

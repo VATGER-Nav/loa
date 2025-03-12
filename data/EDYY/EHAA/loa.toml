@@ -1,8 +1,8 @@
 [[agreements]]
-cop = "EEL"
+cop = "BLUFA"
 level = 260
-ades = ["EHAM", "EHRD", "EHEH", "EH*"]
-level_at = [0, "EEL"]
+ades = ["EHAM", "EHRD"]
+level_at = [-30, "BLUFA"]
 from_sector = "ed/JL"
 to_sector = "eh/EHAE"
 
