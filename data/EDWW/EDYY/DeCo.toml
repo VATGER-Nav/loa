@@ -140,7 +140,7 @@ from_sector = "ed/HEI"
 to_sector = "ed/HL"
 
 [[agreements]]
-cop = HAM"
+cop = "HAM"
 level = 240
 adep = ["EDHK"]
 from_sector = "ed/HEI"
