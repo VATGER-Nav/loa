@@ -91,7 +91,7 @@ from_sector = "ed/BOR"
 to_sector = "ed/FLG"
 
 [[agreements]]
-cop = EVOKI"
+cop = "EVOKI"
 level = 270
 ades = ["ETNL", "EDAH", "EDBH", "EDBN"]
 from_sector = "ed/BOR"
