@@ -1,3 +1,11 @@
+## BOR
+[[agreements]]
+cop = "BARAP"
+level = 110
+ades = ["ETSH"]
+from_sector = "ed/BOR"
+to_sector = "ed/DBAS"
+
 [[agreements]]
 cop = "KOSIX"
 level = 110
@@ -11,6 +19,15 @@ level = 90
 ades = ["EDAZ"]
 from_sector = "ed/BOR"
 to_sector = "ed/DBAS"
+remarks = "EDDB RWYs 06"
+
+[[agreements]]
+cop = "KOSIX"
+level = 90
+ades = ["EDAZ"]
+from_sector = "ed/BOR"
+to_sector = "ed/DBDS"
+remarks = "EDDB RWYs 24"
 
 [[agreements]]
 cop = "LOGDO"
@@ -20,16 +37,48 @@ from_sector = "ed/BOR"
 to_sector = "ed/DBDS"
 
 [[agreements]]
-cop = "NISGA"
-level = 210
-ades = ["EDDC", "EDAC", "EDAB"]
+cop = "LUPAK"
+level = 170
+ades = ["ETSH"]
 from_sector = "ed/BOR"
-to_sector = "ed/FLG"
+to_sector = "ed/DBDS"
 
 [[agreements]]
-cop = "ESIKA"
-level = 210
-ades = ["EDAB"]
+cop = "PENEK"
+level = 170
+ades = ["ETSH"]
+from_sector = "ed/BOR"
+to_sector = "ed/DBDS"
+
+[[agreements]]
+cop = "HLZ"
+level = 180
+ades = ["ETNW"]
+from_sector = "ed/BOR"
+to_sector = "ed/HEI"
+
+[[agreements]]
+cop = "HLZ"
+level = 220
+ades = ["EDDV"]
+runway = ["09L", "09R"]
+from_sector = "ed/BOR"
+to_sector = "ed/HEI"
+remarks = "May be cleared DCT HLZ, clear of sector HRZ"
+
+[[agreements]]
+cop = "HLZ"
+level = 180
+ades = ["EDDV"]
+runway = ["27L", "27R"]
+from_sector = "ed/BOR"
+to_sector = "ed/HEI"
+remarks = "May be cleared DCT HLZ, clear of sector HRZ"
+
+[[agreements]]
+cop = "NISGA"
+level = 230
+ades = ["EDDC", "EDAC", "EDAB"]
 from_sector = "ed/BOR"
 to_sector = "ed/FLG"
 
@@ -37,9 +86,16 @@ to_sector = "ed/FLG"
 cop = "MAG"
 level = 230
 ades = ["EDDB"]
-route_after = "KLF"
+route_after = "DCT KLF"
 from_sector = "ed/BOR"
 to_sector = "ed/FLG"
+
+[[agreements]]
+cop = EVOKI"
+level = 270
+ades = ["ETNL", "EDAH", "EDBH", "EDBN"]
+from_sector = "ed/BOR"
+to_sector = "ed/MAR"
 
 [[agreements]]
 cop = "HLZ"
@@ -70,22 +126,6 @@ from_sector = "ed/BOR"
 to_sector = "ed/HRZ"
 
 [[agreements]]
-cop = "HLZ"
-level = 240
-ades = ["EDDV"]
-runway = ["09L", "09R"]
-from_sector = "ed/BOR"
-to_sector = "ed/HRZ"
-
-[[agreements]]
-cop = "HLZ"
-level = 180
-ades = ["EDDV"]
-runway = ["27L", "27R"]
-from_sector = "ed/BOR"
-to_sector = "ed/HRZ"
-
-[[agreements]]
 cop = "PENEK"
 level = 270
 ades = ["ETNL", "EDAH", "EDBH", "EDBN"]
@@ -95,7 +135,7 @@ to_sector = "ed/MAR"
 [[agreements]]
 cop = "BUROK"
 level = 90
-adep = ["EDBM", "EDBC"]
+adep = ["EDBM"]
 from_sector = "ed/BOR"
 to_sector = "ed/DBAS"
 remarks = "EDDB RWYs 06"
@@ -103,10 +143,17 @@ remarks = "EDDB RWYs 06"
 [[agreements]]
 cop = "BUROK"
 level = 90
-adep = ["EDBM", "EDBC"]
+adep = ["EDBM"]
 from_sector = "ed/BOR"
 to_sector = "ed/DBDS"
 remarks = "EDDB RWYs 24"
+
+[[agreements]]
+cop = "SONUD"
+level = 230
+adep = ["EDBC"]
+from_sector = "ed/BOR"
+to_sector = "ed/FLG"
 
 [[agreements]]
 cop = "BUREL"
@@ -152,10 +199,12 @@ adep = ["EDDP", "EDAC", "EDAZ"]
 from_sector = "ed/BOR"
 to_sector = "ed/MAR"
 
+
+## FLG
 [[agreements]]
 cop = "SONUD"
 level = 280
-ades = ["EDVE", "EDBM", "EDBC"]
+ades = ["EDBM", "EDBC"]
 from_sector = "ed/FLG"
 to_sector = "ed/BOR"
 
@@ -200,6 +249,14 @@ from_sector = "ed/FLG"
 to_sector = "ed/DBAS"
 
 [[agreements]]
+cop = "POGAB"
+level = 140
+ades = ["EDAZ"]
+transfer_type = "D"
+from_sector = "ed/FLG"
+to_sector = "ed/DBAS"
+
+[[agreements]]
 cop = "ANEBO"
 level = 200
 ades = ["EPSC"]
@@ -214,6 +271,27 @@ from_sector = "ed/FLG"
 to_sector = "ed/MAR"
 
 [[agreements]]
+cop = "LUPAK"
+level = 200
+adep = ["ETSH"]
+from_sector = "ed/FLG"
+to_sector = "ed/BOR"
+
+[[agreements]]
+cop = "PENEK"
+level = 200
+adep = ["ETSH"]
+from_sector = "ed/FLG"
+to_sector = "ed/BOR"
+
+[[agreements]]
+cop = "BARAP"
+level = 200
+adep = ["ETSH"]
+from_sector = "ed/FLG"
+to_sector = "ed/BOR"
+
+[[agreements]]
 cop = "KOSIX"
 level = 180
 adep = ["EDAZ"]
@@ -222,11 +300,13 @@ to_sector = "ed/BOR"
 
 [[agreements]]
 cop = "GERGA"
-level = 200
+level = 220
 adep = ["EDAZ"]
 from_sector = "ed/FLG"
 to_sector = "ed/MAR"
 
+
+## MAR
 [[agreements]]
 cop = "SOGMA"
 level = 170
@@ -242,19 +322,13 @@ from_sector = "ed/MAR"
 to_sector = "ed/BOR"
 
 [[agreements]]
-cop = "SOBLU"
-level = 280
-ades = ["EDDE"]
-from_sector = "ed/MAR"
-to_sector = "ed/BOR"
-
-[[agreements]]
 cop = "OGBER"
 level = 140
 ades = ["EDDB"]
 transfer_type = "D"
 from_sector = "ed/MAR"
 to_sector = "ed/DBAN"
+remarks = "Released by MRZ"
 
 [[agreements]]
 cop = "KETAP"
@@ -263,6 +337,7 @@ ades = ["EDDB"]
 transfer_type = "D"
 from_sector = "ed/MAR"
 to_sector = "ed/DBAN"
+remarks = "Released by MRZ"
 
 [[agreements]]
 cop = "RADEL"
@@ -301,6 +376,7 @@ level = 240
 ades = ["EDDH", "EDHI", "EDHL"]
 from_sector = "ed/MAR"
 to_sector = "ed/HEI"
+remarks = "Released by MRZ"
 
 [[agreements]]
 cop = "BUMIL"
@@ -372,7 +448,7 @@ to_sector = "ed/MRZ"
 [[agreements]]
 cop = "BUMIL"
 level = 230
-adep = ["EDDV", "ETNW", "EDVE"]
+adep = ["EDDV", "ETNW"]
 from_sector = "ed/MAR"
 to_sector = "ed/MRZ"
 
@@ -390,7 +466,6 @@ level = 260
 adep = ["EDDB"]
 from_sector = "ed/MAR"
 to_sector = "ed/MRZ"
-remarks = "TFC via EKDK/ESMM ACC may be cleared DCT last fix EDWW FIR"
 
 [[agreements]]
 cop = "ABIKA"
@@ -398,7 +473,6 @@ level = 260
 adep = ["EDDB"]
 from_sector = "ed/MAR"
 to_sector = "ed/MRZ"
-remarks = "TFC via EKDK/ESMM ACC may be cleared DCT last fix EDWW FIR"
 
 [[agreements]]
 cop = "ITZEG"
@@ -406,21 +480,24 @@ level = 260
 adep = ["EDDB"]
 from_sector = "ed/MAR"
 to_sector = "ed/MRZ"
-remarks = "TFC via EKDK/ESMM ACC may be cleared DCT last fix EDWW FIR"
 
+
+## MRZ
 [[agreements]]
 cop = "ROSOK"
 level = 100
 ades = ["EDHL"]
 from_sector = "ed/MRZ"
-to_sector = "ed/HAME"
+to_sector = "ed/HAM"
+remarks = "Mimimum 5000 ft"
 
 [[agreements]]
 cop = "BERIM"
 level = 100
 ades = ["EDHL"]
 from_sector = "ed/MRZ"
-to_sector = "ed/HAME"
+to_sector = "ed/HAM"
+remarks = "Mimimum 5000 ft"
 
 [[agreements]]
 cop = "ROSOK"
@@ -450,6 +527,7 @@ ades = ["EDDB"]
 transfer_type = "D"
 from_sector = "ed/MRZ"
 to_sector = "ed/MAR"
+remarks = "May be cleared DCT OGBER/KETAP"
 
 [[agreements]]
 cop = "LEGSA"
@@ -458,6 +536,7 @@ ades = ["EDDB"]
 transfer_type = "D"
 from_sector = "ed/MRZ"
 to_sector = "ed/MAR"
+remarks = "May be cleared DCT OGBER/KETAP"
 
 [[agreements]]
 cop = "ADEPO"
@@ -466,9 +545,17 @@ ades = ["EDDB"]
 transfer_type = "D"
 from_sector = "ed/MRZ"
 to_sector = "ed/MAR"
+remarks = "May be cleared DCT OGBER/KETAP"
 
 [[agreements]]
 cop = "RODEP"
+level = 170
+ades = ["EDAY"]
+from_sector = "ed/MRZ"
+to_sector = "ed/MAR"
+
+[[agreements]]
+cop = "ADEPO"
 level = 170
 ades = ["EDAY"]
 from_sector = "ed/MRZ"
@@ -489,10 +576,16 @@ from_sector = "ed/MRZ"
 to_sector = "ed/HEI"
 
 [[agreements]]
+cop = "LUWIL"
+level = 260
+adep = ["ETNL"]
+from_sector = "ed/MRZ"
+to_sector = "ed/MAR"
+
+[[agreements]]
 cop = "LINVO"
 level = 230
 adep = ["ETNL"]
-transfer_type = "C"
 from_sector = "ed/MRZ"
 to_sector = "ed/MAR"
 
@@ -500,7 +593,6 @@ to_sector = "ed/MAR"
 cop = "TIRMI"
 level = 230
 adep = ["ETNL"]
-transfer_type = "C"
 from_sector = "ed/MRZ"
 to_sector = "ed/MAR"
 
@@ -508,7 +600,6 @@ to_sector = "ed/MAR"
 cop = "RODEP"
 level = 230
 adep = ["EDBH", "ETNL"]
-transfer_type = "C"
 from_sector = "ed/MRZ"
 to_sector = "ed/MAR"
 
@@ -524,6 +615,13 @@ to_sector = "ed/MAR"
 cop = "PABMI"
 level = 160
 adep = ["EDBH", "ETNL"]
+from_sector = "ed/MRZ"
+to_sector = "ed/MAR"
+
+[[agreements]]
+cop = "TIRMI"
+level = 170
+adep = ["EDBN"]
 transfer_type = "C"
 from_sector = "ed/MRZ"
 to_sector = "ed/MAR"
@@ -531,7 +629,7 @@ to_sector = "ed/MAR"
 [[agreements]]
 cop = "BKD"
 level = 240
-adep = ["EDBN", "EDAH"]
+adep = ["EDBN"]
 transfer_type = "C"
 from_sector = "ed/MRZ"
 to_sector = "ed/MAR"
@@ -545,17 +643,9 @@ from_sector = "ed/MRZ"
 to_sector = "ed/MAR"
 
 [[agreements]]
-cop = "TIRMI"
-level = 170
-adep = ["EDBN", "EDAH"]
-transfer_type = "C"
-from_sector = "ed/MRZ"
-to_sector = "ed/MAR"
-
-[[agreements]]
 cop = "LINVO"
 level = 170
-adep = ["EDBN", "EDAH"]
+adep = ["EDAH"]
 transfer_type = "C"
 from_sector = "ed/MRZ"
 to_sector = "ed/MAR"
@@ -563,7 +653,15 @@ to_sector = "ed/MAR"
 [[agreements]]
 cop = "RODEP"
 level = 170
-adep = ["EDBN", "EDAH"]
+adep = ["EDAH"]
+transfer_type = "C"
+from_sector = "ed/MRZ"
+to_sector = "ed/MAR"
+
+[[agreements]]
+cop = "ADEPO"
+level = 170
+adep = ["EDAH"]
 transfer_type = "C"
 from_sector = "ed/MRZ"
 to_sector = "ed/MAR"

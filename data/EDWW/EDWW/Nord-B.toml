@@ -7,6 +7,7 @@ transfer_type = "D"
 sfl = 200
 from_sector = "ed/EID"
 to_sector = "ed/ALR"
+remarks = "May be skipped to FRI descending FL110 after coordination"
 
 [[agreements]]
 level = 0
