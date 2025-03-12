@@ -92,7 +92,7 @@ to_sector = "ed/EMS"
 [[agreements]]
 cop = "ABFAD"
 level = 250
-ades = ["EDXW", "EDXF]
+ades = ["EDXW", "EDXF"]
 level_at = [0, "ABFAD"]
 from_sector = "ed/HL"
 to_sector = "ed/EID"
@@ -100,7 +100,7 @@ to_sector = "ed/EID"
 [[agreements]]
 cop = "BADOS"
 level = 250
-ades = ["EDXW", "EDXF]
+ades = ["EDXW", "EDXF"]
 level_at = [0, "BADOS"]
 from_sector = "ed/HL"
 to_sector = "ed/EID"
