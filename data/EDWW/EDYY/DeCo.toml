@@ -81,7 +81,7 @@ cop = "BADOS"
 level = 240
 adep = ["EDDH", "EDHI"]
 from_sector = "ed/EID"
-to_sector = "ed/JL"
+to_sector = "ed/HL"
 
 [[agreements]]
 cop = "SOFED"
