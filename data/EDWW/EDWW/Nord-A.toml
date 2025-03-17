@@ -119,7 +119,7 @@ level = 100
 adep = ["EDHI"]
 transfer_type = "C"
 from_sector = "ed/HAM"
-to_sector = "ed/ALR"
+to_sector = "ed/HEI"
 
 [[agreements]]
 cop = "HABFU"
