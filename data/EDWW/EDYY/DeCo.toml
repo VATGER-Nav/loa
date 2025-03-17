@@ -18,28 +18,28 @@ cop = "ELSOB"
 level = 240
 adep = ["EDXW", "EDXF"]
 from_sector = "ed/ALR"
-to_sector = "ed/JL"
+to_sector = "ed/HL"
 
 [[agreements]]
 cop = "ELSOB"
 level = 240
 adep = ["EDHK"]
 from_sector = "ed/ALR"
-to_sector = "ed/JL"
+to_sector = "ed/HL"
 
 [[agreements]]
 cop = "MUBZI"
 level = 240
 adep = ["EDDW", "ETND"]
 from_sector = "ed/ALR"
-to_sector = "ed/JL"
+to_sector = "ed/HL"
 
 [[agreements]]
 cop = "ESTAD"
 level = 240
 adep = ["EDHL", "ETNW"]
 from_sector = "ed/ALR"
-to_sector = "ed/JL"
+to_sector = "ed/HL"
 
 [[agreements]]
 cop = "EXNEL"
