@@ -182,13 +182,41 @@ releases = "F"
 from_sector = "ed/NKRH"
 to_sector = "ed/STG"
 
-# FIXME
+[[agreements]]
+cop = "INKAM"
+level = 120
+ades = ["EDSB"]
+from_sector = "ed/NKRH"
+to_sector = "ed/STG"
+remarks = "released, NKRH may clear flights to EDSB DCT KRH, lower level can be coordinated with STG"
+
 [[agreements]]
 level = 150
 ades = ["EDDS", "EDTY", "EDSB", "EDJA", "EDRY", "EDTD", "EDTM"]
-from_sector = "ed/LBU/BAD"
-to_sector = "ed/STG/REU"
-remarks = "Flights to EDSB may be cleared DCT KRH, lower level can be coordinated with\nSTG/REU"
+from_sector = "ed/BAD"
+to_sector = "ed/REU"
+
+[[agreements]]
+level = 150
+ades = ["EDDS", "EDTY", "EDSB", "EDJA", "EDRY", "EDTD", "EDTM"]
+from_sector = "ed/LBU"
+to_sector = "ed/STG"
+
+[[agreements]]
+cop = "SUL"
+level = 150
+ades = ["EDDS"]
+from_sector = "ed/BAD"
+to_sector = "ed/REU"
+remarks = "if REU requests this traffic DCT DENEL, BAD shall descend and hand them off asap for further routing by REU"
+
+[[agreements]]
+cop = "DENEL"
+level = 140
+ades = ["LFSB"]
+transfer_type = "D"
+from_sector = "ed/BAD"
+to_sector = "ed/REU"
 
 [[agreements]]
 cop = "ETASA"
@@ -368,15 +396,14 @@ from_sector = "ed/DFDS"
 to_sector = "ed/NKRH"
 remarks = "Speed restriction 220kts until RID may be canceled by DFDS and NKRH individually without prior coordination"
 
-# FIXME
 [[agreements]]
 cop = "SULUS"
 level = 130
 adep = ["EDDF"]
+runway = ["07C", "07R"]
 transfer_type = "C"
 from_sector = "ed/DFDS"
 to_sector = "ed/HAB"
-remarks = "07 Departure"
 
 [[agreements]]
 cop = "KOMIB"
@@ -428,7 +455,7 @@ transfer_type = "C"
 releases = "F"
 from_sector = "ed/STG"
 to_sector = "ed/LBU"
-remarks = "flights may be cleared direct ROLSO when RWY 07 is in use"
+remarks = "STG may clear flights DCT ROLSO when RWY 07 is in use"
 
 [[agreements]]
 cop = "VESID"
@@ -464,7 +491,7 @@ adep = ["EDDS"]
 releases = "F"
 from_sector = "ed/STG"
 to_sector = "ed/KNG"
-remarks = "flights may be cleared direct SPESA, climbing if 07"
+remarks = "STG may clear flights DCT SPESA, climbing if 07"
 
 [[agreements]]
 cop = "DKB"
@@ -501,6 +528,81 @@ runway = ["25"]
 releases = "F"
 from_sector = "ed/STG"
 to_sector = "ed/LBU"
+
+[[agreements]]
+cop = "DKB"
+level = 100
+adep = ["EDTY"]
+transfer_type = "C"
+releases = "F"
+from_sector = "ed/STG"
+to_sector = "ed/DKB"
+
+[[agreements]]
+cop = "LAMPU"
+level = 100
+adep = ["EDTY"]
+transfer_type = "C"
+sfl = 70
+from_sector = "ed/STG"
+to_sector = "ed/DKB"
+
+[[agreements]]
+cop = "ETASA"
+level = 140
+adep = ["EDTY"]
+from_sector = "ed/STG"
+to_sector = "ed/KNG"
+remarks = "flights via Z724 shall be transferred to NKRH instead, crossing at FL140 released by KNG"
+
+[[agreements]]
+cop = "GUPIN"
+level = 140
+adep = ["EDTY"]
+from_sector = "ed/STG"
+to_sector = "ed/LBU"
+
+[[agreements]]
+cop = "LBU"
+level = 140
+adep = ["EDTY"]
+from_sector = "ed/STG"
+to_sector = "ed/LBU"
+
+[[agreements]]
+cop = "DENEL"
+level = 140
+adep = ["EDDS"]
+from_sector = "ed/REU"
+to_sector = "ed/BAD"
+
+[[agreements]]
+cop = "NATOR"
+level = 140
+adep = ["EDDS", "EDSB", "EDTL"]
+from_sector = "ed/REU"
+to_sector = "ed/BAD"
+
+[[agreements]]
+cop = "SUL"
+level = 140
+adep = ["EDSB, EDTL, EDTM"]
+from_sector = "ed/REU"
+to_sector = "ed/BAD"
+
+[[agreements]]
+cop = "UBASI"
+level = 140
+adep = ["EDSB"]
+from_sector = "ed/REU"
+to_sector = "ed/BAD"
+
+[[agreements]]
+cop = "ESULI"
+level = 140
+adep = ["EDTM"]
+from_sector = "ed/REU"
+to_sector = "ed/BAD"
 
 [[agreements]]
 cop = "KERAX"
@@ -551,13 +653,23 @@ remarks = "KERAX#D"
 
 [[agreements]]
 cop = "DITAM"
-level = 200
+level = 240
 adep = ["EDDF"]
+runway = ["07"]
 transfer_type = "C"
-releases = "F"
 from_sector = "ed/TAU"
 to_sector = "ed/NOR"
-remarks = "on OBOKA#E/#D departure flights may be cleared direct DITAM or OBOKA"
+remarks = "released for left turns, traffic on OBOKA#E/#D SID may be cleared DCT DITAM or DCT OBOKA"
+
+[[agreements]]
+cop = "DITAM"
+level = 200
+adep = ["EDDF"]
+runway = ["25", "18"]
+transfer_type = "C"
+from_sector = "ed/TAU"
+to_sector = "ed/NOR"
+remarks = "released for left turns"
 
 [[agreements]]
 cop = "ARPEG"
@@ -567,6 +679,15 @@ transfer_type = "C"
 from_sector = "ed/GIN"
 to_sector = "ed/PADH"
 remarks = "cross ARPEG FL190 or above"
+
+[[agreements]]
+cop = "KULIX"
+level = 70
+adep = ["EDFQ"]
+transfer_type = "C"
+from_sector = "ed/GIN"
+to_sector = "ed/PADL"
+remarks = "these flights shall be coordinated with PADL before issuing departure release"
 
 [[agreements]]
 cop = "ROLIS"
@@ -635,15 +756,26 @@ releases = "F"
 from_sector = "ed/KNG"
 to_sector = "ed/DFAS"
 
-# FIXME
 [[agreements]]
 cop = "SPESA"
 level = 110
+level_at = [0, "SPESA"]
 ades = ["EDDF"]
+runway = ["25L", "25C", "25R"]
 transfer_type = "D"
 from_sector = "ed/KTG"
 to_sector = "ed/DFAS"
 remarks = "released SYD ADNIS/SUPIX flow; RWY25: SPESA@, RWY07: CHA@"
+
+[[agreements]]
+cop = "SPESA"
+level = 110
+level_at = [0, "CHA"]
+ades = ["EDDF"]
+runway = ["07L", "07C", "07R"]
+transfer_type = "D"
+from_sector = "ed/KTG"
+to_sector = "ed/DFAS"
 
 [[agreements]]
 cop = "RAMOB"
@@ -668,13 +800,6 @@ adep = ["EDDL"]
 transfer_type = "C"
 from_sector = "ed/DLD"
 to_sector = "ed/PADL"
-
-[[agreements]]
-cop = "RINEX"
-ades = ["ETAR"]
-from_sector = "ed/NKRL"
-to_sector = "ed/PFA"
-remarks = "flight may be cleared DCT XIDOD (26/27) or DCT RMS (08/09)"
 
 [[agreements]]
 cop = "RINEX"
