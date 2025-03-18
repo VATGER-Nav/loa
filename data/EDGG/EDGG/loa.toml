@@ -211,14 +211,6 @@ to_sector = "ed/REU"
 remarks = "if REU requests this traffic DCT DENEL, BAD shall descend and hand them off asap for further routing by REU"
 
 [[agreements]]
-cop = "DENEL"
-level = 140
-ades = ["LFSB"]
-transfer_type = "D"
-from_sector = "ed/BAD"
-to_sector = "ed/REU"
-
-[[agreements]]
 cop = "ETASA"
 level = 240
 ades = ["EDFH"]
