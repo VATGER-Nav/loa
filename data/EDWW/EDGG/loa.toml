@@ -1,93 +1,102 @@
 [[agreements]]
-cop = "XAROL"
-level = 190
-ades = ["EDDR", "EDFH", "EDFM", "EDGS", "EDRY", "ETAR", "ETAD", "EDFZ", "EDRV"]
-from_sector = "ed/DST"
-to_sector = "ed/GIN"
-
-[[agreements]]
-cop = "ROBAR"
-level = 190
-ades = ["EDDF"]
-from_sector = "ed/DST"
-to_sector = "ed/HEF"
-
-[[agreements]]
-cop = "ESADU"
-level = 160
-ades = ["EDLW"]
-from_sector = "ed/DST"
-to_sector = "ed/PADH"
-
-[[agreements]]
-cop = "ESADU"
-level = 200
-ades = ["EDDK"]
-from_sector = "ed/DST"
-to_sector = "ed/PADH"
-
-[[agreements]]
 cop = "OSN"
 level = 70
 ades = ["EDDG", "EDLI"]
+transfer_type = "D"
 from_sector = "ed/EMS"
 to_sector = "ed/HMM"
-
-[[agreements]]
-cop = "OSN"
-level = 200
-ades = ["EHTW", "EHLE"]
-from_sector = "ed/EMS"
-to_sector = "ed/HMM"
+remarks = "Transfer of Communications latest 10 NM prior to OSN"
 
 [[agreements]]
 cop = "OSN"
 level = 160
 ades = ["EDLW"]
 transfer_type = "D"
+sfl = 200
 from_sector = "ed/EMS"
 to_sector = "ed/HMM"
-remarks = "out of FL200"
 
 [[agreements]]
-cop = "MOBSA"
+cop = "OSN"
 level = 200
-ades = ["EDDL", "EDDK", "EDL*", "EDK*"]
+ades = ["EDDL", "EDDK", "EDL*", "EDK*", "EHEH", "EHBK", "EHBD", "EHTW", "EHLE", "ETNG"]
 from_sector = "ed/EMS"
 to_sector = "ed/HMM"
+remarks = "RORUS/OSN shall be considered as on traffic stream"
 
 [[agreements]]
 cop = "RORUS"
 level = 200
-ades = ["EDDL", "EDLE"]
+ades = ["EDDL", "EDL*"]
 from_sector = "ed/EMS"
 to_sector = "ed/HMM"
+remarks = "RORUS/OSN shall be considered as on traffic stream"
 
 [[agreements]]
-cop = "XAROL"
-level = 90
-ades = ["EDFQ"]
+cop = "ESADU"
+level = 160
+ades = ["EDLW"]
+transfer_type = "D"
+sfl = 200
 from_sector = "ed/HRZ"
-to_sector = "ed/GIN"
+to_sector = "ed/PADH"
 
 [[agreements]]
-cop = "FTZ"
-level = 70
-ades = ["ETFH"]
+cop = "ESADU"
+level = 200
+ades = ["EDDK"]
 from_sector = "ed/HRZ"
-to_sector = "ed/HEF"
+to_sector = "ed/PADH"
 
 [[agreements]]
 cop = "WRB"
-level = 80
+level = 70
 ades = ["EDLP"]
 from_sector = "ed/HRZ"
 to_sector = "ed/PADL"
 
 [[agreements]]
 cop = "XAROL"
+level = 190
+ades = ["EDDR", "EDFH", "EDFM", "EDRY", "ETAR", "ETAD", "EDFZ", "EDFV"]
+from_sector = "ed/HRZ"
+to_sector = "ed/GIN"
+
+[[agreements]]
+cop = "XAROL"
+level = 190
+ades = ["EDGS"]
+from_sector = "ed/HRZ"
+to_sector = "ed/GIN"
+
+[[agreements]]
+cop = "EMBAD"
+level = 190
+ades = ["EDDF", "EDFE"]
+from_sector = "ed/HRZ"
+to_sector = "ed/HEF"
+remarks = "May be cleared DCT NATSU"
+
+[[agreements]]
+cop = "XAROL"
+level = 70
+ades = ["EDFQ"]
+from_sector = "ed/HRZ"
+to_sector = "ed/GIN"
+
+[[agreements]]
+cop = "KEMAD"
+level = 70
+ades = ["ETHF"]
+from_sector = "ed/HRZ"
+to_sector = "ed/HEF"
+remarks = "Transfer to ETHF APP directly, when online"
+
+[[agreements]]
+cop = "XAROL"
 level = 90
 adep = ["EDVK"]
+transfer_type = "C"
 from_sector = "ed/HRZ"
 to_sector = "ed/GIN"
 
@@ -95,6 +104,7 @@ to_sector = "ed/GIN"
 cop = "ELNAT"
 level = 90
 adep = ["EDVK"]
+transfer_type = "C"
 from_sector = "ed/HRZ"
 to_sector = "ed/HEF"
 
@@ -102,15 +112,9 @@ to_sector = "ed/HEF"
 cop = "EMBAD"
 level = 90
 adep = ["EDVK"]
+transfer_type = "C"
 from_sector = "ed/HRZ"
 to_sector = "ed/HEF"
-
-[[agreements]]
-cop = "WRB"
-level = 70
-adep = ["EDVK"]
-from_sector = "ed/HRZ"
-to_sector = "ed/PADL"
 
 [[agreements]]
 cop = "ESADU"
@@ -139,3 +143,10 @@ level = 150
 adep = ["EDLP"]
 from_sector = "ed/HRZ"
 to_sector = "ed/HEF"
+
+[[agreements]]
+cop = "XAROL"
+level = 230
+adep = ["ETNW"]
+from_sector = "ed/HRZ"
+to_sector = "ed/GIN"

@@ -1,126 +1,146 @@
 [[agreements]]
-cop = "DHE"
+cop = "GASTU"
 level = 250
-ades = ["EDDH", "EDHI", "EDHL", "ETMN"]
-level_at = [0, "DHE"]
+ades = ["EDDH", "EDHI", "EDHL"]
+level_at = [0, "GASTU"]
 from_sector = "ed/JL"
-to_sector = "ed/EIDW"
+to_sector = "ed/EID"
 
 [[agreements]]
-cop = "DHE"
+cop = "ROCZO"
+level = 250
+ades = ["EDDH", "EDHI", "EDHL"]
+level_at = [0, "ROCZO"]
+from_sector = "ed/JL"
+to_sector = "ed/EID"
+
+[[agreements]]
+cop = "SUQIF"
 level = 250
 ades = ["EDXW", "EDXF"]
-level_at = [0, "DHE"]
+level_at = [0, "SUQIF"]
 from_sector = "ed/JL"
-to_sector = "ed/EIDW"
+to_sector = "ed/EID"
 
 [[agreements]]
-cop = "GOLEN"
+cop = "JUIST"
 level = 250
 ades = ["EDXW", "EDXF"]
-level_at = [0, "GOLEN"]
+level_at = [0, "JUIST"]
 from_sector = "ed/JL"
-to_sector = "ed/EIDW"
+to_sector = "ed/EID"
 
 [[agreements]]
-cop = "LEGPI"
+cop = "IQITA"
 level = 250
 ades = ["EKBI", "EKSP", "EKEB", "EKVD", "EKVJ"]
-level_at = [0, "LEGPI"]
+level_at = [0, "IQITA"]
 from_sector = "ed/JL"
-to_sector = "ed/EIDW"
-remarks = "EKBI Inbounds are released direct LOKSA RWY 27 or GELBA RWY 09"
+to_sector = "ed/EID"
 
 [[agreements]]
-cop = "WELGO"
+cop = "AFPIN"
 level = 250
 ades = ["EHGG", "EHLE"]
-level_at = [0, "WELGO"]
+level_at = [0, "AFPIN"]
 from_sector = "ed/JL"
-to_sector = "ed/EIDW"
+to_sector = "ed/EID"
+remarks = "May be cleared DCT KUBAT, clear of ED-R 201C/301C (regardless of activity)"
 
 [[agreements]]
-cop = "DHE"
+cop = "ROCZO"
 level = 250
 ades = ["EHGG", "EHLE"]
-level_at = [0, "DHE"]
+level_at = [0, "ROCZO"]
 from_sector = "ed/JL"
-to_sector = "ed/EIDW"
+to_sector = "ed/EID"
+remarks = "May be cleared DCT KUBAT, clear of ED-R 201C/301C (regardless of activity)"
 
 [[agreements]]
-cop = "DHE"
+cop = "ROCZO"
 level = 250
-ades = ["EKPB", "EKSB", "EKOD"]
-level_at = [25, "DHE"]
-transfer_type = "D"
+ades = ["EKOD", "EKPB", "EKSB", "ETMN"]
+level_at = [+25, "ROCZO"]
 from_sector = "ed/JL"
-to_sector = "ed/EIDE"
+to_sector = "ed/EID"
 
 [[agreements]]
-cop = "POBZU"
+cop = "PABCO"
+level = 250
+ades = ["EDDW", "ETND", "Etmn"]
+level_at = [+15, "PABCO"]
+from_sector = "ed/JL"
+to_sector = "ed/EID"
+
+[[agreements]]
+cop = "REVLA"
 level = 260
-ades = ["EDDH", "EDHI", "EDHL", "ETMN", "EDHK", "EDXR"]
-level_at = [0, "POBZU"]
+ades = ["EDDH", "EDHI", "EDHL", "EDHK"]
 releases = "F"
+level_at = [0, "REVLA"]
 from_sector = "ed/JL"
 to_sector = "ed/ALR"
 
 [[agreements]]
-cop = "AKZOM"
+cop = "IPMOG"
 level = 250
-ades = ["EDDW", "ETND"]
-level_at = [15, "AKZOM"]
-transfer_type = "D"
+ades = ["EDDW"]
+level_at = [0, "IPMOG"]
 from_sector = "ed/JL"
-to_sector = "ed/FRI"
+to_sector = "ed/EMS"
 
 [[agreements]]
-cop = "EKERN"
+cop = "ABFAD"
 level = 250
-ades = ["EDXW"]
-level_at = [0, "EKERN"]
+ades = ["EDXW", "EDXF"]
+level_at = [0, "ABFAD"]
 from_sector = "ed/HL"
-to_sector = "ed/EIDE"
-remarks = "EIDE may request earlier descent"
+to_sector = "ed/EID"
 
 [[agreements]]
 cop = "BADOS"
 level = 250
-ades = ["EDXW"]
+ades = ["EDXW", "EDXF"]
 level_at = [0, "BADOS"]
 from_sector = "ed/HL"
-to_sector = "ed/EIDE"
-
-[[agreements]]
-cop = "EKERN"
-level = 250
-ades = ["EKBI", "EKVS", "EKVJ", "EKEB", "EKPB", "EKSB", "EKSP", "EKOD"]
-level_at = [0, "EKERN"]
-from_sector = "ed/HL"
-to_sector = "ed/EIDE"
-remarks = "EKBI Inbounds are released direct LOKSA RWY 27 or GELBA RWY 09"
+to_sector = "ed/EID"
 
 [[agreements]]
 cop = "BADOS"
 level = 250
-ades = ["EKSP", "EKOD"]
+ades = ["EKBI", "EKEB", "EKOD", "EKSP", "EKVD", "EKVJ"]
 level_at = [0, "BADOS"]
 from_sector = "ed/HL"
-to_sector = "ed/EIDE"
+to_sector = "ed/EID"
 
 [[agreements]]
-cop = "SIMAF"
-level = 247
-ades = ["EDWF", "EDWE", "EDWI", "EHGG", "EHLE"]
-level_at = [0, "SIMAF"]
+cop = "PIZID"
+level = 250
+ades = ["EKBI", "EKEB", "EKOD", "EKSP", "EKVD", "EKVJ"]
+level_at = [0, "PIZID"]
+from_sector = "ed/HL"
+to_sector = "ed/EID"
+
+[[agreements]]
+cop = "OMWEG"
+level = 250
+ades = ["EKPB", "EKSB"]
+level_at = [0, "HINUH"]
+from_sector = "ed/HL"
+to_sector = "ed/EID"
+
+[[agreements]]
+cop = "OMEPA"
+level = 250
+ades = ["EDWE", "EDWI", "EDWF", "EHGG", "EHLE"]
+level_at = [0, "OMEPA"]
 from_sector = "ed/HL"
 to_sector = "ed/ALR"
-remarks = "HOL shall coordinate LVL with ALR"
 
 [[agreements]]
 cop = "ELSOB"
 level = 250
-ades = ["EDDW", "ETND"]
+ades = ["EDDW", "ETND", "EDXF"]
 level_at = [0, "ELSOB"]
 from_sector = "ed/HL"
 to_sector = "ed/ALR"
@@ -128,15 +148,7 @@ to_sector = "ed/ALR"
 [[agreements]]
 cop = "ELSOB"
 level = 250
-ades = ["EDVE", "EDXF"]
-level_at = [0, "ELSOB"]
-from_sector = "ed/HL"
-to_sector = "ed/ALR"
-
-[[agreements]]
-cop = "ELSOB"
-level = 250
-ades = ["EDDV", "ETNW"]
+ades = ["EDDV", "EDVE", "ETNW"]
 level_at = [0, "ELSOB"]
 from_sector = "ed/HL"
 to_sector = "ed/ALR"
@@ -144,23 +156,7 @@ to_sector = "ed/ALR"
 [[agreements]]
 cop = "RAMAR"
 level = 250
-ades = ["EDDV", "ETNW"]
-level_at = [0, "RAMAR"]
-from_sector = "ed/HL"
-to_sector = "ed/HEI"
-
-[[agreements]]
-cop = "AMLUH"
-level = 250
-ades = ["ETMN"]
-level_at = [0, "AMLUH"]
-from_sector = "ed/HL"
-to_sector = "ed/HEI"
-
-[[agreements]]
-cop = "RAMAR"
-level = 250
-ades = ["EDVE"]
+ades = ["EDDV", "EDVE", "ETNW"]
 level_at = [0, "RAMAR"]
 from_sector = "ed/HL"
 to_sector = "ed/HEI"
@@ -168,7 +164,7 @@ to_sector = "ed/HEI"
 [[agreements]]
 cop = "HAM"
 level = 250
-ades = ["EDVE", "EDXF"]
+ades = ["EDVE"]
 level_at = [0, "HAM"]
 from_sector = "ed/HL"
 to_sector = "ed/HEI"
@@ -176,7 +172,7 @@ to_sector = "ed/HEI"
 [[agreements]]
 cop = "BERIM"
 level = 250
-ades = ["ETNL", "EDBN", "EDBH", "EDAH"]
-transfer_type = "D"
+ades = ["ETNL", "EDBH", "EDBN", "EDAH"]
+level_at = [0, "ELSOB"]
 from_sector = "ed/HL"
-to_sector = "ed/MRZ"
+to_sector = "ed/HEI"

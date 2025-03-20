@@ -1,3 +1,4 @@
+## DBAN
 [[agreements]]
 cop = "RENKI"
 level = 0
@@ -16,6 +17,15 @@ to_sector = "ed/DBAS"
 remarks = "EDDB RWYs 24"
 
 [[agreements]]
+cop = "GERGA"
+level = 90
+adep = ["EDAY"]
+transfer_type = "C"
+from_sector = "ed/DBAN"
+to_sector = "ed/DBDS"
+remarks = "EDDB RWYs 06"
+
+[[agreements]]
 cop = "RENKI"
 level = 130
 adep = ["EDAY"]
@@ -23,6 +33,8 @@ transfer_type = "C"
 from_sector = "ed/DBAN"
 to_sector = "ed/MAR"
 
+
+## DBAS
 [[agreements]]
 cop = "TUVAK"
 level = 100
@@ -65,6 +77,14 @@ to_sector = "ed/DBDS"
 remarks = "EDDB RWYs 06"
 
 [[agreements]]
+cop = "HOZ"
+level = 130
+adep = ["ETSH"]
+transfer_type = "C"
+from_sector = "ed/DBAS"
+to_sector = "ed/FLG"
+
+[[agreements]]
 cop = "BOLBO"
 level = 130
 adep = ["EDAZ"]
@@ -72,6 +92,17 @@ transfer_type = "C"
 from_sector = "ed/DBAS"
 to_sector = "ed/FLG"
 
+[[agreements]]
+cop = "LUROS"
+level = 130
+adep = ["EDAY"]
+transfer_type = "C"
+from_sector = "ed/DBAS"
+to_sector = "ed/FLG"
+remarks = "EDDB RWYs 24"
+
+
+## DBAST
 [[agreements]]
 cop = "BOLBO"
 level = 40
@@ -82,6 +113,8 @@ from_sector = "ed/DBAST"
 to_sector = "ed/DBAS"
 remarks = "EDDB RWYs 06"
 
+
+## DBDN
 [[agreements]]
 cop = "GERGA"
 level = 100
@@ -91,26 +124,9 @@ to_sector = "ed/DBAN"
 remarks = "EDDB RWYs 06"
 
 [[agreements]]
-cop = "SUKIP"
+cop = "LOGDO"
 level = 160
 adep = ["EDDB"]
-transfer_type = "C"
-from_sector = "ed/DBDN"
-to_sector = "ed/BOR"
-remarks = "LOGDO SIDs"
-
-[[agreements]]
-cop = "HLZ"
-level = 160
-adep = ["EDAY"]
-transfer_type = "C"
-from_sector = "ed/DBDN"
-to_sector = "ed/BOR"
-
-[[agreements]]
-cop = "POVEL"
-level = 160
-adep = ["EDAY"]
 transfer_type = "C"
 from_sector = "ed/DBDN"
 to_sector = "ed/BOR"
@@ -133,21 +149,20 @@ to_sector = "ed/DBDS"
 remarks = "EDDB RWYs 06"
 
 [[agreements]]
-cop = "MAG"
-level = 160
-adep = ["EDAY"]
-transfer_type = "C"
-from_sector = "ed/DBDN"
-to_sector = "ed/BOR"
-
-[[agreements]]
-cop = "PINOB"
+cop = "ARSAP"
 level = 100
 adep = ["EDDB"]
 runway = ["06L", "06R"]
 from_sector = "ed/DBDN"
 to_sector = "ed/DBDS"
-remarks = "ARSAP/LUROS SIDs"
+
+[[agreements]]
+cop = "LUROS"
+level = 100
+adep = ["EDDB"]
+runway = ["06L", "06R"]
+from_sector = "ed/DBDN"
+to_sector = "ed/DBDS"
 
 [[agreements]]
 cop = "SUKIP"
@@ -157,7 +172,6 @@ route_after = "Y206 BUREL"
 transfer_type = "C"
 from_sector = "ed/DBDN"
 to_sector = "ed/BOR"
-remarks = "SUKIP SIDs"
 
 [[agreements]]
 cop = "GENTI"
@@ -167,16 +181,22 @@ route_after = "M748 SOGMA"
 transfer_type = "C"
 from_sector = "ed/DBDN"
 to_sector = "ed/MAR"
-remarks = "SUKIP SIDs"
 
 [[agreements]]
-cop = "PINOB"
+cop = "ARSAP"
 level = 120
 adep = ["EDDB"]
 runway = ["24L", "24R"]
 from_sector = "ed/DBDN"
 to_sector = "ed/DBDS"
-remarks = "ARSAP/LUROS SIDs"
+
+[[agreements]]
+cop = "LUROS"
+level = 120
+adep = ["EDDB"]
+runway = ["24L", "24R"]
+from_sector = "ed/DBDN"
+to_sector = "ed/DBDS"
 
 [[agreements]]
 cop = "GERGA"
@@ -185,8 +205,9 @@ adep = ["EDDB"]
 transfer_type = "C"
 from_sector = "ed/DBDN"
 to_sector = "ed/MAR"
-remarks = "GERGA SIDs"
 
+
+## DBDS
 [[agreements]]
 cop = "IDOBA"
 level = 100
@@ -202,31 +223,6 @@ adep = ["EDDB"]
 transfer_type = "C"
 from_sector = "ed/DBDS"
 to_sector = "ed/BOR"
-remarks = "LOGDO SIDs"
-
-[[agreements]]
-cop = "HLZ"
-level = 160
-adep = ["EDAY"]
-transfer_type = "C"
-from_sector = "ed/DBDS"
-to_sector = "ed/BOR"
-
-[[agreements]]
-cop = "POVEL"
-level = 160
-adep = ["EDAY"]
-transfer_type = "C"
-from_sector = "ed/DBDS"
-to_sector = "ed/BOR"
-
-[[agreements]]
-cop = "MAG"
-level = 160
-adep = ["EDAY"]
-transfer_type = "C"
-from_sector = "ed/DBDS"
-to_sector = "ed/BOR"
 
 [[agreements]]
 cop = "BOLBO"
@@ -239,42 +235,38 @@ to_sector = "ed/DBAS"
 remarks = "EDDB RWYs 24"
 
 [[agreements]]
-cop = "ESIKA"
+cop = "SUKIP"
 level = 120
 adep = ["EDDB"]
 from_sector = "ed/DBDS"
 to_sector = "ed/DBDN"
-remarks = "SUKIP SIDs"
 
 [[agreements]]
-cop = "IDOBA"
+cop = "GERGA"
 level = 90
 adep = ["EDDB"]
 runway = ["06L", "06R"]
 from_sector = "ed/DBDS"
 to_sector = "ed/DBDN"
-remarks = "GERGA SIDs"
 
 [[agreements]]
-cop = "IDOBA"
+cop = "GERGA"
 level = 110
 adep = ["EDDB"]
 runway = ["24L", "24R"]
 from_sector = "ed/DBDS"
 to_sector = "ed/DBDN"
-remarks = "GERGA SIDs"
 
 [[agreements]]
-cop = "IDOBA"
+cop = "LUROS"
 level = 160
 adep = ["EDDB"]
 transfer_type = "C"
 from_sector = "ed/DBDS"
 to_sector = "ed/FLG"
-remarks = "LUROS SIDs"
 
 [[agreements]]
-cop = "JACOW"
+cop = "LUROS"
 level = 160
 adep = ["EDDB"]
 transfer_type = "C"
@@ -289,12 +281,21 @@ adep = ["EDDB"]
 transfer_type = "C"
 from_sector = "ed/DBDS"
 to_sector = "ed/FLG"
-remarks = "ARSAP SIDs | If ARSAP Overflow Area is inactive"
+remarks = "If ARSAP Overflow Area is inactive"
 
 [[agreements]]
 cop = "SONUD"
 level = 160
-adep = ["EDBM", "EDBC"]
+adep = ["EDBM"]
 transfer_type = "C"
 from_sector = "ed/DBDS"
 to_sector = "ed/FLG"
+
+[[agreements]]
+cop = "OBANI"
+level = 160
+adep = ["EDAY"]
+transfer_type = "C"
+from_sector = "ed/DBDS"
+to_sector = "ed/FLG"
+remarks = "EDDB RWYs 06"
