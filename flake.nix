@@ -4,7 +4,7 @@
   inputs = {
     nixpkgs.url = "github:NixOS/nixpkgs/nixos-unstable-small";
     flake-parts.url = "github:hercules-ci/flake-parts";
-    systems.url = "github:nix-systems/default-linux";
+    systems.url = "github:nix-systems/default";
 
     pyproject-nix = {
       url = "github:nix-community/pyproject.nix";
