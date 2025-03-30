@@ -1,7 +1,8 @@
 from .agreement import Agreement
 from .data import Data
+from .doc import Doc
 
-__all__ = ["Agreement", "Data"]
+__all__ = ["Agreement", "Data", "Doc"]
 
 import sys
 
@@ -9,7 +10,9 @@ import sys
 def combine():
     data = Data()
     data.read_data()
+    data.read_docs()
     data.combine_data()
+    data.combine_docs()
 
     if len(Data().errors) > 0:
         print("Errors:")
@@ -19,7 +22,9 @@ def combine():
 
 
 def check():
-    Data().read_data()
+    data = Data()
+    data.read_data()
+    data.read_docs()
 
     if len(Data().errors) > 0:
         print("Errors:")
