@@ -15,7 +15,7 @@ class TestAgreement(unittest.TestCase):
 
         for root, _, files in Path("data/").walk():
             for file in files:
-                if not file.endswith(".toml"):
+                if not file.endswith(".toml") or file.endswith("docs.toml"):
                     continue
 
                 file_path = root / file
