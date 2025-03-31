@@ -17,7 +17,7 @@ effective_date = "2025-02-26"
 [[docs]]
 filename = "LoA_EDMM-EDUU.pdf"
 name = "München ACC - Karlsruhe UAC"
-firs = ["EDUU", "EDMM"]
+firs = ["EDMM", "EDUU"]
 related_firs = ["EDWW"]
 airac = 2412
 effective_date = "2024-11-28"
@@ -26,13 +26,6 @@ effective_date = "2024-11-28"
 filename = "LoA_EDMM-EDGG.pdf"
 name = "München ACC - Langen ACC"
 firs = ["EDGG", "EDMM"]
-airac = 2412
-effective_date = "2024-11-28"
-
-[[docs]]
-filename = "LoA_EDMM-EDUU.pdf"
-name = "München ACC - Karlsruhe UAC"
-firs = ["EDUU", "EDMM"]
 airac = 2412
 effective_date = "2024-11-28"
 
