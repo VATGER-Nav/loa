@@ -49,8 +49,9 @@ class Data:
 
         print(f"Read {self.count_read} agreements, {len(self.errors)} errors")
 
-    def read_docs(self):
-        docs_path = self.data_dir / "_docs" / "docs.toml"
+    def read_docs(self):  # noqa: C901
+        docs_dir = self.data_dir / "_docs"
+        docs_path = docs_dir / "docs.toml"
         if not docs_path.exists():
             msg = f"Document index {docs_path} does not exist"
             raise FileNotFoundError(msg)
@@ -73,6 +74,19 @@ class Data:
                         self.errors.append(f"Failed on {docs_path} with {e}")
         except (tomllib.TOMLDecodeError, FileNotFoundError, PermissionError) as e:
             print(f"Exception {e}. Failed on {docs_path}")
+
+        for _, _, files in docs_dir.walk():
+            for file in files:
+                if file == "docs.toml" or file.startswith("."):
+                    continue
+
+                for doc in self.docs:
+                    if doc.filename == file:
+                        break
+                else:
+                    self.errors.append(f"Doc {file} not listed in index.")
+
+        print(f"Read {self.docs_read} docs, {len(self.errors)} errors")
 
     def read_toml(self, file_path: Path):
         print(file_path)
