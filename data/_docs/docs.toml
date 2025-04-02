@@ -7,10 +7,32 @@ airac = 2412
 effective_date = "2024-11-28"
 
 [[docs]]
+filename = "LOP_EDWW.pdf"
+name = "Bremen ACC - Langen ACC"
+firs = ["EDWW", "EDGG"]
+airac = 2503
+effective_date = "2025-03-20"
+
+[[docs]]
+filename = "LOP_EDGG.pdf"
+name = "LOP Langen ACC"
+firs = ["EDGG"]
+airac = 2503
+effective_date = "2025-03-20"
+
+[[docs]]
 filename = "LOP_EDUU.pdf"
 name = "LOP Karlsruhe UAC"
 firs = ["EDUU"]
 related_firs = ["EDMM", "EDWW", "EDGG"]
+airac = 2502
+effective_date = "2025-02-26"
+
+[[docs]]
+filename = "LOP_EDYY.pdf"
+name = "LOP Maastricht UAC"
+firs = ["EDYY"]
+related_firs = ["EDWW", "EDGG"]
 airac = 2502
 effective_date = "2025-02-26"
 
@@ -39,7 +61,7 @@ effective_date = "2025-01-23"
 [[docs]]
 filename = "LoA_EDMM-EDYY.pdf"
 name = "München ACC - Maastricht UAC"
-firs = ["EDMM", "EDMM"]
+firs = ["EDMM", "EDYY"]
 airac = 2303
 effective_date = "2023-03-23"
 
@@ -67,7 +89,7 @@ effective_date = "2023-09-07"
 [[docs]]
 filename = "LoA_EDMM-EDUU-LOVV.pdf"
 name = "München ACC - Karlsruhe UAC - Wien ACC"
-firs = ["EDMM", "EDUU", "LKAA"]
+firs = ["EDMM", "EDUU", "LOVV"]
 airac = 2501
 effective_date = "2025-02-20"
 
@@ -77,13 +99,6 @@ name = "München ACC - Karlsruhe UAC - Switzerland FIR"
 firs = ["EDMM", "EDUU", "LSAS"]
 airac = 2412
 effective_date = "2024-11-28"
-
-[[docs]]
-filename = "LOP_EDWW.pdf"
-name = "Bremen ACC - Langen ACC"
-firs = ["EDWW", "EDGG"]
-airac = 2503
-effective_date = "2025-03-20"
 
 [[docs]]
 filename = "LoA_EDWW-EDUU.pdf"
@@ -144,25 +159,11 @@ airac = 2503
 effective_date = "2025-03-20"
 
 [[docs]]
-filename = "LOP_EDGG.pdf"
-name = "LOP Langen ACC"
-firs = ["EDGG"]
-airac = 2503
-effective_date = "2025-03-20"
-
-[[docs]]
 filename = "LoA_EDGG-EDUU.pdf"
 name = "Langen ACC - Karlsruhe UAC"
 firs = ["EDGG", "EDUU"]
 airac = 2502
 effective_date = "2025-02-26"
-
-[[docs]]
-filename = "LoA_EDGG-EDYY.pdf"
-name = "Langen ACC - Maastricht UAC"
-firs = ["EDGG", "EDYY"]
-airac = 2503
-effective_date = "2025-03-20"
 
 [[docs]]
 filename = "LoA_EDGG-LSAS.pdf"
