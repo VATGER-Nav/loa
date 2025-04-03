@@ -62,6 +62,7 @@ effective_date = "2025-01-23"
 filename = "LoA_EDMM-EDYY.pdf"
 name = "München ACC - Maastricht UAC"
 firs = ["EDMM", "EDYY"]
+related_firs = ["EDWW"]
 airac = 2303
 effective_date = "2023-03-23"
 
@@ -174,7 +175,7 @@ effective_date = "2024-10-03"
 
 [[docs]]
 filename = "LoA_EDYY-EGPX.pdf"
-name = "Maastricht UAC - Warszawa FIR"
+name = "Maastricht UAC - Scottish ACC"
 firs = ["EDYY", "EGPX"]
 related_firs = ["EDWW"]
 airac = 2503
@@ -191,6 +192,7 @@ effective_date = "2024-11-28"
 filename = "LoA_EDGG-EDYY-EHAA.pdf"
 name = "Langen ACC - Maastricht UAC - Amsterdam FIR"
 firs = ["EDGG", "EDYY", "EHAA"]
+related_firs = ["EDWW"]
 airac = 2503
 effective_date = "2025-03-20"
 
