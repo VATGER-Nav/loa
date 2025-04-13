@@ -25,8 +25,8 @@ filename = "LOP_EDUU.pdf"
 name = "LOP Karlsruhe UAC"
 firs = ["EDUU"]
 related_firs = ["EDMM", "EDWW", "EDGG"]
-airac = 2502
-effective_date = "2025-02-26"
+airac = 2504
+effective_date = "2025-04-17"
 
 [[docs]]
 filename = "LOP_EDYY.pdf"

@@ -186,6 +186,7 @@ ades = [
         "LKCV",
         "LKHK",
         "LKMH",
+        "LKPM",
         "LKVO",
 ]
 from_sector = "ed/ISA1"
