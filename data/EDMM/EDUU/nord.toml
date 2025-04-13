@@ -16,7 +16,7 @@ from_sector = "ed/NDG"
 to_sector = "ed/ISA1"
 
 [[agreements]]
-cop = "WLD"
+cop = "ALUTU"
 level = 310
 vertical = true
 adep = ["EDDS", "EDTY"]
@@ -78,10 +78,18 @@ from_sector = "ed/RDG"
 to_sector = "ed/DON1"
 
 [[agreements]]
+cop = "EPTEU"
+level = 310
+vertical = true
+adep = ["LOWS"]
+from_sector = "ed/RDG"
+to_sector = "ed/DON1"
+
+[[agreements]]
 cop = "RUDNO"
 level = 310
 vertical = true
-adep = ["LOWS", "LOWL", "EDAC", "EDDE"]
+adep = ["LOWL", "EDAC", "EDDE"]
 from_sector = "ed/RDG"
 to_sector = "ed/DON1"
 
@@ -95,7 +103,7 @@ from_sector = "ed/EGG"
 to_sector = "ed/DON1"
 
 [[agreements]]
-cop = "BAMTA"
+cop = "DEGIN"
 level = 310
 vertical = true
 adep = ["LKPR", "LKPD", "LKKB", "LKKV", "LKVO"]
