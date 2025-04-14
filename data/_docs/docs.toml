@@ -17,8 +17,8 @@ effective_date = "2025-03-20"
 filename = "LOP_EDGG.pdf"
 name = "LOP Langen ACC"
 firs = ["EDGG"]
-airac = 2503
-effective_date = "2025-03-20"
+airac = 2504
+effective_date = "2025-04-17"
 
 [[docs]]
 filename = "LOP_EDUU.pdf"
@@ -40,7 +40,7 @@ effective_date = "2025-02-26"
 filename = "LoA_EDMM-EDUU.pdf"
 name = "München ACC - Karlsruhe UAC"
 firs = ["EDMM", "EDUU"]
-related_firs = ["EDWW"]
+related_firs = ["EDWW", "EDGG"]
 airac = 2504
 effective_date = "2025-04-17"
 
@@ -62,7 +62,7 @@ effective_date = "2025-01-23"
 filename = "LoA_EDMM-EDYY.pdf"
 name = "München ACC - Maastricht UAC"
 firs = ["EDMM", "EDYY"]
-related_firs = ["EDWW"]
+related_firs = ["EDWW", "EDGG"]
 airac = 2303
 effective_date = "2023-03-23"
 
@@ -119,6 +119,7 @@ effective_date = "2025-01-23"
 filename = "LoA_EDWW-EDYY.pdf"
 name = "Bremen ACC - Maastricht UAC"
 firs = ["EDWW", "EDYY"]
+related_firs = ["EDGG"]
 airac = 2503
 effective_date = "2025-03-20"
 
@@ -185,8 +186,8 @@ effective_date = "2025-03-20"
 filename = "LoA_EDGG-LSAS.pdf"
 name = "Langen ACC - Switzerland FIR"
 firs = ["EDGG", "LSAS"]
-airac = 2412
-effective_date = "2024-11-28"
+airac = 2504
+effective_date = "2025-04-17"
 
 [[docs]]
 filename = "LoA_EDGG-EDYY-EHAA.pdf"
