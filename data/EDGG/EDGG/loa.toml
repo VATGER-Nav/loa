@@ -661,7 +661,7 @@ runway = ["25", "18"]
 transfer_type = "C"
 from_sector = "ed/TAU"
 to_sector = "ed/NOR"
-remarks = "released for left turns"
+remarks = "released for left turns & climb up to FL240"
 
 [[agreements]]
 cop = "ARPEG"
@@ -1323,6 +1323,16 @@ to_sector = "ed/BOT"
 cop = "SUVOX"
 level = 200
 ades = ["EHEH"]
+transfer_type = "D"
+releases = "F"
+from_sector = "ed/HMM"
+to_sector = "ed/BOT"
+remarks = "released"
+
+[[agreements]]
+cop = "SUVOX"
+level = 120
+ades = ["EDLN", "EDLV"]
 transfer_type = "D"
 releases = "F"
 from_sector = "ed/HMM"

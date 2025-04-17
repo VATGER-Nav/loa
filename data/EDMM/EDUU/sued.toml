@@ -2,7 +2,7 @@
 [[agreements]]
 cop = "KUNOD"
 level = 280
-ades = ["LFST", "LFGA", "LFSB", "LFJL"]
+ades = ["LFST", "LFGA", "LFJL"]
 from_sector = "ed/FUE"
 to_sector = "ed/TGO1"
 
@@ -21,6 +21,14 @@ vertical = true
 adep = ["LOWI", "LOWS", "LIPB"]
 from_sector = "ed/FUE"
 to_sector = "ed/ALP1"
+
+[[agreements]]
+cop = "AMEXO"
+level = 310
+vertical = true
+adep = ["LOWS"]
+from_sector = "ed/FUE"
+to_sector = "ed/ISA1"
 
 [[agreements]]
 cop = "BEMKI"
@@ -72,9 +80,17 @@ adep = ["LSZH"]
 from_sector = "ed/STA"
 to_sector = "ed/ALP1"
 
+[[agreements]]
+cop = "INN"
+level = 310
+vertical = true
+adep = ["LSZS"]
+from_sector = "ed/STA"
+to_sector = "ed/ALP1"
+
 # TEG
 [[agreements]]
-cop = "MANAL"
+cop = "TULSI"
 level = 310
 vertical = true
 adep = ["EDDS", "EDDN", "EDTY", "EDQD", "EDQM", "EDQC", "EDQK", "EDQT", "EDQG", "EDQA"]
@@ -105,6 +121,7 @@ vertical = true
 adep = ["LSZH", "EDNY", "LSZR", "EDJA"]
 from_sector = "ed/TRU"
 to_sector = "ed/CHI1"
+remarks = "Slow Climber only."
 
 [[agreements]]
 cop = "ATLOL"
@@ -113,11 +130,20 @@ vertical = true
 adep = ["LSZH", "EDNY", "LSZR", "EDJA"]
 from_sector = "ed/TRU"
 to_sector = "ed/CHI1"
+remarks = "Slow Climber only."
 
 [[agreements]]
 cop = "ROTAX"
 level = 310
 vertical = true
 adep = ["EDDS", "EDDN", "EDTY", "EDQD", "EDQM", "EDQC", "EDQK", "EDQT", "EDQG", "EDQA"]
+from_sector = "ed/TRU"
+to_sector = "ed/CHI1"
+
+[[agreements]]
+cop = "EBEDA"
+level = 310
+vertical = true
+adep = ["LKCS"]
 from_sector = "ed/TRU"
 to_sector = "ed/CHI1"
