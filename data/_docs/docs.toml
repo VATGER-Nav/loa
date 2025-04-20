@@ -112,8 +112,8 @@ effective_date = "2025-03-20"
 filename = "LoA_EDWW-EDUU.pdf"
 name = "Bremen ACC - Karlsruhe UAC"
 firs = ["EDWW", "EDUU"]
-airac = 2501
-effective_date = "2025-01-23"
+airac = 2505
+effective_date = "2025-05-15"
 
 [[docs]]
 filename = "LoA_EDWW-EDYY.pdf"
@@ -157,8 +157,8 @@ effective_date = "2025-03-20"
 filename = "LoA_EDWW-EDUU-EDYY-EKDK.pdf"
 name = "Bremen ACC - Karlsruhe UAC - Maastricht UAC - Copenhagen FIR"
 firs = ["EDWW", "EDUU", "EDYY", "EKDK"]
-airac = 2503
-effective_date = "2025-03-20"
+airac = 2505
+effective_date = "2025-05-15"
 
 [[docs]]
 filename = "LoA_EDWW-EDUU-ESAA.pdf"

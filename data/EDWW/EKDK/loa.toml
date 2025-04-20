@@ -23,7 +23,7 @@ to_sector = "ek/EKDD"
 remarks = "EKBI Inbounds may be cleared direct LOKSA RWY 27 or GELBA (RWY 09)"
 
 [[agreements]]
-cop = "TUSKA"
+cop = "REXMI"
 level = 170
 ades = ["EKBI", "EKEB", "EKSP"]
 from_sector = "ed/EID"
