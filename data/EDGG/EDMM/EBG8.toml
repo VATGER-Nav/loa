@@ -12,7 +12,7 @@ level = 140
 adep = ["EDDS"]
 releases = "T"
 from_sector = "ed/STG"
-to_sector = "ed/NDG"
+to_sector = "ed/FUE"
 
 [[agreements]]
 cop = "DINKU"

@@ -228,6 +228,20 @@ from_sector = "ed/STA"
 to_sector = "ed/FUE"
 
 [[agreements]]
+cop = "KOGOL"
+level = 270
+adep = ["EDJA"]
+from_sector = "ed/STA"
+to_sector = "ed/TEG"
+
+[[agreements]]
+cop = "NORIN"
+level = 270
+adep = ["EDJA"]
+from_sector = "ed/STA"
+to_sector = "ed/TEG"
+
+[[agreements]]
 cop = "ANDEC"
 level = 130
 ades = ["EDDM"]
@@ -302,6 +316,13 @@ level = 200
 ades = ["EDJA"]
 from_sector = "ed/STA"
 to_sector = "ed/FUE"
+
+[[agreements]]
+cop = "KOGOL"
+level = 230
+ades = ["LOWS"]
+from_sector = "ed/STA"
+to_sector = "ed/TEG"
 
 [[agreements]]
 cop = "KONIN"
