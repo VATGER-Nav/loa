@@ -15,6 +15,7 @@ transfer_type = "D"
 sfl = 200
 from_sector = "ed/EMS"
 to_sector = "ed/HMM"
+remarks = "May be cleared DCT DOMEG"
 
 [[agreements]]
 cop = "OSN"
@@ -44,7 +45,7 @@ to_sector = "ed/PADH"
 [[agreements]]
 cop = "ESADU"
 level = 200
-ades = ["EDDK"]
+ades = ["EDDL", "EDDK"]
 from_sector = "ed/HRZ"
 to_sector = "ed/PADH"
 

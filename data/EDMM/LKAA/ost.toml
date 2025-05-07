@@ -1,7 +1,7 @@
 # HOF
 [[agreements]]
 cop = "VEMUT"
-level = 270
+level = 250
 adep = ["EDDN", "EDQC"]
 from_sector = "ed/HOF"
 to_sector = "lk/W1L"
@@ -127,6 +127,7 @@ level = 190
 ades = ["LKMH"]
 from_sector = "ed/MEI"
 to_sector = "lk/N1L"
+remarks = "Released for descent after transfer of communication"
 
 [[agreements]]
 cop = "OMELO"
@@ -138,7 +139,7 @@ to_sector = "lk/N1L"
 [[agreements]]
 cop = "MAREM"
 level = 300
-ades = ["LKCS"]
+ades = ["LKCS", "LKPM"]
 from_sector = "ed/MEI"
 to_sector = "lk/W1L"
 

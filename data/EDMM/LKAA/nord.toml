@@ -90,7 +90,7 @@ to_sector = "lk/W1L"
 [[agreements]]
 cop = "AGNAV"
 level = 220
-ades = ["LKPR", "LKKB", "LKVO", "LKPD", "LKCV", "LKHK", "LKMH"]
+ades = ["LKPR", "LKKB", "LKVO", "LKPD", "LKCV", "LKHK", "LKMH", "LKPM"]
 from_sector = "ed/RDG"
 to_sector = "lk/W1L"
 
@@ -127,6 +127,7 @@ remarks = "released for climb to FL310 north of L610"
 [[agreements]]
 cop = "DOLUP"
 level = 270
+level_at = [0, "DOLUP"]
 ades = ["LKPR", "LKKB", "LKVO", "LKPD", "LKCV", "LKHK", "LKMH"]
 from_sector = "ed/EGG"
 to_sector = "lk/W1L"
