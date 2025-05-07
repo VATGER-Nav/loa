@@ -105,8 +105,8 @@ effective_date = "2024-11-28"
 filename = "LoA_EDWW-EDGG.pdf"
 name = "Bremen ACC - Langen ACC"
 firs = ["EDWW", "EDGG"]
-airac = 2503
-effective_date = "2025-03-20"
+airac = 2505
+effective_date = "2025-05-15"
 
 [[docs]]
 filename = "LoA_EDWW-EDUU.pdf"
