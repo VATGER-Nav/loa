@@ -45,7 +45,7 @@ to_sector = "ed/MEI"
 
 [[agreements]]
 cop = "BEFRE"
-level = 200
+level = 240
 adep = ["LKPR", "LKKB", "LKVO"]
 ades = ["EDDB"]
 from_sector = "lk/N1L"
@@ -185,7 +185,7 @@ to_sector = "ed/FRK"
 [[agreements]]
 cop = "OKG"
 level = 180
-ades = ["EDDN", "EDQA", "EDQC", "EDQD", "EDQM", "ETHN", "ETIN"]
+ades = ["EDDN", "EDQA", "EDQC", "EDQD", "EDQM", "ETHN"]
 from_sector = "lk/W1L"
 to_sector = "ed/FRK"
 

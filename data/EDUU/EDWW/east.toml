@@ -389,6 +389,14 @@ to_sector = "ed/BOR"
 remarks = "Level abeam ESIKA"
 
 [[agreements]]
+cop = "BUREL"
+level = 290
+ades = ["EDDE"]
+level_at = [0, "BUREL"]
+from_sector = "ed/HVL1"
+to_sector = "ed/BOR"
+
+[[agreements]]
 cop = "ESIKA"
 level = 290
 ades = ["EDVK", "EDLP", "EDLI", "EDFQ", "EDDE", "EDGS"]
