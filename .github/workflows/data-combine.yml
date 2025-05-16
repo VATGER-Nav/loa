@@ -3,7 +3,7 @@ run-name: Building data for commit ${{ github.sha }} by ${{ github.actor }}
 on:
   push:
     branches:
-      - "main"
+      - main
 
 permissions: write-all
 jobs:
