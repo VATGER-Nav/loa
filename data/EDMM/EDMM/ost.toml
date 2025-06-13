@@ -114,15 +114,29 @@ to_sector = "ed/GER"
 
 [[agreements]]
 cop = "LASGA"
+level = 300
+ades = ["EDDV", "EDDW", "ETNW"]
+from_sector = "ed/BBG"
+to_sector = "ed/GER"
+
+[[agreements]]
+cop = "PIBAD"
+level = 300
+ades = ["EDDV", "EDDW", "ETNW"]
+from_sector = "ed/BBG"
+to_sector = "ed/GER"
+
+[[agreements]]
+cop = "LASGA"
 level = 280
-ades = ["EDBM", "EDVE", "EDBC", "EDDV", "EDDW", "ETNW"]
+ades = ["EDBM", "EDVE", "EDBC"]
 from_sector = "ed/BBG"
 to_sector = "ed/GER"
 
 [[agreements]]
 cop = "PIBAD"
 level = 280
-ades = ["EDBM", "EDVE", "EDBC", "EDDV", "EDDW", "ETNW"]
+ades = ["EDBM", "EDVE", "EDBC"]
 from_sector = "ed/BBG"
 to_sector = "ed/GER"
 
