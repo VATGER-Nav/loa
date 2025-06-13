@@ -2,7 +2,7 @@
 [[agreements]]
 cop = "LASGA"
 level = 320
-ades = ["EDDW", "EDDV", "EDVE", "EDBM", "ETNW"]
+ades = ["EDVE", "EDBM"]
 vertical = true
 from_sector = "ed/ERL1"
 to_sector = "ed/HOF"
@@ -129,6 +129,15 @@ from_sector = "ed/SPE1"
 to_sector = "ed/MEI"
 
 # SAL
+[[agreements]]
+cop = "OKKOC"
+level = 320
+level_at = [0, "NARUS"]
+ades = ["EDDV", "EDDW", "ETNW"]
+vertical = true
+from_sector = "ed/SAL1"
+to_sector = "ed/GER"
+
 [[agreements]]
 cop = "GOLAT"
 level = 320
