@@ -9,22 +9,22 @@ remarks = "released passing FL245"
 
 [[agreements]]
 cop = "ROBEL"
-level = 200
+level = 220
 ades = ["EDDF"]
 transfer_type = "D"
+level_at = [0, "ROBEL"]
 from_sector = "ed/HAL"
 to_sector = "ed/GED"
-remarks = "ROBEL@ FL200,\nreleased passing FL245"
+remarks = "Released passing FL245"
 
 # BBG
 [[agreements]]
 cop = "RUNEN"
-level = 210
+level = 240
 ades = ["EDDF"]
-transfer_type = "D"
 from_sector = "ed/BBG"
 to_sector = "ed/GED"
-remarks = "RUNEN@ FL210\nreleased passing FL245"
+remarks = "Released passing FL245"
 
 [[agreements]]
 cop = "RUFGA"
