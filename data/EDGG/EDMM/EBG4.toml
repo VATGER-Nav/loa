@@ -83,7 +83,7 @@ to_sector = "ed/NDG"
 # HAB
 [[agreements]]
 cop = "ERTES"
-level = 130
+level = 140
 sfl = 160
 ades = ["EDDN"]
 transfer_type = "D"
@@ -96,6 +96,7 @@ remarks = "approved to cross KTG"
 cop = "RASPU"
 level = 180
 ades = ["EDDE"]
+releases = "F"
 from_sector = "ed/HAB"
 to_sector = "ed/FRK"
 
