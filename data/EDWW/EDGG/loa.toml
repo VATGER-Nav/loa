@@ -45,7 +45,14 @@ to_sector = "ed/PADH"
 [[agreements]]
 cop = "ESADU"
 level = 200
-ades = ["EDDL", "EDDK"]
+ades = ["EDDK"]
+from_sector = "ed/HRZ"
+to_sector = "ed/PADH"
+
+[[agreements]]
+cop = "WRB"
+level = 200
+ades = ["EDDl", "EDDG"]
 from_sector = "ed/HRZ"
 to_sector = "ed/PADH"
 
