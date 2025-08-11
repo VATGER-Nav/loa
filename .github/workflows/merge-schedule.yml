@@ -14,6 +14,12 @@ jobs:
   merge_schedule:
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/create-github-app-token@v2
+        id: app-token
+        with:
+          app-id: ${{ secrets.VATGER_ACTIONS_APP_ID }}
+          private-key: ${{ secrets.VATGER_ACTIONS_PRIVATE_KEY }}
+            
       - uses: gr2m/merge-schedule-action@v2
         with:
           # Merge method to use. Possible values are merge, squash or
@@ -26,4 +32,4 @@ jobs:
           # `automerge-fail`.
           automerge_fail_label: "merge-schedule-failed"
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ steps.app-token.outputs.token }}
