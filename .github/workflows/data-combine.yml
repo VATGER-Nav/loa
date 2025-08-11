@@ -1,6 +1,7 @@
 name: data combiner
 run-name: Building data for commit ${{ github.sha }} by ${{ github.actor }}
 on:
+  workflow_dispatch:
   push:
     branches:
       - main
