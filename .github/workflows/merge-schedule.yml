@@ -15,15 +15,21 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: gr2m/merge-schedule-action@v2
+        id: merge-schedule
         with:
-          # Merge method to use. Possible values are merge, squash or
-          # rebase. Default is merge.
           merge_method: squash
-          # Require all pull request statuses to be successful before
-          # merging. Default is `false`.
           require_statuses_success: "true"
-          # Label to apply to the pull request if the merge fails. Default is
-          # `automerge-fail`.
           automerge_fail_label: "merge-schedule-failed"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Trigger downstream workflow if merged PRs exist
+        if: ${{ fromJson(steps.merge-schedule.outputs.merged_pull_requests)[0] != null }}
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          curl -X POST \
+            -H "Accept: application/vnd.github+json" \
+            -H "Authorization: Bearer $GITHUB_TOKEN" \
+            https://api.github.com/repos/${{ github.repository }}/actions/workflows/data-combiner.yml/dispatches \
+            -d '{"ref":"main"}'
