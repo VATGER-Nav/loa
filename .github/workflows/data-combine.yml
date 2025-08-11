@@ -1,17 +1,24 @@
 name: data combiner
 run-name: Building data for commit ${{ github.sha }} by ${{ github.actor }}
+
 on:
-  push:
+  pull_request:
+    types: [closed]
     branches:
       - main
 
 permissions: write-all
+
 jobs:
   build-data:
+    if: github.event.pull_request.merged == true
     runs-on: ubuntu-latest
     steps:
-      - name: checkout repo content
-        uses: actions/checkout@v2
+      - name: Checkout main branch
+        uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
 
       - name: Install uv
         uses: astral-sh/setup-uv@v5
@@ -19,14 +26,15 @@ jobs:
           enable-cache: true
           cache-dependency-glob: "uv.lock"
 
-      - name: "Set up Python"
+      - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version-file: "pyproject.toml"
+
       - name: Install the project
         run: uv sync --all-extras
 
-      - name: build data
+      - name: Build data
         run: uv run loa_combine
 
       - name: Archive generated files as artifact
@@ -36,9 +44,10 @@ jobs:
           path: ./dist
 
       - name: Checkout production branch
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
         with:
           ref: production
+          fetch-depth: 0
 
       - name: Download generated files artifact
         uses: actions/download-artifact@v4
