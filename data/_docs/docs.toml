@@ -205,9 +205,9 @@ airac = 2413
 effective_date = "2024-12-26"
 
 [[docs]]
-filename = "LoA_EDXX-vNATO.pdf"
-name = "VATSIM Germany - vNATO"
+filename = "LoA_EDXX_vSOA.pdf"
+name = "VATSIM Germany - vSOA"
 firs = ["EDXX"]
 related_firs = ["EDGG", "EDMM", "EDWW"]
-airac = 2503
-effective_date = "2025-03-20"
+airac = 2509
+effective_date = "2025-09-04"
