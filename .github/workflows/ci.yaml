@@ -2,7 +2,11 @@ name: ci
 
 on:
   pull_request:
+    paths-ignore:
+        - 'data/**'
   push:
+    paths-ignore:
+        - 'data/**'
     branches:
       - main
 
