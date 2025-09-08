@@ -326,8 +326,15 @@ to_sector = "ed/TEG"
 
 [[agreements]]
 cop = "KONIN"
+level = 240
+ades = ["EDDN"]
+from_sector = "ed/STA"
+to_sector = "ed/NDG"
+
+[[agreements]]
+cop = "KONIN"
 level = 260
-ades = ["EDDN", "ETIC"]
+ades = ["ETIC"]
 from_sector = "ed/STA"
 to_sector = "ed/NDG"
 
