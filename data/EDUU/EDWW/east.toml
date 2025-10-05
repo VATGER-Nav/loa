@@ -129,7 +129,7 @@ to_sector = "ed/MRZ"
 [[agreements]]
 cop = "ROSOK"
 level = 290
-ades = ["EDDH", "EDHI", "EDHL"]
+ades = ["EDDH", "EDHI", "EDHL", "EDHK", "EDWE", "EDWI"]
 level_at = [-15, "ROSOK"]
 from_sector = "ed/OSE1"
 to_sector = "ed/MRZ"
@@ -310,7 +310,7 @@ remarks = "Level latest GARGU"
 [[agreements]]
 cop = "SOGMA"
 level = 290
-ades = ["EDDH", "EDHI", "EDHL", "EDHK"]
+ades = ["EDDH", "EDHI", "EDHL", "EDHK", "EDWE", "EDWI"]
 level_at = [0, "SOGMA"]
 from_sector = "ed/HVL1"
 to_sector = "ed/MAR"

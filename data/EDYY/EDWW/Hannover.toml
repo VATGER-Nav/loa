@@ -31,10 +31,10 @@ from_sector = "ed/ML"
 to_sector = "ed/EMS"
 
 [[agreements]]
-cop = "OSN"
+cop = "OSNAD"
 level = 250
 ades = ["EDVK"]
-level_at = [-10, "OSN"]
+level_at = [-10, "OSNAD"]
 from_sector = "ed/ML"
 to_sector = "ed/EMS"
 
