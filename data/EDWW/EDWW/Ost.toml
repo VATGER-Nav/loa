@@ -30,7 +30,7 @@ to_sector = "ed/DBDS"
 remarks = "EDDB RWYs 24"
 
 [[agreements]]
-cop = "LOGDO"
+cop = "KUSIC"
 level = 170
 ades = ["EDAE", "EDAV", "EDAY", "EDBW", "EDON"]
 from_sector = "ed/BOR"
