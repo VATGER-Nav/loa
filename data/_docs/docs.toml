@@ -157,7 +157,7 @@ effective_date = "2025-03-20"
 filename = "LoA_EDWW-EDUU-EDYY-EKDK.pdf"
 name = "Bremen ACC - Karlsruhe UAC - Maastricht UAC - Copenhagen FIR"
 firs = ["EDWW", "EDUU", "EDYY", "EKDK"]
-airac = 2505
+airac = 2511
 effective_date = "2025-05-15"
 
 [[docs]]
