@@ -174,7 +174,7 @@ from_sector = "ed/DBDN"
 to_sector = "ed/BOR"
 
 [[agreements]]
-cop = "KUSIC"
+cop = "KISUC"
 level = 160
 adep = ["EDDB"]
 transfer_type = "C"
@@ -233,7 +233,7 @@ to_sector = "ed/DBDN"
 remarks = "EDDB RWYs 06"
 
 [[agreements]]
-cop = "KUSIC"
+cop = "KISUC"
 level = 160
 adep = ["EDDB"]
 transfer_type = "C"
