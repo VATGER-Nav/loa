@@ -91,7 +91,7 @@ effective_date = "2025-05-15"
 filename = "LoA_EDMM-EDUU-LOVV.pdf"
 name = "München ACC - Karlsruhe UAC - Wien ACC"
 firs = ["EDMM", "EDUU", "LOVV"]
-airac = 2510
+airac = 2511
 effective_date = "2025-10-30"
 
 [[docs]]
