@@ -27,3 +27,45 @@ level = 320
 ades = ["LKPR"]
 from_sector = "lo/B2"
 to_sector = "ed/DON1"
+
+[[agreements]]
+level = 360
+adep = ["LOWW"]
+remarks = "at any EVEN FL, after REV"
+from_sector = "lo/B3"
+to_sector = "ed/CHI2"
+
+[[agreements]]
+level = 340
+adep = ["LOWW"]
+remarks = "at any EVEN FL, after REV"
+from_sector = "lo/N2"
+to_sector = "ed/DON1"
+
+[[agreements]]
+level = 340
+adep = ["LOWW"]
+remarks = "at any EVEN FL, after REV"
+from_sector = "lo/W2"
+to_sector = "ed/ALP1"
+
+[[agreements]]
+level = 340
+adep = ["LOWW"]
+remarks = "at any EVEN FL, after REV"
+from_sector = "lo/W2"
+to_sector = "ed/CHI1"
+
+[[agreements]]
+level = 340
+adep = ["LJLJ"]
+remarks = "at any EVEN FL, after REV"
+from_sector = "lo/W2"
+to_sector = "ed/ALP1"
+
+[[agreements]]
+level = 340
+adep = ["LJLJ"]
+remarks = "at any EVEN FL, after REV"
+from_sector = "lo/W2"
+to_sector = "ed/CHI1"

@@ -39,6 +39,12 @@ from_sector = "ed/ALP1"
 to_sector = "lo/W2"
 
 [[agreements]]
+level = 350
+adep = ["EDDN", "EDDS", "EDTY", "EDJA", "EDNY", "LSZR", "EDQD", "EDQM", "EDQC", "EDQK", "EDQT", "EDQG", "EDQA"]
+from_sector = "ed/ALP1"
+to_sector = "lo/W3"
+
+[[agreements]]
 level = 330
 ades = ["LOWG", "LOWK", "LOXZ", "LJLJ", "LIPQ"]
 from_sector = "ed/ALP1"
@@ -99,6 +105,18 @@ level = 350
 ades = ["LOWW"]
 from_sector = "ed/CHI1"
 to_sector = "lo/W3"
+
+[[agreements]]
+level = 370
+ades = ["LZIB", "LKTB"]
+from_sector = "ed/CHI3"
+to_sector = "lo/B5"
+
+[[agreements]]
+level = 370
+ades = ["LDZA", "LZIB", "LKTB"]
+from_sector = "ed/DON3"
+to_sector = "lo/N5"
 
 [[agreements]]
 level = 330
