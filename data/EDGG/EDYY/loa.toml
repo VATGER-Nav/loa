@@ -7,7 +7,7 @@ to_sector = "ed/RL"
 remarks = "NOR sector responsible for separation between this flow and outbounds Brussels FIR"
 
 [[agreements]]
-cop = "OSN"
+cop = "OSNAD"
 level = 240
 adep = ["EDLP"]
 from_sector = "ed/HMM"
