@@ -1,5 +1,5 @@
 [[agreements]]
-cop = "OSN"
+cop = "OSNAD"
 level = 70
 ades = ["EDDG", "EDLI"]
 transfer_type = "D"
@@ -8,7 +8,7 @@ to_sector = "ed/HMM"
 remarks = "Transfer of Communications latest 10 NM prior to OSN"
 
 [[agreements]]
-cop = "OSN"
+cop = "OSNAD"
 level = 160
 ades = ["EDLW"]
 transfer_type = "D"
@@ -18,7 +18,7 @@ to_sector = "ed/HMM"
 remarks = "May be cleared DCT DOMEG"
 
 [[agreements]]
-cop = "OSN"
+cop = "OSNAD"
 level = 200
 ades = ["EDDL", "EDDK", "EDL*", "EDK*", "EHEH", "EHBK", "EHBD", "EHTW", "EHLE", "ETNG"]
 from_sector = "ed/EMS"

@@ -31,10 +31,10 @@ from_sector = "ed/ML"
 to_sector = "ed/EMS"
 
 [[agreements]]
-cop = "OSN"
+cop = "OSNAD"
 level = 250
 ades = ["EDVK"]
-level_at = [-10, "OSN"]
+level_at = [-10, "OSNAD"]
 from_sector = "ed/ML"
 to_sector = "ed/EMS"
 
@@ -97,7 +97,7 @@ from_sector = "ed/CL"
 to_sector = "ed/HEI"
 
 [[agreements]]
-cop = "ROEBG"
+cop = "ROBEG"
 level = 250
 ades = ["EDVE"]
 level_at = [0, "ROBEG"]
@@ -105,7 +105,7 @@ from_sector = "ed/CL"
 to_sector = "ed/EMS"
 
 [[agreements]]
-cop = "ROEBG"
+cop = "ROBEG"
 level = 250
 ades = ["EDDG", "EDLW", "EDLA", "EHTW", "EHLE"]
 level_at = [0, "ROBEG"]
@@ -113,7 +113,7 @@ from_sector = "ed/CL"
 to_sector = "ed/EMS"
 
 [[agreements]]
-cop = "ROEBG"
+cop = "ROBEG"
 level = 250
 ades = ["EDVK", "EDLI"]
 level_at = [0, "ROBEG"]

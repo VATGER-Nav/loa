@@ -58,7 +58,7 @@ from_sector = "ed/GIN"
 to_sector = "ed/HRZ"
 
 [[agreements]]
-cop = "OSN"
+cop = "OSNAD"
 level = 150
 adep = ["EDDG"]
 transfer_type = "D"
