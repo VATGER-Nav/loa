@@ -170,14 +170,6 @@ from_sector = "ed/HAN"
 to_sector = "ed/HEI"
 
 [[agreements]]
-cop = "MULDO"
-level = 100
-adep = ["EDDV", "ETNW"]
-transfer_type = "C"
-from_sector = "ed/HAN"
-to_sector = "ed/HEI"
-
-[[agreements]]
 cop = "NIE"
 level = 100
 adep = ["EDVE"]
@@ -234,7 +226,7 @@ from_sector = "ed/HAN"
 to_sector = "ed/HRZ"
 
 [[agreements]]
-cop = "WRB"
+cop = "NORTA"
 level = 100
 adep = ["EDDV"]
 transfer_type = "C"
@@ -242,7 +234,7 @@ from_sector = "ed/HAN"
 to_sector = "ed/HRZ"
 
 [[agreements]]
-cop = "WERRA"
+cop = "TOLTA"
 level = 100
 adep = ["EDDV"]
 transfer_type = "C"
@@ -250,7 +242,7 @@ from_sector = "ed/HAN"
 to_sector = "ed/HRZ"
 
 [[agreements]]
-cop = "DLE"
+cop = "SAS"
 level = 100
 adep = ["EDVE"]
 transfer_type = "C"
@@ -347,7 +339,7 @@ ades = ["EDDV", "ETNW", "ETHB", "ETHC", "ETHS"]
 transfer_type = "D"
 from_sector = "ed/HRZ"
 to_sector = "ed/HAN"
-remarks = "ADES EDDV shall be cleared DCT ROBEG (RWY 09) or SAS (RWY27)"
+remarks = "ADES EDDV shall be cleared DCT ROBEG (RWY 09) or SAS (RWY 27)"
 
 [[agreements]]
 cop = "ROBEG"
@@ -356,15 +348,52 @@ ades = ["EDDV", "ETNW", "ETHB", "ETHC", "ETHS"]
 transfer_type = "D"
 from_sector = "ed/HRZ"
 to_sector = "ed/HAN"
-remarks = "ADES EDDV shall be cleared DCT ROBEG (RWY 09) or SAS (RWY27)"
+remarks = "ADES EDDV shall be cleared DCT ROBEG (RWY 09) or SAS (RWY 27)"
 
 [[agreements]]
-cop = "DLE"
+cop = "SAS"
 level = 110
 ades = ["EDVE"]
 transfer_type = "D"
 from_sector = "ed/HRZ"
 to_sector = "ed/HAN"
+remarks = "ADES EDVE shall be cleared DCT ELKER (RWY 08) or BABKA (RWY 26)"
+
+[[agreements]]
+cop = "NORTA"
+level = 110
+ades = ["EDVE"]
+transfer_type = "D"
+from_sector = "ed/HRZ"
+to_sector = "ed/HAN"
+remarks = "ADES EDVE shall be cleared DCT ELKER (RWY 08) or BABKA (RWY 26)"
+
+[[agreements]]
+cop = "WERRA"
+level = 110
+ades = ["EDVE"]
+transfer_type = "D"
+from_sector = "ed/HRZ"
+to_sector = "ed/HAN"
+remarks = "ADES EDVE shall be cleared DCT ELKER (RWY 08) or BABKA (RWY 26)"
+
+[[agreements]]
+cop = "POVEL"
+level = 110
+ades = ["EDVE"]
+transfer_type = "D"
+from_sector = "ed/HRZ"
+to_sector = "ed/HAN"
+remarks = "ADES EDVE shall be cleared DCT ELKER (RWY 08) or BABKA (RWY 26)"
+
+[[agreements]]
+cop = "LARET"
+level = 110
+ades = ["EDVE"]
+transfer_type = "D"
+from_sector = "ed/HRZ"
+to_sector = "ed/HAN"
+remarks = "ADES EDVE shall be cleared DCT ELKER (RWY 08) or BABKA (RWY 26)"
 
 [[agreements]]
 cop = "POVEL"
