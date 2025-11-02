@@ -348,6 +348,7 @@ ades = ["EDVE"]
 transfer_type = "D"
 from_sector = "ed/HEI"
 to_sector = "ed/HAN"
+remarks = "ADES EDVE shall be cleared DCT LENDI (RWY 08) or ALESI (RWY 26)"
 
 [[agreements]]
 cop = "UELSEN"
@@ -356,6 +357,16 @@ ades = ["EDVE"]
 transfer_type = "D"
 from_sector = "ed/HEI"
 to_sector = "ed/HAN"
+remarks = "ADES EDVE shall be cleared DCT LENDI (RWY 08) or ALESI (RWY 26)"
+
+[[agreements]]
+cop = "NIE"
+level = 110
+ades = ["EDVE"]
+transfer_type = "D"
+from_sector = "ed/HEI"
+to_sector = "ed/HAN"
+remarks = "ADES EDVE shall be cleared DCT LENDI (RWY 08) or ALESI (RWY 26)"
 
 [[agreements]]
 level = 0
