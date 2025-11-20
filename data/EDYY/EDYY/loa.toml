@@ -1,6 +1,6 @@
 [[agreements]]
 level = 330
-ades = ["EDDC", "EDDP EDDN", "EDAB", "EDAC", "EDQ*", "ETIC"]
+ades = ["EDDC", "EDDP", "EDDN", "EDAB", "EDAC", "EDQ*", "ETIC"]
 from_sector = "ed/CL"
 to_sector = "ed/SL"
 
@@ -37,13 +37,13 @@ remarks = "Or Below"
 
 [[agreements]]
 level = 350
-ades = ["EDDC", "EDDP EDDN", "EDAB", "EDAC", "EDQ*", "ETIC"]
+ades = ["EDDC", "EDDP", "EDDN", "EDAB", "EDAC", "EDQ*", "ETIC"]
 from_sector = "ed/ML"
 to_sector = "ed/CL"
 
 [[agreements]]
 level = 350
-ades = ["EDDC", "EDDP EDDN", "EDAB", "EDAC", "EDQ*", "ETIC"]
+ades = ["EDDC", "EDDP", "EDDN", "EDAB", "EDAC", "EDQ*", "ETIC"]
 from_sector = "ed/ML"
 to_sector = "ed/SL"
 
