@@ -10,8 +10,8 @@ effective_date = "2025-06-12"
 filename = "LOP_EDWW.pdf"
 name = "LOP Bremen ACC"
 firs = ["EDWW"]
-airac = 2511
-effective_date = "2025-10-30"
+airac = 2512
+effective_date = "2025-11-27"
 
 [[docs]]
 filename = "LOP_EDGG.pdf"
@@ -164,8 +164,8 @@ effective_date = "2025-05-15"
 filename = "LoA_EDWW-EDUU-ESAA.pdf"
 name = "Bremen ACC - Karlsruhe UAC - Sweden FIR"
 firs = ["EDWW", "EDUU", "ESAA"]
-airac = 2410
-effective_date = "2024-10-03"
+airac = 2512
+effective_date = "2025-11-27"
 
 [[docs]]
 filename = "LoA_EDWW-EDUU-EPWW.pdf"
