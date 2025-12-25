@@ -329,22 +329,22 @@ to_sector = "ed/DFAS"
 remarks = "transfer before DF601"
 
 [[agreements]]
-cop = "FOLWU"
+cop = "FFM"
 level = 130
 ades = ["EDDF"]
 releases = "F"
 from_sector = "ed/DFAN"
 to_sector = "ed/DFAS"
-remarks = "UNOKO C-STAR, transfer before FOLWU"
+remarks = "UNOKO C-STAR, transfer before FFM"
 
 [[agreements]]
-cop = "FOLWU"
+cop = "FFM"
 level = 120
 ades = ["EDDF"]
 releases = "F"
 from_sector = "ed/DFAN"
 to_sector = "ed/DFAS"
-remarks = "ROLIS C-STAR, transfer before FOLWU"
+remarks = "ROLIS C-STAR, transfer before FFM"
 
 # FIXME
 [[agreements]]
@@ -936,7 +936,7 @@ from_sector = "ed/EIF"
 to_sector = "ed/DKA"
 
 [[agreements]]
-cop = "RASVO"
+cop = "NVO"
 level = 100
 adep = ["EDFH"]
 transfer_type = "C"
@@ -1193,14 +1193,14 @@ cop = "DOMEG"
 adep = ["EDDG"]
 from_sector = "ed/HMM"
 to_sector = "ed/PADH"
-remarks = "flights via DOMEG and EXOBA into PADH are subject to coordination"
+remarks = "flights via HMM and DOMEG into PADH are subject to coordination"
 
 [[agreements]]
-cop = "EXOBA"
+cop = "HMM"
 adep = ["EDDG"]
 from_sector = "ed/HMM"
 to_sector = "ed/PADH"
-remarks = "flights via DOMEG and EXOBA into PADH are subject to coordination"
+remarks = "flights via HMM and DOMEG into PADH are subject to coordination"
 
 [[agreements]]
 cop = "DOMEG"
