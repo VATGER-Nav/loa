@@ -179,8 +179,8 @@ filename = "LoA_EDYY-EGPX.pdf"
 name = "Maastricht UAC - Scottish ACC"
 firs = ["EDYY", "EGPX"]
 related_firs = ["EDWW"]
-airac = 2503
-effective_date = "2025-03-20"
+airac = 2601
+effective_date = "2026-01-22"
 
 [[docs]]
 filename = "LoA_EDGG-LSAS.pdf"
