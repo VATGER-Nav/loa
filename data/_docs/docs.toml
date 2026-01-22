@@ -194,15 +194,15 @@ filename = "LoA_EDGG-EDYY-EHAA.pdf"
 name = "Langen ACC - Maastricht UAC - Amsterdam FIR"
 firs = ["EDGG", "EDYY", "EHAA"]
 related_firs = ["EDWW"]
-airac = 2503
-effective_date = "2025-03-20"
+airac = 2601
+effective_date = "2026-01-22"
 
 [[docs]]
 filename = "LoA_EDGG-EDUU-EDYY-EBBU.pdf"
 name = "Langen ACC - Karlsruhe UAC - Maastricht UAC - Brussels FIR"
 firs = ["EDGG", "EDUU", "EDYY", "EBBU"]
-airac = 2413
-effective_date = "2024-12-26"
+airac = 2601
+effective_date = "2026-01-22"
 
 [[docs]]
 filename = "LoA_EDXX_vSOA.pdf"
