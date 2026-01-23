@@ -67,7 +67,7 @@ to_sector = "ed/EID"
 [[agreements]]
 cop = "PABCO"
 level = 250
-ades = ["EDDW", "ETND", "Etmn"]
+ades = ["EDDW", "ETND", "ETMN"]
 level_at = [+15, "PABCO"]
 from_sector = "ed/JL"
 to_sector = "ed/EID"
