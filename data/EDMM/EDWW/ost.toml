@@ -200,7 +200,7 @@ level = 140
 adep = ["EDDP"]
 from_sector = "ed/TRN"
 to_sector = "ed/FLG"
-remarks = "Released by DBAS, TFC may be cleared DCT OLBIK, KLF"
+remarks = "Released by DBAS, if RWY08 active TFC may be cleared DCT OLBIK, KLF"
 
 # MEI
 [[agreements]]
