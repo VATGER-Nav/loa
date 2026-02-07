@@ -2,14 +2,14 @@
 cop = "BINKA"
 level = 280
 ades = ["ETNL"]
-from_sector = "ep/EPWB"
+from_sector = "ep/EPWB-L"
 to_sector = "ed/MRZ"
 
 [[agreements]]
 cop = "BINKA"
 level = 160
 ades = ["EDBN"]
-from_sector = "ep/EPWB"
+from_sector = "ep/EPWB-L"
 to_sector = "ed/MRZ"
 
 [[agreements]]
@@ -24,7 +24,7 @@ cop = "PESEL"
 level = 240
 ades = ["EDDB"]
 runway = ["06L", "06R"]
-from_sector = "ep/EPWB"
+from_sector = "ep/EPWB-L"
 to_sector = "ed/MAR"
 releases = "F"
 
@@ -33,7 +33,7 @@ cop = "PESEL"
 level = 200
 ades = ["EDDB"]
 runway = ["24L", "24R"]
-from_sector = "ep/EPWB"
+from_sector = "ep/EPWB-L"
 to_sector = "ed/MAR"
 releases = "F"
 
@@ -41,14 +41,14 @@ releases = "F"
 cop = "BODLA"
 level = 280
 ades = ["ETNL"]
-from_sector = "ep/EPWB"
+from_sector = "ep/EPWB-L"
 to_sector = "ed/MAR"
 
 [[agreements]]
 cop = "BODLA"
 level = 160
 ades = ["EDAY"]
-from_sector = "ep/EPWB"
+from_sector = "ep/EPWB-L"
 to_sector = "ed/MAR"
 releases = "F"
 
@@ -56,7 +56,7 @@ releases = "F"
 cop = "BODLA"
 level = 280
 ades = ["EDAZ"]
-from_sector = "ep/EPWB"
+from_sector = "ep/EPWB-L"
 to_sector = "ed/MAR"
 releases = "F"
 
@@ -65,7 +65,7 @@ cop = "BODLA"
 level = 220
 ades = ["EDDB"]
 runway = ["06L", "06R"]
-from_sector = "ep/EPWB"
+from_sector = "ep/EPWB-L"
 to_sector = "ed/MAR"
 releases = "F"
 
@@ -74,7 +74,7 @@ cop = "BODLA"
 level = 180
 ades = ["EDDB"]
 runway = ["24L", "24R"]
-from_sector = "ep/EPWB"
+from_sector = "ep/EPWB-L"
 to_sector = "ed/MAR"
 releases = "F"
 
@@ -82,7 +82,7 @@ releases = "F"
 cop = "ALUKA"
 level = 100
 ades = ["EDAY"]
-from_sector = "ep/EPWB"
+from_sector = "ep/EPWB-L"
 to_sector = "ed/DBAN"
 releases = "F"
 
@@ -90,28 +90,28 @@ releases = "F"
 cop = "ALUKA"
 level = 280
 ades = ["ETNL"]
-from_sector = "ep/EPWB"
+from_sector = "ep/EPWB-L"
 to_sector = "ed/MAR"
 
 [[agreements]]
 cop = "SUBIX"
 level = 280
 ades = ["EDDP", "EDDC", "EDAB", "EDAC", "EDBM", "EDVE", "ETNL"]
-from_sector = "ep/EPWD"
+from_sector = "ep/EPWD-L"
 to_sector = "ed/FLG"
 
 [[agreements]]
 cop = "GOVEN"
 level = 280
 ades = ["EDDP", "EDDE"]
-from_sector = "ep/EPWD"
+from_sector = "ep/EPWD-L"
 to_sector = "ed/FLG"
 
 [[agreements]]
 cop = "GOVEN"
 level = 220
 ades = ["EDDC", "EDAB", "EDAC"]
-from_sector = "ep/EPWD"
+from_sector = "ep/EPWD-L"
 to_sector = "ed/FLG"
 
 [[agreements]]
@@ -119,7 +119,7 @@ cop = "GOVEN"
 level = 180
 ades = ["EDDB"]
 runway = ["06L", "06R"]
-from_sector = "ep/EPWD"
+from_sector = "ep/EPWD-L"
 to_sector = "ed/FLG"
 releases = "F"
 
@@ -128,7 +128,7 @@ cop = "GOVEN"
 level = 120
 ades = ["EDDB"]
 runway = ["24L", "24R"]
-from_sector = "ep/EPWD"
+from_sector = "ep/EPWD-L"
 to_sector = "ed/DBAS"
 releases = "F"
 
@@ -136,7 +136,7 @@ releases = "F"
 cop = "GOVEN"
 level = 120
 ades = ["EDAZ"]
-from_sector = "ep/EPWD"
+from_sector = "ep/EPWD-L"
 to_sector = "ed/DBAS"
 releases = "F"
 
@@ -158,5 +158,5 @@ to_sector = "ed/MAR"
 cop = "SUBIX"
 level = 240
 adep = ["EPPO", "EPZG"]
-from_sector = "ep/EPWD"
+from_sector = "ep/EPWD-L"
 to_sector = "ed/FLG"
