@@ -1,5 +1,14 @@
 # BBG
 [[agreements]]
+cop = "VAGAB"
+level = 300
+ades = ["EDDK", "EDLW", "EDLA", "EDKZ", "EDLP", "EDLI", "EDFQ", "EDDL"]
+route_after = "T170 RUNEN"
+from_sector = "ed/BBG"
+to_sector = "ed/FUL1"
+rfl = "310-"
+
+[[agreements]]
 cop = "PILAM"
 level = 300
 ades = ["EDDK", "EDLW", "EDLA", "EDKZ", "EDLP", "EDLI", "EDFQ", "EDDL"]
@@ -184,7 +193,7 @@ to_sector = "ed/ERL1"
 cop = "SODRO"
 level = 310
 vertical = true
-adep = ["LKPR", "LKKB", "LKVO", "LKCS", "EDDC", "LKKV"]
+adep = ["LKPR", "LKKB", "LKKV", "LKVO", "LKCS", "EDDC"]
 from_sector = "ed/HOF"
 to_sector = "ed/SAL1"
 

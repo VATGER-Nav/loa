@@ -25,7 +25,7 @@ to_sector = "ed/FFM2"
 
 [[agreements]]
 level = 390
-ades = ["EDDM"]
+ades = ["EDDM", "EDDP", "EDAC", "EDBC", "EDBM"]
 from_sector = "ed/NTM4"
 to_sector = "ed/FFM4"
 
@@ -42,6 +42,12 @@ from_sector = "ed/NTM1"
 to_sector = "ed/SLN1"
 
 # SLN
+[[agreements]]
+level = 250
+ades = ["ELLX"]
+from_sector = "ed/SLN1"
+to_sector = "ed/NTM1"
+
 [[agreements]]
 level = 320
 ades = ["EBBR", "EBMB", "EBAW", "EBCV", "EBCI", "EBLG", "EBZW", "EHBK", "EHBD", "LFSN"]
@@ -105,6 +111,13 @@ to_sector = "ed/SLN1"
 [[agreements]]
 level = 300
 ades = ["ELLX"]
+from_sector = "ed/TGO1"
+to_sector = "ed/SLN1"
+
+[[agreements]]
+level = 300
+ades = ["EDFH"]
+route_after = "MANEM"
 from_sector = "ed/TGO1"
 to_sector = "ed/SLN1"
 

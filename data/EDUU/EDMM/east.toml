@@ -72,7 +72,7 @@ remarks = "KOBUS at FL320"
 [[agreements]]
 cop = "KOBUS"
 level = 320
-ades = ["EPWR", "EPPO"]
+ades = ["EPWR", "EPPO", "EPZG"]
 vertical = true
 from_sector = "ed/SPE1"
 to_sector = "ed/MEI"
@@ -129,6 +129,15 @@ from_sector = "ed/SPE1"
 to_sector = "ed/MEI"
 
 # SAL
+[[agreements]]
+cop = "GOLAT"
+level = 320
+ades = ["EDDV"]
+vertical = true
+route_before = "KILNU"
+from_sector = "ed/SAL1"
+to_sector = "ed/GER"
+
 [[agreements]]
 cop = "OKKOC"
 level = 320
@@ -229,13 +238,6 @@ from_sector = "ed/SAL1"
 to_sector = "ed/HOF"
 
 # HVL
-[[agreements]]
-cop = "VEVAS"
-level = 300
-ades = ["EDDN", "EDQD", "EDQM", "EDQC", "EDQK", "EDQT", "EDQG", "EDQA", "ETIC"]
-from_sector = "ed/HVL1"
-to_sector = "ed/GER"
-
 [[agreements]]
 cop = "MAG"
 level = 300

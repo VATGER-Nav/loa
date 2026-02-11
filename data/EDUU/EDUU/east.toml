@@ -8,6 +8,7 @@ to_sector = "ed/DON1"
 [[agreements]]
 level = 370
 ades = ["LOWW"]
+route_after = "BUDEX"
 from_sector = "ed/ERL2"
 to_sector = "ed/DON3"
 
@@ -20,10 +21,23 @@ from_sector = "ed/ERL1"
 to_sector = "ed/FUL1"
 
 [[agreements]]
-level = 360
+level = 340
 ades = ["EDDV", "EDVE", "ETNW"]
 from_sector = "ed/ERL1"
-to_sector = "ed/FUL2"
+to_sector = "ed/FUL1"
+
+[[agreements]]
+level = 320
+ades = ["EDDV", "EDVE"]
+route_after = "OKKOC"
+from_sector = "ed/ERL1"
+to_sector = "ed/SAL1"
+
+[[agreements]]
+level = 320
+ades = ["ETNW"]
+from_sector = "ed/ERL1"
+to_sector = "ed/SAL1"
 
 [[agreements]]
 level = 320
@@ -46,19 +60,20 @@ to_sector = "ed/WUR2"
 # SAL
 [[agreements]]
 level = 370
-ades = ["LOWS", "LOWL"]
+ades = ["LOWS", "LOWL", "LOWI"]
 from_sector = "ed/SAL2"
 to_sector = "ed/ERL2"
 
 [[agreements]]
 level = 350
-ades = ["LOWI"]
+ades = ["EDSB", "EDTM"]
 from_sector = "ed/SAL1"
 to_sector = "ed/ERL1"
 
 [[agreements]]
-level = 360
-ades = ["EDSB", "EDTM"]
+level = 320
+ades = ["EDDF"]
+route_after = "SULUS"
 from_sector = "ed/SAL1"
 to_sector = "ed/ERL1"
 
@@ -109,6 +124,12 @@ ades = ["EDDM", "EDMA", "EDMO"]
 from_sector = "ed/SPE1"
 to_sector = "ed/SAL1"
 
+[[agreements]]
+level = 320
+ades = ["EDDV"]
+from_sector = "ed/SPE1"
+to_sector = "ed/SAL1"
+
 # HVL
 [[agreements]]
 level = 360
@@ -122,6 +143,13 @@ ades = ["EDDF", "EDFE", "EDFQ", "EDFZ", "ETOU"]
 from_sector = "ed/HVL1"
 to_sector = "ed/SAL1"
 remarks = "except via DIDGI and TOPDI"
+
+[[agreements]]
+level = 340
+ades = ["EDQD", "EDQM", "EDQT", "EDQG", "EDQK", "EDQC", "EDDN", "ETIC"]
+from_sector = "ed/HVL1"
+to_sector = "ed/SAL1"
+remarks = "except via MAG"
 
 [[agreements]]
 level = 350
