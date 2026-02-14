@@ -3,7 +3,7 @@
 cop = "UMUPU"
 level = 270
 releases = "F"
-ades = ["EBBR", "EBCI", "EBMB", "EBAW", "ELLX", "EHEH", "EHGR"]
+ades = ["EBBR", "EBCI", "EBMB", "EBAW", "EHEH", "EHGR"]
 from_sector = "ed/NTM1"
 to_sector = "ed/NOR"
 
