@@ -10,7 +10,7 @@ remarks = "released direct TRA"
 [[agreements]]
 cop = "UMTEX"
 level = 160
-adep = ["EDDM"]
+adep = ["EDJA"]
 transfer_type = "C"
 from_sector = "ed/FUE"
 to_sector = "ls/SZE"
