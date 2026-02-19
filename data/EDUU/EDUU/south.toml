@@ -104,7 +104,7 @@ to_sector = "ed/ALP2"
 
 [[agreements]]
 level = 340
-ades = ["LKPR", "LKPD", "LKKB", "LKCV", "LKHK", "LKMH", "LKVO"]
+ades = ["LKPR", "LKPD", "LKKB", "LKCV", "LKHK", "LKMH", "LKPM", "LKVO"]
 from_sector = "ed/CHI1"
 to_sector = "ed/DON1"
 
@@ -143,6 +143,7 @@ ades = [
         "LIPH",
         "LIPX",
         "LIPO",
+        "LIPQ",
         "LIPA",
         "LIPB",
         "LSZS",
@@ -207,7 +208,7 @@ to_sector = "ed/TGO1"
 # DON
 [[agreements]]
 level = 360
-ades = ["LIPZ", "LIPH", "LIPX", "LIPO", "LIPA", "LIPB", "LSZS", "LSZA", "LDZA", "LDRI", "LJMB", "LDPL", "LDLO"]
+ades = ["LIPZ", "LIPH", "LIPX", "LIPO", "LIPQ", "LIPA", "LIPB", "LSZS", "LSZA", "LDZA", "LDRI", "LJMB", "LDPL", "LDLO"]
 from_sector = "ed/DON2"
 to_sector = "ed/CHI2"
 

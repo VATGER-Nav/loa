@@ -12,8 +12,14 @@ from_sector = "ed/FFM2"
 to_sector = "ed/FUL1"
 
 [[agreements]]
+level = 250
+ades = ["EDDE"]
+from_sector = "ed/FFM1"
+to_sector = "ed/FUL1"
+
+[[agreements]]
 level = 320
-ades = ["EBBR", "EBMB", "EBAW", "EBCV", "EBCI", "EHEH", "EHWO", "EHGR", "EHVK"]
+ades = ["EBBR", "EBMB", "EBAW", "EBCV", "EBCI", "EHEH", "EHWO", "EHGR", "EHVK", "LFOK", "LFQA", "LFQB"]
 from_sector = "ed/FFM1"
 to_sector = "ed/NTM1"
 
@@ -77,6 +83,12 @@ level = 390
 ades = ["EDTF", "EDTD", "LSZH", "LFSB", "LSZR", "LSMD", "EDNY", "EDTM", "EDJA"]
 from_sector = "ed/FUL3"
 to_sector = "ed/FFM4"
+
+[[agreements]]
+level = 350
+ades = ["EDTL", "EDTO"]
+from_sector = "ed/FUL1"
+to_sector = "ed/FFM2"
 
 [[agreements]]
 level = 350
