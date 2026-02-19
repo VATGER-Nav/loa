@@ -1,20 +1,34 @@
 [[agreements]]
+cop = "FARCU"
+level = 340
+ades = ["EDAZ"]
+from_sector = "ep/EPWB-M"
+to_sector = "ed/OSE1"
+
+[[agreements]]
+cop = "FARCU"
+level = 320
+ades = ["ESMS"]
+from_sector = "ep/EPWB-L"
+to_sector = "ed/OSE1"
+
+[[agreements]]
 cop = "BINKA"
 level = 320
-ades = ["EKCH", "EKRK", "ESMS"]
-from_sector = "ep/EPWWB"
+ades = ["ESMS"]
+from_sector = "ep/EPWB-L"
 to_sector = "ed/OSE1"
 
 [[agreements]]
 cop = "PESEL"
 level = 340
 ades = ["EDAZ"]
-from_sector = "ep/EPWWB"
+from_sector = "ep/EPWB-B"
 to_sector = "ed/OSE1"
 
 [[agreements]]
 cop = "XIGRI"
 level = 300
 adep = ["EPPO"]
-from_sector = "ep/EPWWD"
+from_sector = "ep/EPWD-L"
 to_sector = "ed/HVL1"

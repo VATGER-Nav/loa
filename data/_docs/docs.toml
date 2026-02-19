@@ -148,31 +148,31 @@ effective_date = "2025-04-17"
 
 [[docs]]
 filename = "LoA_EDWW-EDYY-EHAA.pdf"
-name = "Bremen ACC - Maastricht UAC - Amsterdam FIR"
+name = "Bremen ACC - Maastricht UAC - Amsterdam ACC"
 firs = ["EDWW", "EDYY", "EHAA"]
 airac = 2601
 effective_date = "2026-01-22"
 
 [[docs]]
 filename = "LoA_EDWW-EDUU-EDYY-EKDK.pdf"
-name = "Bremen ACC - Karlsruhe UAC - Maastricht UAC - Copenhagen FIR"
+name = "Bremen ACC - Karlsruhe UAC - Maastricht UAC - Copenhagen ACC"
 firs = ["EDWW", "EDUU", "EDYY", "EKDK"]
-airac = 2601
-effective_date = "2026-01-22"
+airac = 2602
+effective_date = "2026-02-19"
 
 [[docs]]
 filename = "LoA_EDWW-EDUU-ESAA.pdf"
-name = "Bremen ACC - Karlsruhe UAC - Sweden FIR"
+name = "Bremen ACC - Karlsruhe UAC - Malmo ACC"
 firs = ["EDWW", "EDUU", "ESAA"]
-airac = 2601
-effective_date = "2026-01-22"
+airac = 2602
+effective_date = "2026-02-19"
 
 [[docs]]
 filename = "LoA_EDWW-EDUU-EPWW.pdf"
-name = "Bremen ACC - Karlsruhe UAC - Warszawa FIR"
+name = "Bremen ACC - Karlsruhe UAC - Warszawa ACC"
 firs = ["EDWW", "EDUU", "EPWW"]
-airac = 2601
-effective_date = "2026-01-22"
+airac = 2602
+effective_date = "2026-02-19"
 
 [[docs]]
 filename = "LoA_EDYY-EGPX.pdf"
