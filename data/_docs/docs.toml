@@ -25,8 +25,8 @@ filename = "LOP_EDUU.pdf"
 name = "LOP Karlsruhe UAC"
 firs = ["EDUU"]
 related_firs = ["EDMM", "EDWW", "EDGG"]
-airac = 2504
-effective_date = "2025-04-17"
+airac = 2602
+effective_date = "2026-02-19"
 
 [[docs]]
 filename = "LOP_EDYY.pdf"
@@ -41,8 +41,8 @@ filename = "LoA_EDMM-EDUU.pdf"
 name = "München ACC - Karlsruhe UAC"
 firs = ["EDMM", "EDUU"]
 related_firs = ["EDWW", "EDGG"]
-airac = 2506
-effective_date = "2025-06-12"
+airac = 2602
+effective_date = "2026-02-19"
 
 [[docs]]
 filename = "LoA_EDMM-EDGG.pdf"
@@ -70,8 +70,8 @@ effective_date = "2023-03-23"
 filename = "LoA_EDMM-EPWW.pdf"
 name = "München ACC - Warszawa FIR"
 firs = ["EDMM", "EPWW"]
-airac = 2401
-effective_date = "2024-01-25"
+airac = 2602
+effective_date = "2026-02-19"
 
 [[docs]]
 filename = "LoA_EDMM-EDUU-LIPP.pdf"
