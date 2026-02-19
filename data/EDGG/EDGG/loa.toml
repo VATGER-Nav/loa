@@ -1203,6 +1203,15 @@ to_sector = "ed/PADH"
 remarks = "flights via DOMEG and EXOBA into PADH are subject to coordination"
 
 [[agreements]]
+cop = "BOTTA"
+level = 180
+adep = ["EDDG"]
+transfer_type = "C"
+releases = "F"
+from_sector = "ed/HMM"
+to_sector = "ed/DLA/BOT"
+
+[[agreements]]
 cop = "DOMEG"
 level = 180
 adep = ["EDDG", "EDLP"]
