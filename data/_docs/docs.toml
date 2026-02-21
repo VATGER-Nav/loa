@@ -17,8 +17,8 @@ effective_date = "2025-11-27"
 filename = "LOP_EDGG.pdf"
 name = "LOP Langen ACC"
 firs = ["EDGG"]
-airac = 2504
-effective_date = "2025-04-17"
+airac = 2602
+effective_date = "2026-02-19"
 
 [[docs]]
 filename = "LOP_EDUU.pdf"
@@ -128,15 +128,15 @@ filename = "LoA_EDGG-EDYY.pdf"
 name = "Langen ACC - Maastricht UAC"
 firs = ["EDGG", "EDYY"]
 related_firs = ["EDWW"]
-airac = 2503
-effective_date = "2025-03-20"
+airac = 2602
+effective_date = "2026-02-19"
 
 [[docs]]
 filename = "LoA_EDGG-EDUU.pdf"
 name = "Langen ACC - Karlsruhe UAC"
 firs = ["EDGG", "EDUU"]
-airac = 2502
-effective_date = "2025-02-26"
+airac = 2602
+effective_date = "2026-02-19"
 
 [[docs]]
 filename = "LoA_EDUU-EDYY.pdf"
@@ -201,8 +201,8 @@ effective_date = "2026-01-22"
 filename = "LoA_EDGG-EDUU-EDYY-EBBU.pdf"
 name = "Langen ACC - Karlsruhe UAC - Maastricht UAC - Brussels FIR"
 firs = ["EDGG", "EDUU", "EDYY", "EBBU"]
-airac = 2601
-effective_date = "2026-01-22"
+airac = 2602
+effective_date = "2026-02-19"
 
 [[docs]]
 filename = "LoA_EDXX_vSOA.pdf"
