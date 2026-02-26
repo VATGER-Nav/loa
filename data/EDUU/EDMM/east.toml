@@ -242,26 +242,26 @@ to_sector = "ed/HOF"
 cop = "MAG"
 level = 300
 ades = ["EDDN", "EDQD", "EDQM", "EDQC", "EDQK", "EDQT", "EDQG", "EDQA", "ETIC"]
-from_sector = "ed/HVL1"
+from_sector = "ed/HVL12"
 to_sector = "ed/HAL"
 
 [[agreements]]
 cop = "MAG"
 level = 300
 ades = ["ELLX"]
-from_sector = "ed/HVL1"
+from_sector = "ed/HVL12"
 to_sector = "ed/HAL"
 
 [[agreements]]
 cop = "TOPDI"
 level = 300
 ades = ["EDDF", "ETOU", "EDFE", "EDFZ", "EDFQ"]
-from_sector = "ed/HVL1"
+from_sector = "ed/HVL12"
 to_sector = "ed/HAL"
 
 [[agreements]]
 cop = "DIDGI"
 level = 300
 ades = ["EDDF", "ETOU", "EDFE", "EDFZ", "EDFQ"]
-from_sector = "ed/HVL1"
+from_sector = "ed/HVL12"
 to_sector = "ed/HAL"
