@@ -236,7 +236,7 @@ level = 310
 vertical = true
 adep = ["EDDE"]
 from_sector = "ed/HAL"
-to_sector = "ed/HVL1"
+to_sector = "ed/HVL12"
 
 [[agreements]]
 cop = "GALMA"
