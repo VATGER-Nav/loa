@@ -3,315 +3,315 @@ cop = "PEROM"
 level = 280
 adep = ["EKCH", "EKRK", "ESMS"]
 from_sector = "ed/MRZ"
-to_sector = "ed/OSE1"
+to_sector = "ed/OSE12"
 
 [[agreements]]
 cop = "ARGAD"
 level = 280
 adep = ["EKCH", "EKRK", "ESMS"]
 from_sector = "ed/MRZ"
-to_sector = "ed/OSE1"
+to_sector = "ed/OSE12"
 
 [[agreements]]
 cop = "USEDU"
 level = 280
 adep = ["EKCH", "EKRK", "ESMS"]
 from_sector = "ed/MRZ"
-to_sector = "ed/OSE1"
+to_sector = "ed/OSE12"
 
 [[agreements]]
 cop = "NONSA"
 level = 280
 adep = ["EKCH", "EKRK"]
 from_sector = "ed/MRZ"
-to_sector = "ed/OSE1"
+to_sector = "ed/OSE12"
 
 [[agreements]]
 cop = "NONSA"
 level = 280
 adep = ["EKRN"]
 from_sector = "ed/MRZ"
-to_sector = "ed/OSE1"
+to_sector = "ed/OSE12"
 
 [[agreements]]
 cop = "EBAWE"
 level = 280
 adep = ["ETNL"]
 from_sector = "ed/MRZ"
-to_sector = "ed/OSE1"
+to_sector = "ed/OSE12"
 
 [[agreements]]
 cop = "ROSOK"
 level = 280
 adep = ["EDDH", "EDHI", "EDHL"]
 from_sector = "ed/MRZ"
-to_sector = "ed/OSE1"
+to_sector = "ed/OSE12"
 
 [[agreements]]
 cop = "KUBAB"
 level = 280
 adep = ["EDDH", "EDHI", "EDHL", "EDHK"]
 from_sector = "ed/MRZ"
-to_sector = "ed/OSE1"
+to_sector = "ed/OSE12"
 
 [[agreements]]
 cop = "TAGOB"
 level = 280
 adep = ["EDDV", "EDVE", "ETNW"]
 from_sector = "ed/MRZ"
-to_sector = "ed/OSE1"
+to_sector = "ed/OSE12"
 
 [[agreements]]
 cop = "KUBAB"
 level = 280
 adep = ["EDDV", "EDVE", "ETNW"]
 from_sector = "ed/MRZ"
-to_sector = "ed/OSE1"
+to_sector = "ed/OSE12"
 
 [[agreements]]
 cop = "RODEP"
 level = 280
 adep = ["EDDB"]
 from_sector = "ed/MRZ"
-to_sector = "ed/OSE1"
+to_sector = "ed/OSE12"
 
 [[agreements]]
 cop = "TIRMI"
 level = 280
 adep = ["EDDB"]
 from_sector = "ed/MRZ"
-to_sector = "ed/OSE1"
+to_sector = "ed/OSE12"
 
 [[agreements]]
 cop = "ITZEG"
 level = 280
 adep = ["EDDB"]
 from_sector = "ed/MRZ"
-to_sector = "ed/OSE1"
+to_sector = "ed/OSE12"
 
 [[agreements]]
 cop = "RODEP"
 level = 280
 adep = ["EDAY"]
 from_sector = "ed/MRZ"
-to_sector = "ed/OSE1"
+to_sector = "ed/OSE12"
 
 [[agreements]]
 cop = "PENET"
 level = 280
 adep = ["EPSC"]
 from_sector = "ed/MRZ"
-to_sector = "ed/OSE1"
+to_sector = "ed/OSE12"
 
 [[agreements]]
 cop = "LEGSA"
 level = 280
 adep = ["EPSC"]
 from_sector = "ed/MRZ"
-to_sector = "ed/OSE1"
+to_sector = "ed/OSE12"
 
 [[agreements]]
 cop = "PODUS"
 level = 280
 adep = ["EPSC"]
 from_sector = "ed/MAR"
-to_sector = "ed/OSE1"
+to_sector = "ed/OSE12"
 
 [[agreements]]
 cop = "KETAP"
 level = 280
 adep = ["EPSC", "EDAH"]
 from_sector = "ed/MAR"
-to_sector = "ed/OSE1"
+to_sector = "ed/OSE12"
 
 [[agreements]]
 cop = "PODUS"
 level = 280
 adep = ["EDAH"]
 from_sector = "ed/MAR"
-to_sector = "ed/OSE1"
+to_sector = "ed/OSE12"
 
 [[agreements]]
 cop = "LASLU"
 level = 280
 adep = ["EDAH"]
 from_sector = "ed/MAR"
-to_sector = "ed/OSE1"
+to_sector = "ed/OSE12"
 
 [[agreements]]
 cop = "VIBIS"
 level = 280
 adep = ["EDDH", "EDHI", "EDHL", "EDHK"]
 from_sector = "ed/MAR"
-to_sector = "ed/OSE1"
+to_sector = "ed/OSE12"
 
 [[agreements]]
 cop = "PABMI"
 level = 280
 adep = ["EDDH", "EDHI", "EDHL"]
 from_sector = "ed/MAR"
-to_sector = "ed/OSE1"
+to_sector = "ed/OSE12"
 
 [[agreements]]
 cop = "ERNUD"
 level = 280
 adep = ["EDDB"]
 from_sector = "ed/MAR"
-to_sector = "ed/OSE1"
+to_sector = "ed/OSE12"
 
 [[agreements]]
 cop = "VIBIS"
 level = 280
 adep = ["EDAY"]
 from_sector = "ed/MAR"
-to_sector = "ed/OSE1"
+to_sector = "ed/OSE12"
 
 [[agreements]]
 cop = "RENKI"
 level = 280
 adep = ["EDAZ"]
 from_sector = "ed/MAR"
-to_sector = "ed/OSE1"
+to_sector = "ed/OSE12"
 
 [[agreements]]
 cop = "ABIKA"
 level = 280
 adep = ["EDAZ"]
 from_sector = "ed/MAR"
-to_sector = "ed/OSE1"
+to_sector = "ed/OSE12"
 
 [[agreements]]
 cop = "VIBIS"
 level = 280
 adep = ["EDDV", "EDVE", "ETNW"]
 from_sector = "ed/MAR"
-to_sector = "ed/OSE1"
+to_sector = "ed/OSE12"
 
 [[agreements]]
 cop = "SOGMA"
 level = 280
 adep = ["EDDP", "EDAC", "EDAZ"]
 from_sector = "ed/MAR"
-to_sector = "ed/HVL1"
+to_sector = "ed/HVL12"
 
 [[agreements]]
 cop = "OSROC"
 level = 280
 adep = ["EPSC", "ETNL", "EDAH", "EDBH"]
 from_sector = "ed/MAR"
-to_sector = "ed/HVL1"
+to_sector = "ed/HVL12"
 
 [[agreements]]
 cop = "BIRMO"
 level = 280
 adep = ["EDDH", "EDHI", "EDHL", "EDHK"]
 from_sector = "ed/MAR"
-to_sector = "ed/HVL1"
+to_sector = "ed/HVL12"
 
 [[agreements]]
 cop = "IDOWO"
 level = 280
 adep = ["EDBN", "ETNL"]
 from_sector = "ed/MAR"
-to_sector = "ed/HVL1"
+to_sector = "ed/HVL12"
 
 [[agreements]]
 cop = "BIRMO"
 level = 280
 adep = ["ETNL", "EDBN", "EDBH"]
 from_sector = "ed/MAR"
-to_sector = "ed/HVL1"
+to_sector = "ed/HVL12"
 
 [[agreements]]
 cop = "SONUD"
 level = 280
 adep = ["EDBM", "EDBC"]
 from_sector = "ed/FLG"
-to_sector = "ed/HVL1"
+to_sector = "ed/HVL12"
 
 [[agreements]]
 cop = "OBANI"
 level = 280
 adep = ["EDDP"]
 from_sector = "ed/FLG"
-to_sector = "ed/HVL1"
+to_sector = "ed/HVL12"
 
 [[agreements]]
 cop = "KLF"
 level = 280
 adep = ["EDDP"]
 from_sector = "ed/FLG"
-to_sector = "ed/HVL1"
+to_sector = "ed/HVL12"
 
 [[agreements]]
 cop = "PEPOL"
 level = 280
 adep = ["EDAC"]
 from_sector = "ed/FLG"
-to_sector = "ed/HVL1"
+to_sector = "ed/HVL12"
 
 [[agreements]]
 cop = "IDOBA"
 level = 280
 adep = ["EDDC", "EDAB"]
 from_sector = "ed/FLG"
-to_sector = "ed/HVL1"
+to_sector = "ed/HVL12"
 
 [[agreements]]
 cop = "BOLBO"
 level = 280
 adep = ["EDDC", "EDAB"]
 from_sector = "ed/FLG"
-to_sector = "ed/HVL1"
+to_sector = "ed/HVL12"
 
 [[agreements]]
 cop = "MAG"
 level = 280
 adep = ["EDAZ"]
 from_sector = "ed/BOR"
-to_sector = "ed/HVL1"
+to_sector = "ed/HVL12"
 
 [[agreements]]
 cop = "MAG"
 level = 280
 adep = ["EDDV", "EDVK", "ETNW"]
 from_sector = "ed/BOR"
-to_sector = "ed/HVL1"
+to_sector = "ed/HVL12"
 
 [[agreements]]
 cop = "ESIKA"
 level = 280
 adep = ["EDVE"]
 from_sector = "ed/BOR"
-to_sector = "ed/HVL1"
+to_sector = "ed/HVL12"
 
 [[agreements]]
 cop = "PENEK"
 level = 280
 adep = ["EDDE"]
 from_sector = "ed/BOR"
-to_sector = "ed/HVL1"
+to_sector = "ed/HVL12"
 
 [[agreements]]
 cop = "MAG"
 level = 280
 adep = ["EDDE"]
 from_sector = "ed/BOR"
-to_sector = "ed/HVL1"
+to_sector = "ed/HVL12"
 
 [[agreements]]
 cop = "PENEK"
 level = 280
 adep = ["EDDP"]
 from_sector = "ed/BOR"
-to_sector = "ed/HVL1"
+to_sector = "ed/HVL12"
 
 [[agreements]]
 cop = "BUREL"
 level = 280
 adep = ["EDDB", "EDAY"]
 from_sector = "ed/BOR"
-to_sector = "ed/HVL1"
+to_sector = "ed/HVL12"
 remarks = "Coordination required unless TFC at/abeam BUREL at FL240 or higher"
 
 [[agreements]]
@@ -319,7 +319,7 @@ cop = "MAG"
 level = 280
 adep = ["EDDB", "EDAY"]
 from_sector = "ed/BOR"
-to_sector = "ed/HVL1"
+to_sector = "ed/HVL12"
 remarks = "Coordination required unless TFC at/abeam BUREL at FL240 or higher"
 
 [[agreements]]
@@ -327,11 +327,11 @@ cop = "LUPAK"
 level = 280
 adep = ["ETSH"]
 from_sector = "ed/BOR"
-to_sector = "ed/HVL1"
+to_sector = "ed/HVL12"
 
 [[agreements]]
 cop = "PENEK"
 level = 280
 adep = ["ETSH"]
 from_sector = "ed/BOR"
-to_sector = "ed/HVL1"
+to_sector = "ed/HVL12"
