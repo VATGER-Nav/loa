@@ -2,4 +2,4 @@
 level = 330
 ades = ["EPSC"]
 from_sector = "es/ESM8"
-to_sector = "ed/OSE1"
+to_sector = "ed/OSE12"
