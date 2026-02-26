@@ -2,7 +2,7 @@
 cop = "FARCU"
 level = 350
 ades = ["EPGD"]
-from_sector = "ed/OSE1"
+from_sector = "ed/OSE12"
 to_sector = "ep/EPWB-M"
 remarks = "Descent is not required if B MID and B HIGH are combined (same frequency)."
 
@@ -10,14 +10,14 @@ remarks = "Descent is not required if B MID and B HIGH are combined (same freque
 cop = "FARCU"
 level = 330
 ades = ["EPZG"]
-from_sector = "ed/OSE1"
+from_sector = "ed/OSE12"
 to_sector = "ep/EPWB-L"
 
 [[agreements]]
 cop = "BINKA"
 level = 350
 ades = ["EPGD"]
-from_sector = "ed/OSE1"
+from_sector = "ed/OSE12"
 to_sector = "ep/EPWB-M"
 remarks = "Descent is not required if B MID and B HIGH are combined (same frequency)."
 
@@ -25,14 +25,14 @@ remarks = "Descent is not required if B MID and B HIGH are combined (same freque
 cop = "BINKA"
 level = 330
 ades = ["EPZG", "EPPO"]
-from_sector = "ed/OSE1"
+from_sector = "ed/OSE12"
 to_sector = "ep/EPWB-L"
 
 [[agreements]]
 cop = "ALUKA"
 level = 350
 ades = ["EPGD", "EPMO", "EPLL"]
-from_sector = "ed/OSE1"
+from_sector = "ed/OSE12"
 to_sector = "ep/EPWB-M"
 remarks = "Descent is not required if B MID and B HIGH are combined (same frequency)."
 
@@ -40,7 +40,7 @@ remarks = "Descent is not required if B MID and B HIGH are combined (same freque
 cop = "ALUKA"
 level = 330
 ades = ["EPBY"]
-from_sector = "ed/OSE1"
+from_sector = "ed/OSE12"
 to_sector = "ep/EPWB-L"
 
 [[agreements]]
@@ -54,7 +54,7 @@ to_sector = "ep/EPWB-L"
 cop = "BODLA"
 level = 350
 ades = ["EPGD", "EPMO", "EPLL"]
-from_sector = "ed/OSE1"
+from_sector = "ed/OSE12"
 to_sector = "ep/EPWB-M"
 remarks = "Descent is not required if B MID and B HIGH are combined (same frequency)."
 
@@ -62,7 +62,7 @@ remarks = "Descent is not required if B MID and B HIGH are combined (same freque
 cop = "GILAS"
 level = 350
 ades = ["EPMO", "EPLL"]
-from_sector = "ed/HVL1"
+from_sector = "ed/HVL12"
 to_sector = "ep/EPWD-M"
 remarks = "Descent is not required if D MID and D HIGH are combined (same frequency)."
 
@@ -70,14 +70,14 @@ remarks = "Descent is not required if D MID and D HIGH are combined (same freque
 cop = "GILAS"
 level = 330
 ades = ["EPWR", "EPBY"]
-from_sector = "ed/HVL1"
+from_sector = "ed/HVL12"
 to_sector = "ep/EPWD-L"
 
 [[agreements]]
 cop = "SUBIX"
 level = 350
 ades = ["EPMO", "EPLL"]
-from_sector = "ed/HVL1"
+from_sector = "ed/HVL12"
 to_sector = "ep/EPWD-M"
 remarks = "Descent is not required if D MID and D HIGH are combined (same frequency)."
 
@@ -85,21 +85,21 @@ remarks = "Descent is not required if D MID and D HIGH are combined (same freque
 cop = "SUBIX"
 level = 330
 ades = ["EPWR", "EPBY"]
-from_sector = "ed/HVL1"
+from_sector = "ed/HVL12"
 to_sector = "ep/EPWD-L"
 
 [[agreements]]
 cop = "SUBIX"
 level = 290
 ades = ["EPPO"]
-from_sector = "ed/HVL1"
+from_sector = "ed/HVL12"
 to_sector = "ep/EPWD-L"
 
 [[agreements]]
 cop = "GOVEN"
 level = 350
 ades = ["EPMO", "EPLL"]
-from_sector = "ed/HVL1"
+from_sector = "ed/HVL12"
 to_sector = "ep/EPWD-M"
 remarks = "Descent is not required if D MID and D HIGH are combined (same frequency)."
 
@@ -107,26 +107,26 @@ remarks = "Descent is not required if D MID and D HIGH are combined (same freque
 cop = "GOVEN"
 level = 330
 ades = ["EPWR", "EPBY"]
-from_sector = "ed/HVL1"
+from_sector = "ed/HVL12"
 to_sector = "ep/EPWD-L"
 
 [[agreements]]
 cop = "BINKA"
 level = 350
 adep = ["EKCH", "EKRK", "ESMS"]
-from_sector = "ed/OSE1"
+from_sector = "ed/OSE12"
 to_sector = "ep/EPWB-M"
 
 [[agreements]]
 cop = "BODLA"
 level = 330
 adep = ["EDAZ"]
-from_sector = "ed/OSE1"
+from_sector = "ed/OSE12"
 to_sector = "ep/EPWB-L"
 
 [[agreements]]
 cop = "SUBIX"
 level = 330
 adep = ["EDDP"]
-from_sector = "ed/HVL1"
+from_sector = "ed/HVL12"
 to_sector = "ep/EPWD-L"

@@ -95,21 +95,21 @@ cop = "GARLU"
 level = 350
 ades = ["EDAH"]
 from_sector = "ed/CL"
-to_sector = "ed/OSE1"
+to_sector = "ed/OSE12"
 
 [[agreements]]
 cop = "NEBUN"
 level = 350
 ades = ["EDAH"]
 from_sector = "ed/HL"
-to_sector = "ed/OSE1"
+to_sector = "ed/OSE12"
 
 [[agreements]]
 cop = "BUMIL"
 level = 350
 ades = ["EDAH"]
 from_sector = "ed/HL"
-to_sector = "ed/OSE1"
+to_sector = "ed/OSE12"
 
 [[agreements]]
 cop = "WERRA"
@@ -132,7 +132,7 @@ cop = "NEBUN"
 level = 290
 adep = ["EDDW"]
 from_sector = "ed/CL"
-to_sector = "ed/OSE1"
+to_sector = "ed/OSE12"
 
 
 [[agreements]]
