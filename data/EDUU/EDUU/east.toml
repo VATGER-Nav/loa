@@ -88,13 +88,13 @@ to_sector = "ed/SPE1"
 level = 360
 ades = ["EDDV", "EDLP", "EDLI", "EDVK", "ETNW"]
 from_sector = "ed/SPE1"
-to_sector = "ed/HVL1"
+to_sector = "ed/HVL12"
 
 [[agreements]]
 level = 360
 ades = ["EDDW"]
 from_sector = "ed/SPE1"
-to_sector = "ed/HVL1"
+to_sector = "ed/HVL12"
 route_after = "KOSIX L986 MAG"
 
 [[agreements]]
@@ -134,39 +134,39 @@ to_sector = "ed/SAL1"
 [[agreements]]
 level = 360
 ades = ["EDDR", "EDDS", "EDFM", "EDFV", "EDJA", "EDMS", "EDRY", "EDTL", "EDTY", "ETAR", "ETIN", "ETHN", "ETOR", "LKKV"]
-from_sector = "ed/HVL1"
+from_sector = "ed/HVL22"
 to_sector = "ed/SAL1"
 
 [[agreements]]
 level = 340
 ades = ["EDDF", "EDFE", "EDFQ", "EDFZ", "ETOU"]
-from_sector = "ed/HVL1"
+from_sector = "ed/HVL12"
 to_sector = "ed/SAL1"
 remarks = "except via DIDGI and TOPDI"
 
 [[agreements]]
 level = 340
 ades = ["EDQD", "EDQM", "EDQT", "EDQG", "EDQK", "EDQC", "EDDN", "ETIC"]
-from_sector = "ed/HVL1"
+from_sector = "ed/HVL12"
 to_sector = "ed/SAL1"
 remarks = "except via MAG"
 
 [[agreements]]
 level = 350
 ades = ["LKPR", "LKPD", "LKKB", "LKCV", "LKHK", "LKMH", "LKVO"]
-from_sector = "ed/HVL1"
+from_sector = "ed/HVL12"
 to_sector = "ed/SAL1"
 
 [[agreements]]
 level = 350
 ades = ["LKPR", "LKPD", "LKKB", "LKCV", "LKHK", "LKMH", "LKVO", "LKPM"]
-from_sector = "ed/HVL1"
+from_sector = "ed/HVL12"
 to_sector = "ed/SPE1"
 
 [[agreements]]
 level = 370
 ades = ["LKCS"]
-from_sector = "ed/HVL2"
+from_sector = "ed/HVL22"
 to_sector = "ed/SPE2"
 
 # OSE
@@ -174,5 +174,5 @@ to_sector = "ed/SPE2"
 cop = "SUVAL"
 level = 290
 ades = ["EDDP"]
-from_sector = "ed/OSE1"
-to_sector = "ed/HVL1"
+from_sector = "ed/OSE12"
+to_sector = "ed/HVL12"
