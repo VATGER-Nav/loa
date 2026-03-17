@@ -137,31 +137,14 @@ vertical = true
 from_sector = "ed/ALP1"
 to_sector = "ed/FUE"
 
-# CHI
-[[agreements]]
-cop = "TULSI"
-level = 320
-level_at = [0, "MANAL"]
-ades = ["LSZS", "LSZA", "LIPB"]
-vertical = true
-from_sector = "ed/CHI1"
-to_sector = "ed/TEG"
-
 [[agreements]]
 cop = "KOGOL"
 level = 320
-ades = ["EDDS", "EDSB", "EDRY", "EDFM"]
+level_at = [-5, "KOGOL"]
+ades = ["EDSB", "EDRY", "EDFM"]
 vertical = true
-from_sector = "ed/CHI1"
+from_sector = "ed/ALP1"
 to_sector = "ed/STA"
-
-[[agreements]]
-cop = "TULSI"
-level = 320
-ades = ["LOWL"]
-vertical = true
-from_sector = "ed/CHI1"
-to_sector = "ed/TEG"
 
 [[agreements]]
 cop = "KOGOL"
@@ -169,49 +152,26 @@ level = 320
 level_at = [0, "NORIN"]
 ades = ["EDDN", "EDDS", "EDTY", "EDQD", "EDQM", "EDQC", "EDQK", "EDQT", "EDQG", "EDQA"]
 vertical = true
-from_sector = "ed/CHI1"
+from_sector = "ed/ALP1"
 to_sector = "ed/STA"
 
+# AMM
 [[agreements]]
-cop = "AMDID"
+cop = "TULSI"
 level = 320
-ades = ["LKCS"]
+level_at = [0, "MANAL"]
+ades = ["LSZS", "LSZA", "LIPB"]
 vertical = true
-from_sector = "ed/CHI1"
-to_sector = "ed/TRU"
+from_sector = "ed/AMM1"
+to_sector = "ed/TEG"
 
-# ISA
 [[agreements]]
 cop = "MAH"
 level = 320
 level_at = [0, "OTT"]
 ades = ["EDSB", "EDDR", "EDRY", "EDRZ", "EDFM", "ETAD", "ETAR"]
 vertical = true
-from_sector = "ed/ISA1"
-to_sector = "ed/NDG"
-
-[[agreements]]
-cop = "MAH"
-level = 320
-ades = ["LKKV"]
-vertical = true
-from_sector = "ed/ISA1"
-to_sector = "ed/NDG"
-
-[[agreements]]
-cop = "MAH"
-level = 320
-ades = ["ETAR", "EDGS", "EDRK"]
-vertical = true
-from_sector = "ed/ISA1"
-to_sector = "ed/NDG"
-
-[[agreements]]
-cop = "BESNI"
-level = 320
-ades = ["LOWL"]
-vertical = true
-from_sector = "ed/ISA1"
+from_sector = "ed/AMM1"
 to_sector = "ed/NDG"
 
 [[agreements]]
@@ -219,8 +179,48 @@ cop = "GESUC"
 level = 320
 ades = ["EDDF"]
 vertical = true
-from_sector = "ed/ISA1"
+from_sector = "ed/AMM1"
 to_sector = "ed/NDG"
+
+[[agreements]]
+cop = "BESNI"
+level = 320
+ades = ["LOWL"]
+vertical = true
+from_sector = "ed/AMM1"
+to_sector = "ed/NDG"
+
+[[agreements]]
+cop = "TULSI"
+level = 320
+ades = ["LOWL"]
+vertical = true
+from_sector = "ed/AMM1"
+to_sector = "ed/TEG"
+
+[[agreements]]
+cop = "MAH"
+level = 320
+ades = ["LKKV"]
+vertical = true
+from_sector = "ed/AMM1"
+to_sector = "ed/NDG"
+
+[[agreements]]
+cop = "MAH"
+level = 320
+ades = ["ETAR", "EDGS", "EDRK"]
+vertical = true
+from_sector = "ed/AMM1"
+to_sector = "ed/NDG"
+
+[[agreements]]
+cop = "AMDID"
+level = 320
+ades = ["LKCS"]
+vertical = true
+from_sector = "ed/AMM1"
+to_sector = "ed/TRU"
 
 # DON
 [[agreements]]
