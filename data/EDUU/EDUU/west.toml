@@ -91,12 +91,6 @@ from_sector = "ed/TGO2"
 to_sector = "ed/ALP3"
 
 [[agreements]]
-level = 370
-ades = ["LDZA", "LDRI", "LJMB", "LIPQ", "LDPL", "LDLO"]
-from_sector = "ed/TGO2"
-to_sector = "ed/ISA3"
-
-[[agreements]]
 level = 250
 ades = ["LSGC", "LSMA", "LSME", "LSMP", "LSZB", "LSZC", "LSZG", "LSZM"]
 from_sector = "ed/TGO1"
