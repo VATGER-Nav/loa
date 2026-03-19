@@ -74,9 +74,8 @@ to_sector = "ed/EID"
 
 [[agreements]]
 cop = "REVLA"
-level = 260
+level = 250
 ades = ["EDDH", "EDHI", "EDHL", "EDHK"]
-releases = "F"
 level_at = [0, "REVLA"]
 from_sector = "ed/JL"
 to_sector = "ed/ALR"

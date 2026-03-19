@@ -162,7 +162,7 @@ to_sector = "ed/FUL2"
 level = 370
 ades = ["LOWL"]
 from_sector = "ed/WUR3"
-to_sector = "ed/ISA3"
+to_sector = "ed/AMM3"
 
 [[agreements]]
 level = 320

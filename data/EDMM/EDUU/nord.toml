@@ -5,7 +5,7 @@ level = 310
 vertical = true
 adep = ["LOWI"]
 from_sector = "ed/NDG"
-to_sector = "ed/ISA1"
+to_sector = "ed/AMM1"
 
 [[agreements]]
 cop = "REDVO"
@@ -13,7 +13,7 @@ level = 310
 vertical = true
 adep = ["EDDF", "EDSB", "ETAR", "EDFE", "EDFH", "EDFM", "EDGS", "EDDR", "EDRY", "EDRZ"]
 from_sector = "ed/NDG"
-to_sector = "ed/ISA1"
+to_sector = "ed/AMM1"
 
 [[agreements]]
 cop = "ALUTU"
@@ -21,7 +21,7 @@ level = 310
 vertical = true
 adep = ["EDDS", "EDTY"]
 from_sector = "ed/NDG"
-to_sector = "ed/ISA1"
+to_sector = "ed/AMM1"
 
 [[agreements]]
 cop = "BESNI"
@@ -29,16 +29,7 @@ level = 310
 vertical = true
 adep = ["EDDF"]
 from_sector = "ed/NDG"
-to_sector = "ed/ISA1"
-
-[[agreements]]
-cop = "ALUTU"
-level = 310
-vertical = true
-adep = ["EDDF"]
-from_sector = "ed/EGG"
-to_sector = "ed/DON1"
-remarks = "slow climber"
+to_sector = "ed/AMM1"
 
 # ALB
 [[agreements]]
@@ -109,3 +100,12 @@ vertical = true
 adep = ["LKPR", "LKPD", "LKKB", "LKKV", "LKVO"]
 from_sector = "ed/EGG"
 to_sector = "ed/DON1"
+
+[[agreements]]
+cop = "ALUTU"
+level = 310
+vertical = true
+adep = ["EDDF"]
+from_sector = "ed/EGG"
+to_sector = "ed/DON1"
+remarks = "slow climber"

@@ -28,7 +28,7 @@ level = 310
 vertical = true
 adep = ["LOWS"]
 from_sector = "ed/FUE"
-to_sector = "ed/ISA1"
+to_sector = "ed/AMM1"
 
 [[agreements]]
 cop = "BEMKI"
@@ -39,14 +39,6 @@ from_sector = "ed/FUE"
 to_sector = "ed/ALP1"
 
 # ZUG
-[[agreements]]
-cop = "XEBIX"
-level = 310
-vertical = true
-adep = ["EDDS"]
-from_sector = "ed/ZUG"
-to_sector = "ed/ALP1"
-
 [[agreements]]
 cop = "MADEB"
 level = 310
@@ -62,7 +54,7 @@ level = 310
 vertical = true
 adep = ["LIPB"]
 from_sector = "ed/STA"
-to_sector = "ed/CHI1"
+to_sector = "ed/ALP1"
 
 [[agreements]]
 cop = "KONIN"
@@ -70,7 +62,7 @@ level = 310
 vertical = true
 adep = ["LOWL"]
 from_sector = "ed/STA"
-to_sector = "ed/CHI1"
+to_sector = "ed/AMM1"
 
 [[agreements]]
 cop = "SUGIB"
@@ -95,7 +87,7 @@ level = 310
 vertical = true
 adep = ["EDDS", "EDDN", "EDTY", "EDQD", "EDQM", "EDQC", "EDQK", "EDQT", "EDQG", "EDQA"]
 from_sector = "ed/TEG"
-to_sector = "ed/CHI1"
+to_sector = "ed/AMM1"
 
 [[agreements]]
 cop = "TUNUM"
@@ -107,12 +99,28 @@ to_sector = "ed/ALP1"
 
 # TRU
 [[agreements]]
+cop = "ROTAX"
+level = 310
+vertical = true
+adep = ["EDDS", "EDDN", "EDTY", "EDQD", "EDQM", "EDQC", "EDQK", "EDQT", "EDQG", "EDQA"]
+from_sector = "ed/TRU"
+to_sector = "ed/AMM1"
+
+[[agreements]]
 cop = "TAKEX"
 level = 310
 vertical = true
 adep = ["EDDS", "EDDN", "EDTY", "EDQD", "EDQM", "EDQC", "EDQK", "EDQT", "EDQG", "EDQA"]
 from_sector = "ed/TRU"
-to_sector = "ed/CHI1"
+to_sector = "ed/AMM1"
+
+[[agreements]]
+cop = "EBEDA"
+level = 310
+vertical = true
+adep = ["LKCS"]
+from_sector = "ed/TRU"
+to_sector = "ed/AMM1"
 
 [[agreements]]
 cop = "ZUREX"
@@ -120,7 +128,7 @@ level = 310
 vertical = true
 adep = ["LSZH", "EDNY", "LSZR", "EDJA"]
 from_sector = "ed/TRU"
-to_sector = "ed/CHI1"
+to_sector = "ed/AMM1"
 remarks = "Slow Climber only."
 
 [[agreements]]
@@ -129,21 +137,5 @@ level = 310
 vertical = true
 adep = ["LSZH", "EDNY", "LSZR", "EDJA"]
 from_sector = "ed/TRU"
-to_sector = "ed/CHI1"
+to_sector = "ed/AMM1"
 remarks = "Slow Climber only."
-
-[[agreements]]
-cop = "ROTAX"
-level = 310
-vertical = true
-adep = ["EDDS", "EDDN", "EDTY", "EDQD", "EDQM", "EDQC", "EDQK", "EDQT", "EDQG", "EDQA"]
-from_sector = "ed/TRU"
-to_sector = "ed/CHI1"
-
-[[agreements]]
-cop = "EBEDA"
-level = 310
-vertical = true
-adep = ["LKCS"]
-from_sector = "ed/TRU"
-to_sector = "ed/CHI1"

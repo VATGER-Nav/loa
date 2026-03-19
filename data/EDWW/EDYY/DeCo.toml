@@ -1,8 +1,7 @@
 [[agreements]]
 cop = "MIZUH"
-level = 250
+level = 240
 adep = ["EDDH", "EDHI"]
-transfer_type = "C"
 from_sector = "ed/ALR"
 to_sector = "ed/JL"
 

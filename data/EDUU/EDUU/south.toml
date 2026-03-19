@@ -3,37 +3,31 @@
 level = 380
 ades = ["EDDF", "ETAR", "ETOU", "EDFZ", "EDFE", "EDGS", "EDRK", "LKKV"]
 from_sector = "ed/ALP4"
-to_sector = "ed/CHI4"
-
-[[agreements]]
-level = 320
-ades = ["EDDS", "EDSB", "EDRY", "EDTY", "EDFM", "EDQA", "EDQC", "EDQD", "EDQG", "EDQM", "EDDN", "ETSI", "ETSN"]
-from_sector = "ed/ALP1"
-to_sector = "ed/CHI1"
-
-[[agreements]]
-level = 330
-ades = ["LOWL"]
-from_sector = "ed/ALP1"
-to_sector = "ed/CHI1"
+to_sector = "ed/AMM4"
 
 [[agreements]]
 level = 370
-ades = ["LOWW"]
+ades = ["LKPR", "LKPD", "LKKB", "LKCV", "LKHK", "LKMH", "LKPM", "LKVO"]
 from_sector = "ed/ALP3"
-to_sector = "ed/CHI3"
+to_sector = "ed/AMM3"
 
 [[agreements]]
 level = 360
-ades = ["LKCS"]
+ades = ["ETAR", "EDGS", "EDRK", "LKKV", "LKCS"]
 from_sector = "ed/ALP2"
-to_sector = "ed/CHI2"
+to_sector = "ed/AMM2"
 
 [[agreements]]
-level = 370
+level = 350
 ades = ["LOWW"]
-from_sector = "ed/ALP3"
-to_sector = "ed/ISA3"
+from_sector = "ed/ALP1"
+to_sector = "ed/AMM1"
+
+[[agreements]]
+level = 320
+ades = ["LOWL"]
+from_sector = "ed/ALP1"
+to_sector = "ed/AMM1"
 
 [[agreements]]
 level = 320
@@ -53,31 +47,32 @@ adep = ["LOWI"]
 from_sector = "ed/ALP1"
 to_sector = "ed/TGO1"
 
-# CHI
+# AMM
 [[agreements]]
-level = 320
-ades = ["LSMD", "EDDS", "EDSB", "EDFM", "ETAR", "EDTD", "EDTL", "EDTM", "EDTY", "EDRY"]
-from_sector = "ed/CHI1"
+level = 340
+ades = ["LSMD", "LSZS", "EDSB", "EDFM", "ETAR", "EDTD", "EDTL", "EDRY"]
+from_sector = "ed/AMM1"
 to_sector = "ed/ALP1"
 route_after = "KPT"
 
 [[agreements]]
-level = 320
+level = 330
 ades = ["LIPZ", "LIPH", "LIPX", "LIPO", "LIPA"]
-from_sector = "ed/CHI1"
+from_sector = "ed/AMM1"
 to_sector = "ed/ALP1"
 
 [[agreements]]
-level = 340
+level = 320
 ades = ["LSZH"]
-from_sector = "ed/CHI1"
+from_sector = "ed/AMM1"
 to_sector = "ed/ALP1"
+route_before = "TRAUN"
 
 [[agreements]]
-level = 350
+level = 370
 ades = ["LIMP", "LIPE", "LIPK", "LIME"]
-from_sector = "ed/CHI1"
-to_sector = "ed/ALP1"
+from_sector = "ed/AMM3"
+to_sector = "ed/ALP3"
 
 [[agreements]]
 level = 360
@@ -90,119 +85,42 @@ ades = [
         "LSMF",
         "LSML",
         "LSMM",
-        "LMSO",
+        "LSMO",
         "LSMP",
         "LSMS",
         "LSMU",
         "LFSB",
+        "LFSC",
+        "LFSM",
         "LFGA",
         "LFGB",
-        "LFSM",
 ]
-from_sector = "ed/CHI2"
+from_sector = "ed/AMM2"
 to_sector = "ed/ALP2"
 
 [[agreements]]
 level = 340
 ades = ["LKPR", "LKPD", "LKKB", "LKCV", "LKHK", "LKMH", "LKPM", "LKVO"]
-from_sector = "ed/CHI1"
-to_sector = "ed/DON1"
-
-[[agreements]]
-level = 360
-ades = ["EDDF", "ETOU", "EDFZ", "EDFE", "EDGS", "EDRK"]
-from_sector = "ed/CHI2"
-to_sector = "ed/ISA2"
-route_after = "M726"
-
-[[agreements]]
-level = 340
-ades = ["ETAR", "LKKV"]
-from_sector = "ed/CHI1"
-to_sector = "ed/ISA1"
-
-[[agreements]]
-level = 360
-ades = ["EDDF"]
-from_sector = "ed/CHI2"
-to_sector = "ed/ISA2"
-route_after = "Q863"
-
-[[agreements]]
-level = 360
-ades = ["EDDP", "EDAC", "EDDE", "EDFQ", "EDVK"]
-from_sector = "ed/CHI2"
-to_sector = "ed/ISA2"
-route_after = "M726"
-
-# ISA
-[[agreements]]
-level = 350
-ades = [
-        "LIPZ",
-        "LIPH",
-        "LIPX",
-        "LIPO",
-        "LIPQ",
-        "LIPA",
-        "LIPB",
-        "LSZS",
-        "LSZA",
-        "LJLJ",
-        "LOWG",
-        "LOWK",
-        "LOXZ",
-        "LOWW",
-        "LDZA",
-        "LDRI",
-        "LJMB",
-        "LDPL",
-        "LDLO",
-]
-from_sector = "ed/ISA1"
-to_sector = "ed/CHI1"
-
-[[agreements]]
-level = 350
-cop = "MIQ"
-adep = ["EDDF"]
-from_sector = "ed/ISA1"
+from_sector = "ed/AMM1"
 to_sector = "ed/DON1"
 
 [[agreements]]
 level = 320
-ades = [
-        "EDDF",
-        "ETOU",
-        "EDFE",
-        "EDFZ",
-        "EDDP",
-        "EDAC",
-        "EDDE",
-        "EDFQ",
-        "EDVK",
-        "LKPR",
-        "LKPD",
-        "LKKB",
-        "LKCV",
-        "LKHK",
-        "LKMH",
-        "LKPM",
-        "LKVO",
-]
-from_sector = "ed/ISA1"
+ades = ["EDDF", "ETOU", "EDFZ", "EDFE", "EDGS", "EDRK"]
+from_sector = "ed/AMM1"
 to_sector = "ed/DON1"
+route_after = "M726"
 
 [[agreements]]
 level = 340
 ades = ["EDDK", "EDKB", "EDFH", "EDDR", "ELLX"]
-from_sector = "ed/ISA1"
+from_sector = "ed/AMM1"
 to_sector = "ed/TGO1"
 
 [[agreements]]
 level = 320
 ades = ["EDGS", "EDFQ"]
-from_sector = "ed/ISA1"
+from_sector = "ed/AMM1"
 to_sector = "ed/TGO1"
 
 # DON
@@ -210,13 +128,13 @@ to_sector = "ed/TGO1"
 level = 360
 ades = ["LIPZ", "LIPH", "LIPX", "LIPO", "LIPQ", "LIPA", "LIPB", "LSZS", "LSZA", "LDZA", "LDRI", "LJMB", "LDPL", "LDLO"]
 from_sector = "ed/DON2"
-to_sector = "ed/CHI2"
+to_sector = "ed/AMM2"
 
 [[agreements]]
 level = 360
 adep = ["LKPR"]
 from_sector = "ed/DON2"
-to_sector = "ed/CHI2"
+to_sector = "ed/AMM2"
 
 [[agreements]]
 level = 360
