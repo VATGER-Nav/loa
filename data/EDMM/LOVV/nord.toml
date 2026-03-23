@@ -20,6 +20,7 @@ remarks = "Released descent to FL110"
 [[agreements]]
 cop = "BIBAG"
 level = 100
+level_at = [0, "BIBAG"]
 ades = ["LOWS"]
 from_sector = "ed/EGG"
 to_sector = "lo/LOWS_APP"
