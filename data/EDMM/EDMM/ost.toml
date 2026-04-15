@@ -596,21 +596,21 @@ to_sector = "ed/TRN"
 [[agreements]]
 cop = "BAMKI"
 level = 110
-adep = ["EDQA", "EDQC", "EDQD", "EDQM", "ETIC"]
+ades = ["EDQA", "EDQC", "EDQD", "EDQM", "ETIC"]
 from_sector = "ed/TRS"
 to_sector = "ed/FRK"
 
 [[agreements]]
 cop = "ALOSO"
 level = 110
-adep = ["EDQA", "EDQC", "EDQD", "EDQM", "ETIC"]
+ades = ["EDQA", "EDQC", "EDQD", "EDQM", "ETIC"]
 from_sector = "ed/TRS"
 to_sector = "ed/FRK"
 
 [[agreements]]
 cop = "RELKO"
 level = 110
-adep = ["EDQA", "EDQC", "EDQD", "EDQM", "ETIC"]
+ades = ["EDQA", "EDQC", "EDQD", "EDQM", "ETIC"]
 from_sector = "ed/TRS"
 to_sector = "ed/FRK"
 
