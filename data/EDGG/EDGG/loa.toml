@@ -697,7 +697,7 @@ transfer_type = "D"
 level_at = [0, "GULKO"]
 from_sector = "ed/TAU"
 to_sector = "ed/DKA"
-remarks = "DKA On request by DKA, flights may be generally cleared direct DK416 or WYP"
+remarks = "TAU shall clear F- (13) or B-STAR (31); on pilot request, D- (24) or K-STAR (06) may instead be cleared without prior coordination with DKA; on request by DKA, flights may be generally cleared DCT DK475"
 
 [[agreements]]
 cop = "OBOKA"
@@ -738,7 +738,7 @@ transfer_type = "C"
 releases = "F"
 from_sector = "ed/TAU"
 to_sector = "ed/NOR"
-remarks = "on OBOKA#E/#D departure flights may be cleared direct DITAM or OBOKA"
+remarks = "released for climb up to FL240, on OBOKA#E/#D departure flights may be cleared direct DITAM or OBOKA"
 
 [[agreements]]
 cop = "ADNIS,SUPIX"
@@ -1051,7 +1051,7 @@ ades = ["EDDK"]
 transfer_type = "D"
 from_sector = "ed/PADH"
 to_sector = "ed/DKA"
-remarks = "DKA may request KOPAG-arrival runway 24 with FL090 KOPAG at level"
+remarks = "PADH shall clear F- (13) or B-STAR (31); on pilot request, D- (24) or K-STAR (06) may instead be cleared without prior coordination with DKA; PADH may clear traffic DCT KOPAG; PADH may clear DCT DK674 (31 only) in non-high-traffic situations"
 
 [[agreements]]
 cop = "DOMUX"
@@ -1086,6 +1086,7 @@ ades = ["EDDK"]
 level_at = [0, "ERNEP"]
 from_sector = "ed/PADL"
 to_sector = "ed/DKA"
+remarks = "PADL shall clear F- (13) or B-STAR (31); on pilot request, D- (24) or K-STAR (06) may instead be cleared without prior coordination with DKA; PADL may clear traffic DCT DK674 in non-high-traffic situations (31 only)"
 
 [[agreements]]
 cop = "BAMSU"
@@ -1293,7 +1294,7 @@ from_sector = "ed/DKA"
 to_sector = "ed/PADH"
 
 [[agreements]]
-cop = "WYP"
+cop = "WIPUR"
 level = 90
 adep = ["EDDK"]
 releases = "F"

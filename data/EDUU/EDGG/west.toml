@@ -25,7 +25,7 @@ to_sector = "ed/RUD"
 [[agreements]]
 cop = "IDOVI"
 level = 250
-ades = ["EBBR", "EBCI", "EBMB", "EBAW", "ELLX", "EHEH", "EHGR", "EBCV", "EBLG", "EHBK"]
+ades = ["EBBR", "EBCI", "EBMB", "EBAW", "EHEH", "EHGR", "EBCV", "EBLG", "EHBK"]
 from_sector = "ed/NTM1"
 to_sector = "ed/KIR"
 
