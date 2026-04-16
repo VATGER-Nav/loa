@@ -32,10 +32,26 @@ to_sector = "ed/BBG"
 [[agreements]]
 cop = "UPALA"
 level = 140
-ades = ["EDDN", "EDQA", "EDQC", "EDQD", "EDQM", "ETIC"]
+ades = ["EDQA", "EDQC", "EDQD", "EDQM", "ETIC"]
 transfer_type = "D"
 releases = "F"
 vertical = true
+from_sector = "ed/ALB"
+to_sector = "ed/FRK"
+
+[[agreements]]
+cop = "UPALA"
+level = 130
+ades = ["EDDN"]
+runway = ["10"]
+from_sector = "ed/ALB"
+to_sector = "ed/FRK"
+
+[[agreements]]
+cop = "UPALA"
+level = 110
+ades = ["EDDN"]
+runway = ["28"]
 from_sector = "ed/ALB"
 to_sector = "ed/FRK"
 
