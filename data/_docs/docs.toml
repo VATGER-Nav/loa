@@ -3,8 +3,8 @@ filename = "LOP_EDMM.pdf"
 name = "LOP München ACC"
 firs = ["EDMM"]
 keywords = ["LOOP", "iLOOP"]
-airac = 2506
-effective_date = "2025-06-12"
+airac = 2604
+effective_date = "2026-04-16"
 
 [[docs]]
 filename = "LOP_EDWW.pdf"
