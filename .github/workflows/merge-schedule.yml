@@ -1,7 +1,7 @@
 name: Merge Schedule
 
 on:
-  pull_request:
+  pull_request_target:
     types:
       - opened
       - edited
@@ -9,6 +9,11 @@ on:
   schedule:
     # https://crontab.guru/every-hour
     - cron: "0 * * * *"
+
+permissions:
+  contents: write
+  pull-requests: write
+  statuses: read
 
 jobs:
   merge_schedule:
