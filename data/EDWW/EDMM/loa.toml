@@ -69,7 +69,7 @@ level = 170
 adep = ["EDDV"]
 ades = ["EDDP"]
 from_sector = "ed/HRZ"
-to_sector = "ed/HAL"
+to_sector = "ed/TRN"
 
 [[agreements]]
 cop = "ABGUS"
