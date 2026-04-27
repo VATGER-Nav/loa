@@ -23,7 +23,7 @@ loa_combine = "loa:combine"
 loa_check = "loa:check"
 
 [dependency-groups]
-dev = ["pyright>=1.1.409", "pytest>=8.3.3", "pytest-cov>=6.0.0", "ruff>=0.15.11"]
+dev = ["pyright>=1.1.409", "pytest>=8.3.3", "pytest-cov>=6.0.0", "ruff>=0.15.12"]
 
 [tool.pytest.ini_options]
 addopts = ["--cov-report=term", "--cov-report=xml:cov.xml", "--cov=loa"]
