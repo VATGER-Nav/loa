@@ -440,7 +440,7 @@ to_sector = "ed/BOR"
 cop = "GENTI"
 level = 290
 ades = ["EDDC", "EDAB", "EDAC"]
-level_at = [0, "SOBLU"]
+level_at = [0, "GENTI"]
 from_sector = "ed/HVL1"
 to_sector = "ed/BOR"
 
