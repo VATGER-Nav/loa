@@ -40,4 +40,11 @@ cop = "LAMSI"
 level = 310
 adep = ["EDDN"]
 from_sector = "ed/EGG"
-to_sector = "lo/N2"
+to_sector = "lo/N1"
+
+[[agreements]]
+cop = "DEXIT"
+level = 310
+ades = ["LOWG", "LOWK", "LOXZ"]
+from_sector = "ed/EGG"
+to_sector = "lo/N1"

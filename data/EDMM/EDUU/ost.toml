@@ -210,7 +210,7 @@ to_sector = "ed/ERL1"
 cop = "NOGRA"
 level = 310
 vertical = true
-adep = ["EDDS", "EDSB", "EDTY", "EDVK", "EDDF", "ETOU", "EDFE", "EDQG", "ETHN", "ETAR"]
+adep = ["EDDS", "EDSB", "EDTY", "EDVK", "EDDF", "ETOU", "EDFE", "EDQG", "ETHN", "ETAR", "EDFB"]
 from_sector = "ed/HOF"
 to_sector = "ed/ERL1"
 
@@ -218,7 +218,7 @@ to_sector = "ed/ERL1"
 cop = "UNAVI"
 level = 310
 vertical = true
-adep = ["LKPR", "LKKB", "LKVO", "LKCS"]
+adep = ["LKPR", "LKKB", "LKVO", "LKCS", "LKCV", "LKHK", "LKPD"]
 from_sector = "ed/HOF"
 to_sector = "ed/ERL1"
 
@@ -226,7 +226,7 @@ to_sector = "ed/ERL1"
 cop = "RONTU"
 level = 310
 vertical = true
-adep = ["LKPR", "LKKB", "LKVO", "LKCS"]
+adep = ["LKPR", "LKKB", "LKVO", "LKCS", "LKCV", "LKHK", "LKPD"]
 from_sector = "ed/HOF"
 to_sector = "ed/ERL1"
 
@@ -301,7 +301,7 @@ to_sector = "ed/SAL1"
 cop = "NEVKO"
 level = 310
 vertical = true
-adep = ["EDDF"]
+adep = ["EDDF", "EDFE", "EDFZ", "ETOU", "EDFB"]
 from_sector = "ed/GER"
 to_sector = "ed/SAL1"
 
@@ -326,6 +326,8 @@ adep = [
         "EDSB",
         "EDTY",
         "LSZH",
+        "EDFE",
+        "EDFB",
 ]
 from_sector = "ed/GER"
 to_sector = "ed/SAL1"
@@ -377,6 +379,9 @@ adep = [
         "EDTY",
         "LKKV",
         "LSZH",
+        "EDFE",
+        "EDFB",
+        "ETOU",
 ]
 from_sector = "ed/MEI"
 to_sector = "ed/SPE1"

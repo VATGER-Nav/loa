@@ -445,8 +445,8 @@ to_sector = "ed/HAL"
 
 [[agreements]]
 cop = "TADUV"
-level = 220
-ades = ["EDBM", "EDVE"]
+level = 240
+ades = ["EDBM", "EDVE", "EDBC"]
 from_sector = "ed/GER"
 to_sector = "ed/HAL"
 
@@ -538,8 +538,8 @@ to_sector = "ed/GER"
 
 [[agreements]]
 cop = "BEBEX"
-level = 240
-ades = ["EDBM", "EDVE"]
+level = 280
+ades = ["EDBM", "EDVE", "EDBC"]
 from_sector = "ed/MEI"
 to_sector = "ed/GER"
 

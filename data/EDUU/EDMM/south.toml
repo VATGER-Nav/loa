@@ -222,6 +222,15 @@ vertical = true
 from_sector = "ed/AMM1"
 to_sector = "ed/TRU"
 
+[[agreements]]
+cop = "MEBEK"
+level = 320
+level_at = [5, "MEBEK"]
+ades = ["LOWG", "LOWK", "LOXZ"]
+vertical = true
+from_sector = "ed/AMM1"
+to_sector = "ed/TRU"
+
 # DON
 [[agreements]]
 cop = "RUDNO"
@@ -343,3 +352,12 @@ ades = ["EDDP", "EDAC", "EDDE", "EDDK", "EDFQ", "EDLW", "EDLA", "EDKZ", "EDLP", 
 vertical = true
 from_sector = "ed/DON1"
 to_sector = "ed/ALB"
+
+[[agreements]]
+cop = "BEPAS"
+level = 320
+level_at = [0, "BEPAS"]
+ades = ["LOWG", "LOWK", "LOXZ"]
+vertical = true
+from_sector = "ed/DON1"
+to_sector = "ed/EGG"

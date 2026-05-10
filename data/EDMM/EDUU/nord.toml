@@ -27,7 +27,7 @@ to_sector = "ed/AMM1"
 cop = "BESNI"
 level = 310
 vertical = true
-adep = ["EDDF"]
+adep = ["EDDF", "EDFE", "ETOU", "EDFB"]
 from_sector = "ed/NDG"
 to_sector = "ed/AMM1"
 
@@ -105,7 +105,7 @@ to_sector = "ed/DON1"
 cop = "ALUTU"
 level = 310
 vertical = true
-adep = ["EDDF"]
+adep = ["EDDF", "EDFE", "ETOU", "EDFB"]
 from_sector = "ed/EGG"
 to_sector = "ed/DON1"
 remarks = "slow climber"
