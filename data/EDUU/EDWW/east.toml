@@ -437,10 +437,10 @@ from_sector = "ed/HVL12"
 to_sector = "ed/BOR"
 
 [[agreements]]
-cop = "SOBLU"
+cop = "GENTI"
 level = 290
 ades = ["EDDC", "EDAB", "EDAC"]
-level_at = [0, "SOBLU"]
+level_at = [0, "GENTI"]
 from_sector = "ed/HVL12"
 to_sector = "ed/BOR"
 
@@ -450,7 +450,7 @@ level = 290
 ades = ["EDDC", "EDAB", "EDAC"]
 from_sector = "ed/HVL12"
 to_sector = "ed/BOR"
-remarks = "Level latest abeam SOBLU"
+remarks = "Level latest abeam GENTI"
 
 [[agreements]]
 cop = "LUPAK"
