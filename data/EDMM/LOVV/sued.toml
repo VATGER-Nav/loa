@@ -112,3 +112,10 @@ adep = ["EDDM", "EDMA", "EDMO"]
 transfer_type = "C"
 from_sector = "ed/TRU"
 to_sector = "lo/W1"
+
+[[agreements]]
+cop = "BADIT"
+level = 310
+ades = ["LOWG", "LOWK", "LOXZ"]
+from_sector = "ed/TRU"
+to_sector = "lo/B1"

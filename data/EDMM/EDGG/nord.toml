@@ -6,6 +6,7 @@ level_at = [0, "DEBHI"]
 ades = ["EDDF"]
 from_sector = "ed/ALB"
 to_sector = "ed/KTG"
+remarks = "released DCT SPESA if flight path remains north of DEBHI"
 
 [[agreements]]
 cop = "DAMJA"
@@ -20,6 +21,7 @@ level = 240
 ades = ["EDDF"]
 from_sector = "ed/ALB"
 to_sector = "ed/KTG"
+remarks = "released DCT SPESA if flight path remains north of DEBHI"
 
 # NDG
 [[agreements]]

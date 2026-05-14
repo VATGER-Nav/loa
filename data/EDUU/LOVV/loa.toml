@@ -83,12 +83,6 @@ from_sector = "ed/AMM1"
 to_sector = "lo/W2"
 
 [[agreements]]
-level = 330
-ades = ["LOWG", "LOWK", "LOXZ"]
-from_sector = "ed/AMM1"
-to_sector = "lo/B2"
-
-[[agreements]]
 level = 350
 ades = ["LDZA", "LJMB", "LDPL", "LDLO"]
 from_sector = "ed/AMM1"
@@ -120,7 +114,7 @@ to_sector = "lo/N5"
 
 [[agreements]]
 level = 330
-ades = ["LOWW", "LOWG", "LOWK", "LOXZ"]
+ades = ["LOWW"]
 from_sector = "ed/DON1"
 to_sector = "lo/N2"
 
