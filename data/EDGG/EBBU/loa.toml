@@ -64,28 +64,37 @@ to_sector = "eb-el/ELS"
 level_at = [0, "LIRSU"]
 
 [[agreements]]
-cop = "LIRSU"
-level = 220
-ades = ["EBBR", "EBMB", "EBAW", "EBCV", "EBCI", "EBLG", "EHBK", "EHEH"]
-from_sector = "ed/RUD"
-to_sector = "eb-el/ELS"
-level_at = [0, "LIRSU"]
+cop = "BETEX"
+level = 70
+ades = ["ELLX"]
+transfer_type = "D"
+from_sector = "ed/EIF"
+to_sector = "eb-el/XA"
+remarks = "ELLX RWY 24; released for descent and turn"
 
 [[agreements]]
-cop = "STAR"
-level = 90
+cop = "BETEX"
+level = 100
+ades = ["ELLX"]
+transfer_type = "D"
+from_sector = "ed/EIF"
+to_sector = "eb-el/XA"
+remarks = "ELLX RWY 06; released for descent and turn"
+
+[[agreements]]
+cop = "BITBU"
+level = 120
 ades = ["ELLX"]
 from_sector = "ed/EIF"
 to_sector = "eb-el/XA"
-remarks = "See EDGG - EBBU 4.2 “Flexible use of airspace for ELLX arrivals"
 
 [[agreements]]
-cop = "STAR"
+cop = "EXCOS"
 level = 90
 ades = ["ELLX"]
 from_sector = "ed/PFA"
 to_sector = "eb-el/XA"
-remarks = "See EDGG - EBBU 4.2 “Flexible use of airspace for ELLX arrivals"
+remarks = "released for descent and turn"
 
 [[agreements]]
 cop = "BITBU"
@@ -95,6 +104,38 @@ transfer_type = "C"
 from_sector = "ed/KIR"
 to_sector = "eb-el/LUS"
 remarks = "released for climb"
+
+[[agreements]]
+cop = "BITBU"
+level = 120
+adep = ["EDFH"]
+from_sector = "ed/EIF"
+to_sector = "eb-el/XA"
+remarks = "released for climb to FL160"
+
+[[agreements]]
+cop = "TIPUT"
+level = 160
+adep = ["Transit"]
+from_sector = "ed/EIF"
+to_sector = "eb-el/XA"
+remarks = "max FL160, handover at any even FL"
+
+[[agreements]]
+cop = "BITBU"
+level = 160
+adep = ["Transit"]
+from_sector = "ed/EIF"
+to_sector = "eb-el/XA"
+remarks = "max FL160, handover at any even FL"
+
+[[agreements]]
+cop = "EXCOS"
+level = 90
+adep = ["EDDR", "EDRZ", "ETAR"]
+from_sector = "ed/PFA"
+to_sector = "eb-el/XA"
+remarks = "ADES ELLX; released for descent and turn"
 
 [[agreements]]
 cop = "AGENI"
