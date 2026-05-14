@@ -18,10 +18,18 @@ to_sector = "ed/HEF"
 remarks = "Flights have to be handed over to Langen asap"
 
 [[agreements]]
-cop = "DEMAB"
+cop = "MASEK"
 level = 250
-vertical = true
-ades = ["EDDK", "EDLP", "EDLW "]
+level_at = [-10, "MASEK"]
+ades = ["EDDK"]
+from_sector = "ed/FUL1"
+to_sector = "ed/HEF"
+
+[[agreements]]
+cop = "FULNO"
+level = 250
+level_at = [-15, "FULNO"]
+ades = ["EDLP", "EDLW"]
 from_sector = "ed/FUL1"
 to_sector = "ed/HEF"
 
