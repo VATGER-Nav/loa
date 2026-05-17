@@ -16,7 +16,7 @@ classifiers = [
         "Topic :: Software Development :: Libraries :: Python Modules",
 ]
 
-dependencies = ["pydantic>=2.13.4", "regex>=2026.5.9", "requests>=2.34.0"]
+dependencies = ["pydantic>=2.13.4", "regex>=2026.5.9", "requests>=2.34.2"]
 
 [project.scripts]
 loa_combine = "loa:combine"
