@@ -19,7 +19,7 @@ cop = "DODEN"
 level = 250
 adep = ["EDDL"]
 vertical = true
-from_sector = "ed/TAU"
+from_sector = "ed/SIG"
 to_sector = "ed/FFM1"
 
 [[agreements]]

@@ -10,15 +10,15 @@ effective_date = "2026-04-16"
 filename = "LOP_EDWW.pdf"
 name = "LOP Bremen ACC"
 firs = ["EDWW"]
-airac = 2512
-effective_date = "2025-11-27"
+airac = 2605
+effective_date = "2026-05-14"
 
 [[docs]]
 filename = "LOP_EDGG.pdf"
 name = "LOP Langen ACC"
 firs = ["EDGG"]
-airac = 2602
-effective_date = "2026-02-19"
+airac = 2604
+effective_date = "2026-04-16"
 
 [[docs]]
 filename = "LOP_EDUU.pdf"
@@ -33,8 +33,8 @@ filename = "LOP_EDYY.pdf"
 name = "LOP Maastricht UAC"
 firs = ["EDYY"]
 related_firs = ["EDWW", "EDGG"]
-airac = 2502
-effective_date = "2025-02-26"
+airac = 2605
+effective_date = "2025-05-20"
 
 [[docs]]
 filename = "LoA_EDMM-EDUU.pdf"
@@ -112,16 +112,16 @@ effective_date = "2025-10-30"
 filename = "LoA_EDWW-EDUU.pdf"
 name = "Bremen ACC - Karlsruhe UAC"
 firs = ["EDWW", "EDUU"]
-airac = 2511
-effective_date = "2025-10-30"
+airac = 2605
+effective_date = "2026-05-14"
 
 [[docs]]
 filename = "LoA_EDWW-EDYY.pdf"
 name = "Bremen ACC - Maastricht UAC"
 firs = ["EDWW", "EDYY"]
 related_firs = ["EDGG"]
-airac = 2511
-effective_date = "2025-10-30"
+airac = 2603
+effective_date = "2026-03-19"
 
 [[docs]]
 filename = "LoA_EDGG-EDYY.pdf"
@@ -135,8 +135,8 @@ effective_date = "2026-02-19"
 filename = "LoA_EDGG-EDUU.pdf"
 name = "Langen ACC - Karlsruhe UAC"
 firs = ["EDGG", "EDUU"]
-airac = 2602
-effective_date = "2026-02-19"
+airac = 2606
+effective_date = "2026-05-11"
 
 [[docs]]
 filename = "LoA_EDUU-EDYY.pdf"
@@ -201,8 +201,8 @@ effective_date = "2026-01-22"
 filename = "LoA_EDGG-EDUU-EDYY-EBBU.pdf"
 name = "Langen ACC - Karlsruhe UAC - Maastricht UAC - Brussels FIR"
 firs = ["EDGG", "EDUU", "EDYY", "EBBU"]
-airac = 2602
-effective_date = "2026-02-19"
+airac = 2605
+effective_date = "2026-05-20"
 
 [[docs]]
 filename = "LoA_EDXX_vSOA.pdf"
