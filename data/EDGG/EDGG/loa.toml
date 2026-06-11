@@ -19,6 +19,7 @@ remarks = "MARUN SIDs. Released for turns and climb"
 cop = "PISAP"
 level = 130
 ades = ["EDDL"]
+transfer_type = "D"
 releases = "F"
 from_sector = "ed/BOT"
 to_sector = "ed/DLA"
@@ -28,25 +29,47 @@ cop = "DOMEG"
 level = 190
 ades = ["EDDG"]
 transfer_type = "D"
+releases = "F"
 from_sector = "ed/BOT"
 to_sector = "ed/HMM"
-remarks = "released, expect HMM at FL90"
+remarks = "expect HMM at FL90"
 
 [[agreements]]
 cop = "BAMSU"
 level = 190
 ades = ["EDDG"]
 transfer_type = "D"
+releases = "F"
 from_sector = "ed/BOT"
 to_sector = "ed/HMM"
-remarks = "released, expect HMM at FL90, BAMSU#J STAR has to be cleared by BOT if not otherwise coordinated verbally"
+remarks = "expect HMM at FL90, BAMSU#J STAR has to be cleared by BOT if not otherwise coordinated verbally"
+
+[[agreements]]
+cop = "BIFTE"
+level = 100
+ades = ["EDDK"]
+transfer_type = "D"
+releases = "F"
+from_sector = "ed/BOT"
+to_sector = "ed/DKA"
+remarks = "BIFTE STAR has to be cleared by BOT if not otherwise coordinated verbally"
+
+[[agreements]]
+cop = "NEREL"
+level = 220
+sfl = 240
+ades = ["ELLX", "EBLG", "EBBU FIR"]
+transfer_type = "D"
+releases = "F"
+from_sector = "ed/BOT"
+to_sector = "ed/NOR"
 
 [[agreements]]
 cop = "PADBA"
 level = 70
 ades = ["EDLW"]
-releases = "F"
 transfer_type = "D"
+releases = "F"
 from_sector = "ed/DLA"
 to_sector = "ed/PADL"
 
@@ -59,16 +82,6 @@ releases = "F"
 from_sector = "ed/DLD"
 to_sector = "ed/PADL"
 remarks = "PADBA#H STAR has to be cleared by DLD if not otherwise coordinated verbally"
-
-[[agreements]]
-cop = "NEREL"
-level = 220
-sfl = 240
-ades = ["ELLX", "EBLG", "EBBU FIR"]
-transfer_type = "D"
-releases = "F"
-from_sector = "ed/BOT"
-to_sector = "ed/NOR"
 
 [[agreements]]
 cop = "ELBAL VIA DODEN"

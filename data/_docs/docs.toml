@@ -17,8 +17,8 @@ effective_date = "2026-05-14"
 filename = "LOP_EDGG.pdf"
 name = "LOP Langen ACC"
 firs = ["EDGG"]
-airac = 2604
-effective_date = "2026-04-16"
+airac = 2606
+effective_date = "2026-06-11"
 
 [[docs]]
 filename = "LOP_EDUU.pdf"
