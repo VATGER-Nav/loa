@@ -10,17 +10,17 @@ remarks = "released to FL180"
 cop = "SONEB"
 level = 110
 ades = ["EDDG"]
+releases = "F"
 from_sector = "eh/EHAAE"
 to_sector = "ed/BOT"
-remarks = "Released for descend and turns"
 
 [[agreements]]
 cop = "TEBRO"
 level = 170
 ades = ["EDDL", "EDLN", "EDLV", "ETNG", "ETNN"]
+releases = "F"
 from_sector = "eh/EHAAE"
 to_sector = "ed/BOT"
-remarks = "Released for descend and turns"
 
 [[agreements]]
 cop = "TEBRO"
@@ -28,6 +28,14 @@ level = 210
 ades = ["ETAD", "ETOU"]
 releases = "T"
 from_sector = "eh/EHAAE"
+to_sector = "ed/BOT"
+
+[[agreements]]
+cop = "DIBIR"
+level = 170
+ades = ["EDDK"]
+releases = "F"
+from_sector = "eh/EHMC"
 to_sector = "ed/BOT"
 
 [[agreements]]
