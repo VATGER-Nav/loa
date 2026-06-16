@@ -2,28 +2,27 @@
 cop = "NORKU"
 level = 240
 ades = ["EHAM"]
-transfer_type = "D"
 from_sector = "ed/HMM"
 to_sector = "eh/EHAAE"
-remarks = "from lower airspace FL200-240"
+remarks = "From lower airspace FL200-240"
 
 [[agreements]]
 cop = "RKN"
 level = 180
 ades = ["EHAM"]
-transfer_type = "D"
+releases = "F"
 from_sector = "ed/HMM"
 to_sector = "eh/EHAAE"
-remarks = "FL080-180\nFlights are released for speed control, turns and descent, subject to known traffic, after passing 2.5NM west of the lateral limits of the TEBRO area\nnot available for flights RFL245+, these flights shall route via NORKU"
+remarks = "FL080-180; at or abeam AMSAN released for speed control, turns and descent; not available for flights RFL245+, these flights shall route via NORKU"
 
 [[agreements]]
 cop = "RKN"
 level = 180
 ades = ["EHLE"]
-transfer_type = "D"
+releases = "F"
 from_sector = "ed/HMM"
 to_sector = "eh/EHAAE"
-remarks = "Flights are released for speed control, turns and descent, subject to known traffic, after passing 2.5NM west of the lateral limits of the TEBRO area"
+remarks = "At or abeam AMSAN released for speed control, turns and descent"
 
 [[agreements]]
 cop = "RKN"
@@ -36,11 +35,11 @@ remarks = "Flights with RFL below FL060 subject to coordination"
 [[agreements]]
 cop = "ROTEK"
 level = 80
+sfl = 100
 ades = ["EHEH"]
 transfer_type = "D"
 from_sector = "ed/BOT"
 to_sector = "eh/EHMC"
-remarks = "Flights shall cross ROTEK at FL 100 or below and are released for descent to FL 070"
 
 [[agreements]]
 cop = "BOBMO"
@@ -48,7 +47,7 @@ level = 80
 ades = ["EHBK"]
 from_sector = "ed/BOT"
 to_sector = "eh/EHBK"
-remarks = "NETEX arrivals, flights with routes excluding the mentioned COPs require manual coordination"
+remarks = "NETEX arrivals; flights with routes excluding the mentioned COPs require manual coordination"
 
 [[agreements]]
 cop = "MAS"
@@ -56,13 +55,13 @@ level = 80
 ades = ["EHBK"]
 from_sector = "ed/BOT"
 to_sector = "eh/EHBK"
-remarks = "NVO arrivals, flights with routes excluding the mentioned COPs require manual coordination"
+remarks = "NVO arrivals; flights with routes excluding the mentioned COPs require manual coordination"
 
 [[agreements]]
 cop = "RKN"
 level = 120
 adep = ["EDDG"]
-transfer_type = "C"
+releases = "C"
 from_sector = "ed/HMM"
 to_sector = "eh/EHAAE"
 remarks = "Higher FL needs to be coordinated with Amsterdam ACC"
@@ -71,7 +70,7 @@ remarks = "Higher FL needs to be coordinated with Amsterdam ACC"
 cop = "RKN"
 level = 200
 adep = ["EDLP", "EDLW"]
-transfer_type = "C"
+releases = "C"
 from_sector = "ed/HMM"
 to_sector = "eh/EHAAE"
 remarks = "Higher FL needs to be coordinated with Amsterdam ACC"
@@ -80,7 +79,7 @@ remarks = "Higher FL needs to be coordinated with Amsterdam ACC"
 cop = "SONEB"
 level = 220
 adep = ["EDDK"]
-transfer_type = "C"
+releases = "C"
 from_sector = "ed/BOT"
 to_sector = "eh/EHAAE"
 remarks = "Higher FL needs to be coordinated with Amsterdam ACC"
@@ -89,7 +88,7 @@ remarks = "Higher FL needs to be coordinated with Amsterdam ACC"
 cop = "SONEB"
 level = 160
 adep = ["EDDL", "EDLN", "EDLV", "ETNG", "ETNN"]
-transfer_type = "C"
+releases = "C"
 from_sector = "ed/BOT"
 to_sector = "eh/EHAAE"
 remarks = "Higher FL needs to be coordinated with Amsterdam ACC"

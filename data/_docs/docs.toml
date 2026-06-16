@@ -194,8 +194,8 @@ filename = "LoA_EDGG-EDYY-EHAA.pdf"
 name = "Langen ACC - Maastricht UAC - Amsterdam FIR"
 firs = ["EDGG", "EDYY", "EHAA"]
 related_firs = ["EDWW"]
-airac = 2601
-effective_date = "2026-01-22"
+airac = 2606
+effective_date = "2026-06-11"
 
 [[docs]]
 filename = "LoA_EDGG-EDUU-EDYY-EBBU.pdf"

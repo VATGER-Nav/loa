@@ -10,16 +10,18 @@ to_sector = "eh/EHAE"
 cop = "RKN"
 level = 260
 ades = ["EHAA", "EH*"]
-level_at = [0, "RKN"]
 releases = "F"
 from_sector = "ed/ML"
 to_sector = "eh/EHAAE"
+remarks = "At or abeam AMSAN released for speed control, turns and descent"
 
 [[agreements]]
 cop = "NORKU"
 level = 260
+sfl = 280
 ades = ["EHAM"]
-level_at = [0, "RKN"]
+transfer_type = "D"
 releases = "F"
 from_sector = "ed/ML"
 to_sector = "eh/EHAAE"
+remarks = "At or abeam AMSAN released for speed control, turns and descent"
