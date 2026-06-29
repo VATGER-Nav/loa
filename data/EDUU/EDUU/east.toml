@@ -134,7 +134,7 @@ to_sector = "ed/SAL1"
 [[agreements]]
 level = 360
 ades = ["EDDR", "EDDS", "EDFM", "EDFV", "EDJA", "EDMS", "EDRY", "EDTL", "EDTY", "ETAR", "ETIN", "ETHN", "ETOR", "LKKV"]
-from_sector = "ed/HVL22"
+from_sector = "ed/HVL12"
 to_sector = "ed/SAL1"
 
 [[agreements]]

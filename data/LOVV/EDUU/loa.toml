@@ -8,7 +8,7 @@ to_sector = "ed/AMM1"
 level = 340
 ades = ["EDDR", "EDFM", "EDSB"]
 from_sector = "lo/B2"
-to_sector = "ed/AMM"
+to_sector = "ed/AMM1"
 
 [[agreements]]
 level = 360

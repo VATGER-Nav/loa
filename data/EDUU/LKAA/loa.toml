@@ -23,13 +23,13 @@ to_sector = "lk/WM"
 level = 350
 ades = ["LOWW", "EPWR"]
 from_sector = "ed/DON1"
-to_sector = "lk/WH"
+to_sector = "lk/WM"
 
 [[agreements]]
 level = 350
 ades = ["LOWW", "EPWR"]
 from_sector = "ed/ERL1"
-to_sector = "lk/WH"
+to_sector = "lk/WM"
 
 [[agreements]]
 level = 360
