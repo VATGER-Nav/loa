@@ -208,12 +208,14 @@ level = 150
 ades = ["EDDS", "EDTY", "EDSB", "EDJA", "EDRY", "EDTD", "EDTM"]
 from_sector = "ed/BAD"
 to_sector = "ed/REU"
+vertical = true
 
 [[agreements]]
 level = 150
 ades = ["EDDS", "EDTY", "EDSB", "EDJA", "EDRY", "EDTD", "EDTM"]
 from_sector = "ed/LBU"
 to_sector = "ed/STG"
+vertical = true
 
 [[agreements]]
 cop = "SUL"
