@@ -2,108 +2,108 @@
 cop = "BRENO"
 level = 300
 ades = ["EDDN", "EDQA", "EDQC", "EDQD", "EDQM"]
-from_sector = "li/LIPP-NE5"
+from_sector = "li/LIPP-NE4"
 to_sector = "ed/TEG"
 
 [[agreements]]
 cop = "UNIMI"
 level = 300
 ades = ["LSZH", "EDTM"]
-from_sector = "li/LIPP-NE5"
+from_sector = "li/LIPP-NE4"
 to_sector = "ed/TEG"
 
 [[agreements]]
 cop = "SOTOV"
 level = 300
 ades = ["LSZH", "EDTM"]
-from_sector = "li/LIPP-NE5"
+from_sector = "li/LIPP-NE4"
 to_sector = "ed/TEG"
 
 [[agreements]]
 level = 300
 ades = ["EDTL", "LSMD", "LOWS"]
-from_sector = "li/LIPP-NE5"
+from_sector = "li/LIPP-NE4"
 to_sector = "ed/TEG"
 
 [[agreements]]
 level = 300
 ades = ["EDTL", "LSMD", "LOWS"]
-from_sector = "li/LIPP-NE5"
+from_sector = "li/LIPP-NE4"
 to_sector = "ed/ZUG"
 
 [[agreements]]
 cop = "IVKAL"
 level = 300
 ades = ["EDDM"]
-from_sector = "li/LIPP-NE5"
+from_sector = "li/LIPP-NE4"
 to_sector = "ed/TEG"
 
 [[agreements]]
 cop = "SOTOV"
 level = 300
 ades = ["EDDM"]
-from_sector = "li/LIPP-NE5"
+from_sector = "li/LIPP-NE4"
 to_sector = "ed/TEG"
 
 [[agreements]]
 cop = "BRENO"
 level = 300
 ades = ["EDDM"]
-from_sector = "li/LIPP-NE5"
+from_sector = "li/LIPP-NE4"
 to_sector = "ed/TEG"
 
 [[agreements]]
 cop = "BRENO"
 level = 300
 ades = ["ETSI", "ETSN"]
-from_sector = "li/LIPP-NE5"
+from_sector = "li/LIPP-NE4"
 to_sector = "ed/TEG"
 
 [[agreements]]
 cop = "BRENO"
 level = 260
 ades = ["EDMA", "EDMO", "EDMS"]
-from_sector = "li/LIPP-NE5"
+from_sector = "li/LIPP-NE3"
 to_sector = "ed/TEG"
 
 [[agreements]]
 cop = "IVKAL"
 level = 260
 ades = ["EDMA", "EDMO"]
-from_sector = "li/LIPP-NE5"
+from_sector = "li/LIPP-NE3"
 to_sector = "ed/TEG"
 
 [[agreements]]
 cop = "SOTOV"
 level = 260
 ades = ["EDMA", "EDMO"]
-from_sector = "li/LIPP-NE5"
+from_sector = "li/LIPP-NE3"
 to_sector = "ed/TEG"
 
 [[agreements]]
 cop = "BRENO"
 level = 240
 ades = ["EDNY", "EDME"]
-from_sector = "li/LIPP-NE4"
+from_sector = "li/LIPP-NE3"
 to_sector = "ed/TEG"
 
 [[agreements]]
 cop = "IVKAL"
 level = 260
 ades = ["EDJA", "EDNY", "EDNL", "ETHL", "LSZR"]
-from_sector = "li/LIPP-NE5"
+from_sector = "li/LIPP-NE3"
 to_sector = "ed/TEG"
 
 [[agreements]]
 cop = "SOTOV"
 level = 260
 ades = ["EDJA", "EDNY", "EDNL", "ETHL", "LSZR"]
-from_sector = "li/LIPP-NE5"
+from_sector = "li/LIPP-NE3"
 to_sector = "ed/TEG"
 
 [[agreements]]
 cop = "UNIMI"
 level = 260
 ades = ["EDJA", "EDNY", "EDNL", "ETHL", "LSZR"]
-from_sector = "li/LIPP-NE5"
+from_sector = "li/LIPP-NE3"
 to_sector = "ed/TEG"

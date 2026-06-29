@@ -52,7 +52,7 @@ to_sector = "ed/NTM1"
 level = 320
 ades = ["EBBR", "EBMB", "EBAW", "EBCV", "EBCI", "EBLG", "EBZW", "EHBK", "EHBD", "LFSN"]
 from_sector = "ed/SLN1"
-to_sector = "ed/NTM2"
+to_sector = "ed/NTM1"
 
 [[agreements]]
 level = 340

@@ -221,6 +221,7 @@ level = 150
 ades = ["EDDS"]
 from_sector = "ed/BAD"
 to_sector = "ed/REU"
+vertical = true
 remarks = "if REU requests this traffic DCT DENEL, BAD shall descend and hand them off asap for further routing by REU"
 
 [[agreements]]

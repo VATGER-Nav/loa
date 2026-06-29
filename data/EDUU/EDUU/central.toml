@@ -119,14 +119,14 @@ to_sector = "ed/WUR1"
 level = 370
 ades = ["LKPR", "LKKB", "LKVO", "LKCV", "LKHK", "LKMH", "LKPD", "LKCS"]
 from_sector = "ed/FUL2"
-to_sector = "ed/ERL2"
+to_sector = "ed/ERL3"
 
 # WUR
 [[agreements]]
 level = 370
 ades = ["LKPR", "LKKB", "LKVO", "LKCV", "LKHK", "LKMH", "LKPD", "LKCS", "EDDC"]
 from_sector = "ed/WUR3"
-to_sector = "ed/ERL2"
+to_sector = "ed/ERL3"
 
 [[agreements]]
 level = 340
