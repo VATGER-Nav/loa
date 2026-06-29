@@ -9,7 +9,7 @@ to_sector = "ed/DON1"
 level = 370
 ades = ["LOWW"]
 route_after = "BUDEX"
-from_sector = "ed/ERL2"
+from_sector = "ed/ERL3"
 to_sector = "ed/DON3"
 
 [[agreements]]
@@ -48,7 +48,7 @@ to_sector = "ed/WUR1"
 [[agreements]]
 level = 360
 ades = ["EBLG", "EBZW", "EHBK", "LFLJ", "LFSN"]
-from_sector = "ed/ERL1"
+from_sector = "ed/ERL2"
 to_sector = "ed/WUR3"
 
 [[agreements]]
@@ -62,7 +62,7 @@ to_sector = "ed/WUR2"
 level = 370
 ades = ["LOWS", "LOWL", "LOWI"]
 from_sector = "ed/SAL2"
-to_sector = "ed/ERL2"
+to_sector = "ed/ERL3"
 
 [[agreements]]
 level = 350

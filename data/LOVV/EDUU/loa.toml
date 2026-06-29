@@ -13,19 +13,19 @@ to_sector = "ed/AMM"
 [[agreements]]
 level = 360
 ades = ["LSZH"]
-from_sector = "lo/B3"
+from_sector = "lo/B4"
 to_sector = "ed/AMM2"
 
 [[agreements]]
 level = 360
 ades = ["LSZH"]
-from_sector = "lo/W3"
+from_sector = "lo/W4"
 to_sector = "ed/AMM2"
 
 [[agreements]]
 level = 360
 ades = ["LSZH"]
-from_sector = "lo/W3"
+from_sector = "lo/W4"
 to_sector = "ed/ALP2"
 
 [[agreements]]
@@ -38,7 +38,7 @@ to_sector = "ed/DON1"
 level = 360
 adep = ["LOWW"]
 remarks = "at any EVEN FL, after REV"
-from_sector = "lo/B3"
+from_sector = "lo/B4"
 to_sector = "ed/AMM2"
 
 [[agreements]]

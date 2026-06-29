@@ -140,13 +140,13 @@ to_sector = "ed/AMM2"
 level = 360
 ades = ["EDDC"]
 from_sector = "ed/DON2"
-to_sector = "ed/ERL1"
+to_sector = "ed/ERL2"
 
 [[agreements]]
 level = 360
 adep = ["LOWL", "LOWS"]
 from_sector = "ed/DON2"
-to_sector = "ed/ERL1"
+to_sector = "ed/ERL2"
 
 [[agreements]]
 level = 320
