@@ -201,8 +201,8 @@ effective_date = "2026-06-11"
 filename = "LoA_EDGG-EDUU-EDYY-EBBU.pdf"
 name = "Langen ACC - Karlsruhe UAC - Maastricht UAC - Brussels FIR"
 firs = ["EDGG", "EDUU", "EDYY", "EBBU"]
-airac = 2606
-effective_date = "2026-06-11"
+airac = 2607
+effective_date = "2026-07-09"
 
 [[docs]]
 filename = "LoA_EDXX_vSOA.pdf"
