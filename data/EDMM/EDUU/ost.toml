@@ -411,7 +411,7 @@ from_sector = "ed/MEI"
 to_sector = "ed/SPE1"
 
 [[agreements]]
-cop = "RISVA"
+cop = "RIVSA"
 level = 310
 vertical = true
 adep = ["EDDE"]
