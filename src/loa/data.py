@@ -49,7 +49,7 @@ class Data:
 
         print(f"Read {self.count_read} agreements, {len(self.errors)} errors")
 
-    def read_docs(self):  # noqa: C901
+    def read_docs(self):  # ruff: ignore[complex-structure]
         docs_dir = self.data_dir / "_docs"
         docs_path = docs_dir / "docs.toml"
         if not docs_path.exists():

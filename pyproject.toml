@@ -59,7 +59,7 @@ select = [
         "TRY",   # tryceratops
         "FURB",  # refurb
 ]
-ignore = ["COM812"]
+ignore = ["missing-trailing-comma"]
 
 [tool.pyright]
 include = ["src/loa", "tests"]
