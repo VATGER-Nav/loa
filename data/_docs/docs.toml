@@ -3,8 +3,8 @@ filename = "LOP_EDMM.pdf"
 name = "LOP München ACC"
 firs = ["EDMM"]
 keywords = ["LOOP", "iLOOP"]
-airac = 2608
-effective_date = "2026-08-06"
+airac = 2609
+effective_date = "2026-09-03"
 
 [[docs]]
 filename = "LOP_EDWW.pdf"
@@ -48,8 +48,8 @@ effective_date = "2026-03-19"
 filename = "LoA_EDMM-EDGG.pdf"
 name = "München ACC - Langen ACC"
 firs = ["EDGG", "EDMM"]
-airac = 2507
-effective_date = "2025-07-10"
+airac = 2609
+effective_date = "2026-09-03"
 
 [[docs]]
 filename = "LoA_EDMM-EDWW.pdf"
