@@ -121,7 +121,7 @@ to_sector = "ed/HRZ"
 [[agreements]]
 cop = "ABGUS"
 level = 240
-ades = ["EDVK", "EDLP", "EDLI", "EDFQ", "EDDF", "EDGS"]
+ades = ["EDVK", "EDLP", "EDLI", "EDFQ", "EDGS"]
 from_sector = "ed/BOR"
 to_sector = "ed/HRZ"
 
