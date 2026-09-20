@@ -206,13 +206,12 @@ from_sector = "ed/FRI"
 to_sector = "ed/EMS"
 
 [[agreements]]
-cop = "SOFED"
+cop = "ABDIM"
 level = 100
 adep = ["EDDW"]
 transfer_type = "C"
 from_sector = "ed/FRI"
 to_sector = "ed/EMS"
-remarks = "Leaving SOFED SIDs via ABDIM DCT ITMIZ"
 
 [[agreements]]
 cop = "MALYK"
