@@ -211,3 +211,17 @@ firs = ["EDXX"]
 related_firs = ["EDGG", "EDMM", "EDWW"]
 airac = 2509
 effective_date = "2025-09-04"
+
+[[docs]]
+filename = "LoA_EDGG_LFEE.pdf"
+name = "Langen ACC - Reims ACC"
+firs = ["EDGG"]
+airac = 2610
+effective_date = "2026-10-01"
+
+[[docs]]
+filename = "LoA_EDUU-LFEE.pdf"
+name = "Rhein UAC - Reims ACC"
+firs = ["EDGG", "EDUU"]
+airac = 2610
+effective_date = "2026-10-01"
