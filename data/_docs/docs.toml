@@ -213,7 +213,7 @@ airac = 2509
 effective_date = "2025-09-04"
 
 [[docs]]
-filename = "LoA_EDGG_LFEE.pdf"
+filename = "LoA_EDGG-LFEE.pdf"
 name = "Langen ACC - Reims ACC"
 firs = ["EDGG"]
 airac = 2610
