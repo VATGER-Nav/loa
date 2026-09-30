@@ -105,12 +105,12 @@ from_sector = "ed/EMS"
 to_sector = "ed/ALR"
 
 [[agreements]]
-cop = "SOFED"
+cop = "ITMIZ"
 level = 200
 adep = ["EDDW"]
 from_sector = "ed/EMS"
 to_sector = "ed/EID"
-remarks = "Leaving SOFED SIDs via ABDIM DCT ITMIZ"
+remarks = "ABDIM SIDs"
 
 [[agreements]]
 cop = "SAS"
