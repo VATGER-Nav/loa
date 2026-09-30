@@ -13,13 +13,15 @@ remarks = "FL340 or below"
 cop = "LUPEN"
 from_sector = "ed/SLN"
 to_sector = "lf/UE"
-remarks = "all other flights; even levels; to UE/XE/KE/HE"
+ades = ["all other flights"]
+remarks = "even levels; to UE/XE/KE/HE"
 
 [[agreements]]
 cop = "ELVET"
 from_sector = "ed/SLN"
 to_sector = "lf/UE"
-remarks = "all other flights; odd levels; to UE/XE/KE/HE"
+ades = ["all other flights"]
+remarks = "odd levels; to UE/XE/KE/HE"
 
 # Departures
 

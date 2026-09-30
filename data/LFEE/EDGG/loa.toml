@@ -116,11 +116,11 @@ to_sector = "ed/BAD"
 [[agreements]]
 cop = "LUPEN"
 level = 230
+ades = ["all other flights"]
 route_before = "OBORN"
 route_after = "SUL REUTL"
 from_sector = "lf/UE"
 to_sector = "ed/BAD"
-remarks = "all other flights"
 
 # Departures
 

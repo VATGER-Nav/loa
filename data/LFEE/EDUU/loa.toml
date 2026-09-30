@@ -13,4 +13,5 @@ remarks = "max FL370; Reims ACC may clear flights DCT GESLU; ED** arrivals are n
 cop = "SOSAD"
 from_sector = "lf/UE"
 to_sector = "ed/SLN"
-remarks = "all other flights; even levels; from UE/XE/KE/HE; accepted by Karlsruhe at FL360 and above"
+ades = ["all other flights"]
+remarks = "even levels; from UE/XE/KE/HE; accepted by Karlsruhe at FL360 and above"
