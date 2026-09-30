@@ -116,6 +116,14 @@ to_sector = "ed/BBG"
 releases = "C"
 
 [[agreements]]
+cop = "ERTES"
+level = 230
+adep = ["EDDF"]
+from_sector = "ed/HAB"
+to_sector = "ed/BBG"
+releases = "C"
+
+[[agreements]]
 cop = "SULUS"
 level = 130
 ades = ["EDQC", "EDQT", "EDQA"]
@@ -132,6 +140,14 @@ to_sector = "ed/BBG"
 
 [[agreements]]
 cop = "SULUS"
+level = 230
+adep = ["EDDF"]
+releases = "C"
+from_sector = "ed/KTG"
+to_sector = "ed/BBG"
+
+[[agreements]]
+cop = "ERTES"
 level = 230
 adep = ["EDDF"]
 releases = "C"
