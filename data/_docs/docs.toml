@@ -48,8 +48,8 @@ effective_date = "2026-03-19"
 filename = "LoA_EDMM-EDGG.pdf"
 name = "München ACC - Langen ACC"
 firs = ["EDGG", "EDMM"]
-airac = 2609
-effective_date = "2026-09-03"
+airac = 2610
+effective_date = "2026-10-01"
 
 [[docs]]
 filename = "LoA_EDMM-EDWW.pdf"
