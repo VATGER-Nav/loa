@@ -1,0 +1,33 @@
+# EDUU (Karlsruhe UAC) -> LFEE (Reims ACC)
+# Arrivals
+
+[[agreements]]
+cop = "LUPEN"
+level = 340
+ades = ["LFPG", "LFPO", "LFPB", "LFOB"]
+from_sector = "ed/SLN"
+to_sector = "lf/XE"
+remarks = "FL340 or below"
+
+[[agreements]]
+cop = "LUPEN"
+from_sector = "ed/SLN"
+to_sector = "lf/UE"
+ades = ["all other flights"]
+remarks = "even levels; to UE/XE/KE/HE"
+
+[[agreements]]
+cop = "ELVET"
+from_sector = "ed/SLN"
+to_sector = "lf/UE"
+ades = ["all other flights"]
+remarks = "odd levels; to UE/XE/KE/HE"
+
+# Departures
+
+[[agreements]]
+cop = "LUPEN"
+level = 350
+ades = ["LFPG", "LFPO", "LFPB", "LFOB"]
+from_sector = "ed/SLN"
+to_sector = "lf/KE"
