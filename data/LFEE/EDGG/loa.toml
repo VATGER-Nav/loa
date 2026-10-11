@@ -1,0 +1,177 @@
+# LFEE (Reims ACC) -> EDGG (Langen ACC)
+# Arrivals
+
+[[agreements]]
+cop = "MAKOT"
+level = 90
+ades = ["EDDR"]
+from_sector = "lf/RW"
+to_sector = "ed/PFA"
+
+[[agreements]]
+cop = "LUPEN"
+level = 170
+ades = ["EDDS"]
+releases = "D"
+from_sector = "lf/SU"
+to_sector = "ed/BAD"
+remarks = "released for turns and descent"
+
+[[agreements]]
+cop = "MAKOT"
+level = 160
+ades = ["EDFM"]
+releases = "D"
+from_sector = "lf/SU"
+to_sector = "ed/PFA"
+remarks = "during activity of ED-R205 level allocation FL90 and traffic transferred from STA instead; higher level may be available after coordination with PFA if operations within ED-R205 permit"
+
+[[agreements]]
+cop = "MAKOT"
+level = 90
+ades = ["EDRZ"]
+from_sector = "lf/RW"
+to_sector = "ed/PFA"
+
+[[agreements]]
+cop = "LUPEN"
+level = 170
+ades = ["EDTD"]
+from_sector = "lf/SU"
+to_sector = "ed/BAD"
+
+[[agreements]]
+cop = "LUPEN"
+level = 170
+ades = ["EDTM"]
+from_sector = "lf/SU"
+to_sector = "ed/BAD"
+
+[[agreements]]
+cop = "MAKOT"
+level = 90
+ades = ["ETAD"]
+releases = "D"
+from_sector = "lf/RW"
+to_sector = "ed/PFA"
+remarks = "during activity of ED-R205 level allocation FL90 and traffic transferred from STA instead; higher level may be available after coordination with PFA if operations within ED-R205 permit"
+
+[[agreements]]
+cop = "MAKOT"
+level = 100
+ades = ["ETAR"]
+from_sector = "lf/RW"
+to_sector = "ed/PFA"
+remarks = "during activity of ED-R205 level allocation FL90 and traffic transferred from STA instead; higher level may be available after coordination with PFA if operations within ED-R205 permit"
+
+[[agreements]]
+cop = "MAKOT"
+level = 240
+ades = ["ETSB"]
+releases = "D"
+from_sector = "lf/UE"
+to_sector = "ed/PFA"
+remarks = "during activity of ED-R205 level allocation FL90 and traffic transferred from STA instead; higher level may be available after coordination with PFA if operations within ED-R205 permit"
+
+[[agreements]]
+cop = "ERADI"
+level = 200
+ades = ["EDFH"]
+from_sector = "lf/UE"
+to_sector = "ed/PFA"
+remarks = "Q252 -> GTQ ERADI PENDU SOSAD IDARO"
+
+[[agreements]]
+cop = "SORAD"
+level = 200
+ades = ["EDFH"]
+from_sector = "lf/UE"
+to_sector = "ed/PFA"
+remarks = "Q252 -> GTQ ERADI PENDU SOSAD IDARO"
+
+[[agreements]]
+cop = "ERADI"
+level = 200
+ades = ["EDDF"]
+from_sector = "lf/UE"
+to_sector = "ed/PFA"
+remarks = "Q252 -> GTQ ERADI PENDU SOSAD IDARO"
+
+[[agreements]]
+cop = "SORAD"
+level = 240
+ades = ["EDDF"]
+from_sector = "lf/UE"
+to_sector = "ed/PFA"
+remarks = "Q252 -> GTQ ERADI PENDU SOSAD IDARO"
+
+[[agreements]]
+cop = "LUPEN"
+level = 210
+ades = ["LSZR", "EDNY"]
+route_after = "NATOR USETI"
+from_sector = "lf/UE"
+to_sector = "ed/BAD"
+
+[[agreements]]
+cop = "LUPEN"
+level = 230
+ades = ["all other flights"]
+route_before = "OBORN"
+route_after = "SUL REUTL"
+from_sector = "lf/UE"
+to_sector = "ed/BAD"
+
+# Departures
+
+[[agreements]]
+cop = "GAGSI"
+level = 90
+adep = ["EDSB"]
+from_sector = "lf/RE"
+to_sector = "ed/REU"
+
+[[agreements]]
+cop = "TUBLO"
+level = 90
+adep = ["EDSB"]
+from_sector = "lf/RE"
+to_sector = "ed/REU"
+
+[[agreements]]
+cop = "NATOR"
+level = 90
+adep = ["EDTL"]
+from_sector = "lf/RE"
+to_sector = "ed/REU"
+
+[[agreements]]
+cop = "SUL"
+level = 90
+adep = ["EDTL"]
+from_sector = "lf/RE"
+to_sector = "ed/REU"
+
+[[agreements]]
+cop = "MAKOT"
+level = 90
+transfer_type = "C"
+adep = ["LFJL"]
+from_sector = "lf/RW"
+to_sector = "ed/PFA"
+
+[[agreements]]
+cop = "LUPEN"
+level = 90
+transfer_type = "C"
+adep = ["LFST"]
+from_sector = "lf/RW"
+to_sector = "ed/REU"
+
+[[agreements]]
+cop = "SUL"
+level = 90
+transfer_type = "C"
+adep = ["LFST"]
+from_sector = "lf/RE"
+to_sector = "ed/REU"
