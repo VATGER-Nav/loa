@@ -33,8 +33,8 @@ filename = "LOP_EDYY.pdf"
 name = "LOP Maastricht UAC"
 firs = ["EDYY"]
 related_firs = ["EDWW", "EDGG"]
-airac = 2605
-effective_date = "2025-05-20"
+airac = 2611
+effective_date = "2025-10-29"
 
 [[docs]]
 filename = "LoA_EDMM-EDUU.pdf"
