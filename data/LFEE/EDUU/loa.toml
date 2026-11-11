@@ -1,0 +1,17 @@
+# LFEE (Reims ACC) -> EDUU (Karlsruhe UAC)
+# Arrivals
+
+[[agreements]]
+cop = "LUPEN"
+level = 370
+ades = ["EDDM"]
+from_sector = "lf/HE"
+to_sector = "ed/SLN"
+remarks = "max FL370; Reims ACC may clear flights DCT GESLU; ED** arrivals are not accepted by Karlsruhe except for EDDM arrivals FL350 max to SLN"
+
+[[agreements]]
+cop = "SOSAD"
+from_sector = "lf/UE"
+to_sector = "ed/SLN"
+ades = ["all other flights"]
+remarks = "even levels; from UE/XE/KE/HE; accepted by Karlsruhe at FL360 and above"
