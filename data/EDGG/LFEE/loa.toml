@@ -1,0 +1,162 @@
+# EDGG (Langen ACC) -> LFEE (Reims ACC)
+# Arrivals
+
+[[agreements]]
+cop = "KRH"
+level = 80
+ades = ["EDSB"]
+releases = "D"
+from_sector = "ed/STG"
+to_sector = "lf/RE"
+remarks = "released for descent SYD departures from EDSB, EDTL, and LFST; EDGG shall ensure separation between arrivals via KRH and LADAT"
+
+[[agreements]]
+cop = "LADAT"
+level = 80
+ades = ["EDSB"]
+releases = "D"
+from_sector = "ed/STG"
+to_sector = "lf/RW"
+remarks = "released for descent SYD departures from EDSB, EDTL, and LFST; EDGG shall ensure separation between arrivals via KRH and LADAT"
+
+[[agreements]]
+cop = "SUL"
+level = 80
+ades = ["EDSB"]
+releases = "D"
+from_sector = "ed/REU"
+to_sector = "lf/RE"
+remarks = "released for descent SYD departures from EDSB, EDTL, and LFST"
+
+[[agreements]]
+cop = "KRH"
+level = 80
+ades = ["EDTL"]
+releases = "D"
+from_sector = "ed/STG"
+to_sector = "lf/RE"
+remarks = "released for descent SYD departures from EDSB, EDTL, and LFST"
+
+[[agreements]]
+cop = "SUL"
+level = 80
+ades = ["EDTL"]
+releases = "D"
+from_sector = "ed/REU"
+to_sector = "lf/RE"
+remarks = "released for descent SYD departures from EDSB, EDTL, and LFST"
+
+[[agreements]]
+cop = "MAKOT"
+level = 90
+ades = ["LFJL"]
+from_sector = "ed/PFA"
+to_sector = "lf/RW"
+
+[[agreements]]
+cop = "RIGVI"
+level = 140
+ades = ["LFSB"]
+from_sector = "ed/REU"
+to_sector = "lf/SU"
+
+[[agreements]]
+cop = "LUPEN"
+level = 100
+ades = ["LFST"]
+releases = "D"
+from_sector = "ed/BAD"
+to_sector = "lf/RW"
+remarks = "released for descent and crossing approved by REU once overhead LFST TMA 0.2, SYD departures from EDSB, EDTL, and LFST"
+
+# Departures
+
+[[agreements]]
+cop = "MAKOT"
+level = 80
+adep = ["EDDR"]
+from_sector = "ed/PFA"
+to_sector = "lf/RW"
+remarks = "via SID"
+
+[[agreements]]
+cop = "LUPEN"
+level = 180
+transfer_type = "C"
+adep = ["EDDS", "EDFM"]
+from_sector = "ed/BAD"
+to_sector = "lf/UE"
+
+[[agreements]]
+cop = "MAKOT"
+level = 230
+transfer_type = "C"
+adep = ["EDFH"]
+from_sector = "ed/PFA"
+to_sector = "lf/UE"
+remarks = "during activity of ED-R205 level allocation FL90 and traffic transferred to STA instead"
+
+[[agreements]]
+cop = "MAKOT"
+level = 80
+adep = ["EDRZ"]
+from_sector = "ed/PFA"
+to_sector = "lf/RE"
+
+[[agreements]]
+cop = "LUPEN"
+level = 140
+adep = ["EDTD"]
+from_sector = "ed/REU"
+to_sector = "lf/SU"
+
+[[agreements]]
+cop = "LUPEN"
+level = 240
+transfer_type = "C"
+adep = ["EDTM"]
+from_sector = "ed/BAD"
+to_sector = "lf/UE"
+
+[[agreements]]
+cop = "MAKOT"
+level = 230
+transfer_type = "C"
+adep = ["ETAD"]
+from_sector = "ed/PFA"
+to_sector = "lf/UE"
+remarks = "during activity of ED-R205 level allocation FL90 and traffic transferred to STA instead"
+
+[[agreements]]
+cop = "MAKOT"
+level = 230
+transfer_type = "C"
+adep = ["ETAR"]
+from_sector = "ed/PFA"
+to_sector = "lf/UE"
+remarks = "during activity of ED-R205 level allocation FL90 and traffic transferred to STA instead"
+
+[[agreements]]
+cop = "MAKOT"
+level = 230
+transfer_type = "C"
+adep = ["ETSB"]
+from_sector = "ed/PFA"
+to_sector = "lf/UE"
+remarks = "during activity of ED-R205 level allocation FL90 and traffic transferred to STA instead"
+
+[[agreements]]
+cop = "VABEN"
+level = 230
+transfer_type = "C"
+adep = ["EDDF"]
+from_sector = "ed/BAD"
+to_sector = "lf/UE"
+
+[[agreements]]
+cop = "LUPEN"
+level = 240
+transfer_type = "C"
+adep = ["EDRY"]
+from_sector = "ed/BAD"
+to_sector = "lf/UE"
